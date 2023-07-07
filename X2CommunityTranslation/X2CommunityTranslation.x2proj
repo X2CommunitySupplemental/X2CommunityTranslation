@@ -13,6 +13,9 @@
     <Folder Include="Localization\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Localization\Placeholder.txt">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="ModPreview.jpg" />
   </ItemGroup>
   <PropertyGroup>
