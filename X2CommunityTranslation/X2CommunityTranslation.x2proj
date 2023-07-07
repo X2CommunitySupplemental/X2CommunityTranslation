@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Guid>363979bd-20bc-4061-b1c8-6b206e08d743</Guid>
+    <Name>X2CommunityTranslation</Name>
+    <Description>Contains publicly submitted translations for XCOM 2 mods</Description>
+    <SteamPublishID>0</SteamPublishID>
+    <AssemblyName>X2CommunityTranslation</AssemblyName>
+    <RootNamespace>X2CommunityTranslation</RootNamespace>
+    <ProjectGuid>{4ef45873-1e93-4341-92bf-65dc1ceec7a0}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Localization\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ModPreview.jpg" />
+  </ItemGroup>
+  <PropertyGroup>
+    <SolutionRoot>$(MSBuildProjectDirectory)\..\</SolutionRoot>
+    <ScriptsDir>$(SolutionRoot).scripts\\</ScriptsDir>
+    <BuildCommonRoot>$(ScriptsDir)X2ModBuildCommon\</BuildCommonRoot>
+  </PropertyGroup>
+  <Import Project="$(BuildCommonRoot)XCOM2.targets" />
+</Project>
