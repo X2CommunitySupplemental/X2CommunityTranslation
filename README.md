@@ -46,12 +46,12 @@ Submissions are handled via GitHub interface.
 
 ![Instruction_3](https://raw.githubusercontent.com/Iridar/X2CommunityTranslation/main/Img/Instruction_3.png)
 
-6. In the Commit message text field, enter the `<mod name> - <language>`. Select "Create a new branch for this commit and start a pull request" and click the green button "Propose changes".
+6. In the Commit message text field, use the template: `<mod name> - <language>`. Select "Create a new branch for this commit and start a pull request" and click the green button "Propose changes".
 
 ![Instruction_4](https://raw.githubusercontent.com/Iridar/X2CommunityTranslation/main/Img/Instruction_4.png)
 
 7. A new page will open. Click the green button "Create pull request".
 
-![Instruction_5](https://raw.githubusercontent.com/Iridar/X2CommunityTranslation/main/Img/Instruction_5.png)
+![Instruction_5](https://raw.githubusercontent.com/Iridar/X2CommunityTranslation/main/Img/Instruction_5a.png)
 
 8. All done. Wait for maintainers to review your pull request and upload the update to steam workshop. This process may take a few days.
