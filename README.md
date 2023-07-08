@@ -10,6 +10,10 @@ Subscribe to the mod on the **[Steam Workshop](https://steamcommunity.com/shared
 
 If you are using a non-Steam version of the game, download the **[latest release](https://github.com/Iridar/X2CommunityTranslation/releases/latest)** and follow **[these instructions](https://www.reddit.com/r/xcom2mods/wiki/index/download_mods#wiki_how_to_install_mods_manually)** to install it manually.
 
+## What mods are translated?
+
+The list of translated mods **[is here](https://github.com/Iridar/X2CommunityTranslation/blob/main/List_of_translated_mods.md)**.
+
 ## I am a translator, how do I submit my translation?
 
 Submissions are handled via GitHub interface.
