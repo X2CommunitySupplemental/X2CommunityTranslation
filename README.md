@@ -54,4 +54,14 @@ Submissions are handled via GitHub interface.
 
 ![Instruction_5](https://raw.githubusercontent.com/Iridar/X2CommunityTranslation/main/Img/Instruction_5a.png)
 
-8. All done. Wait for maintainers to review your pull request and upload the update to steam workshop. This process may take a few days.
+8. Click **[this link](https://github.com/Iridar/X2CommunityTranslation/edit/main/List_of_translated_mods.md)** to edit the file with the list of translated mods.
+If the list doesn't already have an entry for the mod that you have added translation for, then add it. 
+The entry needs to contain the mod's workshop name, prefaced with a `#` symbol, and a workshop link to the mod on the next line, then an empty line, followed by list of the languages.
+
+![Instruction_6](https://raw.githubusercontent.com/Iridar/X2CommunityTranslation/main/Img/Instruction_6.png)
+
+9. Same as before, click "Commit changes", but this time do not change the commit message. You should still select the "Create a new branch for this commit and start a pull request", then click "Propose changes", and then "Create pull request" on the next page.
+
+![Instruction_7](https://raw.githubusercontent.com/Iridar/X2CommunityTranslation/main/Img/Instruction_7.png)
+
+10. All done. Wait for maintainers to review your pull request and upload the update to steam workshop. This process may take a few days.
