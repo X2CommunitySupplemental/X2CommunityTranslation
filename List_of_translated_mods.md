@@ -8,7 +8,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2025780967
 
 * Russian
 
-# [WOTC] Automatic Reload by Iridar - Russian
+# [WOTC] Automatic Reload by Iridar
 https://steamcommunity.com/sharedfiles/filedetails/?id=2595660540
 
 * Russian
