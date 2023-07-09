@@ -21,3 +21,4 @@ Note: This may work for the vanilla/LW2 mod as well.
 https://steamcommunity.com/sharedfiles/filedetails/?id=1122974240
 
 * Russian
+* French
