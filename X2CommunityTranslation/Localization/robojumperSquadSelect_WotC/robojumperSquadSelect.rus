@@ -1,0 +1,43 @@
+[robojumper_UISquadSelect]
+strSwitchPerspective=Переключить вид
+strSwitchPerspectiveTooltip=Переключение обзора.
+
+strCycleLists=Cycle Lists
+
+strUnequipSquad=Снять c отряда
+strUnequipSquadTooltip=Снять экипировку со всех солдат, выбранных для этой миссии.
+strUnequipSquadConfirm=Подтвердить снятие экипировки с отряда.
+strUnequipSquadWarning=Снятие всего снаряжения с солдат выбранных для этой миссии. Это позволит применить снятое снаряжение для других солдат немедленно.
+
+strUnequipBarracks=Снять с казармы
+strUnequipBarracksTooltip=Снять снаряжение для всех солдат НЕ выбранных для этой миссии.
+strUnequipBarracksConfirm=Подтвердить снятие экипировки с казармы
+strUnequipBarracksWarning=Снятие экипировки со всех солдат, НЕ выбранных для этой миссии. Снятое снаряжение можно сразу использовать.
+
+[robojumper_SquadSelect_UISL_MCM]
+strModTitle="robojumper's Squad Select"
+strLabel="Выбрать отряд"
+strGroupTitle="Общие настройки"
+
+strShowWeaponUpgradeIcons=Показать иконки улучшений.
+strSkipSecondaryUpgradeIconsAvailable=Иконки улучшений для основных оружий.
+strShowBGImages=Показать фоновые изображения предметов.
+strShowMeTheSkills=Показать способности
+strShowStats=Показать характеристики
+strSkipInitialAbilities=Показать инициирующие способности
+strAutofillSquad=Автозаполнение отряда
+strOpenWeaponUpgradeWithController=Открыть улучшение оружия через джостик.
+
+strDisallowInfiniteScrolling=Отключить бесконечную прокрутку
+
+strSquadSize=Размер отряда
+
+strSquadSizeSpawnWarning=Отряды больше 9 солдат могут триггерить баги, так как точка спавна поддерживает только 9 юнитов. Посмотрите мастерскую стима для возможных решений!
+
+
+strHideTrainingCenterButton=Спрятать кнопку центра подготовки.
+
+[robojumper_UISquadSelect_SkillsPanel]
+strTrainingCenter=%SOLDIERPOINTS Очки способностей
+; removed because duplicate info bad
+; (%TOTALPOINTS in Shared Pool)

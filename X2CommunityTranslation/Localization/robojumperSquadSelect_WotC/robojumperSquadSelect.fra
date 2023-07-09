@@ -1,0 +1,40 @@
+[robojumper_UISquadSelect]
+strSwitchPerspective=Basculer la vue
+strSwitchPerspectiveTooltip=Basculer entre la vue d'ensemble et la perspective normale.
+
+strUnequipSquad=Déséquiper l'escouade
+strUnequipSquadTooltip=Retire les utilitaires et l'équipement de toutes les unités actuellement sélectionnées pour la mission.
+strUnequipSquadConfirm=Confirmation : Déséquiper l'escouade
+strUnequipSquadWarning=Cela déséquipera tous les objets de tous les soldats sélectionnés pour la mission actuel. Cet équipement sera disponible pour tout soldat et équipable immédiatement.
+
+strUnequipBarracks=Déséquiper la Caserne
+strUnequipBarracksTooltip=Retire les utilitaires et l'équipement de toutes les unités qui ne sont PAS sélectionnées pour la mission.
+strUnequipBarracksConfirm=Confirmation : Déséquiper la Caserne
+strUnequipBarracksWarning=Cela déséquipera tous les objets de tous les soldats NON sélectionnés pour la mission actuel. Cet équipement sera disponible pour tout soldat et équipable immédiatement.
+
+[robojumper_SquadSelect_UISL_MCM]
+strModTitle="robojumper's Squad Select"
+strLabel="Squad Select"
+strGroupTitle="Réglages généraux"
+
+strShowWeaponUpgradeIcons=Afficher les icônes de mise à niveau
+strSkipSecondaryUpgradeIconsAvailable=Mettre les icônes de mise à niveau uniquement pour les emplacement primaires
+strShowBGImages=Afficher l'image de fond des éléments
+strShowMeTheSkills=Montre-moi les compétences
+strShowStats=Montre-moi les statistiques
+strSkipInitialAbilities=Ignorer les capacités initiales
+strAutofillSquad=Remplissage automatique de l'escouade
+
+strDisallowInfiniteScrolling=Désactiver le défilement infini
+
+strSquadSize=Taille de l'escouade
+
+strSquadSizeSpawnWarning=Les escouades de plus de 9 soldats causent des problèmes parce que les points de réapparition ne supportent que 9 unités. Voir la page du workshop pour trouver des solutions !
+
+
+strHideTrainingCenterButton=Masquer le bouton Centre de formation
+
+[robojumper_UISquadSelect_SkillsPanel]
+strTrainingCenter=%SOLDIERPOINTS PC Soldat
+; removed because duplicate info bad
+; (%TOTALPOINTS in Shared Pool)
