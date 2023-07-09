@@ -68,12 +68,14 @@ If needed, you can add more folders after ModName.
 
 ![Instruction_5](https://raw.githubusercontent.com/X2CommunitySupplemental/X2CommunityTranslation/main/Img/Instruction_5a.png)
 
-8. A new page will open. Click the green button "Create pull request".
+8. You will be redirected to another page. Once again, click the green button "Create pull request".
+  
+![Instruction_5b](https://raw.githubusercontent.com/X2CommunitySupplemental/X2CommunityTranslation/main/Img/Instruction_5b.png)
 
-9. Click **[this link](https://github.com/X2CommunitySupplemental/X2CommunityTranslation/edit/main/List_of_translated_mods.md)** to edit the file with the list of translated mods.
+10. Click **[this link](https://github.com/X2CommunitySupplemental/X2CommunityTranslation/edit/main/List_of_translated_mods.md)** to edit the file with the list of translated mods.
 
 If the list doesn't already have an entry for the mod that you have added translation for, then add it. 
-The entry needs to contain the mod's workshop name, prefaced with a `#` symbol, and a workshop link to the mod on the next line, then an empty line.
+The entry needs to contain the mod's workshop name, prefaced with a `#` symbol, and a workshop link to the mod on the next line, followed by an empty line.
 
 Then add the language you have added translation for to the list of languages under the mod name. The language name must be prefaced by a `*` symbol.
 
