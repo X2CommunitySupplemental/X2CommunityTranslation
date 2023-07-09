@@ -1,0 +1,14 @@
+[WOTCIridarAutoReload_MCMScreen]
+
+ModName = "Automatic Reload"
+PageTitle = "Automatic Reload"
+GroupHeader = "Основные настройки"
+
+DISABLE_AUTOMATIC_RELOAD_Label = "Отключить автоматическую перезарядку"
+DISABLE_AUTOMATIC_RELOAD_Tip = "Используйте эту опцию, чтобы временно отключить автоматическую перезарядку в случае если она некорректно взаимодействует с некоторыми способностями. Переключение этой опции оказывает эффект незамедлительно."
+
+AFFECT_AI_UNITS_Label = "Включить для ИИ"
+AFFECT_AI_UNITS_Tip = "Если включено, юниты под контролем ИИ также будут использовать автоматическую перезарядку."
+
+DEBUG_LOGGING_Label = "Включить отладочное логирование"
+DEBUG_LOGGING_Tip = "Если включено, мод будет отправлять сообщения для отладки в лог-файл, находящийся по адресу:\n..\\Documents\\my games\\XCOM2 War of the Chosen\\XComGame\\Logs\\Launch.log"
