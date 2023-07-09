@@ -12,3 +12,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2025780967
 https://steamcommunity.com/sharedfiles/filedetails/?id=2595660540
 
 * Russian
+
+
+# WotC: robojumper's Squad Select
+
+Note: This may work for the vanilla/LW2 mod as well.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1122974240
+
+* Russian
