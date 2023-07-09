@@ -12,7 +12,7 @@ For mod users, it is more convenient, because they can use just one translation 
 
 Subscribe to the mod on the **[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3001342800)**, wait for Steam to download the mod, then activate it in your mod launcher.
 
-If you are using a non-Steam version of the game, download the **[latest release](https://github.com/X2CommunitySupplemental/X2CommunityTranslation/releases/latest)** and follow **[these instructions](https://www.reddit.com/r/xcom2mods/wiki/index/download_mods#wiki_how_to_install_mods_manually)** to install it manually.
+If you are using a non-Steam version of the game, download the `X2CommunityTranslation.zip` from the **[latest release](https://github.com/X2CommunitySupplemental/X2CommunityTranslation/releases/latest)** page and follow **[these instructions](https://www.reddit.com/r/xcom2mods/wiki/index/download_mods#wiki_how_to_install_mods_manually)** to install it manually.
 
 ## What mods are translated?
 
