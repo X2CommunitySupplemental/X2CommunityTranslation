@@ -1,0 +1,43 @@
+[robojumper_UISquadSelect]
+strSwitchPerspective=시점 변환
+strSwitchPerspectiveTooltip=현재 카메라의 시점을 전환합니다.
+
+strCycleLists=Cycle Lists
+
+strUnequipSquad=분대 배치 해제
+strUnequipSquadTooltip=현재 임무를 위해 선택된 모든 장치에서 기어 및 장비를 탈착합니다.
+strUnequipSquadConfirm=분대 배치 해제 확인
+strUnequipSquadWarning=현 임무에 선발된 모든 병사들의 모든 아이템을 제거합니다. 이 아이템들은 모든 병사가 즉시 장착할 수 있습니다.
+
+strUnequipBarracks=병영 전체 탈착
+strUnequipBarracksTooltip=현재 임무에 선택되지 않은 모든 병사의 기어 및 장비를 탈착합니다.
+strUnequipBarracksConfirm=병영 전체 탈착 확인
+strUnequipBarracksWarning=현 임무에 선발되지 않은 모든 병사들의 모든 아이템이 제거합니다. 이 아이템들은 모든 병사가 즉시 장착할 수 있습니다.
+
+[robojumper_SquadSelect_UISL_MCM]
+strModTitle="robojumper's 분대 선택 모드"
+strLabel="분대 선택"
+strGroupTitle="일반 설정"
+
+strShowWeaponUpgradeIcons=업그레이드 아이콘 표시
+strSkipSecondaryUpgradeIconsAvailable=기본 항목만 업그레이드 아이콘 표시
+strShowBGImages=아이템 배경을 표시
+strShowMeTheSkills=스킬 보이기
+strShowStats=능력치 보이기
+strSkipInitialAbilities=초기 능력 건너뛰기
+strAutofillSquad=자동 분대 채우기
+
+strDisallowInfiniteScrolling=무한 스크롤 금지
+strSkipIntro=인트로 건너뛰기
+
+strSquadSize=분대 크기
+
+strSquadSizeSpawnWarning=최대 인원수는 9명입니다. 이 숫자보다 큰 분대는 스폰 지점이 9개만 지원하기 때문에 문제를 일으킵니다. 해결책은 워크샵 페이지를 참조하십시오!
+
+
+strHideTrainingCenterButton=트레이닝 센터 버튼 숨기기
+
+[robojumper_UISquadSelect_SkillsPanel]
+strTrainingCenter=%SOLDIERPOINTS Soldier AP
+; removed because duplicate info bad
+; (%TOTALPOINTS in Shared Pool)
