@@ -20,6 +20,8 @@ The list of translated mods **[is here](https://github.com/X2CommunitySupplement
 
 ## I am a translator, how do I submit my translation?
 
+**Important!** Translations that modify the localization of the game itself are not allowed! Unfortunately, it means that mods that change the base game descriptions cannot be translated by the Community Translation Mod. 
+
 Submissions are handled via GitHub interface. See **[this video](https://youtu.be/nMVHwzMoyjw)** for an example or follow step-by-step instructions below.
 
 1. Sign into your GitHub account. **[Sign up](https://github.com/join)** if you don't have one.
