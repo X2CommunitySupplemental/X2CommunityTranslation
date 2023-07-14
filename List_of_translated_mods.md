@@ -1,3 +1,8 @@
+# [WotC] Mod Config Menu
+https://steamcommunity.com/sharedfiles/filedetails/?id=667104300
+
+* Chinese
+
 # [WOTC] Cosmo Dragoon
 https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
 
