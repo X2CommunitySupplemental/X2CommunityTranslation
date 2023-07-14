@@ -1,0 +1,41 @@
+翻译steam ID WarLLT1315（暗白） 上传 暗白。最后更新时间2023年7月15日 07:49:58
+
+[X2WOTCCH_Components]
+VersionFormat="v%MAJOR.%MINOR.%PATCH"
+
+RequiredNotFound="未加载 - 前置模组"
+
+VersionMismatches="- 版本不匹配"
+WarningsLabel="- 警告"
+ErrorsLabel="- 错误 - 请检查日志"
+
+[X2WOTCCH_ModDependencies]
+ModRequiredPopupTitle="未检测到必需的Mod"
+ModRequired="请启用以下Mod并重启游戏以确保%s正常运行:"
+ModIncompatiblePopupTitle="检测到不兼容的Mod"
+ModIncompatible="请停用以下Mod并重启游戏以确保%s正常运行:"
+DisablePopup="不要再显示此消息"
+
+;    Issue #909
+ModRequiresNewerHighlanderVersionTitle = "MOD需要更新的Highlander核心模组版本"
+ModRequiresNewerHighlanderVersionText = "MOD需要更新的Highlander核心模组版本:"
+CurrentHighlanderVersionTitle = "已安装版本:"
+RequiredHighlanderVersionTitle = "所需的版本: "
+ModRequiresNewerHighlanderVersionExtraText = "请将X2WOTCCommunityHighlander核心模组更新到所需版本。否则你可能会遇到崩溃和其他故障。"
+
+[X2WOTCCH_UIScreenListener_ShellPopup]
+ErrorTitle="Mod配置错误"
+
+AdviceText="以下模组的配置不正确：%BLAME。把错误报告给相应的作者看，以帮助他们解决这个问题。"
+
+HardErrorText="你可以继续玩，但MOD的行为不可预测。如果继续运行，请您风险自负。"
+PotentialErrorText="你可以继续玩，MOD的行为可以预测，但可能不会按照其作者想要的方式。"
+
+CycleErrorText="MOD指定了循环的运行顺序：\n\n%FACTS\n...完成循环。在该问题得到纠正之前，运行顺序将无法确定。"
+GroupErrorText="MOD指定了冲突的运行顺序：\n\n%FACTS\n这种行为虽然是指定的，但可能表明配置错误。"
+
+BlameText="以下DLCIdentifiers在XComGame.ini中提供了导致此问题的配置：%BLAME."
+
+[X2WOTCCH_UIScreenListener_Shell_DLCIntro]
+strDLC2HLIntroduction_Title="Alien Hunters Community Highlander 核心模组"
+strDLC2HLIntroduction_Body="从X2WOTCCommunityHighlander v1.22.0开始，我们将Alien Hunters DLC带进了Highlander。<br><br>请将AHCH安装到<br><Bullet/>确保必需X2WOTCCommunityHighlander的其他模组正常运行<br><Bullet/>你将从错误修复中受益<br><br>你可在workshop搜索\"Alien Hunters Community Highlander\"找到其工坊页面 ( 或者只需点击X2WOTCCommunityHighlander描述中的链接 )"
