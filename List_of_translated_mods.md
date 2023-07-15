@@ -1,3 +1,8 @@
+# [WOTC] Musashi's Mods Fixes
+https://steamcommunity.com/sharedfiles/filedetails/?id=2569592723
+
+* Chinese
+
 # [WOTC] Cosmo Dragoon
 https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
 
