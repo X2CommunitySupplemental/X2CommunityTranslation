@@ -1,3 +1,8 @@
+# [WOTC] Community Promotion Screen
+https://steamcommunity.com/sharedfiles/filedetails/?id=2550561145
+
+* Chinese
+
 # [WOTC] Cosmo Dragoon
 https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
 
