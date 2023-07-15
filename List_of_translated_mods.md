@@ -1,3 +1,8 @@
+# WOTC Show Tech Path
+https://steamcommunity.com/sharedfiles/filedetails/?id=1207741138
+
+* Chinese
+
 # [WOTC] Cosmo Dragoon
 https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
 
