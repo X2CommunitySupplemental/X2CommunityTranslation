@@ -1,3 +1,8 @@
+# [WOTC] Full Shadow Report
+https://steamcommunity.com/sharedfiles/filedetails/?id=2995251401
+
+* Chinese
+
 # [WOTC] Cosmo Dragoon
 https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
 
