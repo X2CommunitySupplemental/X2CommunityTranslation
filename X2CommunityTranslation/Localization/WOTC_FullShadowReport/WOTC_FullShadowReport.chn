@@ -1,0 +1,113 @@
+翻译steam ID WarLLT1315（暗白） 上传 暗白。最后更新2023年7月15日 08:38:31
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Localized Strings for new UI Items
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[UI_FullShadowReport]
+m_strEnemiesDetectedO=敌人:
+m_strEnemiesDetectedA=变种人:
+m_strEnemiesDetectedL=失魂者:
+m_strEnemiesDetected1=派系一:
+m_strEnemiesDetected2=派系二:
+m_strEnemiesDetectedC=反抗军:
+
+m_strPlotTypePrefix=地图类型:
+m_strBiomeTypePrefix=环境类型:
+m_strTimePrefix=预计抵达:
+
+;biomes
+m_strBiome_Arid=干旱
+m_strBiome_Temperate=温和
+m_strBiome_Tundra=苔原
+m_strBiome_Xenoform=异域
+
+;known locations
+m_strLocat_CityCenter=市中心
+m_strLocat_Facility=变种人设施
+m_strLocat_Rooftops=屋顶高塔
+m_strLocat_Shanty=棚户区
+m_strLocat_Slums=贫民窟
+m_strLocat_SmallTown=小城镇
+m_strLocat_Wilderness=荒野
+m_strLocat_Abandoned=废弃都市
+m_strLocat_Stronghold=要塞
+m_strLocat_Tunnels_Sewer=下水道
+m_strLocat_Tunnels_Subway=地铁
+m_strLocat_LostTower=废弃设施
+m_strLocat_DerelictFacility=瓦伦实验室
+m_strLocat_MapTest=测试地图
+
+;unknown locations
+m_strLocat_Abandoned_Indoors=旧室内
+m_strLocat_Abandoned_Occluded=旧暗影
+m_strLocat_Tunnels_Reverb=地铁
+m_strLocat_SarcophagusRoom=舱室
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Localized Strings for Mod Config Menu Items
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[MCM_FullShadowReport_Options]
+
+sSettingsPage_Label=Full Shadow Report
+sPageTitle_Label=完整暗影舱情报
+
+;GROUP 1
+sGroupGeneralSettings_Label=常规设置
+ShowBackground_Label=显示背景界面
+ShowWithoutShadowChamber_Label=显示情报而无需暗影舱
+
+;GROUP 2
+sGroupPanelSettings_Label=界面设置
+BackgroundType_Label=背景界面类型
+AlphaBackground_Label=界面透明度
+AutoSpaceAllY_Label=自动调整所有界面Y轴
+AutoSpaceAllY_Tip="选中后，将尝试根据地形界面X轴，对所有界面自动定位"
+
+;GROUP 3
+sGroupTerrainSettings_Label=地形设置
+ShowTerrain_Label=显示地形信息
+ShowTerrainGeo_Label=在大地图上显示地形信息
+ShowPlotText_Label=显示任务信息
+ShowBiomeText_Label=显示环境信息
+ShowTimeText_Label=显示抵达时间
+ShowTerrainIcons_Label=显示地形图标
+IconSizeTerrain_Label=地形图标大小
+TerrainTitleColor_Label=地形名称颜色
+TerrainColor_Label=地形详情颜色
+TimeColor_Label=时间详情颜色
+
+;GROUP 4
+sGroupEnemiesListSettings_Label=敌人预览设置
+ShowEnemyCounts_Label=显示敌人总数
+ShowFullCount_Label=显示敌人种类
+ShowFullCount_Tip="选中后，你选定的被发现敌人，将分为初始发现的小队和单位类型"
+ShowUnitQuantity_Label=显示敌人数量
+ShowChosen_Label=显示隐藏单位/天选者
+ShowChosen_Tip="选中后，将显示通常隐藏的单位，将在列表和图标中显示天选者和裁决者"
+ShowEnemiesList_Label=显示文本列表
+ShowEnemiesList_Tip="这将在背景文本列表或浮现文本列表之间切换，不选中[X]是显示总数的浮现文本。"
+ShowEnemyIcons_Label=显示敌人图标
+ShowEnemyIconsCentral_Label=图标居中
+IconSizeEnemy_Label=敌人图标大小
+
+;GROUP 5
+Debug_Label=调试设置
+TerrainAnchor_Label=地形屏幕锚点
+EnemiesListAnchor_Label=敌人列表屏幕锚点
+TerrainPosX_Label=地形位置X偏移
+TerrainPosY_Label=地形位置Y偏移
+TerrainGeoPosX_Label=大地图上的地形位置X偏移
+TerrainGeoPosY_Label=大地图上的地形位置Y偏移
+TerrainPanelSizeX_Label=地形界面大小X
+TerrainPanelSizeY_Label=地形界面大小Y
+EnemiesListPosX_Label=敌人位置X偏移
+EnemiesListPosY_Label=敌人位置Y偏移
+EnemiesListPanelSizeX_Label=敌人列表界面大小X
+EnemiesListPanelSizeY_Label=敌人列表界面大小Y
+EnemiesCountPanelSizeX_Label=敌人数量界面大小X
+EnemiesCountPanelSizeY_Label=敌人数量界面大小Y
+
+TerrainPosX_Tip="如果你是LWotC玩家，可将位置X设为-1530，这将使界面移动到左侧屏幕"
+EnemiesListPosX_Tip="如果你是LWotC玩家，可将位置X设为-1530，这将使界面移动到左侧屏幕"
