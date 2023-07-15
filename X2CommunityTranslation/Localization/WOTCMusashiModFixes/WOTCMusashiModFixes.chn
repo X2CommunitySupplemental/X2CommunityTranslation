@@ -1,0 +1,15 @@
+翻译steam ID WarLLT1315（暗白） 上传 暗白。最后更新2023年7月15日 08:22:42
+
+[WOTCMusashiModFixes_MCMScreen]
+ModName = "Musashi's Mods Fixes"
+PageTitle = "Musashi's 模组修复插件 by Iridar"
+GroupHeader = "常规设置"
+
+SHOW_VALID_WEAPON_CATEGORIES_Label = "显示已配置能力的有效武器类别"
+SHOW_VALID_WEAPON_CATEGORIES_Tip = "如果启用，将自动显示受[Ability to Slot Reassignment]模组影响能力的有效武器类别。这很重要，因为如果士兵未携带有效武器，这些能力将在进入战斗后被移除。改变此选项需要重启游戏才可生效。"
+
+DEBUG_LOGGING_Label = "启用调试日志"
+DEBUG_LOGGING_Tip = "如果启用，将把调试信息写入到日志文件中，位于：:\n..\\Documents\\my games\\XCOM2 War of the Chosen\\XComGame\\Logs\\Launch.log"
+
+LabelEnd = "由Iridar创造 | www.patreon.com/Iridar"
+LabelEndTooltip = "谢谢你使用我的模组，我希望你喜欢！请考虑在Patreon上支持我，这样我就有时间制作更多更棒的模组 <3")
