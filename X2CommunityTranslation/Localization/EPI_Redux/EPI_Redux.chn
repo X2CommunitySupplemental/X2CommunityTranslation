@@ -1,0 +1,16 @@
+翻译steam ID WarLLT1315（暗白） 上传 暗白。最后更新2023年7月15日 08:48:27
+
+[EPI_Section]
+SubHeader_Traits    = "特质"
+SubHeader_Perks     = "技能"
+SubHeader_Loadout   = "出装"
+SubHeader_Bonded    = "羁绊"
+SubHeader_BondedNot = "未结成羁绊"
+SubHeader_NoPCS     = "未插入芯片"
+SubHeader_Soldier   = "士兵信息"
+
+NoSuitableBond = "无羁绊人选"
+SubHeader_Compatibility = "最高契合度"
+SubHeader_Cohesion = "最高凝聚力"
+
+InHavenString = "避难所:"
