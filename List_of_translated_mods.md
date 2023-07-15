@@ -1,3 +1,8 @@
+# [WOTC] Tactical UI Kill Counter Redux
+https://steamcommunity.com/sharedfiles/filedetails/?id=2405013108
+
+* Chinese
+
 # [WOTC] Cosmo Dragoon
 https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
 
