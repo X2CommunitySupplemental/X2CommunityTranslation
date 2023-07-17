@@ -1,0 +1,75 @@
+翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月17日
+
+;===========================================================================
+;   RUSTY DETAILED SOLDIER LISTS LOCALISATION
+;   CREATED 14/07/22 00:30  UPDATED 18/07/22 01:30
+;===========================================================================
+[X2EventListener_StatusOfDSLRusty]
+strOfficerAlreadySelectedStatus="军官在小队"
+strCommandingOfficer = "军官单位"
+
+strSPARKAlreadySelectedStatus="SPARK在小队"
+strSPARKUnit = "SPARK单位"
+
+;===========================================================================
+
+[MoreDetailsManager]
+m_strToggleDetails="切换详细信息"
+m_strShowLegend="切换图例"
+m_strLegendTitle="图例"
+
+m_strSection1="第一页姓名图标"
+m_strSection2="第一页职业图标"
+m_strSection3="第二页姓名图标"
+m_strSection4="第二页职业图标"
+m_StrSection5="其他图标"
+m_strSectionR="武器图标"
+
+m_strShieldsLabel="护盾"
+m_strPCSLabel="个人战斗芯片插槽"
+m_strSPARKLabel="SPARK"
+
+m_strNaturalAptitude="自然天赋"
+
+m_strNaturalAptitudeLabels[0]="普通人/标准"
+m_strNaturalAptitudeLabels[1]="良种人/高于平均"
+m_strNaturalAptitudeLabels[2]="极限人/有天赋"
+m_strNaturalAptitudeLabels[3]="超级人/天才"
+m_strNaturalAptitudeLabels[4]="类神人/学者"
+
+m_strSkillPoints="士兵技能点"
+
+;===========================================================================
+
+[XGLocalisedData_DSL]
+
+ItemCategoryRifle="步枪"
+ItemCategorySniperRifle="狙击步枪"
+ItemCategoryCannon="加农炮"
+ItemCategoryShotgun="霰弹枪"
+ItemCategoryGauntlet="碎片拳刃"
+ItemCategoryVektorRifle="维克托步枪"
+ItemCategoryBullpup="无托式机枪"
+ItemCategorySMG="冲锋枪/SMG"
+ItemCategoryPistol="手枪"
+ItemCategorySword="近战武器"
+ItemCategoryGremlin="小精灵"
+ItemCategoryGrenadeLauncher="榴弹发射器"
+ItemCategoryClaymore="阔剑地雷"
+ItemCategoryClaymoreP="阔剑地雷-简易爆炸装置/Claymore IED"
+ItemCategoryWristblade="开颅刃"
+ItemCategorySidearm="自动手枪"
+ItemCategoryPsiamp="灵能增幅器"
+ItemCategorySparkrifle="Spark步枪"
+ItemCategorySparkBit="Spark Bit"
+ItemCategorySparkShield="Spark护盾"
+ItemCategoryCombatknife="战斗匕首/Combat Knives"
+ItemCategoryArcthrower="电弧发射器/Arc Thrower"
+ItemCategoryHolotargeter="全息瞄准仪/Holotargeter"
+ItemCategoryLWGauntlet="战术手套/XCOM Gauntlet"
+ItemCategorySawedoffshotgun="短管霰弹枪/Sawed-Off Shotgun"
+ItemCategoryHeavy="重型/Heavy"
+ItemCategoryPsionicReaper="灵能收割器/Psionic Reaper"
+ItemCategoryPsiGatlingRifle="灵能加特林机枪/Psi Gatling Gun"
+ItemCategoryEmpty="空/Empty"
+ItemCategoryPsiampPM="灵魂宝石/Soul GEM"
