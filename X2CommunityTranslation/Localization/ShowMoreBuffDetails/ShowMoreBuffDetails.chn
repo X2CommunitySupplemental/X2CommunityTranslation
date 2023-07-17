@@ -1,0 +1,22 @@
+翻译来源 WOTC Chinese Translation Mods 上传时间 2023年7月17日
+
+[UI_TacHUD_BuffToolTipNew]
+m_strDetectionModifier="察觉范围修正"
+m_strShieldHP="护盾"
+m_strHackDefense="黑客值"
+m_strEndInLabel="失效于"
+m_strAnyPlayer="任何玩家"
+m_strPlayer="玩家"
+m_strAlien="外星人"
+m_strNeutral="中立者"
+m_strOwner="使用者"
+m_strTurnStart="回合开始时"
+m_strTurnEnd="回合结束时"
+m_strActions="行动点"
+m_strTurns="回合"
+m_strChanceToEnd="几率在下一刻失效"
+m_strAttackRemaining="次剩余伤害"
+m_strTaking="受到"
+m_strAdditionalDamge="额外伤害"
+m_strActionsRemaining="点剩余行动。"
+m_strStunEnding="结束本回合，即使单位还剩行动点。"
