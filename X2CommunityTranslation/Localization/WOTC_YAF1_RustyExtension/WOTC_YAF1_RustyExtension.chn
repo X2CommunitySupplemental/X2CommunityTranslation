@@ -1,0 +1,11 @@
+翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月17日
+
+[WOTC_YAF1_RustyExtension]
+[X2EventListener_YAF1_Rusty]
+
+;this is the string that displays in the center of the screen for non-units (psi transmitters, relays and tanks)
+;you can't directly F1 a non-unit, but you can accidently TAB to one...
+m_strDestructible = "可破坏物体 \n &lt;= 继续下一个 =&gt;"
+
+;this is the little descriptive text set under the name, it's small and innoculous and normally says "Enemy Info"
+m_strGotLoot = "!!我有战利品!!"
