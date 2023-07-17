@@ -1,0 +1,13 @@
+翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月17日
+
+[PreviewLOS X2AbilityTemplate]
+LocFriendlyName="预览视距"
+LocHelpText="预览敌人的视线距离。"
+
+[PreviewMovement X2AbilityTemplate]
+LocFriendlyName="预览移动"
+LocHelpText="预览敌人的移动范围。"
+
+[PreviewBodyLocation X2AbilityTemplate]
+LocFriendlyName="预览人员"
+LocHelpText="预览带走的人员位置。"
