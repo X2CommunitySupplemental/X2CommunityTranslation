@@ -1,0 +1,5 @@
+翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+[X2WeaponTemplate_SpectralZombieSelfDestructPatcher]
+PsiSelfDestructFriendlyName = "灵能不稳"
+PsiSelfDestructFriendlyDesc = "该单位正在泄露不稳定的灵能，被杀死时会爆炸。"
