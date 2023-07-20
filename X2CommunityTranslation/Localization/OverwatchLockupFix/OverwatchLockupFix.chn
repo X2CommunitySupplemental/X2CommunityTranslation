@@ -1,0 +1,15 @@
+翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+[OverwatchLockupFix_MCMScreen]
+ModName=减少监视射击假卡死
+PageName=减少监视射击假卡死/Less Overwatch Lock Ups
+GroupDesc=
+
+DESTRUCTABLE_TIMEOUT_Label=启用 X2Action_WaitForDestructibleActorActionTrigger Timeout 
+ACTION_TIMEOUT_Label=启用 X2Action_WaitForAnotherAction 请求超时
+MOVE_SKIPANIM_Label=启用 X2Action_MoveDirectFix 修复
+DESTRUCTABLE_TIMEOUT_Tip=通过查看“禁用超时”是否有效，来帮助MOD开发!
+ACTION_TIMEOUT_Tip=通过查看“禁用超时”是否有效，来帮助MOD开发!
+MOVE_SKIPANIM_Tip=默认情况下, 当 X2Action_MoveDirectFix 请求超时之时，它仍然等待“停止”动画完成!
+SEQUENCER_FIX_Label=启用 X2ReactionFireSequencer 修复
+SEQUENCER_FIX_Tip=允许启用“反应射击”可视化, 即使fiags（标志）表明它已经生效，因为这些标志有时会说谎!
