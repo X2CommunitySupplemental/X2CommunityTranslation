@@ -1,0 +1,7 @@
+翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+[RemoveAllPCSButton]
+buttonstr="移除所有个人战斗芯片"
+buttontooltip="移除所有士兵在用的个人战斗芯片。"
+dialogtitle="移除个人战斗芯片？"
+dialogstr="移除所有士兵在用的个人战斗芯片？"
