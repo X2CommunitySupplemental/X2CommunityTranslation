@@ -1,0 +1,26 @@
+翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+;https://steamcommunity.com/linkfilter/?url=https://pastebin.com/SEUN1vJf   MOGWAI提供
+[CinematicRapidFire_MCMScreen]
+ModName=电影式射击特写
+PageName=电影式射击特写/Cinematic Rapid Fire (and other abilities)
+GroupDesc[0]=速射/连环射击/放逐 设定
+GroupDesc[1]=失魂者 设定
+GroupDesc[2]=双重打击 设定
+SHOW_ACTIVATION_Label=于特写画面上显示技能名称
+SHOW_ACTIVATION_Tip=特写中二次发射或连发时于画面上显示技能名称，例如:速射、放逐...
+LOST_OTS_Label=指向目标时使用越肩视角
+LOST_OTS_Tip=于「失魂者」选择射击画面使用越肩视角。
+LOST_CINEMATIC_Label=电影式射击镜头
+LOST_CINEMATIC_Tip=射击「失魂者」时使用动态镜头效果。
+SHOT_VERBOSITY_Label=射击时触发角色语音
+SHOT_VERBOSITY_Tip=调整如何对具有多重射击技能的单发射击触发语音。<br>低：仅在适当情况下（同原版游戏）于最后一枪触发语音<br>中：对所有射击触发语音，但不会重复内容（如果两发皆未击中，仅在首发未击中时使用语音）<br>高：所有击发都可以触发语音，并允许重复语音内容。
+SHOT_VERBOSITY_Strings[0]=低
+SHOT_VERBOSITY_Strings[1]=中
+SHOT_VERBOSITY_Strings[2]=高
+DUAL_OTS_Label=指向目标时使用越肩视角
+DUAL_OTS_Tip=于技能「双重打击」选择射击画面使用越肩视角。
+DUAL_CINEMATIC_Label=电影式射击镜头
+DUAL_CINEMATIC_Tip=技能「双重打击」使用动态镜头效果。
+TURN_ANGLE_Label=技能「歼灭」转向角度阈值
+TURN_ANGLE_Tip=「歼灭」技能特写时，士兵瞄向镜头视角（角度）外的新目标不再只是微调射姿而是直接转向瞄准下一目标。
