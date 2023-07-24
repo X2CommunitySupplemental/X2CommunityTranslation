@@ -1,0 +1,17 @@
+翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+[BlackMarketSoldierStats_Settings]
+
+SettingsPage_Label = 黑市士兵属性
+PageTitle_Label = 黑市士兵属性/Black Market Soldier Stats
+GroupGeneralSettings_Label = 常规设置
+UISettings_Label = 界面设置
+
+HIGHLIGHT_ABOVE_BELOW_AVERAGE_Label="突出显示高于/低于平均值的属性"
+HIGHLIGHT_ABOVE_BELOW_AVERAGE_Tip="如果激活，则以红色显示低于平均值的属性，以绿色显示高于平均值的属性。"
+
+PANEL_X_Label="属性面板位置: X"
+PANEL_X_Tip="属性面板左上角显示位置的 X (左/右)坐标。"
+
+PANEL_Y_Label="属性面板位置: Y"
+PANEL_Y_Tip="属性面板左上角显示位置的 Y (上/下)坐标。"
