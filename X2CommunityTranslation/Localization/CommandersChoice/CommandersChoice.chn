@@ -1,0 +1,11 @@
+翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月25日
+
+[UIScreenListener_CommandersChoice]
+strCCMenuOption="指挥官选择"
+strCCTooltip="指定新兵晋升的职业"
+strCCDescription="指定该士兵的职业。"
+
+[UIChooseClass_CommandersChoice]
+m_strTitle="职业"
+m_strInventoryLabel="选择"
+m_strBuy="训练"
