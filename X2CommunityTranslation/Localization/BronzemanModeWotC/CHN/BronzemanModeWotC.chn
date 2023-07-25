@@ -1,0 +1,37 @@
+翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+[UIBronzeman_Options]
+BronzemanSettingsTab="铜人"
+BronzemanSettingsTitle="铜人模式"
+
+GeneralSettingsLabel="全局"
+CampaignSettingsLabel="战役"
+
+BronzemanInfoTitle="铜人帮助"
+BronzemanInfoText="铜人模式<br/>由munchbunny和somanyrobots制作<br/><br/>铜人是什么？<br/>铜人是由《幽浮：内部敌人》中的Long War模组所创术语。它是指“在执行任务时无法保存，但可以重试”的模式。这会迫使你无法存档作弊，但如果任务发生意外，你可以重新尝试。<br/><br/>铜人如何使用？<br/>当你开始新游戏时，难度选择菜单将有一个选项来启用铜人模式。如果启用铁人模式，铜人模式将被覆盖并禁用。<br/>当你在复仇者号时，你也可以通过进入此选项菜单，并选中/取消选中新游戏设置（仅在开始新游戏中可用），来启用/禁用铜人模式。<br/><br/>任务回退按钮<br/>此按钮在任务期间显示在暂停菜单中。当单击它时，将把你恢复到它可以找到的最新地表全景自动保存。这需要启用自动保存才能工作。"
+HelpButtonLabel="铜人模组详细信息"
+HelpButtonText="显示"
+HelpButtonTooltip="单击查看详细说明。"
+
+EnableRevertLabel="显示任务回退按钮"
+EnableRevertTooltip="任务中暂停菜单按钮可回退到地表全景。"
+NeedToEnableAutosaveTooltip="请启用自动存档以启用地表全景回退。"
+
+EnableBronzemanLabel="启用铜人"
+EnableBronzemanTooltip="当前战役是否处于铜人模式。"
+IronmanTooltip="铁人优先于铜人设置。"
+TacticalTooltip="抱歉，不能在任务中途更改，这是作弊。 ;-)"
+NonCampaignTooltip="此设置仅适用于单个战役。"
+
+[UIPauseMenu_Bronzeman]
+RevertButtonLabel="回退到地表全景"
+MissingGeoscapeAutosaveTitle="缺少自动存档"
+MissingGeoscapeAutosaveText="找不到适合的地表全景自动存档。请确保已启用自动存档。"
+MissingGeoscapeAutosaveButton="好的"
+ConfirmGeoscapeRevertTitle="确认回退"
+ConfirmGeoscapeRevertAccept="是"
+ConfirmGeoscapeRevertCancel="否"
+ConfirmGeoscapeRevertText="你确定要回到过去吗？"
+
+[UIShellDifficulty_Bronzeman]
+BronzemanLabel="铜人模式"
