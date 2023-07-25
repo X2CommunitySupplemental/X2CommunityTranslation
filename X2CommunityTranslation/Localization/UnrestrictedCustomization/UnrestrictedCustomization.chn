@@ -1,0 +1,171 @@
+翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月25日
+
+;============================================================================================
+;============================================================================================
+
+[Vanilla]
+Vest Black = "背心黑色"
+;//TODO other names
+
+;============================================================================================
+;============================================================================================
+
+[UnrestrictedCustomization]
+None = "无"
+
+FilterPanelTooltip = "过滤列表中的项目，或使其用于随机选择项目。"
+
+;==================
+;=== Randomizer ===
+;==================
+
+RandomizeButtonLabel = ">>再次随机&lt;&lt;"
+Randomize = "随机化"
+Randomized = "随机"
+
+;=== Options Menu ===
+
+ArmorTypeDeltaMax = "护甲类型差异最大化"
+ArmorTypeDeltaMaxDescr = "允许过滤面板中设置的护甲类型（s）与身体部分护甲类型之间有差异。"
+
+TechLevelDeltaMax = "技术等级差异最大化"
+TechLevelDeltaMaxDescr = "允许过滤面板中设置的技术等级（s）与身体部分技术等级之间有差异。"
+
+ArmorTypeTolerance = "护甲类型误差"
+ArmorTypeToleranceDescr = "即使在过滤面板中设置的过滤器不匹配，也可以选择部分使用。\n(假设差异小于或等于最大护甲类型差异)"
+
+TechLevelTolerance = "技术等级误差"
+TechLevelToleranceDescr = "即使在过滤面板中设置的过滤器不匹配，也可以选择部分使用。\n(假设差异小于或等于最大技术等级差异)"
+
+HelmetDrawChance = "随机头盔"
+HelmetDrawChanceDescr = "随机选择头盔类型"
+
+FacePropUpperDrawChance = "随机上面部装饰"
+FacePropUpperDrawChanceDescr = "随机选择面部装饰"
+
+FacePropLowerDrawChance = "随机下面部装饰"
+FacePropLowerDrawChanceDescr = "随机选择面部装饰"
+
+ForearmDrawChance = "随机前臂"
+ForearmDrawChanceDescr = "随机选择前臂类型"
+
+ShoulderDrawChance = "随机肩部"
+ShoulderDrawChanceDescr = "随机选择肩部类型"
+
+TorsoDecoDrawChance = "随机躯干"
+TorsoDecoDrawChanceDescr = "随机选择躯干类型"
+
+ThighsDrawChance = "随机大腿"
+ThighsDrawChanceDescr = "随机选择大腿类型"
+
+ShinsDrawChance = "随机小腿"
+ShinsDrawChanceDescr = "随机选择小腿类型"
+
+LimitRandomizationToOneDlc = "限制DLC随机"
+LimitRandomizationToOneDlcDescr = "如果选中，强制让使用相同的包/ DLC为服装的每个部分随机化。"
+
+UseCustomColorPalette = "使用自定义调色板"
+UseCustomColorPaletteDescr = "如果选中，使用定义在xcom_unrestrictedcustomization.ini调色板；默认调色板包含了所有非亮丽的颜色。
+
+;==================
+;=== Filter Box ===
+;==================
+
+;=== Armor types ===
+
+Armor = "护甲"
+Light = "轻甲"
+Medium = "中甲"
+Heavy = "重甲"
+Spark = "Spark"
+
+;=== Tech Levels ===
+
+Tech = "技术"
+Padded = "凯芙拉"
+Plated = "装甲"
+Powered = "动力"
+Alien = "外星人"
+
+;=== Styles ===
+
+Style = "样式"
+Civilian = "平民"
+XCom = "XCOM"
+Advent = "变种人""
+Other = "其他"
+
+;=== Gender ===
+
+Gender = "性别"
+Male = "男性"
+Female = "女性"
+MaleSuffix = "(男)"
+FemaleSuffix = "(女)"
+
+;=== MSG Box ===
+ConfirmationTitle = "警告"
+DoNotAskAgain = "不再询问"
+
+;=== Search ===
+strSearchTitle = "过滤 / 搜索"
+strSearchClear = "单击以清除过滤器"
+
+;=======================
+;=== Template Editor ===
+;=======================
+
+Edit = "编辑"
+Rename = "重命名"
+Hide/Delete = "隐藏/删除"
+
+;=======================
+;=== Appearance Menu ===
+;=======================
+
+CopyOutfit = "服装: 复制""
+CopyOutfitDescr = "将此角色的服装复制到剪贴板。"
+PasteOutfit = "服装: 粘贴"
+PasteOutfitDescr = "将先前复制的服装粘贴到该角色。这个角色的脸/种族/名字/等等，不会被修改。"
+RandomizeOutfit = "服装: 随机化"
+RandomizeOutfitDescr = "（可取消）随机化这个角色的服装；这个角色的脸/种族/名字/等等，不会被修改。"
+ImportOutfit = "服装: 从角色库导入"
+ImportOutfitDescr = "（可取消）从角色池中导入一套服装。这个角色的脸/种族/名字/等等，不会被修改。
+PasteConfirmationText = "用先前复制的服装外观替换此角色的服装外观？"
+
+;=======================
+;=== Appearance Tool ===
+;=======================
+
+Outfit = "全套服装"
+ImportFromCharacterPool = "从角色库选择"
+UnavailableWithinCharacterPool = "角色库中不可用"
+Copy = "复制"
+Paste = "粘贴"
+
+;====================
+;=== Generic Text ===
+;====================
+
+Preview = "预览"
+Confirm = "确认"
+Options = "选项"
+
+;=======================
+;=== MCM Option Menu ===
+;=======================
+
+ConfirmWholeAppearanceModification = "确认外观修改"
+ConfirmWholeAppearanceModificationDescr = "粘贴外观前要求确认"
+
+ShowBlacklistedOnly = "仅显示黑名单"
+ShowBlacklistedOnlyDescr = "如果选中，将只显示黑名单中的零件(因此您可以使用“编辑”按钮将其从黑名单中删除)"
+
+ShowToolPanel = "显示工具面板"
+ShowToolPanelDescr = "显示包含复制/粘贴/随机/角色库导入按钮的右上角快速访问面板。"
+
+GlobalAppearance = "全局外观"
+GlobalAppearanceDescr = "如果选中，士兵将有一个优先的全局外观，在每次装备护甲时全局外观都会被复制到新的护甲上。随后，你可以再改变和保存每件护甲的外观。"
+
+ProgressiveUpdate = "渐进式更新
+ProgressiveUpdateDescr = "如果选中，保存的服装外观将不断更新为当前的外观。外观变化不会受到当前所装备护甲的影响。"
