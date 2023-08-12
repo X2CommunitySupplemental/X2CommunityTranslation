@@ -1,0 +1,15 @@
+; 翻译steam ID WarLLT1315（暗白） ，上传 暗白。最后更新时间 2023年7月15日 07:34:50
+
+[MCM_OptionsMenuListener]
+m_strModMenuButton="MOD设置"
+
+[MCM_OptionsScreen]
+m_strSaveAndExit="保存并退出"
+m_strCancel="取消"
+m_strTitle="Mod设置"
+m_strSubtitle=""
+
+[MCM_SettingsPanel]
+m_strResetButton="重置"
+m_strRevertButton="放弃"
+m_strApplyButton="保存"
