@@ -1,3 +1,8 @@
+# [WOTC] Tactical UI Kill Counter Redux
+https://steamcommunity.com/sharedfiles/filedetails/?id=2405013108
+
+* Chinese
+
 # [WOTC] Show Tech Rewards
 https://steamcommunity.com/sharedfiles/filedetails/?id=2347354900
 
