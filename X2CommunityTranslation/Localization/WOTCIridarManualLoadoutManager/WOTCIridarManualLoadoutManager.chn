@@ -1,0 +1,143 @@
+; 翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月25日
+
+[UISL_MLM]
+strSaveLoadout = "保存出装"
+strLoadLoadout = "装载出装"
+
+[Help]
+LoadoutListTitleSave = "选取出装"
+LoadoutListTitleLoad = "选取出装"
+
+LoadoutListSubTitleSave = "准备保存士兵出装"
+LoadoutListSubTitleLoad = "准备装载士兵出装"
+
+CreateNewLoadoutButton = "另存为新出装"
+
+EnterLoadoutName = "输入出装名称"
+PlaceholderLoadoutName = ""
+
+InvalidLoadoutNameTitle = "错误！"
+InvalidLoadoutNameText = "出装名称无效，未保存出装。"
+
+LoadoutAlreadyExistsTitle = "警告！"
+LoadoutAlreadyExistsText = "用此名称的出装已存在，是否覆盖？"
+
+ConfirmDeleteLoadoutTitle = "确认删除出装"
+ConfirmDeleteLoadoutText = "你确定要删除出装%LoadoutName%？"
+
+EquipLoadout = "加载出装"
+
+InvalidLoadoutTitle = "无效出装"
+NoItemsInLoadoutText = "未选择装载的项目。将不会保存出装。"
+NoItemsInLoadoutText_Equip  = "未选择出装中的项目。出装将不会装载。"
+
+ConfirmOverwriteLoadoutTitle = "确认覆盖"
+ConfirmOverwriteLoadoutText = "你确定要覆盖%LoadoutName%？"
+
+NoLoadoutsToDisplay = "没有要显示的已保存出装。"
+NoLoadoutsToDisplay_MaybeDisableFilters = "没有要显示的已保存出装。或许要尝试其他筛选项？"
+
+LIS_MissingTemplate				= "缺少项目模板:"
+;LIS_NotAvailable				= ""
+;LIS_NotAvailable_NoReplacement	= ""
+;LIS_Restricted					= ""
+LIS_NoSlot						= ": 无可用装备栏"
+;LIS_NotSelected				= ""
+;LIS_Selected					= ""
+
+LIS_MissingTemplate_Tooltip				= "此项目的模板不可用。你的游戏中当前不存在此项目。你很可能缺失以前添加此项目的模组。"
+LIS_NotAvailable_Tooltip				= "此项目当前不可用。"
+LIS_NotAvailable_Tooltip_NoReplacement	= "此项目当前不可用，并且没有合适的替代品。"
+LIS_Restricted_Tooltip					= "此单位无法装载此项目。"
+
+LIS_NoSlot_Tooltip						= "单位似乎没有相应装备栏来装载此项目，但你可以尝试去装载它。"
+LIS_NoSlot_Replacement_Tooltip			= "出装项目当前不可用。单位似乎没有相应装备栏来装载此替代项目，但你可以尝试去装载它。"
+
+LIS_NotSelected_Tooltip					= "此项目将不被装载。选中复选框以装载该项目。"
+LIS_NotSelected_Replacement_Tooltip		= "出装项目当前不可用。此替代项目将不被装载。选中复选框以装载该替代项目。"
+
+LIS_Selected_Tooltip					= "此项目将装载在该单位上。"
+LIS_Selected_Replacement_Tooltip		= "出装项目当前不可用。该替代项目将装载在单位上。"
+
+LIS_NotSelected_Tooltip_AlreadyEquipped = "此项目已装载在单位上。选中复选框以确使其保持装载状态。"
+LIS_Selected_Tooltip_AlreadyEquipped	= "该项目已装载在单位上。"
+
+
+SearchFieldTitle = "输入出装的不完全名称"
+SearchButtonTooltip = "搜索名称中包含指定文本的出装。"
+SearchButtonTitle = "搜索"
+
+FilterButtonTitle = "筛选器"
+
+SquadItems = "小队项目"
+
+MakeItemsAvailable_Title = "使项目可用"
+MakeItemsAvailable_Tooltip = "从所有未被选择执行当前任务的士兵身上卸除盔甲、物品和武器装备。任何士兵都可以立即装载此装备。"
+MakeItemsAvailable_Tooltip_Disabled = "盔甲、物品和武器已经可用。"
+
+
+ConfirmLoadBackupTitle = "是否从备份中还原出装。" 
+ConfirmLoadBackupText = "Iridar's Loadout Manager模组(出装管理器)检测到你保存的出装已丢失。<br/><br/>当前保存的出装数: %CurrentNumLoadouts%\n\n有一个备份文件可用。它包括%BackupNumLoadouts%个已保存出装。你想从该备份中还原出装吗？\n\n如果你接受，你当前保存的出装将被安全覆盖。\n如果你继续操作而不还原备份，那么保存新的出装时，备份文件本身将被覆盖。"
+
+
+[WOTCIridarManualLoadoutManager_MCMScreen]
+ModName = "出装管理器"
+PageTitle = "Iridar's出装管理器/Loadout Manager"
+
+GroupHeader = "出装设置"
+
+SHOW_HEADERS_Label = "显示栏位标签"
+SHOW_HEADERS_Tip = "如果启用，出装项目列表将显示闲置栏位标签。"
+
+USE_SIMPLE_HEADERS_Label = "使用紧凑型栏位标签"
+USE_SIMPLE_HEADERS_Tip = "如果启用，出装项目列表将使用更紧凑的闲置栏位标签。"
+
+ALLOW_MODIFIED_ITEMS_Label = "允许修改项目"
+ALLOW_MODIFIED_ITEMS_Tip = "如果启用，则在未修改的版本不可用时，出装管理器将装载一个修改过的项目。"
+
+ALLOW_REPLACEMENT_ITEMS_Label = "允许替换项目"
+ALLOW_REPLACEMENT_ITEMS_Tip = "如果启用，出装管理器将为当前不可用的出装项目寻找尽可能最好的替代品。此设置受影响于 \"允许修改项目\"设置。"
+
+LOADOUT_FILTER_STATUS_Label = "默认出装筛选器"
+LOADOUT_FILTER_STATUS_Tip = "默认情况下，在保存出装和装载出装屏幕，选择出装筛选器处于活动状态。 这个\"禁用\"选项，意味着筛选器将会处于隐藏状态，所有出装始终可见。"
+
+
+Group2Header = "小队选择"
+
+DISPLAY_SQUAD_ITEMS_BUTTON_Label = "显示\"小队项目\"按钮"
+DISPLAY_SQUAD_ITEMS_BUTTON_Tip = "如果启用，将有一个\"小队项目\"按钮在小队选择屏幕上。可以单击该按钮显示小队士兵装载的所有装备列表。"
+
+MAX_LOADOUT_LIST_ITEMS_Label = "最大值。小队项目列表中的项目。"
+MAX_LOADOUT_LIST_ITEMS_Tip = "显示的最大项目数值，在小队项目列表变为可滚动之前。确定列表可能占用的空间量。"
+
+DISPLAY_SQUAD_SELECT_SHORTCUT_Label = "显示\"装载出装"\按钮于小队选择"
+DISPLAY_SQUAD_SELECT_SHORTCUT_Tip = "如果启用，将有一个\"装载出装\"的快捷方式，位于小队选择的每个士兵下方。"
+
+
+Group3Header = "其他"
+
+MAKE_BACKUPS_Label = "自动备份"
+MAKE_BACKUPS_Tip = "如果启用，该模组将自动备份所有出装，并将其存储在一个文件中，该文件位于:\n..\\Documents\\my games\\XCOM2 War of the Chosen\\XComGame\\X2LoadoutManagerBackup.bin"
+
+DEBUG_LOGGING_Label = "启用调试日志记录"
+DEBUG_LOGGING_Tip = "如果启用，该模组将把调试信息写入到日志文件中，该文件位于:\n..\\Documents\\my games\\XCOM2 War of the Chosen\\XComGame\\Logs\\Launch.log"
+
+SquadItemsPositionX_Label = "小队项目按钮位置 X"
+SquadItemsPositionX_Tip = "从屏幕左上角的水平偏移。"
+SquadItemsPositionY_Label = "小队项目按钮位置 Y"
+SquadItemsPositionY_Tip = "从屏幕左上角的垂直偏移。"
+
+
+LOADOUT_FILTER_STATUS_Strings[0] = "禁用"
+LOADOUT_FILTER_STATUS_Strings[1] = "没有"
+LOADOUT_FILTER_STATUS_Strings[2] = "职业"
+LOADOUT_FILTER_STATUS_Strings[3] = "装备"
+LOADOUT_FILTER_STATUS_Strings[4] = "主武器"
+LOADOUT_FILTER_STATUS_Strings[5] = "副武器"
+
+LOADOUT_FILTER_STATUS_Tooltips[0] = "禁用"
+LOADOUT_FILTER_STATUS_Tooltips[1] = "所有出装都可见。"
+LOADOUT_FILTER_STATUS_Tooltips[2] = "筛选掉为不同士兵职业保存的出装。"
+LOADOUT_FILTER_STATUS_Tooltips[3] = "出装中的武器或盔甲，对这个士兵职业有限制，将筛选掉该出装。"
+LOADOUT_FILTER_STATUS_Tooltips[4] = "出装中的主武器，对这个士兵职业有限制，将筛选掉该出装。"
+LOADOUT_FILTER_STATUS_Tooltips[5] = "出装中的副武器，对这个士兵职业有限制，将筛选掉该出装。"
