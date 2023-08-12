@@ -1,0 +1,35 @@
+; 翻译steam ID WarLLT1315（暗白） 上传 暗白。最后更新2023年7月15日 08:43:24
+
+;Place localized text in this file
+
+[UISL_ShowTechPath]
+TechDesc[0]="远程（武器）";
+TechDesc[1]="远程（武器）";
+TechDesc[2]="远程（武器）";
+TechDesc[3]="远程（武器）";
+
+;Items in armor path
+TechDesc[4]="盔甲";
+TechDesc[5]="盔甲";
+TechDesc[6]="盔甲";
+
+; armor and grenade
+TechDesc[7]="盔甲/手榴弹";
+
+;Items in both paths
+TechDesc[8]="盔甲/远程武器";
+
+;Psionics
+TechDesc[9]="灵能";
+
+;Melee
+TechDesc[10]="近战";
+TechDesc[11]="近战";
+
+;Gremlin
+TechDesc[12]="小精灵";
+
+;Multiple
+TechDesc[13]="多重用途";
+
+
