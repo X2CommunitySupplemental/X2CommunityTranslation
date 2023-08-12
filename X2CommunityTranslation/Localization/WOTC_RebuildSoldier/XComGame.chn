@@ -1,0 +1,9 @@
+; 翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+[RStaffSlot X2StaffSlotTemplate]
+EmptyText="空位: 需要士兵"
+BonusEmptyText="训练士兵为另一个职业"
+BonusDefaultText="职业"
+BonusText="%SKILL训练"
+FilledText="%UNITNAME现已参加一项内容广泛的%SKILL训练计划！"
+LockedText="锁定: 购买升级"
