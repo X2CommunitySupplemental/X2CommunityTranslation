@@ -1,0 +1,8 @@
+; 翻译steam ID WarLLT1315（暗白） 上传 暗白。最后更新2023年7月15日 08:51:25
+
+[UIScreenListener_ShowTechUnlocks]
+Title="解锁"
+m_strPartial = "[部分]"
+m_strPossible = "[可能]"
+m_strObfuscate = "[?????]"
+m_strEmptyUnlocks = "没有要显示的信息"
