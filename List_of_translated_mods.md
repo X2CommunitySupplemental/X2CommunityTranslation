@@ -1,3 +1,8 @@
+# [WOTC] Show Tech Rewards
+https://steamcommunity.com/sharedfiles/filedetails/?id=2347354900
+
+* Chinese
+
 # [WOTC] Extended Personnel Info Redux
 https://steamcommunity.com/sharedfiles/filedetails/?id=2965980985
 
