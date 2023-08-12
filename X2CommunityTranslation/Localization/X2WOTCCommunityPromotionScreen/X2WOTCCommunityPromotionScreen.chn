@@ -1,0 +1,48 @@
+; 翻译steam ID WarLLT1315（暗白） 上传 暗白。最后更新2023年7月15日 08:16:29
+
+[CPS_UIArmory_PromotionHero]
+m_strMutuallyExclusive = "存在互斥："
+
+arr_strLocReasonsLocked[0] = "未满足技能的前提条件。"
+arr_strLocReasonsLocked[1] = "要先选择该等级的士兵职业技能。"
+arr_strLocReasonsLocked[2] = "需要训练中心设施。"
+arr_strLocReasonsLocked[3] = "能力点不足。"
+arr_strLocReasonsLocked[4] = "需要更高的等级。"
+
+[UISL_CPS]
+strDisablePopup = "禁用此弹出窗口"
+strPopupText = "\n你好，这是你的模组<font color='#00ff00'>[WOTC] Community Promotion Screen</font>弹出窗口。 \n\n我检测到你所使用的<font color='#ff0000'>[WOTC] New Promotion Screen by Default</font>是旧的模组。\n\n现在<font color='#00ff00'>[WOTC] Community Promotion Screen</font>能代替处理<font color='#ff0000'>[WOTC] New Promotion Screen by Default</font> 的全部和更多事务。 \n\n所有模组中依赖于<font color='#ff0000'>[WOTC] New Promotion Screen by Default</font>可以替换为<font color='#00ff00'>[WOTC] Community Promotion Screen</font>完全一样使用。\n\n因此，建议你禁用或卸载旧的模组<font color='#ff0000'>[WOTC] New Promotion Screen by Default</font>。"
+
+[CPS_MCM_Screen]
+ModName="社区晋升屏幕"
+PageTitle="社区晋升屏幕/Community Promotion Screen"
+GroupHeader="常规设置"
+
+SHOW_UNREACHED_PERKS_MODE_Label = "未升到等级的技能"
+SHOW_UNREACHED_PERKS_MODE_Tip = "通常你不能预览士兵未来等级的技能。你可以在此处移除此限制。"
+SHOW_UNREACHED_PERKS_MODE_Strings[0] = "全部隐藏"
+SHOW_UNREACHED_PERKS_MODE_Strings[1] = "隐藏训练中心（随机）技能"
+SHOW_UNREACHED_PERKS_MODE_Strings[2] = "全部显示"
+
+SHOW_INVENTORY_SLOT_Label = "显示技能的武器位置"
+SHOW_INVENTORY_SLOT_Tip = "切换显示该技能所附加到的武器栏。请记住，该技能目前附加到某个栏位，并不永远意味着，该技能将仅适用于该武器栏中的武器。"
+
+DISABLE_TRAINING_CENTER_REQUIREMENT_Label = "禁用训练中心要求"
+DISABLE_TRAINING_CENTER_REQUIREMENT_Tip = "通常只有当玩家拥有训练中心设施时，普通士兵职业才能解锁每个等级的额外技能。你可以在此禁用此要求。"
+
+DISABLE_NEWCLASS_POPUPS_Label = "禁用\"新职业\"弹出窗口"
+DISABLE_NEWCLASS_POPUPS_Tip = "通常每当士兵晋升到新职业时，都会显示一个弹出窗口。你可以在此禁用此弹出窗口。"
+
+DISABLE_COMINT_POPUPS_Label = "禁用战斗智商教程弹出窗口"
+DISABLE_COMINT_POPUPS_Tip = "通常当你在战役中首次进入较高战斗智商士兵的晋升屏幕时，会显示一个弹出窗口。你可以在此禁用此弹出窗口。"
+
+ABILITY_TREE_PLANNER_MODE_Label = "技能树规划者模式"
+ABILITY_TREE_PLANNER_MODE_Tip = "启用时，你可通过单击来标记计划解锁的每个士兵技能。再次单击将删除标记。“基础”模式下，技能用图标标记。“高级”模式下，标记包含可视为解锁顺序或优先级的数字。无论哪种模式下，你都需要自己实际解锁新技能，这些标记只是一个预先提醒。"
+ABILITY_TREE_PLANNER_MODE_Strings[0] = "禁用"
+ABILITY_TREE_PLANNER_MODE_Strings[1] = "基础"
+ABILITY_TREE_PLANNER_MODE_Strings[2] = "高级"
+
+[X2EventListener_PromotionScreenOverrides]
+SparkAbilityTreeTitles[0]="未来战斗"
+SparkAbilityTreeTitles[1]="战争机器"
+SparkAbilityTreeTitles[2]="XCOM"
