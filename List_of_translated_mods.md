@@ -3,6 +3,36 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2965980985
 
 * Chinese
 
+# WOTC Show Tech Path
+https://steamcommunity.com/sharedfiles/filedetails/?id=1207741138
+
+* Chinese
+
+# [WOTC] Full Shadow Report
+https://steamcommunity.com/sharedfiles/filedetails/?id=2995251401
+
+* Chinese
+
+# [WOTC] Musashi's Mods Fixes
+https://steamcommunity.com/sharedfiles/filedetails/?id=2569592723
+
+* Chinese
+
+# [WOTC] Community Promotion Screen
+https://steamcommunity.com/sharedfiles/filedetails/?id=2550561145
+
+* Chinese
+
+# Better Second Wave Mod Support
+https://steamcommunity.com/sharedfiles/filedetails/?id=1149493976
+
+* Chinese
+
+# [WotC] Mod Config Menu
+https://steamcommunity.com/sharedfiles/filedetails/?id=667104300
+
+* Chinese
+
 # [WOTC] Cosmo Dragoon
 https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
 
