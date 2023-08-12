@@ -1,3 +1,8 @@
+# [WOTC] Community Promotion Screen
+https://steamcommunity.com/sharedfiles/filedetails/?id=2550561145
+
+* Chinese
+
 # Better Second Wave Mod Support
 https://steamcommunity.com/sharedfiles/filedetails/?id=1149493976
 
