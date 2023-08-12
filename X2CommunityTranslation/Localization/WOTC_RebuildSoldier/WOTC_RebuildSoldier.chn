@@ -1,0 +1,15 @@
+; 翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+[UIFacility_RebuildSoldierSlot]
+m_TR_strRebuildSoldierDialogTitle="重新训练士兵职业"
+m_TR_strRebuildSoldierDialogText="<XGParam:StrValue0/!UnitName/>将接受专业化训练，学习成为特定兵种<XGParam:StrValue1/!RankName/>。但在训练过程中，他们将不能参战<XGParam:StrValue2/!Days/>天。你想继续吗？"
+m_TR_strStopRebuildSoldierDialogTitle="停止重新训练士兵职业？"
+;m_TR_strStopRebuildSoldierDialogText="你想停止把%UNITNAME训练成%CLASSNAME的过程吗？ \n\n警告：所有的训练进度将会丢失。"
+m_TR_strStopRebuildSoldierDialogText="你想停止把%UNITNAME重新训练士兵职业的过程吗？\n\n警告：所有的训练进度将会丢失。"
+m_TR_strNoSoldiersTooltip="目前没有士兵可以分配到重新训练士兵职业中去。"
+m_TR_strSoldiersAvailableTooltip="分配一名士兵以重新训练士兵职业。"
+
+[UIChooseClass_RebuildSoldier]
+m_strTitle=选择士兵兵种
+m_strInventoryLabel=可用兵种:
+m_strBuy=开始训练
