@@ -1,3 +1,8 @@
+# [WOTC] Extended Personnel Info Redux
+https://steamcommunity.com/sharedfiles/filedetails/?id=2965980985
+
+* Chinese
+
 # WOTC Show Tech Path
 https://steamcommunity.com/sharedfiles/filedetails/?id=1207741138
 
