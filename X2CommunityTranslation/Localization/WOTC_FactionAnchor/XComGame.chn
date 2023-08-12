@@ -1,0 +1,33 @@
+; 翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+;---------------------------------------------------------------------------------------
+;	FILE:   FactionAnchor loco   CREATED BY RustyDios
+;           
+;	File created	04/02/21	15:15
+;	LAST UPDATED    07/02/21	20:20
+;
+;	you should technically never see these ... but just in case... 
+;
+;---------------------------------------------------------------------------------------
+
+[FactionAnchor X2AbilityTemplate]
+LocFriendlyName="派系之锚/Faction Anchor"
+LocHelpText="<font color = '#FA6942'>***** 错误 *****</font>\n你不该看到这个。该单位被指定为“派系之锚”，既不可见，也不受任何伤害。\n当所有其他单位死亡时，它将通过代码自杀。 \n~感谢RustyDios的系统！"
+LocLongDescription="<font color = '#FA6942'>***** 错误 *****</font>\n你不该看到这个。该单位被指定为“派系之锚”，既不可见，也不受任何伤害。\n当所有其他单位死亡时，它将通过代码自杀。 \n~感谢RustyDios的系统！"
+LocFlyOverText=""
+
+[FA_Debug_Show X2AbilityTemplate]
+LocFriendlyName="（调试）揭示/(DEBUG) Reveal"
+LocHelpText="<font color = '#FA6942'>***** 调试 *****</font>\n你不该看到这个。\n这是一个回退调试两步过程，用于“raise”锚点。\n首先使用此显示，然后杀死该锚点。"
+LocLongDescription="<font color = '#FA6942'>***** 调试 *****</font>\n你不该看到这个。\n这是一个回退调试两步过程，用于“raise”锚点。\n首先使用此显示，然后杀死该锚点。"
+LocFlyOverText=""
+
+[FA_Debug_Kill X2AbilityTemplate]
+LocFriendlyName="（调试）杀死/(DEBUG) Kill"
+LocHelpText="<font color = '#FA6942'>***** 调试 *****</font>\n你不该看到这个。\n这是一个回退调试两步过程，用于“raise”锚点。\n再次发送垃圾信息以杀死锚点。"
+LocLongDescription="<font color = '#FA6942'>***** 调试 *****</font>\n你不该看到这个。\n这是一个回退调试两步过程，用于“raise”锚点。\n首先使用此显示，然后杀死该锚点。"
+LocFlyOverText=""
+
+[FactionAnchorMX X2CharacterTemplate]
+strCharacterName="派系之锚/Faction Anchor"
+strAcquiredText="使用YAF1模组和X2AllowSelectAll控制台命令，将允许你查看此单位的“调试菜单”。请继续……"

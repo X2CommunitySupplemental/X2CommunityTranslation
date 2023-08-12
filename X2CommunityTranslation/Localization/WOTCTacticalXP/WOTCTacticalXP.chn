@@ -1,0 +1,17 @@
+; 翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月17日
+
+;---------------------------------------------------------------------------------------
+;  FILE:   WOTCTacticalXP localization
+;
+;	BEGIN EDITS BY RUSTYDIOS	02/03/21	02:00
+;	LAST EDITED BY RUSTYDIOS	19/03/22    08:30
+;
+;---------------------------------------------------------------------------------------
+[UITacticalHUD_SoldierInfo_WOTCTacticalXP]
+
+;used if the xp icon is not used
+strKills = "击杀数:"
+
+;you can use the below to give the commanders avatar a nickname! yes really!
+;strAvatarNickName = "Rusty Dios"
+strAvatarNickName = ""

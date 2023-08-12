@@ -1,0 +1,15 @@
+; 翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+[NarrativeControl_Settings]
+; Strings displayed in the MCM menu
+
+strBradfordNarratives="布拉德福德的叙述"
+strBradfordNarrativesTooltip="全部: 播放全部叙述。 仅环境: 仅播放环境叙述。 无: 用该模组控制叙述。 这些设置不影响过场动画序列"
+strNoGreetingsWhenNarrativePlaying="叙述播放中没有问候语"
+strNoGreetingsWhenNarrativePlayingTooltip="跳过沈和泰根的问候语，当另一个叙述正在播放时"
+strNoNarrativesInGeoscape="大地图中没有叙述"
+strNoNarrativesInGeoscapeTooltip="停止大地图中出现叙述时刻。复仇者号/战术任务/过场动画均不受影响"
+strNoNarrativesAtAll="完全没有叙述"
+strNoNarrativesAtAllTooltip="移除战略层(战术任务以外)的所有叙述"
+strLogNarrativeInfo="记录叙述信息"
+strLogNarrativeInfoTooltip="将叙述信息写入游戏的Launch.log文件中。有助于创建自定义叙述规则。对游戏功能没有影响"

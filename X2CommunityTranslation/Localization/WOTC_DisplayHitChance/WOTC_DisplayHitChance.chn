@@ -1,0 +1,122 @@
+; 翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月17日
+
+[X2Action_ApplyWeaponDamageToUnit_HITCHANCE]
+HIT_CHANCE ="命中";
+CRIT_CHANCE ="暴击";
+DODGE_CHANCE ="闪避";
+MISS_CHANCE ="失误";
+
+SHORT_GUARANTEED_HIT="G.H.";
+SHORT_HIT_CHANCE="H";
+SHORT_MISS_CHANCE="M";
+SHORT_CRIT_CHANCE="C";
+SHORT_DODGE_CHANCE="D";
+
+GUARANTEED_HIT ="一定命中";
+GUARANTEED_MISS ="一定失误";
+
+REPEATER_KILL ="必杀";
+
+FAILED_TEXT = "失败!"
+
+[WOTC_DisplayHitChance_MCMScreen]
+sSettingsPage_MCMText = "扩展信息";
+sPageTitle_MCMText = "扩展信息";
+sGroupGeneralSettings_MCMText = "一般设置";
+sGroupFlyoverSettings_MCMText = "浮动伤害设置";
+sShowHitChance_MCMText = "浮动文字显示命中率";
+sVerboseText_MCMText = "浮动文字显示完整说明";
+sDisplayMissChance_MCMText = "显示失误几率代替命中几率";
+sShowTemplarMessages_MCMText = "浮动文字显示圣殿骑士的格挡、偏斜、反射命中率";
+sShowAimAssist_MCMText = "显示战斗信息";
+; sFlyoverDuration_MCMText = "浮动持续时间";
+sShowGuaranteedHit_MCMText = "显示 '一定命中' 字串";
+
+sGroupShotBar_MCMText = "射击条块设置";
+sBarHeight_MCMText = "条块高度";
+;sBarOffsetX_MCMText = "条块偏移 X";
+;sBarOffsetY_MCMText = "条块偏移 Y";
+sBarAlpha_MCMText = "条块透明度";
+;sBarWidthMult_MCMText = "条块宽度";
+;sGeneralOffsetY_MCMText = "普通偏移 Y";
+;sDodgeOffsetX_MCMText = "闪避偏移 X";
+;sCritOFfsetX_MCMText = "暴击偏移 X";
+;sCritOffsetY_MCMText = "暴击偏移 Y";
+sHitHexColor_MCMText = "命中条块颜色";
+sCritHexColor_MCMText = "暴击条块颜色";
+sDodgeHexColor_MCMText = "闪避条块偏移";
+sMissHexColor_MCMText = "失误条块偏移";
+sGroupShotHUD_MCMText = "射击面板设置";
+sGroupBarColors_MCMText = "条块颜色设置";
+sShowGrazed_MCMText = "射击面板显示擦伤概率";
+sShowCrit_MCMText = "射击面板显示暴击伤害";
+sAimLeftOfCrit_MCMText = "暴击位于条块左端";
+sAssistBesideHit_MCMText = "辅助瞄准位于命中旁";
+sPreviewMinimum_MCMText = "最小伤害预览";
+sPreviewHacking_MCMText = "黑客预览";
+sWarningMessage_MCMText = "请注意，对于偏移量的任何更改，都可能造成显示错误";
+sGrazeCritLayout_MCMText = "擦伤概率和暴击伤害显示布局"
+sAssistHexColor_MCMText = "辅助瞄准颜色";
+
+
+;DEBUG
+sDodgeOffsetY_MCMText = "闪避偏移 Y";
+;DEBUG
+
+
+sBlack = "黑色";
+sWhite = "白色";
+sCyan = "青色";
+sFadedCyan = "淡青";
+sFadedYellow = "淡黄";
+sGray = "灰色";
+sGreen = "绿色";
+sRed = "红色";
+sYellow = "黄色";
+sPerkYellow = "渐变黄";
+sCashGreen = "环境绿";
+sPurple = "紫色";
+sOrange = "橙色";
+sOrangeEngineering = "工业橙";
+sBlueScience = "科技蓝";
+sObjIconBackground = "目标图标背景";
+
+sLayoutLeft = "擦伤爆伤左端放置";
+sLayoutBalanced = "擦伤爆伤两端放置";
+sLayoutRight = "擦伤爆伤右端放置";
+
+sShowAlwaysShotBreakdownHUD_MCMText = "始终显示攻击分析面板";
+sGroupShotWings_MCMText = "攻击分析侧栏设定";
+
+sGroupToolTips_MCMTtext = "提示框设置";
+sToolTipAlpha_MCMText = "提示框背景透明度";
+sShowEnemyToolTip_MCMText = "显示敌人提示框";
+sShowExtraWeaponStats_MCMText = "启用/禁用 武器状态";
+
+
+[WOTC_DisplayHitChance_UITacticalHUD_ShotWings]
+LOWER_DIFFICULTY_MSG = "低难度";
+MISS_STREAK_MSG = "连续失误";
+SOLDIER_LOST_BONUS = "士兵损失";
+CRIT_DAMAGE_LABEL =  "暴击伤害";
+
+
+[WOTC_DisplayHitChance_UITacticalHUD_ShotHUD]
+CRIT_DAMAGE_LABEL="爆伤";
+GRAZE_CHANCE_LABEL="擦伤";
+
+
+[UITacticalHUD_EnemyTooltip_HitChance]
+PrimaryBase = "基础伤害";
+PrimarySpread = "伤害浮动";
+PrimaryPlusOne = "伤害 +1";
+EnemyStatsTitle = "敌人状态";
+
+
+[UITacticalHUD_SoldierInfoTooltip_HitChance]
+KILLS_LABEL = "击杀";
+ASSIST_LABEL = "助攻";
+FLANKING_CRIT_LABEL = "侧翼暴击";
+
+[StatListLib]
+HackDefenseLabel = "黑客防御";
