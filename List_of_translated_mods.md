@@ -1,3 +1,8 @@
+# [WOTC] Musashi's Mods Fixes
+https://steamcommunity.com/sharedfiles/filedetails/?id=2569592723
+
+* Chinese
+
 # [WOTC] Community Promotion Screen
 https://steamcommunity.com/sharedfiles/filedetails/?id=2550561145
 
