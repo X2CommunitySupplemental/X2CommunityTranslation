@@ -1,3 +1,8 @@
+# WOTC Show Tech Path
+https://steamcommunity.com/sharedfiles/filedetails/?id=1207741138
+
+* Chinese
+
 # [WOTC] Full Shadow Report
 https://steamcommunity.com/sharedfiles/filedetails/?id=2995251401
 
