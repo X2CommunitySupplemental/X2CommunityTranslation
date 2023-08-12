@@ -1,0 +1,5 @@
+; 翻译WarLLT1315（暗白） 上传 暗白。最后更新时间2023年7月15日 08:03:59
+
+[ExampleOption SecondWaveOptionObject]
+Tooltip="第二波提示信息"
+Description="第二波说明"

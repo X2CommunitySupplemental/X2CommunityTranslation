@@ -1,0 +1,6 @@
+; 翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+[DPTT_MilitiaStandardShot X2AbilityTemplate]
+LocFriendlyName="武器射击"
+LocHelpText="向目标射击."
+LocLongDescription="主武器射击总是结束一个单位的回合."

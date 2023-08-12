@@ -1,0 +1,91 @@
+; 翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+[MCM_GotchaAgainRedux_Settings]
+
+sSettingsPage_Label = "视线指示扩展"
+sPageTitle_Label = "视线指示扩展/Gotcha Again Redux"
+
+;第一组选项
+sGroupUnitIndicators_Label = "单位视线指示"
+bShowSquadsightHackingIndicator_Label = "显示小队视野内的骇入指示"
+bShowSquadsightHackingIndicator_Tip = "对于有远程骇入能力的士兵，当有正常视距外的清晰视线时，显示可用的骇入指示。"
+bShowSquadsightGremlinIndicator_Label = "显示小队视野内的小精灵指示"
+bShowSquadsightGremlinIndicator_Tip = "在正常视距外有清晰视线的单位上，显示可用小精灵/Bit能力的指示。"
+bShowFriendlyLOSIndicators_Label = "显示友方视线指示"
+bShowFriendlyLOSIndicators_Tip = "显示友方单位的视线指示"
+bShowVIPSpottedByEnemyIndicators_Label = "显示VIP被发现的敌方指示"
+bShowVIPSpottedByEnemyIndicators_Tip = "显示VIP移动将被发现的敌方指示。"
+bShowLoneWolfIndicator_Label = "显示[独狼]的最大距离指示"
+bShowLoneWolfIndicator_Tip = "如果移动单位将在终点位置达到[独狼]技能的最大距离，则在该单位的头上显示指示。需要有LWOTC/兼容的技能。"
+
+;第二组选项
+sGroupObjectiveIndicators_Label = "目标物指示"
+sIconPack_Label ="图标包 : dotvhs2"
+SIconPack_Tip = "选择要用于目标物指示的图标包。\n 此版本只有一个图标包"
+bShowTowerHackingArrows_Label = "生成变种人哨塔指示"
+bShowTowerHackingArrows_Tip = "当发现变种人哨塔时，生成哨塔指示，用于指示是否可以骇入。\n改变此选项后，要到下一个战术任务才能完全生效。"
+bShowTowerHackingArrowsWithoutSight_Label = "始终显示变种人哨塔指示"
+bShowTowerHackingArrowsWithoutSight_Tip = "勾选这个会使哨塔标志在迷雾中也可见。\n改变此选项后，要到下一个战术任务才能完全生效。"
+bHideTowerArrowsAfterHacking_Label = "骇入后隐藏哨塔指示"
+bHideTowerArrowsAfterHacking_Tip = "骇入变种人哨塔后完全移除哨塔指示，而不显示无法再用的骇入指示。\n改变此选项后，要到下一个战术任务才能完全生效。"
+bShowRemoteDoorHackingIndicators_Label = "显示可远程骇入门锁指示"
+bShowRemoteDoorHackingIndicators_Tip = "显示可用小精灵/Bit远程骇入的门锁骇入指示"
+
+;第三组选项
+sGroupGrappleIndicators_Label = "抓钩设置"
+bShowLOSIndicatorsForGrappleDestinations_Label = "使用抓钩时，显示视线指示"
+bShowLOSIndicatorsForGrappleDestinations_Tip = "选择抓钩技能落点时，显示视线指示。"
+bDisableHideObjectiveArrowsWhenUsingGrapple_Label = "关闭隐藏目标指示"
+bDisableHideObjectiveArrowsWhenUsingGrapple_Tip = "使用抓钩技能时关闭隐藏目标指示。"
+bDisableDimHostileUnitFlagsWhenUsingGrapple_Label = "关闭单位标志调光"
+bDisableDimHostileUnitFlagsWhenUsingGrapple_Tip = "使用抓钩技能时关闭敌方单位标志的变暗效果。"
+
+;第四组选项
+sGroupPathingIndicators_Label = "路径点设置"
+bUseCustomPathIndicatorSystem_Label = "使用自选路径点路线指示系统"
+bUseCustomPathIndicatorSystem_Tip = "使用本模组的自选路径点路线指示系统，而不是XCOM2原本的路径点系统。\n该选项是显示移动路径上的各种新指示所必需的。"
+bShowOverwatchTriggers_Label = "显示触发[监视]指示"
+bShowOverwatchTriggers_Tip = "显示将要触发[监视]指示。"
+bShowOverwatchTriggerForSuppression_Label = "显示触发[压制]监视指示"
+bShowOverwatchTriggerForSuppression_Tip = "显示将要触发[压制]监视的指示。"
+bShowActivationTriggers_Label = "显示触发敌群激活指示"
+bShowActivationTriggers_Tip = "当未激活敌群将要被激活时，显示指示。"
+bShowNoiseIndicators_Label = "显示噪声指示"
+bShowNoiseIndicators_Tip = "沿着移动路径，显示破窗/踢门将产生的噪音指示。"
+bShowSmokeIndicator_Label = "显示烟雾指示"
+bShowSmokeIndicator_Tip = "如果有位置被烟雾覆盖，则显示该位置的指示，表示提供防御加成。"
+bShowDelayedDamageIndicator_Label = "显示延迟伤害指示"
+bShowDelayedDamageIndicator_Tip = "如果有位置在活跃的延迟伤害效果范围内，则显示该位置的指示，例如灵能炸弹。"
+bShowHuntersMarkIndicator_Label = "显示猎手[标记]指示"
+bShowHuntersMarkIndicator_Tip = "如果位置在猎手[标记]或敌人杀戮地带的目标范围内，则显示它的指示。"
+
+;第五组选项
+sGroupPeekFromConceal_Label = "从隐蔽处窥视设置"
+DisablePFC_Label = "禁用从隐蔽处窥视"
+DisablePFC_Tip = "手动切换以启用/禁用从隐蔽处窥视，选中[x]表示禁用。"
+HideInHighCover_Label = "允许全掩体窥视"
+HideInHighCover_Tip = "启用后，你可从全掩体中窥视，而不会被察觉到。"
+HideWithHeightAdvantage_Label = "允许屋顶边缘窥视"
+HideWithHeightAdvantage_Tip = "启用后，当你有高度优势时，无法从掩体中被察觉到。\n允许你安全接近屋顶边缘或天窗。"
+HideGroundMarkers_Label = "关闭隐蔽位置标志"
+HideGroundMarkers_Tip = "设置为[x]将关闭所有隐蔽位置图形标志"
+NumGraceTiles_Label = "宽容位置"
+NumGraceTiles_Tip = "你可穿过一些没有隐蔽的位置，而不被发现"
+ExtraDetectionRange_Label = "敌人察觉范围加成"
+ExtraDetectionRange_Tip = "如设置 > 0，将为所有敌人增加指定格数的察觉范围。\n需要重新启动游戏以生效！"
+MinEligibleDetectionRange_Label = "加成的最小察觉范围条件"
+MinEligibleDetectionRange_Tip = "这是[敌人察觉范围加成]的附加选项，设置能获得加成的最小察觉范围条件。主要是为把具有很小察觉范围的平民排除在加成外，因为平民会暴露我方，但又不属于敌方单位。"
+
+;第六组选项
+sGroupMissClickProtection_Label = "误点击保护设置"
+DisableMCP_Label = "禁用误点击保护"
+DisableMCP_Tip = "手动切换以启用/禁用误点击保护，选中[x]表示禁用"
+fAllowClickDelay_Label = "点击地面延迟（秒）"
+fAllowClickDelay_Tip = "延迟以秒为单位，决定光标在地面上悬停多久后，才会允许单位移动到该位置上"
+fCursorOpacity_ClickDisallowed_Label = "延迟光标不透明度 %"
+fCursorOpacity_ClickDisallowed_Tip = "设置延迟计时器运行时的鼠标指针不透明度。"
+
+;第七组选项
+sGroupCheats_Label = "作弊"
+bAlwaysShowPodActivation_Label = "未暴露的敌群激活指示"
+bAlwaysShowPodActivation_Tip = "始终显示敌群激活指示，即使是未暴露的敌人。"

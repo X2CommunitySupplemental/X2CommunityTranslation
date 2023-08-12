@@ -1,0 +1,22 @@
+; 翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+[ISL_Settings]
+; Strings displayed in the MCM menu
+strAvatarPauseMultiplier="化身强制等待时间"
+strAvatarPauseMultiplierTooltip="化身项目更新强制等待的时间百分比。0.0=没有暂停，1.0=与基础游戏相同。如果启用“跳过化身镜头平移”则忽略该项"
+strInstantRoomTransitions="即时房间切换"
+strInstantRoomTransitionsTooltip="复仇者号房间之间即时切换"
+strSkipHologlobeDissolveAnimation="跳过全息地球动画"
+strSkipHologlobeDissolveAnimationTooltip="当放大/缩小全息地球时，跳过动画"
+strSkipAvatarCameraPan="跳过化身镜头平移"
+strSkipAvatarCameraPanTooltip="当化身项目取得进展时，跳过镜头平移和游戏等待"
+strSkipClassIntroMovies="跳过兵种介绍短片"
+strSkipClassIntroMoviesTooltip="跳过每次战役播放一次的新兵种介绍短片。也适用于DLC兵种"
+strSkipArmorIntroMovies="跳过盔甲介绍短片"
+strSkipArmorIntroMoviesTooltip="跳过每次战役播放一次的新盔甲介绍短片"
+strSkipGeoscapeAnimationOnEnter="跳过进入大地图动画"
+strSkipGeoscapeAnimationOnEnterTooltip="跳过进入大地图时播放的明亮动画。它以圆形样式从地图中心向外展开。注意：更改此设置后需重新加载存档"
+strSkipInfoPopups="跳过不必要游戏弹窗（如不了解，不建议开）"
+strSkipInfoPopupsTooltip="跳过无意义信息的弹窗警告。需要阻止的弹窗可在ISL_Settings.ini中配置"
+strDebugLogging="调试日志记录"
+strDebugLoggingTooltip="将MOD的行为记录到Launch.log文件"

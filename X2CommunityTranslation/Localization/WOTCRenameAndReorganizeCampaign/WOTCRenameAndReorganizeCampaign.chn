@@ -1,0 +1,15 @@
+; 翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+[UISaveProperSort]
+m_RenameCampaign="重命名战役"
+m_SaveToCampaign="保存本战役游戏"
+
+[UILoadProperSort]
+m_RenameCampaign="重命名战役"
+m_LoadFromCampaign="载入本战役游戏"
+
+[UISaveLoadItemWithNames]
+m_RenameCampaign="重命名战役"
+
+[UISaveGameCampaignSelectItem]
+m_SelectCampaignLabel="选择战役"

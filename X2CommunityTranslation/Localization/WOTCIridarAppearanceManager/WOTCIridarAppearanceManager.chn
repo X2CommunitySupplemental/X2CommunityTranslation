@@ -1,0 +1,135 @@
+; 翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月25日
+
+[UIManageAppearance]
+PresetDefault = "默认"
+PresetUniform = "制服"
+PresetEntireUnit = "整个单位"
+PresetPatterns = "颜色及样式"
+PresetNothing = "无"
+
+strApplyTo = "应用于"
+strApplyChangesButton = "应用更改"
+strApplyChangesButtonDisabled = "没有要应用的更改。从右边的列表中选择外观，并在左边的列表中启用外观装饰选项。"
+
+strApplyToThisUnit = "该单位"
+strApplyToThisUnitTip = "如果启用，外观更改将应用于该特定单位。"
+strApplyToSquadTip = "如果启用，外观更改将应用于当前小队中的所有单位。"
+strApplyToBarracksTip = "如果启用，外观更改将应用于军营中的所有单位，不包括小队中的单位和该单位。"
+strApplyToCPTip = "如果启用，外观更改将应用于角色库中的所有单位，不包括此单位。"
+
+strFiltersTitle = "过滤器"
+
+strSelectAppearanceTitle = "选择外观"
+strSearchTitle = "搜索"
+strNoArmorTemplateError = "护甲过滤器已禁用。原因：找不到这个单位装备的护甲。"
+
+strOriginalAppearance = "原始外观"
+strUniformsTitle = "制服"
+
+strExitScreenPopupTitle = "确认退出"
+strExitScreenPopupText = "外观更改尚未应用。您确定要退出此界面吗？\n\n注意：单击屏幕底部中央的 \"应用更改\" 按钮以应用外观更改。"
+strExitScreenPopup_Leave = "退出且不做更改"
+strExitScreenPopup_Stay = "停留在此界面"
+
+strShowAllOptions = "显示所有选项"
+
+strNotAvailableInCharacterPool = "在角色库当中不可用"
+strSameGenderRequired = "由于与所选外观的性别不匹配，此外观选项被锁定。"
+strCopyPreset = "复制预设"
+strCopyPresetButtonDisabled = "预设只能复制到默认预设中。"
+strDeletePreset = "删除预设"
+strCannotDeleteThisPreset = "如果没有此预设，MOD将无法运行，无法删除预设。"
+
+strConfirmApplyChangesTitle = "应用更改？"
+strConfirmApplyChangesText = "注意！您将对 %NUM_UNITS% 单位应用外观更改。确定要继续吗？"
+
+strCreatePreset = "创建预设"
+strCreatePresetTitle = "输入新的预设名称："
+strCreatePresetText = "_复制"
+
+strDuplicatePresetDisallowedTitle = "添加新预设失败！"
+strDuplicatePresetDisallowedText = "具有该名称的预设已经存在。操作终止。"
+strInvalidPresetNameText = "无效的预设名称。操作终止。"
+
+strSaveAsUniform = "另存为制服"
+strEnterUniformName = "填写制服的名称："
+
+strFailedToCreateUnitTitle = "错误！"
+strFailedToCreateUnitText = "使用角色模版创建制服单位失败："
+
+strInvalidEmptyUniformNameTitle = "无效的制服名称"
+strInvalidEmptyUniformNameText = "制服名称不能为空。"
+
+strRacePrefix = "种族"
+
+[X2BackupPoolLoader]
+strLoadBackupTitle = "从备份中还原角色库？"
+strLoadBackupText = "外观管理器检测到您的角色库或其额外数据已丢失。当前士兵数量：%CURRENT_SOLDIERS%，当前额外数据：%CURRENT_DATA%。\n\n一个角色库备份可用。它包括 %BACKUP_SOLDIERS% 名士兵和 %BACKUP_DATA% 额外数据。是否要从该备份中恢复您的角色库？\n\n如果您接受，备份将完全覆盖您当前的角色库。\n如果现在不恢复角色库，保存角色库时，该备份文件本身可能会被覆盖，每当对其进行任何更改时都会发生这种情况。"
+
+[UISL_AppearanceManager]
+
+strManageAppearance = "管理外观"
+strStoredAppearance = "已存储外观"
+strStoredAppearanceDisabled = "注意: Iridar's Appearance Manager模组的外观存储功能已被禁用，因您同时启用了Unrestricted Customization模组，其他功能仍可兼容运行。"
+
+strConvertButtonTitle = "转换"
+
+strConverToUniform = "转换为制服"
+strConvertToSoldier = "转换到士兵"
+
+strVadlidateAppearance = "验证外观"
+strVadlidateAppearanceButton = "验证"
+
+strConfigureUniform = "配置制服"
+strUniformSoldierFirstName = "制服"
+
+strAutoManageUniformForUnitTitle = "制服管理"
+strAutoManageUniformForUnit[0] = "全局设置"
+strAutoManageUniformForUnit[1] = "始终自动应用制服"
+strAutoManageUniformForUnit[2] = "绝不自动应用制服"
+
+strUniformStatusTitle = "制服管理"
+;strUniformStatus[0] = "不是制服" - 实际上没有显示。
+strUniformStatus[0] = "不会自动应用制服"
+strUniformStatus[1] = "制服适用于任何士兵职业"
+strUniformStatus[2] = "制服适用于同一士兵职业"
+strUniformStatus[3] = "制服适用于非士兵角色"
+
+;strUniformStatus[0] = "<font color='#27aae1'>不会自动应用制服</font>" ; blue
+;strUniformStatus[1] = "<font color='#53b45e'>制服适用于任何士兵职业</font>" ; green
+;strUniformStatus[2] = "<font color='#fdce2b'>制服适用于同一士兵职业</font>" ; yellow
+;strUniformStatus[3] = "<font color='#bf1e2e'>制服适用于非士兵角色</font>" ; red
+
+strUniformUnitTypes = "选择非士兵角色"
+
+[AM_MCM_Screen]
+ModName = "外观管理器"
+PageTitle = "Iridar的外观管理器"
+GroupHeader = "常规设置"
+
+DISABLE_APPEARANCE_VALIDATION_REVIEW_Label = "正常模式下禁用外观验证"
+DISABLE_APPEARANCE_VALIDATION_REVIEW_Tip = "如果你在游戏运行时缺少某些装饰物MOD，游戏通常会调用存在的其他装饰物，自动填补单位缺失的装饰物部件。此设置允许禁用该功能，以便您的角色库单位可以保留其残缺/原本外观。此设置会影响正常模式下的游戏，即影响你用\"-review\"(非开发模式)启动参数启动时。"
+
+DISABLE_APPEARANCE_VALIDATION_DEBUG_Label = "调试模式下禁用外观验证"
+DISABLE_APPEARANCE_VALIDATION_DEBUG_Tip = "如果你在游戏运行时缺少某些装饰物MOD，游戏通常会调用存在的其他装饰物，自动填补单位缺失的装饰物部件。此设置允许禁用该功能，以便您的角色库单位可以保留其残缺/原本外观。此设置会影响调试模式下的游戏，即影响你没用\"-review\"(非开发模式)启动参数启动时。"
+
+DEBUG_LOGGING_Label = "启用调试日志"
+DEBUG_LOGGING_Tip = "如果启用，MOD会将调试信息写入到日志文件中，该文件位于：\n..\\Documents\\my games\\XCOM2 War of the Chosen\\XComGame\\Logs\\Launch.log"
+
+REMEMBER_SCROLLBAR_POSITION_IN_CHARACTER_POOL_Label = "记住角色库的滚动条位置"
+REMEMBER_SCROLLBAR_POSITION_IN_CHARACTER_POOL_Tip = "如果启用，MOD将记住角色库中的滚动条位置。这将方便管理你的庞大角色库。"
+
+AUTOMATIC_UNIFORM_MANAGEMENT_Label = "默认启用自动制服管理"
+AUTOMATIC_UNIFORM_MANAGEMENT_Tip = "如果启用，当士兵首次装载护甲或晋升二等兵时，MOD将自动为其应用制服。这些制服必须预先在角色库中创建和配置。也可在外观自定义界面为每个士兵单独配置。"
+
+MANAGE_APPEARANCE_2D_Label = "以2D显示管理外观界面"
+MANAGE_APPEARANCE_2D_Tip = "使外观管理界面呈现在士兵模型的前面，而不是后面"
+
+MULTIPLE_UNIT_CHANGE_REQUIRES_CONFIRMATION_Label = "需要确认才可将更改应用到多个单位"
+MULTIPLE_UNIT_CHANGE_REQUIRES_CONFIRMATION_Tip = "如果启用，外观管理器将在您单击 \"应用更改\" 时显示弹窗（这将导致多个单位的外观同时变化）"
+
+[Help]
+strCurrentAppearance = "（当前）"
+
+[UIManageAppearance_Uniform]
+strGenderDisabled = "制服须适配单位的性别。禁止改变性别。"
