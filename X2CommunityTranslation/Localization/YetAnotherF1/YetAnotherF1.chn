@@ -1,0 +1,19 @@
+; 翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月17日
+
+[YAF1_UIUnitInfo]
+m_strEnemyInfo="敌人信息"
+m_strSoldierInfo="士兵信息"
+m_strNotAUnit="不是有效目标"
+m_strNoInfoAvailable="没有可用信息"
+
+m_strPassives="被动BUFF"
+
++LockedTitles="0xXXXXXXXX"
++LockedDescriptions="0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX"
++LockedDescriptions="0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX"
++LockedDescriptions="0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX"
+m_strCensoredStat="0xXX"
+m_strAlphabet="1234567890ABCDEF"
+
+[YAF1_UIWeaponPanel]
+m_strInfinitySymbol=∞
