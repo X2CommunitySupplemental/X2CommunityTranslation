@@ -1,3 +1,8 @@
+# Better Second Wave Mod Support
+https://steamcommunity.com/sharedfiles/filedetails/?id=1149493976
+
+* Chinese
+
 # [WotC] Mod Config Menu
 https://steamcommunity.com/sharedfiles/filedetails/?id=667104300
 
