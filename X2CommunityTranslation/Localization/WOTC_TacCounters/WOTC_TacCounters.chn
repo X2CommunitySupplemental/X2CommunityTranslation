@@ -1,0 +1,67 @@
+; 翻译 The Greater Good 上传 暗白。最后更新2023年7月15日 08:55:57
+
+[RustyCounter_UI]
+strKilled="已击杀："
+strActive="交战中："
+strTotal="总计："
+strRemaining="剩余："
+
+;=================================================================
+
+[UISL_Shell_RustyTacCounter]
+strMessage_Title = "[WOTC]战术击杀计数器增强版 Tactical UI Kill Counter Redux"
+strMessage_Header = "警告：配置文件已重置！"
+strMessage_Body = "已经创建了新的或更新了 <font color='#53B45E'>[WOTC] 战术击杀计数器增强版</font> 的配置文件。<br/><br/>如果这是首次安装，您需要重新启动XCOM2，否则它将崩溃！<br/><br/>你需要重新设置你的MCM配置。"
+strDismiss_Button = "确认"
+
+;=================================================================
+[RustyCounter_Settings]
+Group1_Label = "常规设置"
+
+alwaysShowActiveEnemyCount_Label = "始终显示交战中的敌人数量"
+alwaysShowActiveEnemyCount_Tooltip = 如果设置为false，则永远不会显示交战中敌人总数。"
+
+showSplitTeamsActive_Label = "对交战中的敌人按派系分别计数"
+showSplitTeamsActive_Tooltip = "有些人喜欢这样，有些人喜欢那样。将其设置为false，计数器会显示所有敌人的一个总数；将其设置为true，则按照不同的派系分别显示计数器。总数模式下没有颜色分类效果。"
+
+showSplitTeamsKilled_Label = "对已击杀的敌人按派系分别计数"
+showSplitTeamsKilled_Tooltip = "有些人喜欢这样，有些人喜欢那样。将其设置为false，计数器会显示所有敌人的一个总数；将其设置为true，则按照不同的派系分别显示计数器。总数模式下没有颜色分类效果。"
+
+neverShowEnemyTotal_Label = "永不显示敌人总数"
+neverShowEnemyTotal_Tooltip = "将此设置为true将永远不会向您显示任务中敌人的总数或剩余数量，即使您没有权限访问这些信息。"
+
+alwaysShowEnemyTotal_Label = "总是显示敌人总数"
+alwaysShowEnemyTotal_Tooltip = "与上面的完全相反——将它设置为true，即使你还没有建造暗影舱，你也会得到敌人总数或敌人剩余数量。请注意，这将覆盖上面的“永不”设置 - “总是”这个设置是最优先的。"
+
+locationScoutShowsTotal_Label = "地区侦查会显示敌人总数"
+locationScoutShowsTotal_Tooltip = "设置为true，即使你还没有建造暗影舱，只要 '地区侦查' 生效，你就会得到敌人总数或剩余数量。"
+
+showRemainingInsteadOfTotal_Label = "显示剩余而不是总数"
+showRemainingInsteadOfTotal_Tooltip = "有些人喜欢这样，有些人喜欢那样。设置为false，计数器当中会显示敌人的总数，设置为ture，则会显示敌人剩余的数量。"
+
+includeTurrets_Label = "包括炮塔"
+includeTurrets_Tooltip = "由于炮塔不计入任务结束时的 ‘击杀总数’ ，因此我们默认情况下也不将它们包括在内。如果您愿意，可以启用计数功能。"
+
+showXCOMcounts_Label = "包括XCOM单位"
+showXCOMcounts_Tooltip = "如果按派系分别计数，则计数器中会包括XCOM单位的计数"
+
+;================================
+Group2_Label = "UI 设置"
+
+noColor_Label = "无颜色分类"
+noColor_Tooltip = "禁用计数器的颜色分类，强制所有敌方单位作为一个派系进行统计。"
+
+textAlignment_Label = "文本对齐"
+textAlignment_Tooltip = "文本如何与‘文本框’对齐。"
+
+autoAdjust_Label = "自动避开倒计时"
+autoAdjust_Tooltip = "有任务倒计时或撤离倒计时的时候，自动调整计数器的Y轴方位。"
+
+BoxAnchor_Label = "文本框定位点"
+BoxAnchor_Tooltip = "‘文本框’(容纳文本)锚定在屏幕(整个屏幕)上的初始位置。\n可能的值(直接来自ui utilities)：\n0 (ANCHOR_NONE)\n1 (ANCHOR_TOP_LEFT)\n2 (ANCHOR_TOP_CENTER)\n3 (ANCHOR_TOP_RIGHT)\n4 (ANCHOR_MIDDLE_LEFT)\n5 (ANCHOR_MIDDLE_CENTER)\n6 (ANCHOR_MIDDLE_RIGHT)\n7 (ANCHOR_BOTTOM_LEFT)\n8 (ANCHOR_BOTTOM_CENTER)\n9 (ANCHOR_BOTTOM_RIGHT)"
+
+OffsetX_Label = "X轴偏移"
+OffsetX_Tooltip = "在X轴上，水平方向上‘文本框’应该从其定位点偏移多少。"
+
+OffsetY_Label = "Y轴偏移"
+OffsetY_Tooltip = "在Y轴上，垂直方向上‘文本框’应该从其定位点偏移多少。"
