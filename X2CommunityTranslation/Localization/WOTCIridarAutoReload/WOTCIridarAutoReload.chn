@@ -1,0 +1,16 @@
+; 翻译来源 WOTC Chinese Translation Mods 更新时间 2023年7月20日
+
+[WOTCIridarAutoReload_MCMScreen]
+
+ModName = "自动重新装弹"
+PageTitle = "自动重新装弹/Automatic Reload"
+GroupHeader = "常规设置"
+
+DISABLE_AUTOMATIC_RELOAD_Label = "禁用自动重新装弹"
+DISABLE_AUTOMATIC_RELOAD_Tip = "如果自动重新装弹无法使某些能力正常交互，请使用请使用此设置暂时禁用自动重新装弹。此设置立即生效。"
+
+AFFECT_AI_UNITS_Label = "影响AI单位"
+AFFECT_AI_UNITS_Tip = "如果启用，由AI控制的单位也将应用自动重新装弹。"
+
+DEBUG_LOGGING_Label = "启用调试日志记录"
+DEBUG_LOGGING_Tip = "如果启用，模组将把调试消息写入到日志文件中，该文件位于:\n..\\Documents\\my games\\XCOM2 War of the Chosen\\XComGame\\Logs\\Launch.log"
