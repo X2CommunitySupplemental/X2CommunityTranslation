@@ -224,3 +224,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1122974240
 https://steamcommunity.com/sharedfiles/filedetails/?id=2567230730
 
 * french
+
+# [WOTC] Iridar's ADVENT Arsenal - Ghost Templates
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2438647615
+
+* Simplified Chinese
