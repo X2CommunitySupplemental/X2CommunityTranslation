@@ -1,0 +1,82 @@
+[IRI_Advent_Rifle_M2 X2WeaponTemplate]
+FriendlyName="变种人战斗步枪"
+FriendlyNamePlural="变种人战斗步枪"
+BriefSummary="一种变种人步兵的常规武器，双管战斗步枪具有更大的火力，使其比变种人城市巡逻队使用的廉价批量生产的磁力武器更危险."
+TacticalText="一种变种人步兵的常规武器，双管战斗步枪具有更大的火力，使其比变种人城市巡逻队使用的廉价批量生产的磁力武器更危险."
+AbilityDescName="步枪"
+
+[IRI_Advent_Rifle_M2_Schematic X2SchematicTemplate]
+m_strClassLabel="小队"
+
+[IRI_Advent_Rifle_M3 X2WeaponTemplate]
+FriendlyName="变种人电浆步枪"
+FriendlyNamePlural="变种人电浆步枪"
+BriefSummary="变种人电浆步枪仅由变种人精锐部队使用，它能够发射一整排灼热的红色电浆而不会过热."
+TacticalText="变种人电浆步枪仅由变种人精锐部队使用，它能够发射一整排灼热的红色电浆而不会过热."
+AbilityDescName="步枪"
+
+[IRI_Advent_Rifle_M3_Schematic X2SchematicTemplate]
+m_strClassLabel="小队"
+
+
+[IRI_Advent_Shotgun_M2 X2WeaponTemplate]
+FriendlyName="变种人防暴霰弹枪"
+FriendlyNamePlural="变种人防暴霰弹枪"
+BriefSummary="通常由变种人先锋部队和重步兵使用，防暴霰弹枪是一种危险的近距离武器."
+TacticalText="通常由变种人先锋部队和重步兵使用，防暴霰弹枪是一种危险的近距离武器."
+AbilityDescName="霰弹枪"
+
+[IRI_Advent_Shotgun_M2_Schematic X2SchematicTemplate]
+m_strClassLabel="游骑兵"
+
+[IRI_Advent_Shotgun_M3 X2WeaponTemplate]
+FriendlyName="变种人电浆霰弹枪"
+FriendlyNamePlural="变种人电浆霰弹枪"
+BriefSummary="变种人电浆霰弹枪基于与磁性霰弹枪相同的磁加速技术，但它额外加热了其合金碎片弹药，确实地烧穿目标."
+TacticalText="变种人电浆霰弹枪基于与磁性霰弹枪相同的磁加速技术，但它额外加热了其合金碎片弹药，确实地烧穿目标.."
+AbilityDescName="霰弹枪"
+
+[IRI_Advent_Shotgun_M3_Schematic X2SchematicTemplate]
+m_strClassLabel="游骑兵"
+
+
+[IRI_Advent_SniperRifle_M2 X2WeaponTemplate]
+FriendlyName="变种人长矛"
+FriendlyNamePlural="变种人长矛"
+BriefSummary="似乎是基于缩小版的变种人攻城加农炮设计，长矛比任何变种人自动武器都有更大的射程和精度."
+TacticalText="似乎是基于缩小版的变种人攻城加农炮设计，长矛比任何变种人自动武器都有更大的射程和精度."
+AbilityDescName="狙击步枪"
+
+[IRI_Advent_SniperRifle_M2_Schematic X2SchematicTemplate]
+m_strClassLabel="神枪手"
+
+[IRI_Advent_SniperRifle_M3 X2WeaponTemplate]
+FriendlyName="变种人电浆长矛"
+FriendlyNamePlural="ADVENT Plasma Lance"
+BriefSummary="电浆长矛升级了红色电浆电芯，在伤害和精度上都比变种人长矛有了显著的改进."
+TacticalText="电浆长矛升级了红色电浆电芯，在伤害和精度上都比变种人长矛有了显著的改进."
+AbilityDescName="狙击步枪"
+
+[IRI_Advent_SniperRifle_M3_Schematic X2SchematicTemplate]
+m_strClassLabel="神枪手"
+
+
+[IRI_Advent_SonicRifle X2WeaponTemplate]
+FriendlyName="变种人声波步枪"
+FriendlyNamePlural="变种人声波步枪"
+BriefSummary="看起来声波步枪的预期目的是安抚和削弱，但长时间暴露在其最大输出下与“常规”火器发射一样致命."
+TacticalText="看起来声波步枪的预期目的是安抚和削弱，但长时间暴露在其最大输出下与“常规”火器发射一样致命."
+AbilityDescName="声波步枪"
+
+[IRI_Advent_SonicRifle_Schematic X2SchematicTemplate]
+m_strClassLabel="小队"
+
+[IRI_Advent_SonicCannon X2WeaponTemplate]
+FriendlyName="变种人声波加农炮"
+FriendlyNamePlural="变种人声波加农炮"
+BriefSummary="作为声波步枪的重型版本，声波加农炮全面增加了输出，并且需要更少的时间来实现其致命和非致命的效果."
+TacticalText="作为声波步枪的重型版本，声波加农炮全面增加了输出，并且需要更少的时间来实现其致命和非致命的效果."
+AbilityDescName="声波加农炮"
+
+[IRI_Advent_SonicRifle_Schematic X2SchematicTemplate]
+m_strClassLabel="榴弹兵"
