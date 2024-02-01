@@ -74,7 +74,7 @@ If needed, you can add more folders after ModName.
   
 ![Instruction_5b](https://raw.githubusercontent.com/X2CommunitySupplemental/X2CommunityTranslation/main/Img/Instruction_5b.png)
 
-10. Click **[this link](https://github.com/X2CommunitySupplemental/X2CommunityTranslation/edit/main/List_of_translated_mods.md)** to edit the file with the list of translated mods.
+9. Click **[this link](https://github.com/X2CommunitySupplemental/X2CommunityTranslation/edit/main/List_of_translated_mods.md)** to edit the file with the list of translated mods.
 
 If the list doesn't already have an entry for the mod that you have added translation for, then add it. 
 The entry needs to contain the mod's workshop name, prefaced with a `#` symbol, and a workshop link to the mod on the next line, followed by an empty line.
@@ -83,13 +83,13 @@ Then add the language you have added translation for to the list of languages un
 
 ![Instruction_6](https://raw.githubusercontent.com/X2CommunitySupplemental/X2CommunityTranslation/main/Img/Instruction_6.png)
 
-9. Same as before, click "Commit changes", but this time do not change the commit message. Once again, click "Propose changes".
+10. Same as before, click "Commit changes", but this time do not change the commit message. Once again, click "Propose changes".
 
 ![Instruction_7](https://raw.githubusercontent.com/X2CommunitySupplemental/X2CommunityTranslation/main/Img/Instruction_7.png)
 
 Then click "Create pull request" on both of the next pages.
 
-10. All done. Wait for maintainers to review your pull request and upload the update to Steam Workshop. This process may take a few days.
+11. All done. Wait for maintainers to review your pull request and upload the update to Steam Workshop. This process may take a few days.
 
 ## How do I update an existing translation?
 
