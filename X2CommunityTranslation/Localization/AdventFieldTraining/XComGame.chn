@@ -1,0 +1,54 @@
+[AdvTrainingOfficerM1 X2CharacterTemplate]
+strCharacterName="训练士官"
+
+[AdvTrainingOfficerM2 X2CharacterTemplate]
+strCharacterName="高级训练士官"
+
+[AdvTrainingOfficerM3 X2CharacterTemplate]
+strCharacterName="精英训练士官"
+
+
+[AdventFieldTraining X2SitRepTemplate]
+FriendlyName="变种人训练测试"
+Description="变种人正在此地进行训练测试。"
+
+[AdventFieldTrainingEffect X2SitRepEffect_ModifyDefaultEncounterLists]
+FriendlyName="变种人训练测试"
+Description="变种人军团正在利用这次机会训练一些新兵。在战场上，可能会有多名训练官与新招募的变种人士兵在一起。指挥官，这也许是派遣我们的新兵到战场上历练的最佳时机。"
+
+
+[TrainingInfluenceM1 X2AbilityTemplate]
+LocFriendlyName="影响力"
+LocHelpText="训练士官可以通过他的影响力提升较低级别的变种人单位。这些单位在机动性、攻击和防御方面都会获得属性提升。"
+LocLongDescription="训练士官可以通过他的影响力提升较低级别的变种人单位。这些单位在机动性、攻击和防御方面都会获得属性提升。"
+LocFlyOverText="专心，并记住你的训练!!"
+
+[TrainingInfluenceM2 X2AbilityTemplate]
+LocFriendlyName="影响力"
+LocHelpText="训练士官可以通过他的影响力提升较低级别的变种人单位。这些单位在机动性、攻击和防御方面都会获得属性提升。"
+LocLongDescription="训练士官可以通过他的影响力提升较低级别的变种人单位。这些单位在机动性、攻击和防御方面都会获得属性提升。"
+LocFlyOverText="为长老死战不休!!"
+
+[TrainingInfluenceM3 X2AbilityTemplate]
+LocFriendlyName="影响力"
+LocHelpText="训练士官可以通过他的影响力提升较低级别的变种人单位。这些单位在机动性、攻击和防御方面都会获得属性提升。"
+LocLongDescription="训练士官可以通过他的影响力提升较低级别的变种人单位。这些单位在机动性、攻击和防御方面都会获得属性提升。"
+LocFlyOverText="保持警戒，毫不退让!!"
+
+[CallAdvInTrainingM1 X2AbilityTemplate]
+LocFriendlyName="变种人支援"
+LocLongDescription="呼叫变种人支援。"
+LocHelpText="呼叫变种人支援。"
+LocFlyOverText="给我更多士兵!"
+
+[CallAdvInTrainingM2 X2AbilityTemplate]
+LocFriendlyName="变种人支援"
+LocLongDescription="呼叫变种人支援。"
+LocHelpText="呼叫变种人支援。"
+LocFlyOverText="给我更多士兵!"
+
+[CallAdvInTrainingM3 X2AbilityTemplate]
+LocFriendlyName="变种人支援"
+LocLongDescription="呼叫变种人支援。"
+LocHelpText="呼叫变种人支援。"
+LocFlyOverText="给我更多士兵!"
