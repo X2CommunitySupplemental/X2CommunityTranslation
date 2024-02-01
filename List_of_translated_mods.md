@@ -236,3 +236,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2438647615
 https://steamcommunity.com/sharedfiles/filedetails/?id=1126501968
 
 * Chinese
+
+# [WOTC] Advent Field Training
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1658110374
+
+* Chinese
