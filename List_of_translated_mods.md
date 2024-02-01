@@ -230,3 +230,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2567230730
 https://steamcommunity.com/sharedfiles/filedetails/?id=2438647615
 
 * Simplified Chinese
+
+# [WoTC]ADVENT Sniper
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1126501968
+
+* Chinese
