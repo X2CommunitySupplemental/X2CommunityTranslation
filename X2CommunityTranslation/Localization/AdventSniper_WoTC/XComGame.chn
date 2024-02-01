@@ -1,0 +1,79 @@
+[AdventSniperM1 X2CharacterTemplate]
+strCharacterName="变种人狙击手"
+
+[AdventSniperM2 X2CharacterTemplate]
+strCharacterName="高级狙击手"
+
+[AdventSniperM3 X2CharacterTemplate]
+strCharacterName="精英狙击手"
+
+[AdventSniperM1_WPN X2WeaponTemplate]
+FriendlyName="变种人磁力狙击步枪"
+BriefSummary="XCOM设法打捞到各种标准步兵小型武器；这是最常见的种类，类似于二十年前使用的步枪。虽然明显逊色于变种人的磁技术，但至少可以利用额外的武器残骸进行升级，一旦确定了标准的技术方法。"
+TacticalText="<Bullet/> 发射主要武器总是结束士兵的回合\n<Bullet/> 如果士兵使用两个行动点开火，将进行三次射击，准确性降低，但总体效率提高\n<Bullet/> 使用从敌人掠夺的升级物品，以提高突击步枪的战术效力。"
+
+[AdventSniperM2_WPN X2WeaponTemplate]
+FriendlyName="变种人磁力狙击步枪"
+BriefSummary="XCOM设法打捞到各种标准步兵小型武器；这是最常见的种类，类似于二十年前使用的步枪。虽然明显逊色于变种人的磁技术，但至少可以利用额外的武器残骸进行升级，一旦确定了标准的技术方法。"
+TacticalText="<Bullet/> 发射主要武器总是结束士兵的回合\n<Bullet/> 如果士兵使用两个行动点开火，将进行三次射击，准确性降低，但总体效率提高\n<Bullet/> 使用从敌人掠夺的升级物品，以提高突击步枪的战术效力。"
+  
+[AdventSniperM3_WPN X2WeaponTemplate]
+FriendlyName="变种人磁力狙击步枪"
+BriefSummary="XCOM设法打捞到各种标准步兵小型武器；这是最常见的种类，类似于二十年前使用的步枪。虽然明显逊色于变种人的磁技术，但至少可以利用额外的武器残骸进行升级，一旦确定了标准的技术方法。"
+TacticalText="<Bullet/> 发射主要武器总是结束士兵的回合\n<Bullet/> 如果士兵使用两个行动点开火，将进行三次射击，准确性降低，但总体效率提高\n<Bullet/> 使用从敌人掠夺的升级物品，以提高突击步枪的战术效力。"
+
+
+[AdvSniperStandardFire X2AbilityTemplate]
+LocFriendlyName="开火"
+LocHelpText="瞄准，射击。"
+LocLongDescription="<Bullet/> 狙击步枪在远距离上强大而精准，但始终需要两个行动点才能开火<br><Bullet/>发射主要武器总是结束士兵的回合<br>"
+
+[AdvSniperRifleOverwatch X2AbilityTemplate]
+LocFriendlyName="监视"
+LocHelpText="对于第一个进入你视线范围内移动的敌人开火，但命中率会有一定的惩罚。"
+LocLongDescriptionWhenConcealed="只有在暴露的情况下，对于第一个进入你视线范围内移动的敌人开火。"
+LocFlyOverText="监视"
+LocFriendlyNameWhenConcealed="Overwatch (Concealed)"
+
+[AdvSniperSquadsight X2AbilityTemplate]
+LocFriendlyName="小队视野"
+LocLongDescription="变种人狙击手可以瞄准在队友视野内的敌人，只要有一条通向目标的视线。"
+LocHelpText="变种人狙击手可以瞄准在队友视野内的敌人，前提是有通向目标的视线。"
+LocFlyOverText="小队视野"
+
+[AdvSniperLongWatch X2AbilityTemplate]
+LocFriendlyName="守望"
+LocLongDescription="允许小队视野触发监视。"
+LocHelpText="对于第一个进入你视线范围内移动的敌人开火，但命中率会有一定的惩罚。 (在小队视野的范围内)"
+LocLongDescriptionWhenConcealed="在你的视线范围内（在小队视野的范围内）的第一个移动的敌人开火，但仅在你暴露的情况下。"
+LocFlyOverText="守望"
+
+[AdvSniperLongWatchShot X2AbilityTemplate]
+LocFriendlyName="守望射击"
+
+[CorpseAdventSniper X2ItemTemplate]
+FriendlyName="变种人狙击手尸体"
+FriendlyNamePlural="变种人狙击手尸体"
+BriefSummary="虽然与变种人突击队员长相类似，但变种人狙击手的眼睛已经被一种未知的物质调整，很可能是为了提高他们的瞄准能力。" 
+
+[AutopsyAdventSniper X2TechTemplate]
+DisplayName="解剖变种人狙击手"
+Summary="变种人狙击手是变种人部队的最新变体。通过为他们配备一把能够在极远距离射击的磁力狙击步枪，提升了外星生物的远程火力。"
+CodeName="Simo"
+LongDescription="ADVENT狙击手在大多数情况下与ADVENT突击队员完全相同，然而我们发现了一种未知物质存在于他们的眼睛中。这种物质从瞳孔一直传播到视神经。我们不确定这种特殊物质是如何产生的，也无法复制它。经过进一步研究，我们得出结论，这种物质有助于用户更专注，超过他们的ADVENT盟友，很可能也超过他们的外星统治者。它还改善了他们的视力，我们相信ADVENT狙击手能够察觉数十公里外最微小的动静。这些狙击手是外星人最新的部署，因为在入侵期间没有发现狙击手。他们的武器类似于ADVENT突击步枪，只是在武器瞄准镜方面有着巨大的改进。"
+AlertString="变种人狙击手"
+
+[AdventSniperM1_XCOM X2WeaponTemplate]
+FriendlyName="预兆步枪"
+BriefSummary="变种人狙击手使用的狙击步枪。它具有出色的模块化结构，使我们的士兵能够一开始就装备三个升级。利用变种人采用的磁技术，这显然是从我们传统步枪中的升级。"
+TacticalText="<Bullet/> 狙击步枪需要两个行动点才能开火。\n<Bullet/> 在近距离射击时，狙击步枪的命中率会受到惩罚。\n<Bullet/> 狙击步枪使用磁性弹药，并且可以装备三种武器升级。"
+
+[AdventSniperM2_XCOM X2WeaponTemplate]
+FriendlyName="高级预兆步枪"
+BriefSummary="变种人狙击手使用的狙击步枪。它具有出色的模块化结构，使我们的士兵能够一开始就装备三个升级。利用变种人采用的磁技术，这显然是从我们传统步枪中的升级。"
+TacticalText="<Bullet/> 狙击步枪需要两个行动点才能开火。\n<Bullet/> 在近距离射击时，狙击步枪的命中率会受到惩罚。\n<Bullet/> 狙击步枪使用磁性弹药，并且可以装备三种武器升级。"
+
+[AdventSniperM3_XCOM X2WeaponTemplate]
+FriendlyName="顶级预兆步枪"
+BriefSummary="变种人狙击手使用的狙击步枪。它具有出色的模块化结构，使我们的士兵能够一开始就装备三个升级。利用变种人采用的磁技术，这显然是从我们传统步枪中的升级。"
+TacticalText="<Bullet/> 狙击步枪需要两个行动点才能开火。\n<Bullet/> 在近距离射击时，狙击步枪的命中率会受到惩罚。\n<Bullet/> 狙击步枪使用磁性弹药，并且可以装备三种武器升级。\n<Bullet/>穿透一点护甲。"
