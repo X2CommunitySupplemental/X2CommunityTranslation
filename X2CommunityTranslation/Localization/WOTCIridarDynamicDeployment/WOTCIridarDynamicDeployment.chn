@@ -1,0 +1,47 @@
+[Help]
+IRI_DynamicDeployment_ArmoryLabel = "动态部署"
+IRI_DynamicDeployment_UnlockLabel = "解锁"
+IRI_DynamicDeployment_UnlockedLabel = "已解锁"
+IRI_DynamicDeployment_NotEnoughAP = "没有足够的能力点"
+
+IRI_DynamicDeployment_MutuallyExclusiveUnlock = "与互相排斥："
+
+IRI_DynamicDeployment_DeployingStatus = "部署中"
+
+IRI_DD_CannotDDEntireSquad_Text = "不能动态部署整个小队，必须至少正常部署一名士兵。"
+
+[WOTCIridarDynamicDeployment_MCMScreen]
+
+ModName = "动态部署"
+PageTitle = "Dynamic Deployment by Iridar"
+GroupHeader4 = "界面设置"
+GroupHeader1 = "部署设置"
+GroupHeader2 = "经济系统"
+GroupHeader3 = "其他"
+
+SQUAD_MUST_SEE_TILE_Label = "小队必须看到部署区"
+SQUAD_MUST_SEE_TILE_Tip = "如果启用，小队中必须至少有一名士兵能看到所选的部署区域。您将无法在战争迷雾内选择部署区域。"
+
+DEPLOY_CAST_RANGE_TILES_Label = "部署范围"
+DEPLOY_CAST_RANGE_TILES_Tip = "此设置决定了部署信号弹或信标的最大投掷范围。使用数字上行链路时，最大范围始终为 18 格。"
+
+DD_DEPLOY_IS_FREE_ACTION_Label = "部署是一个自由行动"
+DD_DEPLOY_IS_FREE_ACTION_Tip = "如果启用，为动态部署指定部署区域将不会消耗任何操作点数。"
+
+DD_DEPLOY_ENDS_TURN_Label = "部署结束回合"
+DD_DEPLOY_ENDS_TURN_Tip = "如果启用，指定部署区域进行动态部署将结束士兵的回合。"
+
+DEBUG_LOGGING_Label = "启用调试日志"
+DEBUG_LOGGING_Tip = "如果启用，mod 会将调试信息打印到日志文件中，该文件位于\n..\\Documents\\my games\\XCOM2 War of the Chosen\\XComGame\\Logs\\Launch.log"
+
+EndLabel = "Created by Iridar | www.patreon.com/Iridar"
+EndLabel_Tip = "感谢您使用我的mod，希望您喜欢！请考虑在 Patreon 上支持我，这样我就有时间制作更多的mod。 <3"
+
+ENABLE_SOLDIER_LIST_CHECKBOX_Label = "启用小队选择复选框"
+ENABLE_SOLDIER_LIST_CHECKBOX_Tip = "如果启用，“小队选择”中每个士兵下方都会有一个复选框，用于控制哪些单位应使用动态部署。这种方法对鼠标用户来说最为方便。"
+
+ENABLE_LAUNCH_MISSION_SCREEN_Label = "启用发射任务部署界面"
+ENABLE_LAUNCH_MISSION_SCREEN_Tip = "如果启用，从 "小队选择 "启动任务时将首先显示一个界面，以选择哪些单位应使用动态部署。这种方法适用于控制器用户。"
+
+ENABLE_ARMORY_CHECKBOX_Label = "启用军械库部署复选框"
+ENABLE_ARMORY_CHECKBOX_Tip = "如果启用，军械库中的“动态部署”按钮将有一个复选框，用于控制该单位是否始终使用“动态部署”。如果您想让特定的士兵总是使用动态部署，这种方法很方便。"
