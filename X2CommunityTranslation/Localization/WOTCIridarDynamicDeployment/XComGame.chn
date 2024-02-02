@@ -1,0 +1,85 @@
+; ---------------------------------------------------------------
+;					DEPLOY
+
+
+[IRI_DynamicDeployment X2AbilityTemplate]
+LocFriendlyName="动态部署"
+LocLongDescription="指定剩余队员降落的位置。"
+LocHelpText="指定剩余队员降落的位置。"
+
+[IRI_DynamicDeployment_Deploy X2AbilityTemplate]
+LocFriendlyName="动态部署"
+LocLongDescriptionWhenConcealed = "指定剩余队员降落的位置。会解除小队隐蔽状态。"
+LocLongDescription="指定剩余队员降落的位置。"
+LocHelpText="指定剩余队员降落的位置。"
+LocFlyOverText="动态部署"
+
+[IRI_DynamicDeployment_Deploy_Spark X2AbilityTemplate]
+LocFriendlyName="Dynamic Deployment"
+LocLongDescriptionWhenConcealed = "指定剩余队员降落的位置。会解除小队隐蔽状态。"
+LocLongDescription="指定剩余队员降落的位置。"
+LocHelpText="指定剩余队员降落的位置。"
+LocFlyOverText="动态部署"
+
+[IRI_DynamicDeployment_Deploy_Uplink X2AbilityTemplate]
+LocFriendlyName="动态部署"
+LocLongDescriptionWhenConcealed = "使用您的数字上行链路指定一个位置来部署余下的队伍。不会打破队伍的隐蔽状态。"
+LocLongDescription="使用您的数字上行链路指定一个位置来部署余下的队伍。"
+LocHelpText="使用您的数字上行链路指定一个位置来部署余下的队伍。"
+LocFlyOverText="动态部署"
+
+; ---------------------------------------------------------------
+;					GTS UNLOCK
+
+[IRI_DynamicDeployment_GTS_Unlock X2SoldierAbilityUnlockTemplate]
+DisplayName = "动态部署"
+Summary = "训练全部作战人员解锁“动态部署”，这是一种使我们能够在任务开始后部署部分队员的技术。"
+
+; ---------------------------------------------------------------
+;					DD UNLOCKS
+
+[IRI_DDUnlock_PrecisionDrop X2AbilityTemplate]
+LocFriendlyName="精确空降"
+LocLongDescription="这个单位将能够在部署区域内为他们的动态部署选择一个精确的位置。"
+LocHelpText="这个单位将能够在部署区域内为他们的动态部署选择一个精确的位置。"
+
+[IRI_DDUnlock_AerialScout X2AbilityTemplate]
+LocFriendlyName="空中侦察"
+LocLongDescription="战士在动态部署期间可揭示 <Ability:IRI_DD_AerialScout_PerUnitRadius_Tiles/> 格内的地形和附近单位；区域随单位数量的增加而扩大。不适用于地下。"
+LocHelpText="战士在动态部署期间可揭示 <Ability:IRI_DD_AerialScout_PerUnitRadius_Tiles/> 格内的地形和附近单位；区域随单位数量的增加而扩大。不适用于地下。"
+
+[IRI_DDUnlock_TakeAndHold X2AbilityTemplate]
+LocFriendlyName="攻克与坚守"
+LocLongDescription="动态部署后,该单位在 <Ability:IRI_DD_TakeAndHold_DurationTurns/> 回合内获得 +<Ability:IRI_DD_TakeAndHold_AimBonus/> 瞄准加成和 +<Ability:IRI_DD_TakeAndHold_DefenseBonus/> 防御加成，直到它执行动作。"
+LocHelpText="动态部署后,该单位在 <Ability:IRI_DD_TakeAndHold_DurationTurns/> 回合内获得 +<Ability:IRI_DD_TakeAndHold_AimBonus/> 瞄准加成和 +<Ability:IRI_DD_TakeAndHold_DefenseBonus/> 防御加成，直到它执行动作。"
+LocFlyOverText="攻克与坚守"
+
+[IRI_DDUnlock_TakeAndHold_Passive X2AbilityTemplate]
+LocFriendlyName="攻克与坚守"
+LocLongDescription="动态部署后,该单位在 <Ability:IRI_DD_TakeAndHold_DurationTurns/> 回合内获得 +<Ability:IRI_DD_TakeAndHold_AimBonus/> 瞄准加成和 +<Ability:IRI_DD_TakeAndHold_DefenseBonus/> 防御加成，直到它执行动作。"
+LocHelpText="动态部署后,该单位在 <Ability:IRI_DD_TakeAndHold_DurationTurns/> 回合内获得 +<Ability:IRI_DD_TakeAndHold_AimBonus/> 瞄准加成和 +<Ability:IRI_DD_TakeAndHold_DefenseBonus/> 防御加成，直到它执行动作。"
+
+[IRI_DDUnlock_HitGroundRunning X2AbilityTemplate]
+LocFriendlyName="时刻备战"
+LocLongDescription="动态部署后,该单位直到回合结束前获得 +<Ability:IRI_DD_HitGroundRunning_MobilityBonus/> 机动力加成。"
+LocHelpText="动态部署后,该单位直到回合结束前获得 +<Ability:IRI_DD_HitGroundRunning_MobilityBonus/> 机动力加成。"
+LocFlyOverText=""时刻备战"
+
+[IRI_DDUnlock_HitGroundRunning_Passive X2AbilityTemplate]
+LocFriendlyName=""时刻备战"
+LocLongDescription="动态部署后,该单位直到回合结束前获得 +<Ability:IRI_DD_HitGroundRunning_MobilityBonus/> 机动力加成。"
+LocHelpText="动态部署后,该单位直到回合结束前获得 +<Ability:IRI_DD_HitGroundRunning_MobilityBonus/> 机动力加成。"
+
+
+[IRI_DDUnlock_DigitalUplink X2AbilityTemplate]
+LocFriendlyName="数字上行链路"
+LocLongDescription="这个单位能够在不打破小队隐蔽的情况下，从更远的距离呼叫动态部署。"
+LocHelpText="这个单位能够在不打破小队隐蔽的情况下，从更远的距离呼叫动态部署。"
+LocFlyOverText="数字上行链路"
+
+; ---------------------------------------------------------------
+;					SITREPS
+
+[IRI_DD_NoDeploymentSitRep X2SitRepTemplate]
+FriendlyName = "无部署区域"
+Description = "动态部署在此任务中不可使用。"
