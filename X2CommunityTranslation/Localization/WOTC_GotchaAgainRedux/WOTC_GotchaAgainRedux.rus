@@ -1,0 +1,94 @@
+[MCM_GotchaAgainRedux_Settings]
+
+sSettingsPage_Label = "Gotcha Again Redux"
+sPageTitle_Label = "Gotcha Again Redux"
+
+;GROUP 1
+sGroupUnitIndicators_Label = "Индикаторы юнитов в зоне видимости"
+bShowSquadsightHackingIndicator_Label = "Показывать индикаторы взлома в поле зрения отряда"
+bShowSquadsightHackingIndicator_Tip = "Показывать индикаторы взлома для юнитов имеющих способности \"Гремлина\" или \"BIT\", для юнитов с чистой зоной видимости за пределами обычной зоны видимости."
+bShowSquadsightGremlinIndicator_Label = "Показывать индикаторы \"Гремлинов\" "
+bShowSquadsightGremlinIndicator_Tip = "Показывать индикаторы на юнитах имеющих способности \"Гремлинов\" или \"BIT\" для юнитов с чистой зоной видимости вне обычной зоны видимости."
+bShowFriendlyLOSIndicators_Label = "Показывать индикаторы зоны видимости дружественных юнитов"
+bShowFriendlyLOSIndicators_Tip = "Показывать индикаторы зоны видимости по отношению к дружественным юнитам."
+bShowVIPSpottedByEnemyIndicators_Label = "Показывать индикаторы врагов, которые заметили VIP"
+bShowVIPSpottedByEnemyIndicators_Tip = "Показывать индикаторы для врагов, которые заметят перемещающегося VIP."
+bShowLoneWolfIndicator_Label = "Показывать индикатор одинокого волка"
+bShowLoneWolfIndicator_Tip = "Показывать индикатор на UI флаге движущегося юнита со способностью \"Одинокий Волк\", на финальной целевой клетке. Требуются LWotC/совместимые перки."
+
+;GROUP 2
+sGroupObjectiveIndicators_Label = "Индикаторы объектов"
+sIconPack_Label = "Пак иконок : dotvhs2"
+SIconPack_Tip = "Выберите пакет иконок, который будет использоваться для индикации объектов.\n В этой версии есть только 1 пакет иконок"
+bShowTowerHackingArrows_Label = "Создавать индикаторы башен \"Адвента\""
+bShowTowerHackingArrows_Tip = "Создавать индикаторы башен при обнаружении башни \"Адвента\" для указания возможности ее взлома.\n Изменение этого параметра вступит в силу только в следующей тактической игре."
+bShowTowerHackingArrowsWithoutSight_Label = "Всегда показывать индикаторы башен \"Адвента\""
+bShowTowerHackingArrowsWithoutSight_Tip = "Если установить это значение, то стрелки башен будут отображаться даже в тумане войны.\n Изменение этого параметра полностью вступит в силу только в следующей тактической игре."
+bHideTowerArrowsAfterHacking_Label = "Скрывать индикаторы башен после взлома"
+bHideTowerArrowsAfterHacking_Tip = "Полностью удалять индикаторы башен  \"Адвента\" после их взлома вместо того, чтобы указывать, что взлом больше невозможен.\n Изменение этого параметра полностью вступит в силу только в следующей тактической игре."
+bShowRemoteDoorHackingIndicators_Label = "Показывать индикатор для дистанционного взлома дверей"
+bShowRemoteDoorHackingIndicators_Tip = "Показывает индикатор взлома дверей для позиций, где возможен взлом с помощью \"Гремлина\" или \"BIT\"."
+
+;GROUP 3
+sGroupGrappleIndicators_Label = "Индикаторы крюка"
+bShowLOSIndicatorsForGrappleDestinations_Label = "Показывать индикаторы зоны видимости при использовании крюка"
+bShowLOSIndicatorsForGrappleDestinations_Tip = "Показывать индикаторы зоны видимости при выборе пункта назначения для способности \"Крюк\"."
+bDisableHideObjectiveArrowsWhenUsingGrapple_Label = "Отключить индикаторы скрытых объектов"
+bDisableHideObjectiveArrowsWhenUsingGrapple_Tip = "Отключить индикаторы скрытых объектов при использовании способностей крюка."
+bDisableDimHostileUnitFlagsWhenUsingGrapple_Label = "Отключить затемнение флагов юнитов"
+bDisableDimHostileUnitFlagsWhenUsingGrapple_Tip = "Отключить затемнение флагов вражеских юнитов при использовании способностей крюка."
+
+;GROUP 4
+sGroupPathingIndicators_Label = "Настройки точек пути"
+bUseCustomPathIndicatorSystem_Label = "Использовать пользовательскую систему индикации точек пути"
+bUseCustomPathIndicatorSystem_Tip = "Использовать пользовательскую систему индикаторов пути Gotcha Again вместо встроенной.\n Это необходимо для отображения различных новых индикаторов вдоль пути движения."
+bShowOverwatchTriggers_Label = "Показывать индикаторы триггеров \"наблюдения\""
+bShowOverwatchTriggers_Tip = "Показывать индикаторы, когда будет срабатывать выстрел из режима \"наблюдения\"."
+bShowOverwatchTriggerForSuppression_Label = "Показывать индикаторы \"наблюдения\" для способности \"подавление\""
+bShowOverwatchTriggerForSuppression_Tip = "Показывать индикаторы \"наблюдения\" для использования способности \"подавление\"."
+bShowActivationTriggers_Label = "Показывать индикаторы триггера обнаружения"
+bShowActivationTriggers_Tip = "Показывать индикаторы, когда неактивированный триггер обнаружения будет активирован."
+bShowNoiseIndicators_Label = "Показывать индикаторы шума"
+bShowNoiseIndicators_Tip = "Показывать индикаторы вдоль траектории движения, где будет создаваться шум при разбивании окон или выбивании дверей."
+bShowSmokeIndicator_Label = "Показывать индикаторы дыма"
+bShowSmokeIndicator_Tip = "Показывать индикатор на клетке, если она покрыта дымом, который дает защитные бонусы."
+bShowDelayedDamageIndicator_Label = "Показывать индикаторы отложенного урона"
+bShowDelayedDamageIndicator_Tip = "Показывать индикатор на клетке, если она находится в зоне действия активного эффекта отложенного урона, например, Пси-бомбы."
+bShowHuntersMarkIndicator_Label = "Показывать индикаторы метки Охотника"
+bShowHuntersMarkIndicator_Tip = "Показывать индикатор на клетке, если она находится в зоне действия метки Охотника или способности \"Зона поражения\" противника."
+
+;GROUP 5
+sGroupPeekFromConceal_Label = "Настройки Peek From Concealment"
+DisablePFC_Label = "Отключение функции Peek From Concealment"
+DisablePFC_Tip = "Мастер-переключатель для включения/выключения PFC (подглядывание из укрытия), отмечено [x] - отключено."
+HideInHighCover_Label = "Разрешить выглядывать из высокого укрытия"
+HideInHighCover_Tip = "Если эта функция включена, вы можете незаметно выглянуть из укрытия."
+HideWithHeightAdvantage_Label = "Разрешить выглядывать с края крыши"
+HideWithHeightAdvantage_Tip = "Если включено, вас нельзя обнаружить в укрытии, когда у вас есть преимущество в высоте.\n Позволяет вам подходить к краю крыш или застекленных крыш."
+HideGroundMarkers_Label = "Скрыть Concealment Tile UI"
+HideGroundMarkers_Tip = "Если установить значение [x], то будут скрыты все маркеры Concealment Tile UI"
+NumGraceTiles_Label = "Клетки милости"
+NumGraceTiles_Tip = "Вы можете перемещаться через несколько клеток, нарушающих маскировку, не будучи обнаруженным."
+ExtraDetectionRange_Label = "Бонусная дальность обнаружения противника"
+ExtraDetectionRange_Tip = "Если установить значение > 0, это увеличит дальность обнаружения всех врагов на указанное количество клеток.\n Требуется перезапуск игры!"
+MinEligibleDetectionRange_Label = "Минимальная дальность для предоставленного бонуса"
+MinEligibleDetectionRange_Tip = "Минимальная дальность обнаружения, необходимая для получения прибавки к предыдущему параметру.  Используется для исключения гражданских в основном."
+
+;GROUP 6
+sGroupMissClickProtection_Label = "Настройки защиты от мисклика"
+DisableMCP_Label = "Отключить защиту от мисклика"
+DisableMCP_Tip = "Мастер-переключатель для включения/выключения MCP (защита от мисклика), отмечено [x] - выключено."
+fAllowClickDelay_Label = "Задержка нажатия в секундах"
+fAllowClickDelay_Tip = "Задержка в секундах, определяющая, как долго мышь должна быть на клетке, прежде чем юниту будет позволено туда переместиться."
+fCursorOpacity_ClickDisallowed_Label = "Затемнение курсора задержки в %"
+fCursorOpacity_ClickDisallowed_Tip = "Затемнение курсора мыши во время работы таймера задержки."
+
+;GROUP 7
+sGroupCheats_Label = "ЧИТЫ"
+bAlwaysShowPodActivation_Label = "Индикатор активации обнаружения без раскрытия"
+bAlwaysShowPodActivation_Tip = "Всегда показывать индикатор активации обнаружения даже для нераскрытых врагов."
+
+;GROUP 8
+;sGroup_Label = bEnableLogging_Label
+bEnableLogging_Label = "Журнал отладки"
+bEnableLogging_Tip = "Включить ведение журнала"		
