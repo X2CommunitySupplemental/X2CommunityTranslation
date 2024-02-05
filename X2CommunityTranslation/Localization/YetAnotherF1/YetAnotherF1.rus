@@ -1,0 +1,17 @@
+[YAF1_UIUnitInfo]
+m_strEnemyInfo="Информация о враге"
+m_strSoldierInfo="Информация о бойце"
+m_strNotAUnit="Не персонаж"
+m_strNoInfoAvailable="Информация не доступна"
+
+m_strPassives="Пассивные способности"
+
++LockedTitles="0xXXXXXXXX"
++LockedDescriptions="0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX"
++LockedDescriptions="0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX"
++LockedDescriptions="0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX 0xXXXXXXXX"
+m_strCensoredStat="0xXX"
+m_strAlphabet="1234567890ABCDEF"
+
+[YAF1_UIWeaponPanel]
+m_strInfinitySymbol=∞
