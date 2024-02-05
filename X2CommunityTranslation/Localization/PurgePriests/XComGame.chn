@@ -1,0 +1,156 @@
+;Place localized text in this file
+
+[PurgePriest X2CharacterTemplate]
+strCharacterName="变种人净化祭司"
+strAcquiredText="变种人净化祭司经常与净化者小队一起部署对抗失魂者，以提高外星部队的士气。"
+
+[PurgeBishop X2CharacterTemplate]
+strCharacterName="变种人净化主教"
+strAcquiredText="变种人净化主教带领净化小队进入失魂者的城市。"
+
+[ExaltedPurgePriest X2CharacterTemplate]
+strCharacterName="变种人卓越净化主教"
+strAcquiredText="变种人净化祭司中最强大的力量，能够独自失能大量失魂者，然后以一次灵能之火的打击将它们全部消灭。"
+
+[ExaltedPurgeArchbishop X2CharacterTemplate]
+strCharacterName="变种人卓越净化大主教"
+strAcquiredText="净化祭司团的领导者通过加强他们的火焰灵能力量，已经达到了一种程度，能够将物体燃烧成熔融泥浆，然后将其武器化，用以击败任何敌人。"
+
+[PurgeGun X2WeaponTemplate]
+FriendlyName="变种人净化枪"
+FriendlyNamePlural="变种人净化枪"
+BriefSummary="净化祭司使用强大的短程热能枪，专门设计用于将失魂者烧成灰烬。"
+TacticalText="<Bullet/> 发射主要武器总是结束士兵的回合\n<Bullet/>"
+
+[ExaltedPurgeGun X2WeaponTemplate]
+FriendlyName="变种人等离子净化枪"
+FriendlyNamePlural="变种人等离子净化枪"
+BriefSummary="等离子净化枪的射束燃烧强度更强，使其能够融化最厚的装甲板。"
+TacticalText="<Bullet/> 发射主要武器总是结束士兵的回合\n<Bullet/>"
+
+[ExaltedPurgeGunArchbishop X2WeaponTemplate]
+FriendlyName="变种人等离子净化枪"
+FriendlyNamePlural="变种人等离子净化枪"
+BriefSummary="等离子净化枪的射束燃烧强度更强，使其能够融化最厚的装甲板。"
+TacticalText="<Bullet/> 发射主要武器总是结束士兵的回合\n<Bullet/>"
+
+[BlazingGauntlet X2WeaponTemplate]
+FriendlyName=""炽燃护手"
+FriendlyNamePlural=""炽燃护手"
+BriefSummary="卓越净化主教的炽燃护手使他能够控制更大量的火焰。"
+TacticalText="<Bullet/> 发射主要武器总是结束士兵的回合\n<Bullet/>"
+
+[LavaGloves X2WeaponTemplate]
+FriendlyName="熔融护手"
+FriendlyNamePlural="熔融护手"
+BriefSummary="卓越净化大主教的至高强力融化护手使他能够将热量集中到足以融化任何材料的程度。"
+TacticalText="<Bullet/> 发射主要武器总是结束士兵的回合\n<Bullet/>"
+
+[MeltingProjector X2WeaponTemplate]
+FriendlyName="熔融投射器"
+FriendlyNamePlural="熔融投射器"
+BriefSummary="卓越净化大主教的熔融投射器用融化的材料冲击周围，形成在他们脚下。"
+TacticalText="<Bullet/> 发射主要武器总是结束士兵的回合\n<Bullet/>"
+
+[ScorchingTouch X2WeaponTemplate]
+FriendlyName="炽燃爪牙"
+FriendlyNamePlural="炽燃爪牙"
+BriefSummary="净化大主教指尖装备的爪牙能够以惊人的速度产生强烈的热爆，使它们能够以灼热之触回应近战攻击，甚至能够融化护甲。"
+TacticalText="<Bullet/> 发射主要武器总是结束士兵的回合\n<Bullet/>"
+
+[PurgeVolt X2AbilityTemplate]
+LocFriendlyName="净燃之箭"
+LocLongDescription="净化祭司可以发射燃烧的火焰箭，可以在目标之间跳跃，使它们陷入燃烧之中。"
+LocHelpText="一道热能箭，可以在目标之间跳跃，对每个目标造成5点伤害并使它们着火。"
+LocFlyOverText="净燃之箭"
+
+[PurgeCascade X2AbilityTemplate]
+LocFriendlyName="净燃链箭"
+LocLongDescription="卓越净化大主教的净燃链箭能够在6个目标之间跳跃。"
+LocHelpText="一道热能箭，可以在目标之间跳跃，对每个目标造成5点伤害并使它们着火。"
+LocFlyOverText="净燃链箭"
+
+[PurgeFocus X2AbilityTemplate]
+LocFriendlyName="净化专注"
+LocLongDescription="净化祭司通过强烈的专注，能够运用他们的灵能力量和装备来创造和操控火焰，净燃之箭最多能命中2个目标。"
+LocHelpText="允许净燃之箭命中2个目标"
+LocFlyOverText="净化专注"
+
+[PurgingFocus X2AbilityTemplate]
+LocFriendlyName="净燃专注"
+LocLongDescription="净化祭司通过强烈的专注，能够运用他们的灵能力量和装备来创造和操控火焰，净燃之箭最多能命中3个目标。"
+LocHelpText="允许净燃之箭命中3个目标"
+LocFlyOverText="净燃专注"
+
+[BlazingFocus X2AbilityTemplate]
+LocFriendlyName="净熔专注"
+LocLongDescription="强烈的专注让净化主教能够运用他们的灵能力量和装备来创造和操控火焰，净燃之箭最多能命中4个目标。"
+LocHelpText="允许净燃之箭命中4个目标"
+LocFlyOverText="净熔专注"
+
+[ExaltedFocus X2AbilityTemplate]
+LocFriendlyName="卓越专注"
+LocLongDescription="强烈的专注让卓越净化主教能够运用他们的灵能力量和装备来创造和操控火焰，净燃之箭最多能命中5个目标。"
+LocHelpText="允许净燃之箭命中5个目标"
+LocFlyOverText="卓越专注"
+
+[ApocalypticFocus X2AbilityTemplate]
+LocFriendlyName="毁灭专注"
+LocLongDescription="净化祭司能够达到的最大专注，达到这种专注是让卓越净化主教成为卓越净化大主教的关键。净燃之箭最多能命中6个目标."
+LocHelpText="允许净燃之箭命中6个目标"
+LocFlyOverText="毁灭专注"
+
+[BlazingStorm X2AbilityTemplate]
+LocFriendlyName="炽燃风暴"
+LocLongDescription="卓越净化主教释放出一片庞大的火焰领域。"
+LocHelpText="一个锥形的火焰风暴，造成6点伤害并削减3点护甲。"
+LocFlyOverText="炽燃风暴"
+
+[MeltingStream X2AbilityTemplate]
+LocFriendlyName="熔化风暴"
+LocLongDescription="卓越净化大主教发射一股狭窄的熔融泥浆洪流。"
+LocHelpText="一个狭窄的锥形火焰流，造成8点伤害并削减6点护甲。"
+LocFlyOverText="熔化风暴"
+
+[PlasmaResistance X2AbilityTemplate]
+LocFriendlyName="等离子抵抗"
+LocLongDescription="卓越净化大主教周围环绕着足以使入射的等离子弹变得不稳定的强热，降低了它们的能效。"
+LocHelpText="降低来自XCOM的等离子武器的伤害"
+LocFlyOverText="等离子抵抗"
+
+[MeltingAura X2AbilityTemplate]
+LocFriendlyName="融化光环"
+LocLongDescription="卓越净化大主教向接近他们的任何人发射熔化的物质，造成最多5点伤害并削减2点护甲。"
+LocHelpText="对任何进入或从近战范围攻击的敌人进行攻击，造成最多5点伤害并削减2点护甲。"
+LocFlyOverText="融化光环"
+
+[ScorchingTouch X2AbilityTemplate]
+LocFriendlyName="炙热之触"
+LocLongDescription="卓越净化大主教在近战范围内受到攻击时进行报复，造成最多5点伤害，无视最多8点护甲并削减1点护甲。"
+LocHelpText="卓越净化大主教对于在近战范围内攻击他的敌人进行报复，用炙热之触造成最多5点伤害，无视最多8点护甲并削减1点护甲。"
+LocFlyOverText="炙热之触"
+
+[Jail X2AbilityTemplate]
+LocFriendlyName="教廷狱"
+LocLongDescription="净化主教可以利用他们的灵能力量在目标周围创造一个笼子，使其无法移动。"
+LocHelpText="使一个敌人无法移动一回合"
+LocFlyOverText="教廷狱"
+
+[MassJail X2AbilityTemplate]
+LocFriendlyName="神谴狱"
+LocLongDescription="卓越净化主教和大主教可以利用他们的灵能力量在多个目标周围创造出一种笼罩，使其无法移动，从而成为容易受到其大范围攻击影响的猎物。"
+LocHelpText="使多个敌人无法移动一回合"
+LocFlyOverText="神谴狱"
+
+[FlameControl X2AbilityTemplate]
+LocFriendlyName="神明之火掌控"
+LocLongDescription="这些祭司对火焰的掌控使得它们对基于火焰的攻击免疫。"
+LocHelpText="火焰免疫"
+LocFlyOverText="神明之火掌控"
+
+[SuperHeated X2AbilityTemplate]
+LocFriendlyName="神圣炽热"
+LocLongDescription="卓越净化大主教处于持续的神圣炽热状态，使其对火焰、冰冻和酸性攻击免疫。"
+LocHelpText="火焰、冰冻和酸性攻击免疫"
+LocFlyOverText="神圣炽热"
+
