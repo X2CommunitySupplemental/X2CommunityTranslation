@@ -242,3 +242,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1126501968
 https://steamcommunity.com/sharedfiles/filedetails/?id=1658110374
 
 * Chinese
+
+# [WOTC] Dynamic Deployment by Iridar
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2950736651
+
+* Chinese
