@@ -109,6 +109,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=934236622
 
 * Chinese
 
+* Russian
+
 # [WOTC] Soldier Info Redux
 https://steamcommunity.com/sharedfiles/filedetails/?id=2415446578
 
