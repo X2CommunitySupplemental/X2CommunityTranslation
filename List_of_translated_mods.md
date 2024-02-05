@@ -12,6 +12,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3004108595
 https://steamcommunity.com/sharedfiles/filedetails/?id=3002469584
 
 * Simplified Chinese
+* Russian
 
 # [WOTC] Don't Pull That Trigger 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2012323571
