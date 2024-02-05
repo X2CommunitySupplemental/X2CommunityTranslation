@@ -251,3 +251,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1658110374
 https://steamcommunity.com/sharedfiles/filedetails/?id=2950736651
 
 * Chinese
+
+# [WoTC] Purge Priests
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1927497195
+
+* Chinese
