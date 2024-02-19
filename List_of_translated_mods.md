@@ -48,7 +48,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2438621356
 https://steamcommunity.com/sharedfiles/filedetails/?id=2664422411
 
 * Simplified Chinese
-
+* Russian
+* 
 # [WOTC] Spectral Zombie Warning Signs
 https://steamcommunity.com/sharedfiles/filedetails/?id=2743416893
 
