@@ -38,6 +38,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2810261755
 https://steamcommunity.com/sharedfiles/filedetails/?id=1148245942
 
 * Simplified Chinese
+* Russian
 
 # [WOTC] Unrestricted Customization Redux 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2438621356
