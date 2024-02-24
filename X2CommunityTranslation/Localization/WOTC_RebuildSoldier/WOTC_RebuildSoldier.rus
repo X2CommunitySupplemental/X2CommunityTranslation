@@ -1,0 +1,13 @@
+[UIFacility_RebuildSoldierSlot]
+m_TR_strRebuildSoldierDialogTitle="СМЕНИТЬ КЛАСС"
+m_TR_strRebuildSoldierDialogText="Солдат <XGParam:StrValue0/!UnitName/> может пройти обучение специальности, чтобы получить звание <XGParam:StrValue1/!RankName/> в выбранном классе. Во время обучения участие в боевых операциях невозможно в течении <XGParam:StrValue2/!Days/> дней. Вы хотите продолжить?"
+m_TR_strStopRebuildSoldierDialogTitle="ОСТАНОВИТЬ СМЕНУ КЛАССА?"
+;m_TR_strStopRebuildSoldierDialogText="Отменить обучение бойца %UNITNAME на специальность \"%CLASSNAME?\"\n\nВнимание: прогресс обучения будет полностью потерян."
+m_TR_strStopRebuildSoldierDialogText="Отменить смену специальности бойца %UNITNAME на \"%CLASSNAME?\"\n\nВнимание: прогресс обучения будет полностью потерян."
+m_TR_strNoSoldiersTooltip="Солдаты, готовые сменить специальность, отсутствуют."
+m_TR_strSoldiersAvailableTooltip="Выберите солдата, для смены его класса."
+
+[UIChooseClass_RebuildSoldier]
+m_strTitle=Выберите класс солдата
+m_strInventoryLabel=Доступные классы:
+m_strBuy=НАЧАТЬ СМЕНУ КЛАССА
