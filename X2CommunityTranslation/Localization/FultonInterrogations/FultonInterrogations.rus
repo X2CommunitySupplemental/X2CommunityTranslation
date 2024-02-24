@@ -1,0 +1,6 @@
+[X2EventListener_Fulton]
+CapturedTitle="Извлечение успешно"
+Captured="<XGParam:StrValue0/!ItemName/> был(и) извлечен(ы) с поля боя."
+
+LootTitle="Трофеи извлечены с поля боя"
+Loot="С поля боя извлечены дополнительные трофеи."
