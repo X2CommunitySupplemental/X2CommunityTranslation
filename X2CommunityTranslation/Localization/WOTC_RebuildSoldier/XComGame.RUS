@@ -1,0 +1,7 @@
+[RStaffSlot X2StaffSlotTemplate]
+EmptyText="ВАКАНСИЯ: ТРЕБУЕТСЯ БОЕЦ"
+BonusEmptyText="Осуществляет смену класса солдат."
+BonusDefaultText="КЛАСС"
+BonusText="ОБУЧАЕТСЯ %SKILL"
+FilledText="%UNITNAME проходит расширенную программу обучения как %SKILL!."
+LockedText="НЕДОСТУПНО: ПРИОБРЕТИТЕ УЛУЧШЕНИЕ"
