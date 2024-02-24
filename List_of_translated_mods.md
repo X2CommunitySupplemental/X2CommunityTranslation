@@ -29,6 +29,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2303836344
 
 * Simplified Chinese
 
+* Russian
+
 # [WOTC] Iridar's Loadout Manager 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2810261755
 
