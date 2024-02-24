@@ -1,0 +1,14 @@
+[EPI_Section]
+SubHeader_Traits    = "Черты"
+SubHeader_Perks     = "Навыки"
+SubHeader_Loadout   = "Экипировка"
+SubHeader_Bonded    = "Напарник"
+SubHeader_BondedNot = "Нет напарника"
+SubHeader_NoPCS     = "ПБМ не установлен"
+SubHeader_Soldier   = "Информация"
+
+NoSuitableBond = "Нет кандидатов в напарники"
+SubHeader_Compatibility = "Наибольшая совместимость"
+SubHeader_Cohesion = "Максимальная сплоченность"
+
+InHavenString = "Убежище:"
