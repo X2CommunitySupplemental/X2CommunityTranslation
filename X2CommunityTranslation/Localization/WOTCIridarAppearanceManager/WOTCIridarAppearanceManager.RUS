@@ -1,0 +1,136 @@
+[UIManageAppearance]
+PresetDefault = "По умолчанию"
+PresetUniform = "Униформа"
+PresetEntireUnit = "Весь юнит"
+PresetPatterns = "Камуфляж"
+PresetNothing = "Ничего"
+
+strApplyTo = "ПРИМЕНИТЬ К"
+strApplyChangesButton = "Применить изменения"
+strApplyChangesButtonDisabled = "Никаких изменений не требуется. Выберите внешний вид из списка справа и включите косметические опции в списке слева."
+
+strApplyToThisUnit = "ЭТОТ ЮНИТ"
+strApplyToThisUnitTip = "Если включено, изменения внешнего вида будут применены к данному конкретному юниту."
+strApplyToSquadTip = "Если включено, изменения внешнего вида будут применены ко всем юнитам, которые в данный момент находятся в отряде."
+strApplyToBarracksTip = "Если включено, изменения внешнего вида будут применены ко всем юнитам в казарме, за исключением юнитов в отряде и данного юнита."
+strApplyToCPTip = "Если включено, изменения внешнего вида будут применены ко всем юнитам в \"группе персонажей\", за исключением данного юнита."
+
+strFiltersTitle = "ФИЛЬТРЫ"
+
+strSelectAppearanceTitle = "ВЫБРАТЬ ВНЕШНИЙ ВИД"
+strSearchTitle = "Поиск"
+strNoArmorTemplateError = "Фильтр брони отключен. Причина: не удалось найти броню, экипированную на этом солдате."
+
+strOriginalAppearance = "ПЕРВОНАЧАЛЬНЫЙ ВИД"
+strUniformsTitle = "УНИФОРМЫ"
+
+strExitScreenPopupTitle = "ПОДТВЕРДИТЬ ВЫХОД"
+strExitScreenPopupText = "Изменения внешнего вида еще не были применены. Вы уверены, что хотите выйти из этого экрана?\n\nПодсказка: нажмите \"Применить изменения\" кнопку в нижней центральной части экрана, чтобы применить изменения внешнего вида."
+strExitScreenPopup_Leave = "Выход без изменений"
+strExitScreenPopup_Stay = "Остаться на экране"
+
+strShowAllOptions = "ПОКАЗАТЬ ВСЕ ПАРАМЕТРЫ"
+
+strNotAvailableInCharacterPool = "Недоступно в \"группе персонажей\"."
+strSameGenderRequired = "Этот вариант внешности заблокирован из-за несоответствия пола выбранной внешности."
+strCopyPreset = "Копировать пресет"
+strCopyPresetButtonDisabled = "Пресеты можно копировать только в \"пресет по умолчанию\"."
+strDeletePreset = "Удалить пресет"
+strCannotDeleteThisPreset = "Мод не может работать без этого пресета, его нельзя удалить."
+
+strConfirmApplyChangesTitle = "ПРИНЯТЬ ИЗМЕНЕНИЯ?"
+strConfirmApplyChangesText = "Внимание! Вы собираетесь применить изменения внешнего вида к %NUM_UNITS% юнитам. Продолжить?"
+
+strCreatePreset = "Создать пресет"
+strCreatePresetTitle = "Введите название:"
+strCreatePresetText = "_Копировать"
+
+strDuplicatePresetDisallowedTitle = "Не удалось создать новый пресет!"
+strDuplicatePresetDisallowedText = "Пресет с таким именем уже существует. Отмена."
+strInvalidPresetNameText = "Неправильное имя пресета. Отмена."
+
+strSaveAsUniform = "Сохранить как униформу"
+strEnterUniformName = "Введите название:"
+
+strFailedToCreateUnitTitle = "ОШИБКА!"
+strFailedToCreateUnitText = "Не удалось создать униформу юнита с помощью шаблона персонажа: "
+
+strInvalidEmptyUniformNameTitle = "Неверное название униформы"
+strInvalidEmptyUniformNameText = "Название униформы не может быть пустым."
+
+strRacePrefix = "Раса "
+
+[X2BackupPoolLoader]
+strLoadBackupTitle = "Восстановить пул персонажей из резервной копии?"
+strLoadBackupText = "Менеджер внешнего вида обнаружил, что ваш пул персонажей или его дополнительные данные были потеряны. Текущее количество солдат: %CURRENT_SOLDIERS%, текущие дополнительные данные: %CURRENT_DATA%.\n\nДоступна резервная копия пула персонажей. Он содержит %BACKUP_SOLDIERS% солдат и %BACKUP_DATA% дополнительных данных. Если вы согласитесь, ваш текущий пул персонажей будет полностью переписан из резервной копии.\n\nЕсли вы продолжите работу без восстановления пула персонажей сейчас, резервная копия может быть переписана при сохранении пула персонажей, что происходит всякий раз, когда в него вносятся какие-либо изменения."
+
+[UISL_AppearanceManager]
+
+strManageAppearance = "Управление внешним видом"
+strStoredAppearance = "Сохраненный внешний вид"
+strStoredAppearanceDisabled = "Магазин внешнего вида отключен при неограниченной настройке".																						   
+strConvertButtonTitle = "Преобразовать"
+
+strConverToUniform = "Преобразовать в униформу"
+strConvertToSoldier = "Преобразовать в солдата"
+
+strVadlidateAppearance = "Проверить внешний вид"
+strVadlidateAppearanceButton = "Проверить"
+
+strConfigureUniform = "Настройка униформы"
+strUniformSoldierFirstName = "Униформа"
+
+strAutoManageUniformForUnitTitle = "Управление униформами"
+strAutoManageUniformForUnit[0] = "Глобальные настройки"
+strAutoManageUniformForUnit[1] = "Всегда применять униформы"
+strAutoManageUniformForUnit[2] = "Никогда не применять униформы"
+
+strUniformStatusTitle = "Управление униформами"
+;strUniformStatus[0] = "Not a uniform" - not actually displayed.
+strUniformStatus[0] = "Не применять автоматически"
+strUniformStatus[1] = "Применять к любому классу солдат"
+strUniformStatus[2] = "Применять к тому же классу солдат"
+strUniformStatus[3] = "Применять к персонажам, не являющимся солдатами"
+
+;strUniformStatus[0] = "<font color='#27aae1'>Не применять автоматически</font>" ; blue
+;strUniformStatus[1] = "<font color='#53b45e'>Применять к любому классу солдат</font>" ; green
+;strUniformStatus[2] = "<font color='#fdce2b'>Применять к тому же классу солдат</font>" ; yellow
+;strUniformStatus[3] = "<font color='#bf1e2e'>Применять к персонажам, не являющимся солдатами</font>" ; red
+
+strUniformUnitTypes = "Выберите персонажей, не являющихся солдатами"
+
+[AM_MCM_Screen]
+ModName = "Appearance Manager"
+PageTitle = "Iridar's Appearance Manager"
+GroupHeader = "Общие настройки"
+
+DISABLE_APPEARANCE_VALIDATION_REVIEW_Label = "Отключить проверку внешнего вида в обычном режиме"
+DISABLE_APPEARANCE_VALIDATION_REVIEW_Tip = "Если вы начинаете игру с отсутствующими косметическими модификациями, игра обычно автоматически восстанавливает внешний вид юнитов, которые использовали косметику из этих модификаций. Эта настройка позволяет отключить эту функцию, чтобы юниты из \"группы персонажей\" сохраняли свой внешний вид. Эта настройка влияет на обычный режим игры, когда она запускается с помощью \"-review\" (аргумент для запуска)."
+
+DISABLE_APPEARANCE_VALIDATION_DEBUG_Label = "Отключить проверку внешнего вида в режиме отладки"
+DISABLE_APPEARANCE_VALIDATION_DEBUG_Tip = "Если вы начинаете игру с отсутствующими косметическими модификациями, игра обычно автоматически восстанавливает внешний вид юнитов, которые использовали косметику из этих модификаций. Эта настройка позволяет отключить эту функцию, чтобы юниты из \"группы персонажей\" сохраняли свой внешний вид. Эта настройка влияет на режим отладки игры, когда она запускается без \"-review\" (аргумент для запуска)."
+
+DEBUG_LOGGING_Label = "Включить журнал отладки"
+DEBUG_LOGGING_Tip = "Если включено, то мод будет вести отладочные сообщения в файле журнала, расположенный по адресу:\n..\\\Documents\\\my games\\\XCOM2 War of the Chosen\\\XComGame\\\\Logs\\\\Launch.log"
+
+REMEMBER_SCROLLBAR_POSITION_IN_CHARACTER_POOL_Label = "Запомнить положение полосы прокрутки в пуле персонажей"
+REMEMBER_SCROLLBAR_POSITION_IN_CHARACTER_POOL_Tip = "Если включено, мод будет запоминать положение полосы прокрутки в пуле персонажей. Удобно для большего пула"
+
+AUTOMATIC_UNIFORM_MANAGEMENT_Label = "Включить автоматическое управление униформой (по умолчанию)"
+AUTOMATIC_UNIFORM_MANAGEMENT_Tip = "Если включено, то мод будет автоматически применять униформу к солдатам, когда они впервые экипируют броню или когда они повышаются до рядового. Эти униформы должны быть созданы и настроены в \"группе персонажей\". Этот параметр также можно настроить для каждого солдата отдельно на экране настройки внешнего вида."
+
+MANAGE_APPEARANCE_2D_Label = "Показать экран управления внешним видом в 2D формате"
+MANAGE_APPEARANCE_2D_Tip = "Экран рендерится поверх модели солдата, а не позади нее"
+
+MULTIPLE_UNIT_CHANGE_REQUIRES_CONFIRMATION_Label = "Требовать подтверждение для применения изменений к нескольким юнитам"
+MULTIPLE_UNIT_CHANGE_REQUIRES_CONFIRMATION_Tip = "Если включено, менеджер внешнего вида будет показывать всплывающее сообщение, когда вы нажмете \"Применить изменения\", при условии если это приведет к изменению внешнего вида нескольких юнитов."
+FEMALE_CHANCE_Label = "Шанс создания женщины-солдата"
+FEMALE_CHANCE_Tip = "Шанс создания женщины-солдата при создании случайных солдат."
+
+CHAR_POOL_MIXED_CHANCE_Label = "Шанс смешанного пула персонажей"
+CHAR_POOL_MIXED_CHANCE_Tip = "Вероятность использования солдата из пула персонажей при использовании режима \"Смешанного\" пула персонажей."
+[Help]
+strCurrentAppearance = "(Текущий)"
+
+[UIManageAppearance_Uniform]
+strGenderDisabled = "Невозможно, чтобы униформа меняла пол юнита. Смена пола отключена."
