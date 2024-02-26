@@ -107,6 +107,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2012323571
 https://steamcommunity.com/sharedfiles/filedetails/?id=709499969
 
 * Chinese
+* Russian
 
 # Yet Another F1
 https://steamcommunity.com/sharedfiles/filedetails/?id=934236622
