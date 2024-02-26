@@ -166,6 +166,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2347354900
 https://steamcommunity.com/sharedfiles/filedetails/?id=2965980985
 
 * Chinese
+* Russian
 
 # WOTC Show Tech Path
 https://steamcommunity.com/sharedfiles/filedetails/?id=1207741138
