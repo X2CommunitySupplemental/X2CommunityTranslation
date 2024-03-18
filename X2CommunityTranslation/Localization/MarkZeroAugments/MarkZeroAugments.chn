@@ -1,0 +1,6 @@
+[X2DownloadableContentInfo_MarkZeroAugments]
+strFleshWound_Description = "皮外伤：重伤的士兵只有一定的机会需要增强。"
+strFleshWound_Tooltip = "现在，适用的士兵在重伤后有25%的机会需要增强，而不是总是需要它。"
+
+strMindHatesMatter_Description = "心灵厌恶物质：全面增强排除了超能力操作员的训练，反之亦然。"
+strMindHatesMatter_Tooltip = "此选项使得超能力操作员仅限于标记零增强。"
