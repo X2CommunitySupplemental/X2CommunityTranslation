@@ -262,3 +262,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2950736651
 https://steamcommunity.com/sharedfiles/filedetails/?id=1927497195
 
 * Chinese
+
+# [WoTC] Mark Zero Augments
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1294744824
+
+* Simplified Chinese
