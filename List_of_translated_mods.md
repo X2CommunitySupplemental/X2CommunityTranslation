@@ -262,3 +262,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2950736651
 https://steamcommunity.com/sharedfiles/filedetails/?id=1927497195
 
 * Chinese
+
+# JediClassRevised
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2031929512
+
+# Chinese
