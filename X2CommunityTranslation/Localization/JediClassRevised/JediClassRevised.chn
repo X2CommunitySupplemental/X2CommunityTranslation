@@ -1,0 +1,13 @@
+[JediClassHelper]
+ForceAlignmentModifier="原力对齐"
+DarkSidePointsLabel="黑暗点数"
+LightSidePointsLabel="光明点数"
+m_strCategoryRestricted=武器不能与双刃光剑一起使用
+m_strHeavyArmorRestricted=绝地武士不能穿重型装甲
+
+[X2Effect_JediForcePool_ByRank]
+ForceLabel="原力点数"
+ForceDescription="绝地武士当前使用原力的能力。"
+
+[X2Effect_ForceMeditate]
+RegenMessage="恢复了 <Regen/> 原力点数"
