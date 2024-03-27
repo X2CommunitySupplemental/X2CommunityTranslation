@@ -1,0 +1,804 @@
+[Jedi X2SoldierClassTemplate]
++DisplayName="绝地武士"
++ClassSummary="绝地武士是银河共和国的和平与正义的守护者。许多绝地武士堕入原力的黑暗面，成为西斯。西斯是绝地武士团的古老敌人，他们与绝地武士团进行了数千年的战争。"
++LeftAbilityTreeTitle="光明"
++RightAbilityTreeTitle="黑暗"
+AbilityTreeTitles[0]="光明"
+AbilityTreeTitles[1]="灰色"
+AbilityTreeTitles[2]="黑暗"
+AbilityTreeTitles[3]="暗影"
+
++RankNames[0]=
++RankNames[1]=Initiate
++RankNames[2]=Padawan
++RankNames[3]=Knight
++RankNames[4]=Guardian
++RankNames[5]=Sentinel
++RankNames[6]=Consular
++RankNames[7]=Master
++RankNames[8]=Grand Master
+
++ShortNames[0]=
++ShortNames[1]=Initiate
++ShortNames[2]=Padawan
++ShortNames[3]=Knight
++ShortNames[4]=Guardian
++ShortNames[5]=Sentinel
++ShortNames[6]=Consular
++ShortNames[7]=Master
++ShortNames[8]=Grand Master
+
+
++RankIcons[0]=""
++RankIcons[1]="JediClassUI.Ranks.rank_Initiate"
++RankIcons[2]="JediClassUI.Ranks.rank_Padawan"
++RankIcons[3]="JediClassUI.Ranks.rank_Knight"
++RankIcons[4]="JediClassUI.Ranks.rank_Guardian"
++RankIcons[5]="JediClassUI.Ranks.rank_Sentinel"
++RankIcons[6]="JediClassUI.Ranks.rank_Consular"
++RankIcons[7]="JediClassUI.Ranks.rank_Master"
++RankIcons[8]="JediClassUI.Ranks.rank_GrandMaster"
+
++RandomNickNames[0]=""
++RandomNickNames[1]=""
++RandomNickNames[2]=""
++RandomNickNames[3]=""
++RandomNickNames[4]=""
++RandomNickNames[5]=""
++RandomNickNames[6]=""
++RandomNickNames[7]=""
++RandomNickNames[8]=""
++RandomNickNames[9]=""
++RandomNickNames[10]=""
++RandomNickNames[11]=""
++RandomNickNames[12]=""
++RandomNickNames[13]=""
++RandomNickNames[14]=""
++RandomNickNames[15]=""
+
+[Lightsaber_TR X2WeaponTemplate]
+FriendlyName="训练用光剑"
+FriendlyNamePlural="训练用光剑"
+BriefSummary="这种训练用光剑由最基本的组件制成，在真实的战斗情况下并不是很有效"
+TacticalText="看起来不错，但在真正的战斗中几乎无用"
+AbilityDescName="光剑"
+
+[Lightsaber_CV X2WeaponTemplate]
+FriendlyName="光剑"
+FriendlyNamePlural="光剑"
+BriefSummary="光剑是一个更文明的时代的优雅武器，不像爆能枪那样笨拙或随机。"
+TacticalText="<Bullet \>光剑是一个更文明的时代的优雅武器，不像爆能枪那样笨拙或随机。"
+AbilityDescName="光剑"
+
+[Lightsaber_MG X2WeaponTemplate]
+FriendlyName="骑士光剑"
+FriendlyNamePlural="骑士光剑"
+BriefSummary="这是一把高级光剑，是绝地武士的武器。框架已经被加固，丝线规格增大以处理额外的电力。"
+TacticalText="<Bullet \>这是一把高级光剑，是绝地武士的武器。框架已经被加固，丝线规格增大以处理额外的电力。"
+AbilityDescName="光剑"
+
+[Lightsaber_BM X2WeaponTemplate]
+FriendlyName="大师光剑"
+FriendlyNamePlural="大师光剑"
+BriefSummary="绝地大师的光剑是一种强大的工具。这把剑的框架已经进一步加固。穿过它的大量电力也使得任何线路防护都必须被移除。"
+TacticalText="<Bullet \>绝地大师的光剑是一种强大的工具。这把剑的框架已经进一步加固。穿过它的大量电力也使得任何线路防护都必须被移除。"
+AbilityDescName="光剑"
+
+[Saberstaff_TR X2WeaponTemplate]
++FriendlyName="训练双刃光剑"
++BriefSummary="这种训练用双刃光剑由最基本的组件制成，在真实的战斗情况下并不是很有效"
++TacticalText="<Bullet/> 这种训练用双刃光剑由最基本的组件制成，在真实的战斗情况下并不是很有效"
++AbilityDescName="双刃光剑"
+
+[Saberstaff_CV X2WeaponTemplate]
++FriendlyName="学徒双刃光剑"
++BriefSummary="这种基础的双刃光剑发出一束通过Kathracite晶体过滤的光束。比剑稍微有效一些，适合学徒使用。"
++TacticalText="<Bullet/> 双刃光剑是一种难以使用的武器，也对敌人来说是不可预测的，他们可能会被其毁灭性的打击所惊讶。"
++AbilityDescName="双刃光剑"
+
+[Saberstaff_MG X2WeaponTemplate]
++FriendlyName="骑士双刃光剑"
++BriefSummary="这把双刃光剑使用了与原力相谐的Pontite种类的Adegan晶体，创建了使用者、武器和原力之间的联系。这是一种适合有经验的光剑使用者的武器。"
++TacticalText="<Bullet/> 双刃光剑是一种难以使用的武器，也对敌人来说是不可预测的，他们可能会被其毁灭性的打击所惊讶。 \n<Bullet/> 穿透力：1。"
++AbilityDescName="双刃光剑"
+
+[Saberstaff_BM X2WeaponTemplate]
++FriendlyName="大师双刃光剑"
++BriefSummary="这把双刃光剑已经用Kyber晶体进行了增强，这是最稀有和最强大的光剑晶体。使用这种武器可以显著增强一个人与原力的亲和力，从而使使用者在战斗中更加有效。这是一种适合大师的武器。"
++TacticalText="<Bullet/> 双刃光剑是一种难以使用的武器，也对敌人来说是不可预测的，他们可能会被其毁灭性的打击所惊讶。 \n<Bullet/> 穿透力：2。"
++AbilityDescName="双刃光剑"
+
+[Holocron_CV X2WeaponTemplate]
+FriendlyName="原典"
+FriendlyNamePlural="原典"
+BriefSummary="原典是由绝地武士团和西斯两者使用的信息存储设备，其中包含了古老的教诲或以全息形式呈现的宝贵信息。它们看起来像掌心大小的发光多面体，由晶体材料和硬件组成，只能通过原力激活和使用。"
+TacticalText="原典是由绝地武士团和西斯两者使用的信息存储设备，其中包含了古老的教诲或以全息形式呈现的宝贵信息。它们看起来像掌心大小的发光多面体，由晶体材料和硬件组成，只能通过原力激活和使用。"
+AbilityDescName="原典"
+
+[Holocron_MG X2WeaponTemplate]
+FriendlyName="骑士原典"
+FriendlyNamePlural="骑士原典"
+BriefSummary="原典是由绝地武士团和西斯两者使用的信息存储设备，其中包含了古老的教诲或以全息形式呈现的宝贵信息。它们看起来像掌心大小的发光多面体，由晶体材料和硬件组成，只能通过原力激活和使用。"
+TacticalText="原典是由绝地武士团和西斯两者使用的信息存储设备，其中包含了古老的教诲或以全息形式呈现的宝贵信息。它们看起来像掌心大小的发光多面体，由晶体材料和硬件组成，只能通过原力激活和使用。"
+AbilityDescName="原典"
+
+[Holocron_BM X2WeaponTemplate]
+FriendlyName="大师原典"
+FriendlyNamePlural="大师原典"
+BriefSummary="原典是由绝地武士团和西斯两者使用的信息存储设备，其中包含了古老的教诲或以全息形式呈现的宝贵信息。它们看起来像掌心大小的发光多面体，由晶体材料和硬件组成，只能通过原力激活和使用。"
+TacticalText="原典是由绝地武士团和西斯两者使用的信息存储设备，其中包含了古老的教诲或以全息形式呈现的宝贵信息。它们看起来像掌心大小的发光多面体，由晶体材料和硬件组成，只能通过原力激活和使用。"
+AbilityDescName="原典"
+
+
+[BattlePrecognition X2AbilityTemplate]
+LocFriendlyName="战斗预感"
+LocFlyOverText="战斗预感"
+LocLongDescription="对任何在近战范围内攻击的敌人进行预先的攻击"
+LocHelpText="对任何在近战范围内攻击的敌人进行预先的攻击"
+LocPromotionPopupText="<Bullet/>对任何在近战范围内攻击的敌人进行预先的攻击"
+
+[BattlePrecognitionLeapStrike X2AbilityTemplate]
+LocFriendlyName="战斗预感"
+LocFlyOverText="战斗预感"
+LocLongDescription="使用近战攻击监视在蓝色移动范围内的敌人"
+LocHelpText="使用近战攻击监视在蓝色移动范围内的敌人"
+LocPromotionPopupText="<Bullet/>使用近战攻击监视在蓝色移动范围内的敌人"
+LocHitMessage="战斗预感"
+
+[ForceJump X2AbilityTemplate]
+LocFriendlyName="原力跳跃"
+LocFlyOverText="原力跳跃"
+LocLongDescription="使用原力跳跃到很远距离"
+LocHelpText="使用原力跳跃到很远距离"
+LocPromotionPopupText="<Bullet/>使用原力跳跃到很远距离"
+
+[ForceChoke X2AbilityTemplate]
+LocFriendlyName="原力窒息"
+LocFlyOverText="原力窒息"
+LocLongDescription="使用这种黑暗的原力能力从远处以念力窒息目标。<Ability:ForceAlignment/>"
+LocHelpText="使用这种黑暗的原力能力从远处以念力窒息目标。"
+LocPromotionPopupText="<Bullet/>使用这种黑暗的原力能力从远处以念力窒息目标。<br /><Bullet/><Ability:ForceAlignment/>"
+
+[ForceLightning X2AbilityTemplate]
+LocFriendlyName="原力闪电"
+LocFlyOverText="原力闪电"
+LocLongDescription="引导你的仇恨和愤怒，释放出毁灭性的原力闪电。<Ability:ForceAlignment/>"
+LocHelpText="引导你的仇恨和愤怒，释放出毁灭性的原力闪电。"
+LocPromotionPopupText="<Bullet/>在成功的原力攻击与意志对抗中造成伤害<br /><Bullet/>也可以瞄准平民和队友。这将你的原力对齐转向黑暗面。<br /><Bullet/><Ability:ForceAlignment/>"
+
+[ForceChainLightning X2AbilityTemplate]
+LocFriendlyName="链式闪电"
+LocFlyOverText="链式闪电"
+LocLongDescription="引导你的仇恨和愤怒，释放出击中多个敌人的毁灭性原力闪电。<Ability:ForceAlignment/>"
+LocHelpText="引导你的仇恨和愤怒，释放出击中多个敌人的毁灭性原力闪电。"
+LocPromotionPopupText="<Bullet/>对视线内每个在原力攻击与意志对抗中失败的单位造成伤害<br /><Bullet/>也可以瞄准平民和队友。这将你的原力对齐转向黑暗面。<br /><Bullet/><Ability:ForceAlignment/>"
+
+[ForcePush X2AbilityTemplate]
+LocFriendlyName="原力推力"
+LocFlyOverText="原力推力"
+LocLongDescription="使用原力将目标从你身边推开。这种基础的原力能力总是会命中，可以取消监视，有机会使目标晕眩并造成最小的伤害。<Ability:ForceAlignment/>"
+LocHelpText="使用原力将目标从你身边推开。这种基础的原力能力总是会命中，可以取消监视，有机会使目标晕眩并造成最小的伤害。"
+LocPromotionPopupText="<Bullet/>可以应用晕眩<br /><Bullet/>取消监视和蝮蛇束缚<br /><Bullet/>不会结束回合<br /><Bullet/>保证命中<br /><Bullet/><Ability:Cooldown< /> 冷却<br /><Bullet/><Ability:ForceAlignment/>"
+
+[ForceWind X2AbilityTemplate]
+LocFriendlyName="原力之风"
+LocFlyOverText="原力之风"
+LocLongDescription="使用原力将多个目标从你身边推开并造成环境破坏。这种高级的原力能力总是会命中，可以取消监视，有机会使目标晕眩并造成一些伤害。<Ability:ForceAlignment/>"
+LocHelpText="使用原力将多个目标从你身边推开并造成环境破坏。这种高级的原力能力总是会命中，可以取消监视，有机会使目标晕眩并造成一些伤害。"
+LocPromotionPopupText="<Bullet/>可以应用晕眩<br /><Bullet/>取消监视和蝮蛇束缚<br /><Bullet/>保证命中<br /><Bullet/><Ability:Cooldown< /> 冷却<br /><Bullet/><Ability:ForceAlignment/>"
+
+[ForceJumpTraversal X2AbilityTemplate]
+LocFriendlyName="原力跳跃"
+LocFlyOverText="原力跳跃"
+LocLongDescription="绝地武士可以借助原力跳跃到令人难以置信的高度"
+LocHelpText="绝地武士可以借助原力跳跃到令人难以置信的高度"
+LocPromotionPopupText="<Bullet/>允许在没有梯子或管道的情况下跳上建筑物"
+
+
+[MindTricks X2AbilityTemplate]
+LocFriendlyName="绝地心术"
+LocFlyOverText="绝地心术"
+LocLongDescription="影响弱者的思维，将移动、视线和探测范围降至零。这种原力能力不会破坏隐蔽。<Ability:ForceAlignment/>"
+LocHelpText="影响弱者的思维，将移动、视线和探测范围降至零。这种原力能力不会破坏隐蔽。"
+LocFlyOverText="绝地心术"
+LocMissMessage="绝地心术失败"
+LocPromotionPopupText="<Bullet/>锥形AOE效果，如果成功，将移动、视线和探测范围降至零。该能力不会破坏隐蔽。<br /><Bullet/><Ability:Cooldown< /> 冷却<br /><Bullet/><Ability:ForceAlignment/>"
+
+[ForceHeal X2AbilityTemplate]
+LocFriendlyName="原力治愈"
+LocFlyOverText="原力治愈"
+LocLongDescription="用原力治疗盟友或自己。还可以移除负面状态效果并复活出血过多的队友。<Ability:ForceAlignment/>"
+LocHelpText="用原力治疗盟友或自己。还可以移除负面状态效果并复活出血过多的队友。"
+LocPromotionPopupText="<Bullet/>治疗单位<br /><Bullet/>治疗目标<br /><Bullet/>移除负面状态效果<br /><Bullet/>恢复目标的意识并止血<br /><Bullet/>在队友身上使用原力治愈会使你的原力对齐转向光明面<br /><Bullet\><Ability:ForceAlignment/>"
+
+[MindControl X2AbilityTemplate]
+LocFriendlyName="精神控制"
+LocFlyOverText="精神控制"
+LocLongDescription="完全控制你的朋友和敌人。<Ability:ForceAlignment/>"
+LocHelpText="完全控制你的朋友和敌人。"
+LocPromotionPopupText="<Bullet/>完全控制你的朋友和敌人<br/><Bullet/>也可以瞄准平民和队友。这将你的原力对齐转向黑暗面。<br/><Bullet/><Ability:ForceAlignment/>"
+
+[ForceSpeed X2AbilityTemplate]
+LocFriendlyName="原力速度"
+LocFlyOverText="原力速度"
+LocLongDescription="在这个回合中进行三次行动，没有行动会结束回合。"
+LocHelpText="在这个回合中进行三次行动，没有行动会结束回合。"
+LocPromotionPopupText="<Bullet/>在这个回合中进行三次行动，没有行动会结束回合。</br>"
+
+[ForceFear X2AbilityTemplate]
+LocFriendlyName="原力恐惧"
+LocFlyOverText="原力恐惧"
+LocLongDescription="使用者直接打击目标思维的最深处，造成无法控制的恐惧，对目标的能力造成破坏。这种力量如此微妙，其使用不会破坏隐蔽。<Ability:ForceAlignment/>"
+LocHelpText="使用者直接打击目标思维的最深处，造成无法控制的恐惧，对目标的能力造成破坏。这种力量如此微妙，其使用不会破坏隐蔽。"
+LocPromotionPopupText="<Bullet/>锥形AOE攻击，可能使有机敌人恐慌。</br><Bullet/>不破坏隐蔽。</br><Bullet/>也可以瞄准平民和队友。这将你的原力对齐转向黑暗面。<br /><Bullet/><Ability:ForceAlignment/>"
+
+[LeapStrike X2AbilityTemplate]
+LocFriendlyName="跃击"
+LocFlyOverText="跃击"
+LocLongDescription="绝地武士使用原力跳向目标，并立即用光剑攻击，不会触发监视。"
+LocHelpText="绝地武士使用原力跳向目标，并立即用光剑攻击，不会触发监视。"
+LocPromotionPopupText="<Bullet/>绝地武士使用原力跳向目标，并立即用光剑攻击，不会触发监视。</br>"
+
+[LeapStrikeFleche X2AbilityTemplate]
+LocFriendlyName="跃击增强"
+LocFlyOverText="跃击"
+LocLongDescription="绝地武士在跃击时，根据他们的起始位置和目标之间的距离获得伤害加成。"
+LocHelpText="绝地武士在跃击时，根据他们的起始位置和目标之间的距离获得伤害加成。"
+
+[LightsaberSlash X2AbilityTemplate]
+LocFriendlyName="光剑挥砍"
+LocFlyOverText="光剑挥砍"
+LocLongDescription="用你的光剑攻击相邻的目标。使用一个动作。"
+LocHelpText="用你的光剑攻击相邻的目标。使用一个动作。"
+LocPromotionPopupText="<Bullet/> 用你的光剑攻击相邻的目标。<br/><Bullet/> 使用一个动作并不会自动结束你的回合，所以一回合可以进行两次攻击。"
+
+[EnergyAbsorption X2AbilityTemplate]
+LocFriendlyName="能量吸收"
+LocFlyOverText="能量吸收"
+LocLongDescription="你擅长用原力吸收来袭的能量。你获得5点能量护盾。"
+LocHelpText="你擅长用原力吸收来袭的能量。你获得5点能量护盾。"
+LocPromotionPopupText="<Bullet/>你获得5点能量护盾。</br>"
+
+[BattleMeditation X2AbilityTemplate]
+LocFriendlyName="战斗冥想"
+LocFlyOverText="战斗冥想"
+LocLongDescription="在战斗冥想状态下，绝地武士能够偏转或反射每一次来袭的射击。<Ability:ForceAlignment/>"
+LocHelpText="在战斗冥想状态下，绝地武士能够偏转或反射每一次来袭的射击。"
+LocPromotionPopupText="<Bullet/>一个敌人回合内无限反射/偏转</br><Bullet/><Ability:ForceAlignment/>"
+
+[MindControl X2AbilityTemplate]
+LocFriendlyName="精神控制"
+LocLongDescription="永久性地控制一个敌人。每个任务只能成功执行一次支配。"
+LocHelpText="永久性地控制一个敌人。每个任务只能成功执行一次支配。"
+LocFlyOverText="精神控制"
+LocMissMessage="精神控制失败"
+LocPromotionPopupText="<Bullet/> 控制需要超能力操作员的超能力强度与目标的意愿进行比对。<br/><Bullet/> 如果尝试的控制失败，需要等待4个回合的冷却时间才能再次尝试。<br/><Bullet/> 如果超能力操作员死亡或离开战场，控制就会被取消。<br/>"
+
+[ForceSense X2AbilityTemplate]
+LocFriendlyName="原力感知"
+LocLongDescription="即使没有视线，也能感知附近的单位。原力感知会揭示隐藏和潜伏的敌人。"
+LocHelpText="即使没有视线，也能感知附近的单位。原力感知会揭示隐藏和潜伏的敌人。"
+LocFlyOverText="原力感知"
+LocPromotionPopupText="<Bullet/>感知在正常视觉范围外的敌人。<br/><Bullet/> 原力感知会揭示隐藏和潜伏的敌人。<br/>"
+
+[ForceProtection X2AbilityTemplate]
+LocFriendlyName="原力保护"
+LocLongDescription="只有高级绝地武士才能掌握的力量，原力保护使持有者对各种攻击免疫。绝地武士对火焰、毒素、酸和爆炸伤害免疫。"
+LocHelpText="绝地武士对火焰、毒素、酸和爆炸伤害免疫。"
+LocFlyOverText="原力保护"
+LocPromotionPopupText="<Bullet/>拥有原力保护能力的绝地武士可以在火焰、毒素和酸中行走而不受影响。<br/>"
+
+[Slash_LW X2AbilityTemplate]
+LocFriendlyName="斩击"
+LocFlyOverText="斩击"
+LocLongDescription="用你的剑攻击相邻的目标。使用一个动作。"
+LocHelpText="用你的剑攻击相邻的目标。使用一个动作。"
+LocPromotionPopupText="<Bullet/>用你的剑攻击相邻的目标。<br/><Bullet/> 使用一个动作并不会自动结束你的回合，所以一回合可能进行两次攻击。"
+
+[ForceDrain X2AbilityTemplate]
+LocFriendlyName="原力吸取"
+LocFlyOverText="原力吸取"
+LocLongDescription="吸取你周围目标的生命以治愈自己。<Ability:ForceAlignment/>"
+LocHelpText="吸取你周围目标的生命以治愈自己。"
+LocPromotionPopupText="<Bullet/>对周围的AOE效果<br /><Bullet/>每造成一点伤害就治愈一点生命。<br /><Bullet/><Ability:ForceAlignment/>"
+
+[LightsaberDeflect X2AbilityTemplate]
+LocFriendlyName="光剑偏转"
+LocLongDescription="绝地武士有机会用他们的<Ability:WeaponName/>偏转来袭的射击"
+LocHelpText="绝地武士有机会用他们的<Ability:WeaponName/>偏转来袭的射击"
+LocFlyOverText="光剑偏转"
+LocPromotionPopupText="<Bullet/>绝地武士有机会用他们的<Ability:WeaponName/>偏转来袭的射击"
+
+[LightsaberReflect X2AbilityTemplate]
+LocFriendlyName="光剑反射"
+LocLongDescription="绝地武士有机会用他们的<Ability:WeaponName/>反射来袭的射击，反射到攻击的敌人，或者简单地偏转它们。"
+LocHelpText="绝地武士有机会用他们的<Ability:WeaponName/>反射来袭的射击，反射到攻击的敌人，或者简单地偏转它们。"
+LocFlyOverText="光剑反射"
+LocPromotionPopupText="<Bullet/>绝地武士有机会用他们的<Ability:WeaponName/>反射来袭的射击，反射到攻击的敌人，或者简单地偏转它们。"
+
+[LightsaberToss X2AbilityTemplate]
+LocFriendlyName="光剑投掷"
+LocLongDescription="向敌人投掷光剑，并用原力将其召回"
+LocHelpText="向敌人投掷光剑，并用原力将其召回"
+LocFlyOverText="光剑投掷"
+LocPromotionPopupText="<Bullet/>"
+
+[LightsaberTelekinesis X2AbilityTemplate]
+LocFriendlyName="光剑掌控"
+LocLongDescription="向所有可见的敌人投掷光剑，并用原力将其召回"
+LocHelpText="向所有可见的敌人投掷光剑，并用原力将其召回"
+LocFlyOverText="光剑大师"
+LocPromotionPopupText="<Bullet/>"
+
+[ForcePowerPool X2AbilityTemplate]
+LocFriendlyName="原力能量"
+LocLongDescription="绝地武士对生命之力的感知程度的衡量，以及他们使用原力能力的依据。"
+LocHelpText="绝地武士对生命之力的感知程度的衡量，以及他们使用原力能力的依据。"
+LocFlyOverText="原力能量"
+LocPromotionPopupText="<Bullet/> 绝地武士根据他们的等级开始战斗时拥有原力点数。"
+
+[ForceMeditate X2AbilityTemplate]
+LocFriendlyName="原力冥想"
+LocLongDescription="进入冥想状态，重新调整你与原力的连接，但使自己容易受到攻击。冥想可以消除像定向失调和昏厥等负面精神效果。"
+LocHelpText="进入冥想状态，重新调整你与原力的连接，但使自己容易受到攻击。冥想可以消除像定向失调和昏厥等负面精神效果。"
+LocFlyOverText="原力冥想"
+LocPromotionPopupText="<Bullet/> 恢复所有原力点数。<br /><Bullet/> 在下一个回合开始前失去躲避的能力。<br /><Bullet/>消除像定向失调和昏厥等负面精神效果。"
+
+[ForcePoolBonusDamage X2AbilityTemplate]
+LocFriendlyName="原力池"
+
+[HolocronPool_CV X2AbilityTemplate]
+LocFriendlyName="学徒原典"
+LocLongDescription="携带学徒原典的绝地武士对原力的感知更强，提供33%的原力点数加成。"
+LocHelpText="携带学徒原典的绝地武士对原力的感知更强，提供33%的原力点数加成。"
+
+[HolocronPool_MG X2AbilityTemplate]
+LocFriendlyName="骑士原典"
+LocLongDescription="携带骑士原典的绝地武士比学徒更能感知原力，提供66%的原力点数加成。"
+LocHelpText="携带骑士原典的绝地武士比学徒更能感知原力，提供66%的原力点数加成。"
+
+[HolocronPool_BM X2AbilityTemplate]
+LocFriendlyName="大师原典"
+LocLongDescription="大师原典是领事在引导原力能力时的最大资产，提供100%的原力点数加成。"
+LocHelpText="大师原典是领事在引导原力能力时的最大资产，提供100%的原力点数加成。"
+
+[DeflectBonusSaberStaff_CV X2AbilityTemplate]
+LocFriendlyName="增强偏转"
+LocLongDescription="光剑的双刃提供了10%的偏转加成。"
+LocHelpText="光剑的双刃提供了10%的偏转加成。"
+
+[DeflectBonusSaberStaff_MG X2AbilityTemplate]
+LocFriendlyName="增强偏转"
+LocLongDescription="光剑的双刃提供了15%的偏转加成。"
+LocHelpText="光剑的双刃提供了15%的偏转加成。"
+
+[DeflectBonusSaberStaff_BM X2AbilityTemplate]
+LocFriendlyName="增强偏转"
+LocLongDescription="光剑的双刃提供了20%的偏转加成。"
+LocHelpText="光剑的双刃提供了20%的偏转加成。"
+
+[UpgradeDiamond_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="钻石"
+FriendlyNamePlural="钻石"
+BriefSummary="这种普通的钻石是一个不够理想的光剑水晶替代品，但除非我们从外星人那里获取，否则这就是我们所拥有的一切。"
+TinySummary="增加伤害"
+
+[UpgradeAdeganCrystal_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="阿德甘水晶"
+FriendlyNamePlural="阿德甘水晶"
+BriefSummary="阿德甘水晶，也被称为伊卢姆水晶，是最常见的光剑聚焦水晶之一。"
+TinySummary=""
+
+[UpgradeAnkarresSapphire_Adv X2WeaponUpgradeTemplate]
+FriendlyName="安卡雷斯蓝水晶"
+FriendlyNamePlural="安卡雷斯蓝水晶"
+BriefSummary="这种水晶拥有传说中的治愈力量和许多其他效果。它是可以用于制造光剑的最有力的水晶之一。"
+TinySummary=""
+
+[UpgradeBarabOreIngot_Adv X2WeaponUpgradeTemplate]
+FriendlyName="巴拉布结晶"
+FriendlyNamePlural="巴拉布结晶"
+BriefSummary="当这些结晶被放入光剑时，由于它们曾经暴露在大量辐射下，它们会产生一个几乎要失去凝聚力的燃烧刀刃。"
+TinySummary=""
+
+[UpgradeBondarCrystal_Adv X2WeaponUpgradeTemplate]
+FriendlyName="邦达尔水晶"
+FriendlyNamePlural="邦达尔水晶"
+BriefSummary="这种水晶是在阿尔德兰星系环绕的一个远轨道小行星上开采的。它产生的光剑光束在冲击时会脉动，可能使对手昏厥。"
+TinySummary=""
+
+[UpgradeDamindCrystal_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="达敏德水晶"
+FriendlyNamePlural="达敏德水晶"
+BriefSummary="这种水晶是在达米尼亚的沙漠世界上发现的，可以用于光剑的制造，产生一个清晰定义的光束，宽度和长度略微宽一些。"
+TinySummary=""
+
+[UpgradeDragiteCrystal_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="德拉吉特水晶"
+FriendlyNamePlural="德拉吉特水晶"
+BriefSummary="德拉吉特水晶是在M'haeli的D'olop山脉中发现的。它们产生的光束在击中时会产生响声，造成少量的声波伤害。"
+TinySummary=""
+
+[UpgradeEralamCrystal_Adv X2WeaponUpgradeTemplate]
+FriendlyName="埃拉拉姆水晶"
+FriendlyNamePlural="埃拉拉姆水晶"
+BriefSummary="这种水晶曾经在Erai的第三颗月球上开采，古代的西斯轰炸破坏了剩下的大部分。如果能找到，这些水晶可以产生一个清晰、优越的光剑光束。"
+TinySummary=""
+
+[UpgradeFirkrannCrystal_Sup X2WeaponUpgradeTemplate]
+FriendlyName="菲克兰水晶"
+FriendlyNamePlural="菲克兰水晶"
+BriefSummary="这种重水晶是Rafa V的土著收集的。如果用于光剑的制造，它会产生一个带电的光束，对机器人造成毁灭性的伤害。"
+TinySummary=""
+
+[UpgradeHurrikaineCrystal_Sup X2WeaponUpgradeTemplate]
+FriendlyName="飓风水晶"
+FriendlyNamePlural="飓风水晶"
+BriefSummary="非常罕见的飓风水晶以其无与伦比的美丽而闻名。当用于光剑时，这种深色宝石会产生一道可以部分穿透任何防御的毁灭性光束。"
+TinySummary=""
+
+[UpgradeJenruaxCrystal_Sup X2WeaponUpgradeTemplate]
+FriendlyName="杰纳拉克斯水晶"
+FriendlyNamePlural="杰纳拉克斯水晶"
+BriefSummary="这种水晶是Opila的精炼形式，已经被清除了所有的杂质。当用于光剑制造时，它会产生一个毫不迟疑的快速刀刃。"
+TinySummary=""
+
+[UpgradeKaiburrCrystal_Adv X2WeaponUpgradeTemplate]
+FriendlyName="凯伯水晶"
+FriendlyNamePlural="凯伯水晶"
+BriefSummary="也许是可以用于光剑的最强大的水晶，凯伯宝石赋予其主人洞察力和坚韧。"
+TinySummary=""
+
+[UpgradeKashaCrystal_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="卡夏水晶"
+FriendlyNamePlural="卡夏水晶"
+BriefSummary="这种水晶传统上被塞瑞安人用作冥想工具。当用作光剑水晶时，它可以帮助使用者在紧张的战斗中清除心中的干扰。"
+TinySummary=""
+
+[UpgradeLorrdianGemstone_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="洛尔迪亚宝石"
+FriendlyNamePlural="洛尔迪亚宝石"
+BriefSummary="在他们被奴役期间，洛尔迪亚人被禁止相互交谈，因此学会了使用微妙的手势和抽搐来交流。这些宝石已经被赋予了那种能力。"
+TinySummary=""
+
+[UpgradeNextorCrystal_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="内克托水晶"
+FriendlyNamePlural="内克托水晶"
+BriefSummary="这种水晶是在M'haeli星球的山脉中开采的，当用于光剑制造时，它会产生一个不稳定的刀刃，可以造成惊人的伤害。"
+TinySummary=""
+
+[UpgradeOpilaCrystal_Sup X2WeaponUpgradeTemplate]
+FriendlyName="奥皮拉水晶"
+FriendlyNamePlural="奥皮拉水晶"
+BriefSummary="这种水晶是在菲尔斯系统的小行星带中发现的，可以用于光剑制造，产生一道强度极大的光束，看起来切割得非常快。"
+TinySummary=""
+
+[UpgradePhondCrystal_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="方德水晶"
+FriendlyNamePlural="方德水晶"
+BriefSummary="这种奇特的副产品是由于制作某些合金时稀有杂质的结合以及一些随机的外部条件，这种水晶产生了一道猛烈燃烧的光剑光束。"
+TinySummary=""
+
+[UpgradePontiteCrystal_Adv X2WeaponUpgradeTemplate]
+FriendlyName="蓬蒂特水晶"
+FriendlyNamePlural="蓬蒂特水晶"
+BriefSummary="蓬蒂特是阿德甘水晶的最稀有形式之一。它散发出强大的气场，可以冷却皮肤和脾气。"
+TinySummary=""
+
+[UpgradeQixoniCrystal_Sup X2WeaponUpgradeTemplate]
+FriendlyName="奇克索尼水晶"
+FriendlyNamePlural="奇克索尼水晶"
+BriefSummary="奇克索尼水晶是在一个星球上形成的，这个星球在几千年前的超新星爆炸中被摧毁。它们非常稀有，也非常强大。"
+TinySummary=""
+
+[UpgradeRubatCrystal_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="鲁巴特水晶"
+FriendlyNamePlural="鲁巴特水晶"
+BriefSummary="鲁巴特水晶是在费米斯开采的，用于光剑制造，它产生一个清晰定义的刀刃，绝地武士可以轻易地追踪，使得更容易击中对手。"
+TinySummary=""
+
+[UpgradeRuusanCrystal_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="鲁桑水晶"
+FriendlyNamePlural="鲁桑水晶"
+BriefSummary="鲁桑水晶来自同名的中环星球。虽然它们并不直接影响光剑的效果，但它们可以帮助绝地武士集中原力。"
+TinySummary=""
+
+[UpgradeSapithCrystal_Adv X2WeaponUpgradeTemplate]
+FriendlyName="萨皮斯水晶"
+FriendlyNamePlural="萨皮斯水晶"
+BriefSummary="这种结晶物质是由现已灭绝的Lwhekk的古老的Volice虫每11年排泄一次。它产生一个更强烈的光剑光束，提供更好的控制。"
+TinySummary=""
+
+[UpgradeSigilCrystal_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="西吉尔水晶"
+FriendlyNamePlural="西吉尔水晶"
+BriefSummary="这种水晶是在西吉尔系统开采的，它是光剑的一种昂贵但有价值的添加物。它产生一道猛烈的明亮光束，接触时会灼烧，造成巨大的伤害。"
+TinySummary=""
+
+[UpgradeSolariCrystal_Sup X2WeaponUpgradeTemplate]
+FriendlyName="索拉里水晶"
+FriendlyNamePlural="索拉里水晶"
+BriefSummary="这是真正的光明面力量的象征，只有那些精神纯洁的绝地武士才能挥舞装备了这种闪亮的白色宝石的光剑。"
+TinySummary=""
+
+[UpgradeStygiumCrystal_Adv X2WeaponUpgradeTemplate]
+FriendlyName="斯蒂吉姆水晶"
+FriendlyNamePlural="斯蒂吉姆水晶"
+BriefSummary="斯蒂吉姆矿物可以用来创建能够破坏敌方传感器的隐形效果。在其纯水晶形态下，它适合用于光剑。"
+TinySummary=""
+
+[UpgradeUltimaPearl_Sup X2WeaponUpgradeTemplate]
+FriendlyName="终极珍珠"
+FriendlyNamePlural="终极珍珠"
+BriefSummary="这种稀有的石头可以在卡拉马里找到，是一个不寻常的光剑聚焦水晶选择。这种有价值的石头很难正确地安装在光剑中，但它有强大的效果。"
+TinySummary=""
+
+[UpgradeUpariCrystal_Adv X2WeaponUpgradeTemplate]
+FriendlyName="乌帕里水晶"
+FriendlyNamePlural="乌帕里水晶"
+BriefSummary="奇怪的是，这种水晶通常会在主要森林世界的轨道上散布。它虽然脆弱，但却很通用，大师级的绝地武士可以让它产生许多效果。"
+TinySummary=""
+
+[UpgradeVelmoriteCrystal_Adv X2WeaponUpgradeTemplate]
+FriendlyName="维尔莫瑞特水晶"
+FriendlyNamePlural="维尔莫瑞特水晶"
+BriefSummary="这些水晶只能在维尔莫星球上找到，它们产生一束非常精细的光束，易于熟练地挥舞。"
+TinySummary=""
+
+[UpgradeDiatiumCell_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="钛金能量电池"
+FriendlyNamePlural="钛金能量电池"
+BriefSummary="这种电池可以调整光剑的能量输出，使熟练的使用者能够更好地进行强力攻击。"
+TinySummary="增加伤害"
+
+[UpgradeDiatiumCell_Adv X2WeaponUpgradeTemplate]
+FriendlyName="升级版钛金能量电池"
+FriendlyNamePlural="升级版钛金能量电池"
+BriefSummary="这种电池可以调整光剑的能量输出，使熟练的使用者能够更好地进行强力攻击。"
+TinySummary="增加伤害"
+
+[UpgradeDiatiumCell_Sup X2WeaponUpgradeTemplate]
+FriendlyName="优质钛金能量电池"
+FriendlyNamePlural="优质钛金能量电池"
+BriefSummary="这种电池可以调整光剑的能量输出，使熟练的使用者能够更好地进行强力攻击。"
+TinySummary="增加伤害"
+
+[UpgradeDiatiumCell_Ult X2WeaponUpgradeTemplate]
+FriendlyName="终极钛金能量电池"
+FriendlyNamePlural="终极钛金能量电池"
+BriefSummary="这种电池可以调整光剑的能量输出，使熟练的使用者能够更好地进行强力攻击。"
+TinySummary="增加伤害"
+
+[UpgradeDischargeCell_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="放电能量电池"
+FriendlyNamePlural="放电能量电池"
+BriefSummary="这种电池可以调整光剑的能量输出，使精确的使用者能够更好地进行强力攻击。"
+TinySummary="增加暴击伤害"
+
+[UpgradeDischargeCell_Adv X2WeaponUpgradeTemplate]
+FriendlyName="升级版放电能量电池"
+FriendlyNamePlural="升级版放电能量电池"
+BriefSummary="这种电池可以调整光剑的能量输出，使精确的使用者能够更好地进行强力攻击。"
+TinySummary="增加暴击伤害"
+
+[UpgradeDischargeCell_Sup X2WeaponUpgradeTemplate]
+FriendlyName="优质放电能量电池"
+FriendlyNamePlural="优质放电能量电池"
+BriefSummary="这种电池可以调整光剑的能量输出，使精确的使用者能够更好地进行强力攻击。"
+TinySummary="增加暴击伤害"
+
+[UpgradeIonCell_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="离子能量电池"
+FriendlyNamePlural="离子能量电池"
+BriefSummary="这种电池可以调整光剑的能量输出，使熟练的使用者能够更好地进行破坏性的攻击。"
+TinySummary="增加穿透"
+
+[UpgradeIonCell_Adv X2WeaponUpgradeTemplate]
+FriendlyName="升级版离子能量电池"
+FriendlyNamePlural="升级版离子能量电池"
+BriefSummary="这种电池可以调整光剑的能量输出，使熟练的使用者能够更好地进行破坏性的攻击。"
+TinySummary="增加穿透"
+
+[UpgradeIonCell_Sup X2WeaponUpgradeTemplate]
+FriendlyName="优质离子能量电池"
+FriendlyNamePlural="优质离子能量电池"
+BriefSummary="这种电池可以调整光剑的能量输出，使熟练的使用者能够更好地进行破坏性的攻击。"
+TinySummary="增加穿透"
+
+[UpgradeJoltCell_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="电击能量电池"
+FriendlyNamePlural="电击能量电池"
+BriefSummary="这种电池可以调整光剑的能量输出，使熟练的使用者能够更好地进行精确的攻击。"
+TinySummary="增加暴击几率"
+
+[UpgradeJoltCell_Adv X2WeaponUpgradeTemplate]
+FriendlyName="升级版电击能量电池"
+FriendlyNamePlural="升级版电击能量电池"
+BriefSummary="这种电池可以调整光剑的能量输出，使熟练的使用者能够更好地进行精确的攻击。"
+TinySummary="增加暴击几率"
+
+[UpgradeJoltCell_Sup X2WeaponUpgradeTemplate]
+FriendlyName="优质电击能量电池"
+FriendlyNamePlural="优质电击能量电池"
+BriefSummary="这种电池可以调整光剑的能量输出，使熟练的使用者能够更好地进行精确的攻击。"
+TinySummary="增加暴击几率"
+
+[UpgradeFocusEmitter_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="聚焦发射器"
+FriendlyNamePlural="聚焦发射器"
+BriefSummary="聚焦发射器将刀刃聚焦成一个更薄、更具破坏力的刀刃，使熟练的使用者能够进行强力攻击。"
+TinySummary="增加伤害"
+
+[UpgradeFocusEmitter_Adv X2WeaponUpgradeTemplate]
+FriendlyName="升级版聚焦发射器"
+FriendlyNamePlural="升级版聚焦发射器"
+BriefSummary="聚焦发射器将刀刃聚焦成一个更薄、更具破坏力的刀刃，使熟练的使用者能够进行强力攻击。"
+TinySummary="增加伤害"
+
+[UpgradeFocusEmitter_Sup X2WeaponUpgradeTemplate]
+FriendlyName="优质聚焦发射器"
+FriendlyNamePlural="优质聚焦发射器"
+BriefSummary="聚焦发射器将刀刃聚焦成一个更薄、更具破坏力的刀刃，使熟练的使用者能够进行强力攻击。"
+TinySummary="增加伤害"
+
+[UpgradeDisruptEmitter_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="干扰发射器"
+FriendlyNamePlural="干扰发射器"
+BriefSummary="干扰发射器产生一个不稳定的光束，可以对受害者的防护壳或装甲造成混乱。"
+TinySummary="增加破甲"
+
+[UpgradeDisruptEmitter_Adv X2WeaponUpgradeTemplate]
+FriendlyName="升级版干扰发射器"
+FriendlyNamePlural="升级版干扰发射器"
+BriefSummary="干扰发射器产生一个不稳定的光束，可以对受害者的防护壳或装甲造成混乱。"
+TinySummary="增加破甲"
+
+[UpgradeDisruptEmitter_Sup X2WeaponUpgradeTemplate]
+FriendlyName="优质干扰发射器"
+FriendlyNamePlural="优质干扰发射器"
+BriefSummary="干扰发射器产生一个不稳定的光束，可以对受害者的防护壳或装甲造成混乱。"
+TinySummary="增加破甲"
+
+[UpgradePhobiumEmitter_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="福比姆发射器"
+FriendlyNamePlural="福比姆发射器"
+BriefSummary="为更具侵略性的战斗者制造的福比姆发射器产生了一个比典型发射器更宽、更厚的刀刃。它也无可争议地更有效。"
+TinySummary="增加暴击几率"
+
+[UpgradePhobiumEmitter_Adv X2WeaponUpgradeTemplate]
+FriendlyName="升级版福比姆发射器"
+FriendlyNamePlural="升级版福比姆发射器"
+BriefSummary="福比姆发射器是为更具侵略性的战斗者制造的，它产生了一个比典型发射器更宽、更厚的刀刃。它也无可争议地更有效。"
+TinySummary="增加暴击几率"
+
+[UpgradePhobiumEmitter_Sup X2WeaponUpgradeTemplate]
+FriendlyName="优质福比姆发射器"
+FriendlyNamePlural="优质福比姆发射器"
+BriefSummary="福比姆发射器是为更具侵略性的战斗者制造的，它产生了一个比典型发射器更宽、更厚的刀刃。它也无可争议地更有效。"
+TinySummary="增加暴击几率"
+
+[UpgradePhobiumEmitter_Ult X2WeaponUpgradeTemplate]
+FriendlyName="终极福比姆发射器"
+FriendlyNamePlural="终极福比姆发射器"
+BriefSummary="福比姆发射器是为更具侵略性的战斗者制造的，它产生了一个比典型发射器更宽、更厚的刀刃。它也无可争议地更有效。"
+TinySummary="增加暴击几率"
+
+[UpgradeFencingEmitter_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="击剑发射器"
+FriendlyNamePlural="击剑发射器"
+BriefSummary="击剑发射器最适合那些希望一击就能结束战斗的人。"
+TinySummary="增加暴击伤害"
+
+[UpgradeFencingEmitter_Adv X2WeaponUpgradeTemplate]
+FriendlyName="升级版击剑发射器"
+FriendlyNamePlural="升级版击剑发射器"
+BriefSummary="击剑发射器最适合那些希望一击就能结束战斗的人。"
+TinySummary="增加暴击伤害"
+
+[UpgradeFencingEmitter_Sup X2WeaponUpgradeTemplate]
+FriendlyName="优质击剑发射器"
+FriendlyNamePlural="优质击剑发射器"
+BriefSummary="击剑发射器最适合那些希望一击就能结束战斗的人。"
+TinySummary="增加暴击伤害"
+
+[UpgradeBeamGemLens_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="光束宝石透镜"
+FriendlyNamePlural="光束宝石透镜"
+BriefSummary="名副其实的光束宝石晶体常见于光学计算机中，如导航系统。不出所料，它们也可以创建一个高度聚焦的光剑光束。"
+TinySummary="增加伤害"
+
+[UpgradeBeamGemLens_Adv X2WeaponUpgradeTemplate]
+FriendlyName="升级版光束宝石透镜"
+FriendlyNamePlural="升级版光束宝石透镜"
+BriefSummary="名副其实的光束宝石晶体常见于光学计算机中，如导航系统。不出所料，它们也可以创建一个高度聚焦的光剑光束。"
+TinySummary="增加伤害"
+
+[UpgradeBeamGemLens_Sup X2WeaponUpgradeTemplate]
+FriendlyName="优质光束宝石透镜"
+FriendlyNamePlural="优质光束宝石透镜"
+BriefSummary="名副其实的光束宝石晶体常见于光学计算机中，如导航系统。不出所料，它们也可以创建一个高度聚焦的光剑光束。"
+TinySummary="增加伤害"
+
+[UpgradeByrothsisLens_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="拜罗西斯透镜"
+FriendlyNamePlural="拜罗西斯透镜"
+BriefSummary="拜罗西斯最初用于制造红外相机透镜，但后来在其他应用中也发现了其用途，包括光剑透镜。"
+TinySummary="增加破甲"
+
+[UpgradeByrothsisLens_Adv X2WeaponUpgradeTemplate]
+FriendlyName="升级版拜罗西斯透镜"
+FriendlyNamePlural="升级版拜罗西斯透镜"
+BriefSummary="拜罗西斯最初用于制造红外相机透镜，但后来在其他应用中也发现了其用途，包括光剑透镜。"
+TinySummary="增加破甲"
+
+[UpgradeByrothsisLens_Sup X2WeaponUpgradeTemplate]
+FriendlyName="优质拜罗西斯透镜"
+FriendlyNamePlural="优质拜罗西斯透镜"
+BriefSummary="拜罗西斯最初用于制造红外相机透镜，但后来在其他应用中也发现了其用途，包括光剑透镜。"
+TinySummary="增加破甲"
+
+[UpgradeDuelingLens_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="击剑透镜"
+FriendlyNamePlural="击剑透镜"
+BriefSummary="击剑透镜旨在将光剑聚焦成一个精细调整的刀刃，适用于击剑和其他需要完全控制的情况。"
+TinySummary="增加穿透"
+
+[UpgradeDuelingLens_Adv X2WeaponUpgradeTemplate]
+FriendlyName="升级版击剑透镜"
+FriendlyNamePlural="升级版击剑透镜"
+BriefSummary="击剑透镜旨在将光剑聚焦成一个精细调整的刀刃，适用于击剑和其他需要完全控制的情况。"
+TinySummary="增加穿透"
+
+[UpgradeDuelingLens_Sup X2WeaponUpgradeTemplate]
+FriendlyName="优质击剑透镜"
+FriendlyNamePlural="优质击剑透镜"
+BriefSummary="击剑透镜旨在将光剑聚焦成一个精细调整的刀刃，适用于击剑和其他需要完全控制的情况。"
+TinySummary="增加穿透"
+
+[UpgradeDuelingLens_Ult X2WeaponUpgradeTemplate]
+FriendlyName="终极击剑透镜"
+FriendlyNamePlural="终极击剑透镜"
+BriefSummary="击剑透镜旨在将光剑聚焦成一个精细调整的刀刃，适用于击剑和其他需要完全控制的情况。"
+TinySummary="增加穿透"
+
+[UpgradeVibrationLens_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="振动透镜"
+FriendlyNamePlural="振动透镜"
+BriefSummary="这种透镜振动得非常快，产生的光束不稳定，但更致命。"
+TinySummary="增加暴击伤害和破甲"
+
+[UpgradeVibrationLens_Adv X2WeaponUpgradeTemplate]
+FriendlyName="升级版振动透镜"
+FriendlyNamePlural="升级版振动透镜"
+BriefSummary="这种透镜振动得非常快，产生的光束不稳定，但更致命。"
+TinySummary="增加暴击伤害和破甲"
+
+[UpgradeVibrationLens_Sup X2WeaponUpgradeTemplate]
+FriendlyName="优质振动透镜"
+FriendlyNamePlural="优质振动透镜"
+BriefSummary="这种透镜振动得非常快，产生的光束不稳定，但更致命。"
+TinySummary="增加暴击伤害和破甲"
+
+[Lightsaber_CV_Project X2TechTemplate]
+DisplayName="学徒光剑"
+Summary="随着发现与原力相关的能力，我们应该开发一种武器，以帮助那些拥有这种天赋的人引导这些能力。这些'光剑'将利用一系列焦点，以及一个与变种人武器中的聚焦水晶不同的聚焦水晶，来产生一束光。" 
+
+[Lightsaber_MG_Project X2TechTemplate]
+DisplayName="骑士光剑"
+Summary="变种人和外星势力的增强力量使得我们需要创造一种新的绝地武士武器。虽然从根本上说它与之前的版本相同 - 因为内部可切换的组件是提供大部分实际效益的 - 但重新设计的外壳本身应该在攻击时允许增加控制。" 
+
+[Lightsaber_BM_Project X2TechTemplate]
+DisplayName="大师光剑"
+Summary="利用从研究精神力量熟练的变种人和外星势力中学到的新技术，我们相信在光剑技术方面有新的途径可以探索。和以前一样，效益可能会很小，但任何效益都比没有好。"
+
+[Saberstaff_CV_Project X2TechTemplate]
+DisplayName="学徒双刃光剑"
+Summary="随着发现与原力相关的能力，我们应该开发一种武器，以帮助那些拥有这种天赋的人引导这些能力。这些'光剑'将利用一系列焦点，以及一个与变种人武器中的聚焦水晶不同的聚焦水晶，来产生一束光。" 
+
+[Saberstaff_MG_Project X2TechTemplate]
+DisplayName="骑士双刃光剑"
+Summary="变种人和外星势力的增强力量使得我们需要创造一种新的绝地武士武器。虽然从根本上说它与之前的版本相同 - 因为内部可切换的组件是提供大部分实际效益的 - 但重新设计的外壳本身应该在攻击时允许增加控制。" 
+
+[Saberstaff_BM_Project X2TechTemplate]
+DisplayName="大师双刃光剑"
+Summary="利用从研究精神力量熟练的变种人和外星势力中学到的新技术，我们相信在光剑技术方面有新的途径可以探索。和以前一样，效益可能会很小，但任何效益都比没有好。"

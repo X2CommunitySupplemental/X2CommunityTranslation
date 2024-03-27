@@ -1,0 +1,50 @@
+;--------------------------------------------------
+;----------------- 物品模板 -----------------
+;--------------------------------------------------
+[AugmentationHead_MkZero X2EquipmentTemplate]
+FriendlyName="MK-0 增强眼睛"
+FriendlyNamePlural="增强眼睛"
+BriefSummary="增强了对侧面目标的瞄准能力。"
+TacticalText="增强了对侧面目标的瞄准能力。\n从变种人材料中搜集 -- 需要士兵受伤才能使用。\n进一步的生物电子研究可能会消除这个要求。"
+
+[AugmentationTorso_MkZero X2EquipmentTemplate]
+FriendlyName="MK-0 增强躯干"
+FriendlyNamePlural="增强躯干"
+BriefSummary="提供免费的背心插槽和+1 HP。"
+TacticalText="提供免费的背心插槽和+1 HP。\n从变种人材料中搜集 -- 需要士兵受伤才能使用。\n进一步的生物电子研究可能会消除这个要求。"
+
+[AugmentationArms_MkZero X2WeaponTemplate]
+FriendlyName="MK-0 增强手臂"
+FriendlyNamePlural="增强手臂"
+BriefSummary="提供一个增强的拳击。"
+TacticalText="提供一个增强的拳击。\n从变种人材料中搜集 -- 需要士兵受伤才能使用。\n进一步的生物电子研究可能会消除这个要求。"
+
+[AugmentationLegs_MkZero X2EquipmentTemplate]
+FriendlyName="MK-0 增强腿部"
+FriendlyNamePlural="增强腿部"
+BriefSummary="增加移动性。"
+TacticalText="增加移动性。\n从变种人材料中搜集 -- 需要士兵受伤才能使用。\n进一步的生物电子研究可能会消除这个要求。"
+
+
+;--------------------------------------------------
+;----------------- 能力 ----------------------
+;--------------------------------------------------
+
+
+[AugmentedPerception X2AbilityTemplate]
+LocFriendlyName="增强感知"
+LocFlyOverText="增强感知"
+LocLongDescription="对被侧面的敌人有+5的瞄准。"
+LocHelpText="对被侧面的敌人有+5的瞄准。"
+
+[AugmentedMobility X2AbilityTemplate]
+LocFriendlyName="移动增强"
+LocLongDescription="标准的假肢腿提供了一小部分的移动性加成。"
+LocHelpText="标准的假肢腿提供了一小部分的移动性加成。"
+LocFlyOverText="增强移动性" 
+
+[NeverAsked X2AbilityTemplate]
+LocFriendlyName="从未要求过这个"
+LocFlyOverText="从未要求过这个"
+LocLongDescription="当士兵完全使用MK-0增强时，士兵将对火和毒药免疫。"
+LocHelpText="当士兵完全使用MK-0增强时，士兵将对火和毒药免疫。"
