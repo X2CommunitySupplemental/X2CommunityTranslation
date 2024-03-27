@@ -263,8 +263,15 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1927497195
 
 * Chinese
 
-# JediClassRevised
+# Jedi Class Revised
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2031929512
 
 # Chinese
+
+# [WoTC] Mark Zero Augments
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1294744824
+
+* Chinese
+
