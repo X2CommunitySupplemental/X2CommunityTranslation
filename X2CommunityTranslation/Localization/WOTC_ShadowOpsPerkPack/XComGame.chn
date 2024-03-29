@@ -1,0 +1,1295 @@
+; === AWC abilities ===
+
+[ShadowOps_HipFire X2AbilityTemplate]
+LocFriendlyName="快速射击"
+LocLongDescription="对目标进行<Ability:WeaponName/>射击。此次攻击不消耗行动。每<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="对目标进行<Ability:WeaponName/>射击。此次攻击不消耗行动。"
+LocFlyOverText="快速射击"
+LocPromotionPopupText="<Bullet/> 快速射击每<Ability:SelfCooldown/>回合冷却。<br/>"
+
+[ShadowOps_Scrounger X2AbilityTemplate]
+LocFriendlyName="搜刮者"
+LocLongDescription="在任务中，有机会获得额外的战利品掉落。"
+LocHelpText="在任务中，有机会获得额外的战利品掉落。"
+
+[ShadowOps_Weaponmaster X2AbilityTemplate]
+LocFriendlyName="武器大师"
+LocLongDescription="你的<Ability:WeaponName/>攻击造成<Ability:+Damage/>伤害。"
+LocHelpText="你的<Ability:WeaponName/>攻击造成<Ability:+Damage/>伤害。"
+
+[ShadowOps_AbsolutelyCritical X2AbilityTemplate]
+LocFriendlyName="绝对暴击"
+LocLongDescription="对于被包抄或无掩体的目标，你获得额外的<Ability:+Crit>暴击几率。"
+LocHelpText="对于被包抄或无掩体的目标，你获得额外的<Ability:+Crit>暴击几率。"
+LocPromotionPopupText="<Bullet/> 适用于被包抄的目标以及无法寻找掩体的目标。<br/>"
+
+[ShadowOps_SnakeBlood X2AbilityTemplate]
+LocFriendlyName="蛇之血脉"
+LocLongDescription="你的闪避增加<Ability:Dodge/>，并且对毒素免疫。"
+LocHelpText="你的闪避增加<Ability:Dodge/>，并且对毒素免疫。"
+LocFlyOverText="蛇之血脉"
+
+[ShadowOps_Rage X2AbilityTemplate]
+LocFriendlyName="狂怒"
+LocLongDescription="你在3回合内获得不屈、无法被击中和连击效果，但无法选择自己的行动。"
+LocHelpText="你在3回合内获得不屈、无法被击中和连击效果，但无法选择自己的行动。"
+LocFlyOverText="狂怒"
+
+; === GTS ability templates ===
+
+; === Gameplay tips ===
+
+; Changing gameplay tips doesn't actually work for some reason
+[XGLocalizedData]
++GameplayTips_Tactical="战斗工程师的突击能力可以造成保证的伤害。它非常适合消灭低HP的敌人。"
++GameplayTips_Tactical="拥有坦克能力的龙骑兵如果穿着EXO或WAR套装，可以承受大量的伤害。"
++GameplayTips_Tactical="有时候，最好保存你的护护盾协议使用次数，以保护一个陷入困境的单位。"
++GameplayTips_Tactical="步兵可以造成大量的伤害，但是消耗弹药很快。给他们一个扩展的弹夹或自动装填器。"
++GameplayTips_Tactical="不要让你的猎人落后于其他的小队。他们在近战范围内也非常有能力。"
++GameplayTips_Tactical="许多战斗工程师的能力与霰弹枪比突击步枪更有效。"
+
+; === Engineer abilities ===
+
+[ShadowOps_DenseSmoke X2AbilityTemplate]
+LocFriendlyName="扩展烟雾"
+LocLongDescription="你的烟雾弹的半径增加了<Ability:ExpandedSmokeBonusRadius>格。"
+LocHelpText="你的烟雾弹的半径增加了<Ability:ExpandedSmokeBonusRadius>格"
+LocFlyOverText="扩展烟雾"
+LocPromotionPopupText="<Bullet/> 适用于烟雾弹和烟雾炸弹。<br/>"
+
+[ShadowOps_SmokeAndMirrors X2AbilityTemplate]
+LocFriendlyName="烟雾和镜子"
+LocLongDescription="你在每个任务中都有一个免费的烟雾弹使用。发射或投掷烟雾弹不会结束你的回合。"
+LocHelpText="你在每个任务中都有一个免费的烟雾弹使用。发射或投掷烟雾弹不会结束你的回合。"
+LocFlyOverText="烟雾和镜子"
+LocPromotionPopupText="<Bullet/> 烟雾弹为区域内的所有单位提供+20的防御加成，持续2回合。每个手雷有2次使用次数。 <br/><Bullet/> 在开始战斗之前，让你的战斗工程师进入一个好的位置，这样他们可以用他们的第一个动作来保护你的其他士兵。 <br/><Bullet/> 即使你正在携带其他的手雷，也可以装备烟雾弹。 <br/>"
+
+[ShadowOps_Breach X2AbilityTemplate]
+LocFriendlyName="突击"
+LocLongDescription="发射一枪，摧毁小范围内的掩体，并撕裂<Ability:Shred/>装甲，但伤害减少，不能获得暴击。只能用霰弹枪。使用<Ability:SelfAmmoCost/>弹药。<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="发射一枪，摧毁小范围内的掩体，并撕裂<Ability:Shred/>装甲，但伤害减少，不能获得暴击。"
+LocFlyOverText="突击"
+LocPromotionPopupText="<Bullet/> 更先进的武器会造成更多的伤害和撕裂更多的装甲。<br/><Bullet/> 突击非常适合摧毁掩体，但伤害较小，范围比发射的手雷小。<br/><Bullet/> 保证的伤害使突击非常适合消灭低HP的敌人。<br/><Bullet/> 突击无法暴击。<br/><Bullet/> 突击需要<Ability:SelfAmmoCost/>弹药点，并且有<Ability:SelfCooldown/>回合冷却。<br/>"
+
+[ShadowOps_Fastball X2AbilityTemplate]
+LocFriendlyName="快速投掷"
+LocLongDescription="本回合内，你投掷或发射的下一个手雷不消耗行动。每<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="本回合内，你投掷或发射的下一个手雷不消耗行动。"
+LocFlyOverText="快速投掷"
+LocPromotionPopupText="<Bullet/> 通常情况下，你应该在有机会的时候使用快速投掷。如果你保存到真正需要的时候再使用，你会在找到完美机会之前用完手雷。<br/><Bullet/> 使用快速投掷投掷或发射手雷不会结束回合。 <br/><Bullet/> 快速投掷有<Ability:SelfCooldown/>回合冷却。<br/>"
+
+[ShadowOps_Fracture X2AbilityTemplate]
+LocFriendlyName="骨折"
+LocLongDescription="进行一次攻击，具有<Ability:+Crit:ShadowOps_FractureDamage/>暴击几率，并且暴击时造成双倍的额外伤害。每<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="进行一次攻击，具有<Ability:+Crit:ShadowOps_FractureDamage/>暴击几率，并且暴击时造成双倍的额外伤害。"
+LocFlyOverText="骨折"
+LocPromotionPopupText="<Bullet/> 骨折在霰弹枪上效果最好，因为它们具有更高的暴击几率和暴击伤害加成。<br/><Bullet/> 骨折有<Ability:SelfCooldown/>回合冷却。<br/>"
+
+[ShadowOps_FractureDamage X2AbilityTemplate]
+LocFriendlyName="骨折"
+LocLongDescription="进行一次攻击，具有<Ability:+Crit:ShadowOps_FractureDamage/>暴击几率，并且暴击时造成双倍的额外伤害。"
+LocHelpText="进行一次攻击，具有<Ability:+Crit:ShadowOps_FractureDamage/>暴击几率，并且暴击时造成双倍的额外伤害。"
+LocFlyOverText="骨折"
+
+[ShadowOps_Packmaster X2AbilityTemplate]
+LocFriendlyName="物品大师"
+LocLongDescription="实用槽中的有限使用物品获得额外的使用次数。这不包括只能装备手雷的槽位。"
+LocHelpText="实用槽中的有限使用物品获得额外的使用次数。这不包括只能装备手雷的槽位。"
+LocFlyOverText="物品大师"
+LocPromotionPopupText="<Bullet/> 这包括诸如医疗包和拟态信标之类的非手雷物品。<br/>"
+
+[ShadowOps_Entrench X2AbilityTemplate]
+LocFriendlyName="掩体"
+LocLongDescription="在你移动之前，增加<Ability:Defense/>的防御和<Ability:Dodge/>的闪避。只在掩体中有效。"
+LocHelpText="在你移动之前，增加<Ability:Defense/>的防御和<Ability:Dodge/>的闪避。只在掩体中有效。"
+LocFlyOverText="掩体"
+LocPromotionPopupText="<Bullet/> 通常情况下，最好在开火之前保持在较差的掩体中并进行掩体，而不是移动到更好的掩体中。 <br/>"
+
+[ShadowOps_Aggression X2AbilityTemplate]
+LocFriendlyName="侵略"
+LocLongDescription="你可以看到的每个敌人都会使你的所有攻击获得<Ability:+Crit/>的暴击几率，最多为<Ability:+MaxCrit/>。"
+LocHelpText="你可以看到的每个敌人都会使你的所有攻击获得<Ability:+Crit/>的暴击几率，最多为<Ability:+MaxCrit/>。"
+LocFlyOverText="侵略"
+LocPromotionPopupText="<Bullet/> 侵略甚至影响通常无法暴击的攻击，例如手雷和突击。 <br/>"
+
+[ShadowOps_CombatDrugs X2AbilityTemplate]
+LocFriendlyName="战斗药物"
+LocLongDescription="你的烟雾弹中的快速作用刺激剂为初始区域内的单位提供+20瞄准和+20意志，持续2回合。"
+LocHelpText="你的烟雾弹为初始区域内的单位提供+20瞄准和+20意志，持续2回合。"
+LocFlyOverText="战斗药物"
+LocPromotionPopupText="<Bullet/> 待定。 <br/>"
+
+[ShadowOps_SlamFire X2AbilityTemplate]
+LocFriendlyName="连发"
+LocLongDescription="在本回合的其余时间里，每当你的<Ability:WeaponName/>造成暴击时，你的行动都会被退还。每<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="在本回合的其余时间里，每当你的<Ability:WeaponName/>造成暴击时，你的行动都会被退还。"
+LocFlyOverText="连发"
+LocPromotionPopupText="<Bullet/> 通过适当的设置，你可以在一回合内多次触发连发。尝试使用快速投掷来消除敌人的掩体，或者使用带有战斗药物的烟雾弹来提高你的暴击几率。 <br/><Bullet/> 如果你在回合开始时激活连发，你可以在射击之间移动或重新装填（一次）。 <br/><Bullet/> 将你的武器配备上激光瞄准镜、扩展弹夹或自动装填器，以最大化连发的潜力。 <br/>"
+
+[ShadowOps_DangerZone X2AbilityTemplate]
+LocFriendlyName="毁灭"
+LocLongDescription="你的手雷和火箭的半径增加了2，你的突击的半径增加了1。"
+LocHelpText="你的手雷和火箭的半径增加了2，你的突击的半径增加了1。"
+LocFlyOverText="毁灭"
+LocPromotionPopupText="<Bullet/> 毁灭大大增加了手雷的爆炸半径，使其易于击中多个单位并消除其掩体，更不用说附近的其他掩体了。 <br/>"
+
+[ShadowOps_ChainReaction X2AbilityTemplate]
+LocFriendlyName="连锁反应"
+LocLongDescription="当你用爆炸伤害杀死一个敌人时，敌人携带的任何爆炸物都会爆炸。"
+LocHelpText="当你用爆炸伤害杀死一个敌人时，敌人携带的任何爆炸物都会爆炸。"
+LocFlyOverText="连锁反应"
+LocPromotionPopupText="<Bullet/> 连锁反应可以对密集的敌人造成巨大的伤害。 <br/><Bullet/> 在使用爆炸物靠近队友时要小心，因为次级爆炸可能会击中你意想不到的单位。 <br/><Bullet/> 只有直接被你杀死的单位会引发次级爆炸。次级爆炸不会引爆更多的敌人。 <br/>"
+
+[ShadowOps_ChainReactionFuse X2AbilityTemplate]
+LocFriendlyName="连锁反应"
+LocFlyOverText="连锁反应"
+
+[ShadowOps_HeatAmmo X2AbilityTemplate]
+LocFriendlyName="穿甲弹药"
+LocLongDescription="对机器敌人造成+50%的伤害。"
+LocHelpText="对机器敌人造成+50%的伤害。"
+LocFlyOverText="穿甲弹药"
+LocPromotionPopupText="<Bullet/> 穿甲弹药对机械敌人（如MEC和Sectopod）提供了大幅的伤害增加。 <br/><Bullet/> 伤害增加发生在伤害被护甲减少之前。 <br/><Bullet/> 将穿甲弹药与蓝屏弹药结合使用，将对任何机械敌人造成毁灭性的伤害。 <br/><Bullet/> 穿甲弹药影响所有伤害来源，包括爆炸物。 <br/>"
+
+[ShadowOps_MovingTarget X2AbilityTemplate]
+LocFriendlyName="移动目标"
+LocLongDescription="你在反应射击中获得额外的<Ability:+Defense/>防御和<Ability:+Dodge/>闪避。"
+LocHelpText="你在反应射击中获得额外的<Ability:+Defense/>防御和<Ability:+Dodge/>闪避。"
+LocFlyOverText="移动目标"
+LocPromotionPopupText="<Bullet/> 如果你需要进行反制射击，具有移动目标的单位是一个不错的选择。 <br/>"
+
+[ShadowOps_FocusedDefense X2AbilityTemplate]
+LocFriendlyName="集中防御"
+LocLongDescription="你在不被包抄的情况下，对最近的可见敌人的攻击获得额外的<Ability:+Defense/>防御和<Ability:+Dodge/>闪避。"
+LocHelpText="你在不被包抄的情况下，对最近的可见敌人的攻击获得额外的<Ability:+Defense/>防御和<Ability:+Dodge/>闪避。"
+LocFlyOverText="集中防御"
+LocPromotionPopupText="<Bullet/> 该奖励不适用于近战攻击。<br/><Bullet/> 如果多个敌人距离相等，你会对所有敌人获得加成。<br/>"
+
+[ShadowOps_LineEmUp X2AbilityTemplate]
+LocFriendlyName="优先目标"
+LocLongDescription="你在对最近的可见敌人进行远程攻击时获得<Ability:+ToHit/>瞄准和<Ability:+Crit/>暴击几率。"
+LocHelpText="你在对最近的可见敌人进行远程攻击时获得<Ability:+ToHit/>瞄准和<Ability:+Crit/>暴击几率。"
+LocFlyOverText="优先目标"
+LocPromotionPopupText="<Bullet/> 如果多个敌人距离相等，你会对所有敌人获得奖励。<br/><Bullet/> 不影响近战攻击。<br/>"
+
+[ShadowOps_ControlledDetonation X2AbilityTemplate]
+LocFriendlyName="控制爆炸"
+LocLongDescription="你的伤害性手雷不会影响盟友。"
+LocHelpText="你的伤害性手雷不会影响盟友。"
+LocFlyOverText="控制爆炸"
+LocPromotionPopupText="<Bullet/> 盟友包括你自己。<br/><Bullet/> 你的手雷留下的火焰、毒素或酸液依然会伤害到经过的盟友。<br/>"
+
+[ShadowOps_Pyromaniac X2AbilityTemplate]
+LocFriendlyName="纵火狂"
+LocLongDescription="在你的装备中增加1个免费的燃烧手雷。"
+LocHelpText="在你的装备中增加1个免费的燃烧手雷。"
+LocFlyOverText="纵火狂"
+LocPromotionPopupText="<Bullet/> 免费的手雷不受物品大师的影响。<br/>"
+
+[ShadowOps_HitAndRun X2AbilityTemplate]
+LocFriendlyName="游击战"
+LocLongDescription="当你的第一个动作使用了一个结束回合的能力时，你可以在之后移动。"
+LocHelpText="当你的第一个动作使用了一个结束回合的能力时，你可以在之后移动。"
+LocFlyOverText="游击战"
+LocPromotionPopupText="<Bullet/> 这不影响需要两个行动点使用的能力。<br/><Bullet/> 你只能进行标准移动，不能使用其他动作，如重新装填你的武器。<br/>"
+
+[ShadowOps_SurvivalInstinct X2AbilityTemplate]
+LocFriendlyName="生存本能"
+LocLongDescription="在受伤时获得<Ability:+Defense/>防御和<Ability:+Crit/>暴击几率。"
+LocHelpText="在受伤时获得<Ability:+Defense/>防御和<Ability:+Crit/>暴击几率。"
+LocFlyOverText="生存本能"
+LocPromotionPopupText="<Bullet/> 如果你被治疗回满血，加成将消失。<br/>"
+
+[ShadowOps_DevilsLuck X2AbilityTemplate]
+LocFriendlyName="恶魔的运气"
+LocLongDescription="你在每次任务中对第一枪击中你的免疫。"
+LocHelpText="你在每次任务中对第一枪击中你的免疫。"
+LocFlyOverText="恶魔的运气"
+LocPromotionPopupText="<Bullet/> 击中包括暴击和擦伤。<br/>"
+
+[ShadowOps_Mayhem X2AbilityTemplate]
+LocFriendlyName="大混乱"
+LocLongDescription="你的手雷和特殊攻击造成<Ability:+Damage>伤害。"
+LocHelpText="你的手雷和特殊攻击造成<Ability:+Damage>伤害。"
+LocFlyOverText="大混乱"
+LocPromotionPopupText="<Bullet/> 特殊攻击包括突击、骨折和重型武器。"
+
+[ShadowOps_Mayhem_LW2 X2AbilityTemplate]
+LocFriendlyName="重击手"
+LocLongDescription="你的所有攻击造成<Ability:+Damage>伤害。"
+LocHelpText="你的所有攻击造成<Ability:+Damage>伤害。"
+LocFlyOverText="重击手"
+LocPromotionPopupText="<Bullet/> 重击手也会增加你造成的燃烧、毒素或酸液的伤害<Ability:+DamageOverTime>。<br/>"
+
+[ShadowOps_Saboteur X2AbilityTemplate]
+LocFriendlyName="破坏者"
+LocLongDescription="你的标准<Ability:WeaponName/>攻击对无生命物体（如中继器和燃气罐）造成<Ability:Damage>%更多的伤害。"
+LocHelpText="你的标准<Ability:WeaponName/>攻击对无生命物体（如中继器和燃气罐）造成<Ability:Damage>%更多的伤害。"
+LocFlyOverText="破坏者"
+LocPromotionPopupText="<Bullet/> 破坏者不影响手雷或特殊攻击。<br/>"
+
+[ShadowOps_Anatomist X2AbilityTemplate]
+LocFriendlyName="解剖学家"
+LocLongDescription="你对每个你杀死的同类型敌人的暴击造成<Ability:+CritDamage>伤害，最多为<Ability:+MaxCritDamage>。"
+LocHelpText="你对每个你杀死的同类型敌人的暴击造成<Ability:+CritDamage>伤害，最多为<Ability:+MaxCritDamage>。"
+LocFlyOverText="解剖学家"
+LocPromotionPopupText="<Bullet/> 你对每个你杀死的同一类型的敌人获得额外的伤害。例如，变种人士兵和高级变种人士兵是同一类型。<br/><Bullet/> 这计算了同一士兵在所有任务中的击杀数。<br/>"
+
+[ShadowOps_ExtraMunitions X2AbilityTemplate]
+LocFriendlyName="额外弹药"
+LocLongDescription="在你的装备中增加1个免费的高爆手雷。"
+LocHelpText="在你的装备中增加1个免费的高爆手雷。"
+LocFlyOverText="额外弹药"
+LocPromotionPopupText="<Bullet/> 免费的手雷不受物品大师的影响。<br/>"
+
+[ShadowOps_ExtraMunitions_LW2 X2AbilityTemplate]
+LocFriendlyName="额外弹药"
+LocLongDescription="每个爆炸手雷项目增加+1使用次数。"
+LocHelpText="每个爆炸手雷项目增加+1使用次数。"
+LocFlyOverText="额外弹药"
+LocPromotionPopupText="<Bullet/> 待定。<br/>"
+
+[ShadowOps_BullRush X2AbilityTemplate]
+LocFriendlyName="冲锋"
+LocLongDescription="对移动范围内的任何敌人进行特殊的近战攻击，造成少量伤害但使目标晕眩1回合。"
+LocHelpText="对移动范围内的任何敌人进行特殊的近战攻击，造成少量伤害但使目标晕眩1回合。"
+LocFlyOverText="冲锋"
+LocPromotionPopupText="<Bullet/> 冲锋也影响机械单位。<br/>"
+
+[ShadowOps_SmokeAndMirrors_LW2 X2AbilityTemplate]
+LocFriendlyName="烟雾和镜子"
+LocLongDescription="每个烟雾手雷项目增加+1使用次数。发射或投掷烟雾手雷不会结束你的回合。"
+LocHelpText="每个烟雾手雷项目增加+1使用次数。发射或投掷烟雾手雷不会结束你的回合。"
+LocFlyOverText="烟雾和镜子"
+LocPromotionPopupText="<Bullet/> 烟雾和镜子也会稍微减少士兵的渗透时间。 <br/>"
+
+[ShadowOps_BareKnuckle X2AbilityTemplate]
+LocFriendlyName="赤手空拳"
+LocLongDescription="你的近战攻击造成<Ability:+CurDamage/>伤害。伤害奖励随等级提高。"
+LocHelpText="你的近战攻击造成<Ability:+CurDamage/>伤害。"
+LocFlyOverText="赤手空拳"
+LocPromotionPopupText="<Bullet/> 近战攻击包括冲锋和刀攻击。 <br/><Bullet/> 每提升2个士兵等级，伤害奖励增加1。"
+
+[ShadowOps_DemoGrenades X2AbilityTemplate]
+LocFriendlyName="演示手雷"
+LocLongDescription="你的爆炸手雷可以摧毁大多数掩体物体。"
+LocHelpText="你的爆炸手雷可以摧毁大多数掩体物体。"
+LocFlyOverText="演示手雷"
+LocPromotionPopupText="<Bullet/> 演示手雷总是会摧毁脆弱的掩体，如篱笆，并可能摧毁更坚固的掩体。 <br/>"
+
+[ShadowOps_Elusive X2AbilityTemplate]
+LocFriendlyName="难以捉摸"
+LocLongDescription="每个在4格内的可见敌人获得<Ability:Dodge/>闪避。"
+LocHelpText="每个在4格内的可见敌人获得<Ability:Dodge/>闪避。"
+LocFlyOverText="难以捉摸"
+LocPromotionPopupText="<Bullet/> 闪避适用于所有攻击。 <br/>"
+
+[ShadowOps_MadBomber X2AbilityTemplate]
+LocFriendlyName="疯狂的炸弹手"
+LocLongDescription="在你的装备中增加2个随机的免费手雷。"
+LocHelpText="在你的装备中增加2个随机的免费手雷。"
+LocFlyOverText="疯狂的炸弹手"
+LocPromotionPopupText="<Bullet/> 每次任务开始时，免费的手雷会被随机选择。 <br/>"
+
+[ShadowOps_Fracture_LW2 X2AbilityTemplate]
+LocFriendlyName="破裂"
+LocLongDescription="你的<Ability:WeaponName/>对机械单位的攻击具有<Ability:+ToHit/>瞄准和撕裂<Ability:Shred/>装甲。"
+LocHelpText="你的<Ability:WeaponName/>对机械单位的攻击具有<Ability:+ToHit/>瞄准和撕裂<Ability:Shred/>装甲。"
+LocFlyOverText="破裂"
+LocPromotionPopupText="<Bullet/> 对非机械单位的攻击无效。 <br/>"
+
+; === 龙骑兵能力 ===
+
+[ShadowOps_ShieldProtocol X2AbilityTemplate]
+LocFriendlyName="护盾协议"
+LocLongDescription="为友方单位提供<Ability:Shield/>额外的临时生命值。防护还提供毒素免疫，直到所有临时生命值丧失。"
+LocHelpText="为友方单位提供<Ability:Shield/>额外的临时生命值。"
+LocFlyOverText="护盾协议"
+LocPromotionPopupText="<Bullet/> 更先进的小精灵将提供更强大的防护。<br/><Bullet/> 防护吸收的伤害不会导致伤病时间，所以尽量用它来保护你的士兵在他们受伤之前。 <br/><Bullet/> 考虑保存一个护盾协议的使用，用于陷入困境的单位。<br/><Bullet/> 防护持续到它吸收其伤害限制或龙骑兵死亡或撤离。 <br/><Bullet/> 防护还提供毒素免疫。 <br/><Bullet/> 护盾协议每次任务有两次使用次数。<br/>"
+
+[ShadowOps_AdvancedShieldProtocol X2AbilityTemplate]
+LocFriendlyName="快速防护"
+LocLongDescription="护盾协议不再需要动作来使用。"
+LocHelpText="为友方单位提供<Ability:Shield/>额外的临时生命值。这个能力不需要动作。"
+LocFlyOverText="快速防护"
+LocPromotionPopupText="<Bullet/> 更先进的小精灵将提供更强大的防护。<br/><Bullet/> 防护吸收的伤害不会导致伤病时间，所以尽量用它来保护你的士兵在他们受伤之前。 <br/><Bullet/> 考虑保存一个护盾协议的使用，用于陷入困境的单位。<br/><Bullet/> 防护持续到它吸收其伤害限制或龙骑兵死亡或撤离。 <br/><Bullet/> 防护还提供毒素免疫。 <br/><Bullet/> 护盾协议每次任务有两次使用次数。<br/>"
+
+[ShadowOps_HeavyArmor X2AbilityTemplate]
+LocFriendlyName="坦克"
+LocLongDescription="你根据你装备的护甲获得额外的防护点。"
+LocHelpText="你根据你装备的护甲获得额外的防护点。"
+LocFlyOverText="坦克"
+LocPromotionPopupText="<Bullet/> 一个装备了坦克和EXO或WAR套装的龙骑兵可以吸收成吨的伤害，特别是如果结合了镀层背心或加固背心。<br/><Bullet/> 护盾协议的防护不直接受益于护甲，但任何未被防护吸收的超额伤害将被护甲减少。只要至少有一点被防护阻挡，护甲就可以完全保护免受少量伤害。<br/><Bullet/> 轻型和中型护甲提供一个额外的护甲点，而重型护甲提供两个额外的护甲点。<br/>"
+
+[ShadowOps_StealthProtocol X2AbilityTemplate]
+LocFriendlyName="隐身协议"
+LocLongDescription="给一个友方单位隐身。"
+LocHelpText="给一个友方单位隐身。"
+LocFlyOverText="隐身协议"
+LocPromotionPopupText="<Bullet/> 隐身协议可以用于任何士兵，所以在选择你的小队时考虑你打算在谁身上使用它。<br/><Bullet/> 有时隐身协议可以用来保护一个陷入困境的士兵，但它不会对一个被敌人包围的士兵起作用。<br/><Bullet/> 使用隐身协议需要一个动作。<br/><Bullet/> 如果龙骑兵死亡或撤离，效果将被移除。<br/><Bullet/> 隐身协议每次任务有一次使用次数。<br/>"
+
+[ShadowOps_BurstFire X2AbilityTemplate]
+LocFriendlyName="弹幕"
+LocLongDescription="攻击直线上的所有目标并破坏或摧毁掩体。只能使用加农炮。使用<Ability:SelfAmmoCost/>弹药。<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="攻击直线上的所有目标并破坏或摧毁掩体。"
+LocFlyOverText="弹幕"
+LocPromotionPopupText="<Bullet/> 弹幕有70%的几率伤害单位，100%的几率破坏或摧毁掩体。 <br/><Bullet/> 如果你正确地定位自己，弹幕可以击中多个敌人，但是只用它来攻击一个也没关系。<br/><Bullet/> 在你开火之前，要注意弹幕会摧毁什么，包括目标后面的东西。<br/><Bullet/> 当从全掩体瞄准弹幕时要小心。士兵可能会\"走出来\"，导致弹幕击中你预期之外的线。<br/><Bullet/> 弹幕需要<Ability:SelfAmmoCost/>弹药点数，有<Ability:SelfCooldown/>回合冷却。<br/>"
+
+[ShadowOps_ShieldsUp X2AbilityTemplate]
+LocFriendlyName="护盾启动"
+LocLongDescription="所有小队成员获得<Ability:Shield/>额外的临时生命值。"
+LocHelpText="所有小队成员获得<Ability:Shield/>额外的临时生命值。"
+LocFlyOverText="护盾启动"
+LocPromotionPopupText="<Bullet/> 更先进的小精灵将提供更强大的防护。<br/><Bullet/> 护盾启动提供的防护很少，但它可能有助于保存士兵的生命，甚至只是减少战后的伤病时间。<br/><Bullet/> 与护盾协议不同，护盾启动不提供毒素免疫。<br/><Bullet/> 如果龙骑兵死亡或撤离，护甲将被移除。<br/>"
+
+[ShadowOps_ECM X2AbilityTemplate]
+LocFriendlyName="电子对抗测量"
+LocLongDescription="所有小队成员被敌人的检测范围减小<Ability:ECMDetectionModifier/>%。"
+LocHelpText="所有小队成员被敌人的检测范围减小<Ability:ECMDetectionModifier/>%。"
+LocFlyOverText="电子对抗测量"
+LocPromotionPopupText="<Bullet/> 如果龙骑兵死亡或撤离，效果将被移除。<br/>"
+
+[ShadowOps_Rocketeer X2AbilityTemplate]
+LocFriendlyName="火箭兵"
+LocLongDescription="你的火箭发射器或重型武器获得一个额外的使用次数。"
+LocHelpText="你的火箭发射器或重型武器获得一个额外的使用次数。"
+LocFlyOverText="火箭兵"
+LocPromotionPopupText="<Bullet/> 重型武器是像粉碎枪这样的武器，只能安装在EXO或WAR套装上。<br/>"
+
+[ShadowOps_Vanish X2AbilityTemplate]
+LocFriendlyName="消失"
+LocLongDescription="如果你在没有敌人能看到你的情况下开始你的回合，你获得隐身。这个效果有2回合的冷却时间。"
+LocHelpText="如果你在没有敌人能看到你的情况下开始你的回合，你获得隐身。"
+LocFlyOverText="消失"
+LocPromotionPopupText="<Bullet/> 拥有消失的单位是优秀的侦查兵。如果他们被发现，只需撤退并重新获得隐身。<br/><Bullet/> 一个单位可以使用消失无限次地重新获得隐身。<br/><Bullet/> 消失有2回合的冷却时间。 <br/>"
+
+[ShadowOps_VanishTrigger X2AbilityTemplate]
+LocFriendlyName="消失"
+LocLongDescription="如果你在没有敌人能看到你的情况下开始你的回合，你获得隐身。这个效果有2回合的冷却时间。"
+LocHelpText="如果你在没有敌人能看到你的情况下开始你的回合，你获得隐身。"
+LocFlyOverText="消失"
+
+[ShadowOps_RestorationProtocol X2AbilityTemplate]
+LocFriendlyName="恢复协议"
+LocLongDescription="为一个单位提供<Ability:Heal/>点每回合的生命恢复，最多为<Ability:MaxHeal/>点。也稳定和复活出血过多或昏迷的单位并移除一些减益效果。"
+LocHelpText="为一个单位提供每回合的生命恢复，并稳定和复活出血过多或昏迷的单位。"
+LocFlyOverText="恢复协议"
+LocPromotionPopupText="<Bullet/> 恢复协议会让一个出血过多或昏迷的单位恢复并重新回到战斗。尝试为真正需要的单位保存它。<br/><Bullet/> 恢复协议每回合恢复2点生命值，最多为8点生命值。治疗的第一轮是在使用时立即应用的。<br/><Bullet/> 战地医疗工厂项目将增加到每回合3点生命值。 <br/><Bullet/> 更先进的小精灵将治疗更多的总生命值。  <br/><Bullet/> 恢复协议每次任务有一次使用次数。 <br/>"
+
+[ShadowOps_StasisField X2AbilityTemplate]
+LocFriendlyName="静滞力场"
+LocLongDescription="将龙骑兵和所有附近的单位放入静滞状态一回合。静滞状态的单位不能行动并且对伤害免疫。每次任务可以使用一次。"
+LocHelpText="将龙骑兵和所有附近的单位放入静滞状态一回合。静滞状态的单位不能行动并且对伤害免疫。"
+LocFlyOverText="静滞力场"
+LocPromotionPopupText="<Bullet/> 静滞力场影响友方和敌方单位。<br/><Bullet/> 静滞力场每次任务可以使用一次。<br/>"
+
+[ShadowOps_PuppetProtocol X2AbilityTemplate]
+LocFriendlyName="傀儡协议"
+LocLongDescription="永久控制一个敌方机器单位。你每次任务只能操控一个单位。如果成功，使用此能力不会破坏个人隐蔽。"
+LocHelpText="永久控制一个敌方机器单位。你每次任务只能操控一个单位。"
+LocFlyOverText="傀儡协议"
+LocPromotionPopupText="<Bullet/> 只有在傀儡协议尝试失败时才会破坏隐蔽。<br/><Bullet/> 傀儡协议失败时不会使用使用次数。 <br/><Bullet/> 傀儡协议有<Ability:SelfCooldown/>回合冷却。<br/>"
+
+[ShadowOps_TacticalSense X2AbilityTemplate]
+LocFriendlyName="优雅"
+LocLongDescription="你每看到一个敌人，就获得<Ability:+Dodge/>闪避，最多为<Ability:+MaxDodge/>。"
+LocHelpText="你每看到一个敌人，就获得<Ability:+Dodge/>闪避，最多为<Ability:+MaxDodge/>。"
+LocFlyOverText="优雅"
+LocPromotionPopupText="<Bullet> 闪避增加了即将到来的攻击会擦伤，造成一半伤害的几率。<br/><Bullet/> 这不计算通过队伍视线看见的敌人。<br/>"
+
+[ShadowOps_Aegis X2AbilityTemplate]
+LocFriendlyName="神盾"
+LocLongDescription="护盾协议也减少所有进来的伤害33%。"
+LocHelpText="护盾协议也减少所有进来的伤害33%。"
+LocFlyOverText="神盾"
+LocPromotionPopupText="<Bullet/> 减少适用于所有在防护激活时受到的伤害，而不仅仅是防护吸收的伤害。<br/>"
+
+[ShadowOps_IronWill X2AbilityTemplate]
+LocFriendlyName="钢铁意志"
+LocLongDescription="增加<Ability:Will>意志，并保证你每次任务只会出血过多而不是直接死亡一次。"
+LocHelpText="增加<Ability:Will>意志，并保证你每次任务只会出血过多而不是直接死亡一次。"
+LocFlyOverText="钢铁意志"
+LocPromotionPopupText="<Bullet/> 意志减少你被迷惑、晕眩、恐慌或失去意识的几率。 <br/>"
+
+[ShadowOps_SensorOverlays X2AbilityTemplate]
+LocFriendlyName="传感器覆盖"
+LocLongDescription="所有小队成员对你能看到的敌人获得<Ability:+Crit>暴击几率。"
+LocHelpText="所有小队成员对你能看到的敌人获得<Ability:+Crit>暴击几率。"
+LocFlyOverText="传感器覆盖"
+LocPromotionPopupText="<Bullet/> 这不包含通过队伍视线看到的敌人。<br/>"
+
+[ShadowOps_Supercharge X2AbilityTemplate]
+LocFriendlyName="超级充能"
+LocLongDescription="所有小精灵能力获得一个额外的使用次数。"
+LocHelpText="所有小精灵能力获得一个额外的使用次数。"
+LocFlyOverText="超级充能"
+LocPromotionPopupText="<Bullet/> 小精灵能力包括护盾协议，恢复协议和隐身协议。<br/>"
+
+[ShadowOps_Scout X2AbilityTemplate]
+LocFriendlyName="侦查兵"
+LocLongDescription="在你的装备中增加1个免费的战场扫描仪。"
+LocHelpText="在你的装备中增加1个免费的战场扫描仪。"
+LocFlyOverText="侦查兵"
+LocPromotionPopupText="<Bullet/> 这与携带的战场扫描仪的使用次数堆叠。<br/>"
+
+[ShadowOps_Lightfoot X2AbilityTemplate]
+LocFriendlyName="轻脚步"
+LocLongDescription="获得<Ability:+Mobility/>移动力。你在隐蔽时更难被检测到，提高20%。"
+LocHelpText="获得<Ability:+Mobility/>移动力。你在隐蔽时更难被检测到，提高20%。"
+LocFlyOverText="轻脚步"
+LocPromotionPopupText="<Bullet/> 轻脚步的额外移动力可以帮助你得到侧翼或快速到达目标，但要小心你不要走得太远超过其余的小队。<br/><Bullet/> 改进的隐蔽与其他来源如ECM的改进隐蔽堆叠。<br/>"
+
+[ShadowOps_Charge X2AbilityTemplate]
+LocFriendlyName="冲锋！"
+LocLongDescription="在冲刺后进行标准动作。"
+LocHelpText="在冲刺后进行标准动作。"
+LocFlyOverText="冲锋！"
+LocPromotionPopupText="<Bullet/> 冲锋！有一次使用次数。<br/>"
+
+[ShadowOps_EatThis X2AbilityTemplate]
+LocFriendlyName="尝尝这个！"
+LocLongDescription="你对相邻目标的攻击获得<Ability:+ToHit>瞄准和<Ability:+Crit>暴击。奖励随范围减少，最大为<Ability:EatThisMaxTiles/>格。"
+LocHelpText="你对相邻目标的攻击获得<Ability:+ToHit>瞄准和<Ability:+Crit>暴击。奖励随范围减少。"
+LocFlyOverText="尝尝这个！"
+LocPromotionPopupText="<Bullet/> 奖励不影响近战攻击。<br/>"
+
+[ShadowOps_Inspiration X2AbilityTemplate]
+LocFriendlyName="鼓舞"
+LocLongDescription="你和所有在你<Ability:InspirationMaxTiles/>格内的盟友获得<Ability:+Dodge/>闪避和<Ability:+Will/>意志。"
+LocHelpText="你和所有在你<Ability:InspirationMaxTiles/>格内的盟友获得<Ability:+Dodge/>闪避和<Ability:+Will/>意志。"
+LocFlyOverText="鼓舞"
+LocPromotionPopupText="<Bullet/> 待定。<br/>"
+
+[ShadowOps_ShieldSurge X2AbilityTemplate]
+LocFriendlyName="盾涌"
+LocLongDescription="护盾协议现在也为目标提供<Ability:ArmorMitigation:ShadowOps_ShieldProtocol/>护甲，持续一回合。"
+LocHelpText="护盾协议现在也为目标提供<Ability:ArmorMitigation:ShadowOps_ShieldProtocol/>护甲，持续一回合。"
+LocFlyOverText="盾涌"
+LocPromotionPopupText="<Bullet/> 护甲持续到你的下一个回合开始。<br/>"
+
+[ShadowOps_PhalanxProtocol X2AbilityTemplate]
+LocFriendlyName="方阵协议"
+LocLongDescription="你的小精灵移动到每个盟友，赋予他们所有人防御加成，直到你的下一个回合开始。" 
+LocHelpText="发送你的小精灵到每个盟友，赋予他们+<Ability:AidProtocolDefenseBonus/>防御一回合。" 
+LocFlyOverText="方阵协议"
+LocPromotionPopupText="<Bullet/> 方阵协议有效地向每个盟友授予援助协议。<br/>"
+
+[ShadowOps_Puppeteer X2AbilityTemplate]
+LocFriendlyName="傀儡师"
+LocLongDescription="傀儡协议不再有冷却时间，也不会结束回合。" 
+LocHelpText="傀儡协议不再有冷却时间，也不会结束回合。" 
+LocFlyOverText="傀儡师"
+LocPromotionPopupText="<Bullet/> 你仍然只能对每个敌方单位尝试使用一次傀儡协议。<br/>"
+
+[ShadowOps_ShieldBattery X2AbilityTemplate]
+LocFriendlyName="护盾充能"
+LocLongDescription="授予<Ability:ShieldBatteryBonusCharges/>额外的护盾协议使用次数。" 
+LocHelpText="授予<Ability:ShieldBatteryBonusCharges/>额外的护盾协议使用次数。" 
+LocFlyOverText="护盾充能"
+LocPromotionPopupText="<Bullet/> 授予护盾协议额外的使用次数。<br/>"
+
+[ShadowOps_Overkill X2AbilityTemplate]
+LocFriendlyName="过度杀伤"
+LocLongDescription="你的攻击对原始生命值一半或更少的敌人造成<Ability:+Damage/>伤害。" 
+LocHelpText="你的攻击对原始生命值一半或更少的敌人造成<Ability:+Damage/>伤害。" 
+LocFlyOverText="过度杀伤"
+LocPromotionPopupText="<Bullet/> 额外伤害适用于你的所有攻击，包括护腕攻击。<br/><Bullet/> 过度杀伤不影响你的能力造成的燃烧、酸性或毒素伤害。<br/>"
+
+[ShadowOps_ShotgunFinesse X2AbilityTemplate]
+LocFriendlyName="霰弹枪灵巧"
+LocLongDescription="装备霰弹枪时获得<Ability:+Crit/>暴击几率和<Ability:+Mobility/>移动力。"
+LocHelpText="装备霰弹枪时获得<Ability:+Crit/>暴击几率和<Ability:+Mobility/>移动力。"
+LocFlyOverText="灵巧"
+LocPromotionPopupText="<Bullet/> 待定。<br/>"
+
+; === 猎人能力 ===
+
+[ShadowOps_SnapShot X2AbilityTemplate]
+LocFriendlyName="速射"
+LocLongDescription="你可以用你的<Ability:WeaponName/>进行单次动作的射击或监视，有<Ability:ToHit:ShadowOps_SnapShotShot/>瞄准惩罚。"
+LocHelpText="用你的<Ability:WeaponName/>进行单次动作的射击，有小的瞄准惩罚。"
+LocFlyOverText="速射"
+LocPromotionPopupText="<Bullet/> 速射对于与小队一起移动而不是待在一个地方的猎人最有用。<br/><Bullet/> 你的狙击步枪在近距离有瞄准惩罚。剑攻击通常比近距离侧翼射击更有效。<br/>"
+
+[ShadowOps_SnapShotShot X2AbilityTemplate]
+LocFriendlyName="速射"
+LocLongDescription="你可以用你的<Ability:WeaponName/>进行单次动作的射击或监视，有<Ability:ToHit/>瞄准惩罚。"
+LocHelpText="用你的<Ability:WeaponName/>进行单次动作的射击，有小的瞄准惩罚。"
+LocFlyOverText="速射"
+
+[ShadowOps_SnapShotOverwatch X2AbilityTemplate]
+LocFriendlyName="监视"
+LocFriendlyNameWhenConcealed="监视（隐蔽）"
+LocLongDescription="用你的<Ability:WeaponName/>进行单次动作的监视，有<Ability:ToHit:ShadowOps_SnapShotShot/>瞄准惩罚。"
+LocHelpText="对你视线内的第一个移动的敌人开火，有瞄准惩罚。"
+LocLongDescriptionWhenConcealed="对你视线内的第一个移动的敌人开火，但只有在被揭示时才会这样做。"
+LocFlyOverText="监视：速射"
+
+[ShadowOps_HunterMark X2AbilityTemplate]
+LocFriendlyName="标记"
+LocLongDescription="标记一个目标，使所有友方单位对其进行射击时获得<Ability:+ToHit/>命中加成。加成永不过期，但你一次只能标记一个目标。使用此能力不会破坏隐蔽。<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="标记一个目标，使所有友方单位对其进行射击时获得<Ability:+ToHit/>命中。"
+LocFlyOverText="标记"
+LocPromotionPopupText="<Bullet/>标记在你必须移动或重新装载狙击步枪的回合提供了一个有用的第二个动作。<br/><Bullet/>在触发伏击之前，先对危险的敌人进行标记。<br/><Bullet/>标记后的速射比标准的狙击步枪射击更准确，也有助于其余的小队。<br/><Bullet/>标记可以使用队伍视线进行目标定位。<br/><Bullet/>标记不会破坏隐蔽。<br/><Bullet/>如果猎人死亡、撤离或标记另一个目标，效果将被移除。<br/><Bullet/>标记有<Ability:SelfCooldown/>回合冷却。<br/>"
+
+[ShadowOps_VitalPoint X2AbilityTemplate]
+LocFriendlyName="锐利剑刃"
+LocLongDescription="你的剑攻击造成<Ability:+Damage/>伤害并忽略最多<Ability:ArmorPiercing>护甲。"
+LocHelpText="你的剑攻击造成<Ability:+Damage/>伤害并忽略最多<Ability:ArmorPiercing>护甲。"
+LocFlyOverText="锐利剑刃"
+LocPromotionPopupText="<Bullet/> 更先进的剑将忽略更多的护甲并造成额外的奖励伤害。<br/><Bullet/> 你的剑攻击可以结束一个受伤的敌人并同时移动到使用你的狙击步枪的更好位置。<br/><Bullet/> 由于猎人的高瞄准统计数据，你的剑攻击几乎总是会命中。<br/><Bullet/> 锐利剑刃将使普通的剑造成与同一技术等级的狙击步枪一样多的伤害。<br/>"
+
+[ShadowOps_Precision X2AbilityTemplate]
+LocFriendlyName="精准"
+LocLongDescription="你对全掩体中的目标获得<Ability:+ToHit/>命中。"
+LocHelpText="你对全掩体中的目标获得<Ability:+ToHit/>命中。"
+LocFlyOverText="精准"
+LocPromotionPopupText="<Bullet/> 精准只对远程攻击有效。<br/>"
+
+[ShadowOps_LowProfile X2AbilityTemplate]
+LocFriendlyName="低姿态"
+LocLongDescription="你在半掩体中获得<Ability:+Defense/>防御。"
+LocHelpText="你在半掩体中获得<Ability:+Defense/>防御。"
+LocFlyOverText="低姿态"
+LocPromotionPopupText="<Bullet/> 如果攻击者正在侧翼你，奖励将失效。<br/>"
+
+[ShadowOps_Sprint X2AbilityTemplate]
+LocFriendlyName="双倍时间"
+LocLongDescription="在此回合获得一个额外的移动动作。<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="在此回合获得一个额外的移动动作。"
+LocFlyOverText="双倍时间"
+LocPromotionPopupText="<Bullet/> 双倍时间可以用来在单个回合内移动非常长的距离，或者移动然后进行正常的狙击步枪射击。<br/><Bullet/> 如果你在移动之前使用了一个结束你回合的能力，比如开火，那么双倍时间的额外移动动作就会被浪费。<br/><Bullet/> 双倍时间有<Ability:SelfCooldown/>回合冷却。<br/>"
+
+[ShadowOps_Assassin X2AbilityTemplate]
+LocFriendlyName="刺客"
+LocLongDescription="当你用你的<Ability:WeaponName/>杀死一个侧翼或无掩体的敌人时，你获得隐蔽。"
+LocHelpText="当你用你的<Ability:WeaponName/>杀死一个侧翼或无掩体的敌人时，你获得隐蔽。"
+LocFlyOverText="刺客"
+LocPromotionPopupText="<Bullet/> 你必须对所有能看到你的敌人有掩体才能获得隐蔽。<br/>"
+
+[ShadowOps_Fade X2AbilityTemplate]
+LocFriendlyName="隐藏"
+LocLongDescription="获得隐蔽，如果你移动则会被打破。只在全掩体中工作。<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="获得隐蔽，如果你移动则会被打破。只在全掩体中工作。"
+LocFlyOverText="隐藏"
+LocPromotionPopupText="<Bullet/> 隐藏将让你在战斗中多次使用你的首次打击奖金。<br/><Bullet/> 由隐藏授予的隐蔽也可以正常打破。<br/><Bullet/> 隐藏消耗一个动作并有<Ability:SelfCooldown/>回合冷却。<br/>"
+
+[ShadowOps_SliceAndDice X2AbilityTemplate]
+LocFriendlyName="命定一击"
+LocLongDescription="用你的剑攻击任何在移动范围内的敌人。如果你命中，进行一个免费的第二次剑攻击。<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="用你的剑攻击任何在移动范围内的敌人。如果你命中，进行一个免费的第二次剑攻击。"
+LocFlyOverText="命定一击"
+LocPromotionPopupText="<Bullet/> 命定一击有<Ability:SelfCooldown/>回合冷却。<br/>"
+
+[ShadowOps_Tracking X2AbilityTemplate]
+LocFriendlyName="追踪"
+LocLongDescription="你可以检测到附近的单位，即使没有视线。"
+LocHelpText="你可以检测到附近的单位，即使没有视线。"
+LocFlyOverText="追踪"
+LocPromotionPopupText="<Bullet/> 拥有追踪的士兵是优秀的侦查兵，特别是如果你用隐身协议给他们隐蔽。<br/><Bullet/> 追踪会揭示隐蔽和掩埋的敌人。 <br/>"
+
+[ShadowOps_TrackingTrigger X2AbilityTemplate]
+LocFriendlyName="追踪"
+LocFlyOverText="追踪"
+
+[ShadowOps_Bullseye X2AbilityTemplate]
+LocFriendlyName="靶心"
+LocLongDescription="发射一枪造成暴击伤害，并给目标带来瞄准、防御和意志的惩罚。<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="发射一枪造成暴击伤害，并给目标带来瞄准、防御和意志的惩罚。"
+LocFlyOverText="靶心"
+LocPromotionPopupText="<Bullet/> 靶心对于削弱强大的敌人同时也造成额外伤害很有用。<br/><Bullet/> 靶心有-20的瞄准、防御和意志惩罚，持续到战斗结束。 <br/><Bullet/> 靶心有<Ability:SelfCooldown/>回合冷却。 <br/>"
+
+[ShadowOps_FirstStrike X2AbilityTemplate]
+LocFriendlyName="先发制人"
+LocLongDescription="当你隐蔽或侧翼你的目标时，你用你的<Ability:WeaponName/>造成<Ability:+Damage/>伤害，并且不受小队视野的惩罚。"
+LocHelpText="当你隐蔽或侧翼你的目标时，你用你的<Ability:WeaponName/>造成<Ability:+Damage/>伤害，并且不受小队视野的惩罚。"
+LocFlyOverText="先发制人"
+LocPromotionPopupText="<Bullet/> 先发制人可以在伏击中提供决定性的优势，一枪打死一个强大的敌人。<br/><Bullet/> 必须由拥有先发制人的士兵发起伏击以获得加成。它不影响隐蔽的监视。"
+
+[ShadowOps_DamnGoodGround X2AbilityTemplate]
+LocFriendlyName="高地优势"
+LocLongDescription="你对低处的目标获得额外的<Ability:+ToHit/>瞄准和<Ability:+Defense/>防御。"
+LocHelpText="你对低处的目标获得额外的<Ability:+ToHit/>瞄准和<Ability:+Defense/>防御。"
+LocFlyOverText="高地优势"
+LocPromotionPopupText="<Bullet/> 加成与高处的正常命中加成累加。<br/>"
+
+[ShadowOps_PointBlank X2AbilityTemplate]
+LocFriendlyName="近距离射击"
+LocLongDescription="将短距离<Ability:WeaponName/>射击的瞄准惩罚减少67%。"
+LocHelpText="将短距离<Ability:WeaponName/>射击的瞄准惩罚减少67%。"
+LocFlyOverText="近距离射击"
+LocPromotionPopupText="<Bullet/> 近距离射击不影响速射的瞄准惩罚。<br/>"
+
+[ShadowOps_Butcher X2AbilityTemplate]
+LocFriendlyName="屠夫"
+LocLongDescription="对有机目标的伤害增加30%。"
+LocHelpText="对有机目标的伤害增加30%。"
+LocFlyOverText="屠夫"
+LocPromotionPopupText="<Bullet/> 有机目标意味着所有非机械单位。<br/>"
+
+[ShadowOps_Reposition X2AbilityTemplate]
+LocFriendlyName="重新定位"
+LocLongDescription="在开火后你可以进行标准移动动作。"
+LocHelpText="在目标开火后，然后移动。"
+LocFlyOverText="重新定位"
+LocPromotionPopupText="<Bullet/> 重新定位只允许标准移动，不包括其他能力，如重新装填你的武器。<br/>"
+
+[ShadowOps_Evasive X2AbilityTemplate]
+LocFriendlyName="第六感"
+LocLongDescription="你对多目标和区域攻击免疫。"
+LocHelpText="你对多目标和区域攻击免疫。"
+LocFlyOverText="第六感"
+LocPromotionPopupText="<Bullet/> 区域攻击包括手榴弹和其他爆炸物。<br/>"
+
+[ShadowOps_Stalker X2AbilityTemplate]
+LocFriendlyName="潜行者"
+LocLongDescription="在隐蔽或侧翼你的目标时，你获得<Ability:+Mobility/>移动力和<Ability:+ToHit/>瞄准。"
+LocHelpText="在隐蔽或侧翼你的目标时，你获得<Ability:+Mobility/>移动力和<Ability:+ToHit/>瞄准。"
+LocFlyOverText="潜行者"
+LocPromotionPopupText="<Bullet/> 当你失去隐蔽时，奖励立即失效。<br/>"
+
+[ShadowOps_LastStand X2AbilityTemplate]
+LocFriendlyName="最后的阵地"
+LocLongDescription="每次任务中，你在下一个回合结束前对死亡和失能免疫。"
+LocHelpText="在你的下一个回合结束前，你对死亡和失能免疫。"
+LocFlyOverText="最后的阵地"
+LocPromotionPopupText="<Bullet/> 你仍然可以受到伤害，但它永远不会将你降低到1点生命值以下。<br/><Bullet/> 你不能被击昏、混乱或以其他方式失能。<br/>"
+
+[ShadowOps_DisablingShot X2AbilityTemplate]
+LocFriendlyName="禁用射击"
+LocLongDescription="进行一次特殊射击，造成一半伤害并使目标在一回合内失能。<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="进行一次特殊射击，造成一半伤害并使目标在一回合内失能。"
+LocFlyOverText="禁用射击"
+LocPromotionPopupText="<Bullet/> 失能单位只能移动，重新装载，蹲下，和进行近战攻击。<br/>"
+
+[ShadowOps_ThisOnesMine X2AbilityTemplate]
+LocFriendlyName="这个是我的"
+LocLongDescription="标记一个目标，给你<Ability:+Crit:ShadowOps_ThisOnesMine_Passive/>暴击几率和<Ability:+Defense:ShadowOps_ThisOnesMine_Passive/>防御，持续3回合。这个能力不消耗动作。<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="标记一个目标，给你<Ability:+Crit:ShadowOps_ThisOnesMine_Passive/>暴击几率和<Ability:+Defense:ShadowOps_ThisOnesMine_Passive/>防御，持续3回合。"
+LocFlyOverText="这个是我的"
+LocPromotionPopupText="<Bullet/> 只有你获得奖励。<br/>"
+
+[ShadowOps_WatchfulEye X2AbilityTemplate]
+LocFriendlyName="警惕之眼"
+LocLongDescription="每回合一次，当你的 这个是我的 目标移动或攻击时，你获得一个免费的监视射击。"
+LocHelpText="每回合一次，当你的这个是我的目标移动或攻击时，你获得一个免费的监视射击。"
+LocFlyOverText="警惕之眼"
+LocPromotionPopupText="<Bullet/> 即使你的这个是我的目标只通过队伍视线可见，也会发生免费的监视射击。<br/>"
+
+[ShadowOps_Hipfire_LW2 X2AbilityTemplate]
+LocFriendlyName="腰射"
+LocLongDescription="你每回合第一次开火的短管霰弹枪不消耗动作。"
+LocHelpText="你每回合第一次开火的短管霰弹枪不消耗动作。"
+LocFlyOverText="腰射"
+LocPromotionPopupText="<Bullet/> 当你没有动作时，你不能开火短管霰弹枪。<br/>"
+
+[ShadowOps_Fearsome X2AbilityTemplate]
+LocFriendlyName="颤栗"
+LocLongDescription="当你得到一个暴击时，你的目标和其他在6格内的敌人有可能恐慌。"
+LocHelpText="当你得到一个暴击时，你的目标和其他在6格内的敌人有可能恐慌。"
+LocFlyOverText="颤栗"
+LocPromotionPopupText="<Bullet/> 这个是我的 和 死亡射击等特权可以帮助你得到暴击。<br/><Bullet/> 你的任何武器的暴击都可以触发颤栗。<br/>"
+
+[ShadowOps_CoverMe X2AbilityTemplate]
+LocFriendlyName="掩护我"
+LocLongDescription="赋予一个盟友一个额外的监视射击和冷静应对能力。<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="赋予一个盟友一个额外的监视射击和冷静应对能力。"
+LocFlyOverText="掩护我"
+LocPromotionPopupText="<Bullet/> 监视射击和冷静应对持续到你的下一个回合开始。<br/><Bullet/> 冷静应对赋予+<Ability:COOLUNDERPRESSUREBONUS/>在监视和其他反应射击上的命中，并且它们可以暴击。<br/>"
+
+; === 步兵能力 ===
+
+[ShadowOps_BulletSwarm X2AbilityTemplate]
+LocFriendlyName="子弹风暴"
+LocLongDescription="开火不再结束你的回合。"
+LocHelpText="对目标开火。这不会结束你的回合。"
+LocFlyOverText="子弹风暴"
+LocPromotionPopupText="<Bullet/> 子弹风暴可以造成大量伤害，但它会快速消耗弹药。考虑使用带有扩展弹夹或自动装填器的武器。<br/><Bullet/>良好的定位将帮助你每回合最大限度地利用两次射击。<br/><Bullet/> 手枪攻击仍然会结束你的回合。<br/>"
+
+[ShadowOps_Bandolier X2AbilityTemplate]
+LocFriendlyName="弹带"
+LocLongDescription="提供一个额外的只能用于弹药的实用物品插槽。"
+LocHelpText="提供一个额外的只能用于弹药的实用物品插槽。"
+LocFlyOverText="弹带"
+LocPromotionPopupText="<Bullet/> 步兵可以同时装备两种不同的弹药物品，但一次只能从其中一个中受益。如果装备了两种弹药物品，步兵将获得一个换弹能力，允许他们更改活动弹药类型。<br/><Bullet/> 考虑你应该在每次任务中携带哪种弹药。当装备适合情况的弹药类型时，步兵会变得更强大。<br/>"
+
+[ShadowOps_Magnum X2AbilityTemplate]
+LocFriendlyName="马格南"
+LocLongDescription="你的手枪攻击获得<Ability:+ToHit/>瞄准并造成<Ability:+Damage/>伤害。"
+LocHelpText="你的手枪攻击获得<Ability:+ToHit/>瞄准并造成<Ability:+Damage/>伤害。"
+LocFlyOverText="马格南"
+LocPromotionPopupText="<Bullet/> 即使没有马格南，你的手枪在近距离比你的步枪更准确。<br/><Bullet/> 将马格南与增加额外伤害的弹药结合使用，将在近距离给你对变种人的保证杀伤。"
+
+[ShadowOps_GoodEye X2AbilityTemplate]
+LocFriendlyName="好眼力"
+LocLongDescription="你的射击不能被躲避。"
+LocHelpText="你的射击不能被躲避。"
+LocFlyOverText="好眼力"
+LocPromotionPopupText="<Bullet/> 在后期游戏中，这个能力变得更有用，当许多敌人有躲避机会时。<br/>"
+
+[ShadowOps_FullAuto X2AbilityTemplate]
+LocFriendlyName="全自动"
+LocLongDescription="进行一次有<Ability:ToHit/>瞄准惩罚的射击。如果你命中目标，你会自动对目标进行另一次射击。你会一直射击，直到你错过或者弹药用完。每次射击的瞄准惩罚都会增加。需要两个动作。<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="进行射击，直到你错过或者弹药用完。每次射击都有累积的<Ability:ToHit/>瞄准惩罚。需要两个动作。"
+LocFlyOverText="全自动"
+LocPromotionPopupText="<Bullet/> 全自动可以用满弹夹和正确的弹药造成大量伤害。<br/><Bullet/> 这个能力需要两个动作来使用。<br/><Bullet/> 全自动有<Ability:SelfCooldown/>回合冷却。<br/>"
+
+[ShadowOps_FullAuto2 X2AbilityTemplate]
+LocFriendlyName="全自动"
+LocFlyOverText="全自动"
+LocPromotionPopupText=""
+
+[ShadowOps_ZoneOfControl X2AbilityTemplate]
+LocFriendlyName="控制区域"
+LocLongDescription="对任何在你视线内移动或攻击的敌人进行反应射击。<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="增强的监视可以在一回合内多次射击。"
+LocFlyOverText="控制区域"
+LocPromotionPopupText="<Bullet/> 当主武器没有弹药时，控制区域会切换到手枪监视射击。<br/><Bullet/> 步兵在一回合内可以进行无限次的控制区域射击。<br/><Bullet/> 控制区域有<Ability:SelfCooldown/>回合冷却。<br/>"
+
+[ShadowOps_ZoneOfControlShot X2AbilityTemplate]
+LocFriendlyName="控制区域射击"
+
+[ShadowOps_ZoneOfControlPistolShot X2AbilityTemplate]
+LocFriendlyName="控制区域手枪射击"
+
+[ShadowOps_ZoneOfControl_LW2 X2AbilityTemplate]
+LocFriendlyName="控制区域"
+LocLongDescription="进入一个特殊的监视，它提供最多<Ability:ZoneOfControlLW2Shots/>反应射击和掩护火力能力。<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="增强的监视可以在一回合内多次射击。"
+LocFlyOverText="控制区域"
+LocPromotionPopupText="<Bullet/> 控制区域有<Ability:SelfCooldown/>回合冷却。<br/>"
+
+[ShadowOps_ZeroIn X2AbilityTemplate]
+LocFriendlyName="零点"
+LocLongDescription="当你错过一次攻击时，你在下一次攻击中获得<Ability:+ToHit/>瞄准。"
+LocHelpText="当你错过一次攻击时，你在下一次攻击中获得<Ability:+ToHit/>瞄准。"
+LocFlyOverText="零点"
+LocPromotionPopupText="<Bullet/> 零点可以帮助补偿在使用子弹风暴时不能移动以获得更好射击的情况。它使得在一回合中至少有一次射击命中的可能性大大增加。<br/><Bullet/> 零点不适用于反应射击。<br/>"
+
+[ShadowOps_Flush X2AbilityTemplate]
+LocFriendlyName="冲洗"
+LocLongDescription="发射一枪手枪射击，自动命中并强制目标移动到新的掩体。<Ability:SelfCooldown/>回合冷却。"
+LocHelpText="发射一枪手枪射击，自动命中并强制目标移动到新的掩体。"
+LocFlyOverText="冲洗"
+LocPromotionPopupText="<Bullet/> 冲洗可以强制敌人触发你其他士兵的反应火力。<br/><Bullet/> 冲洗有<Ability:SelfCooldown/>回合冷却。<br/>"
+
+[ShadowOps_RifleSuppression X2AbilityTemplate]
+LocFriendlyName="步枪压制"
+LocLongDescription="发射一阵弹幕，压制目标，如果目标移动，对其进行反应射击，并对目标的瞄准施加<Ability:SUPPRESSIONPENALTY/>惩罚。"
+LocHelpText="惩罚目标的瞄准并在他们移动时射击他们。"
+LocFlyOverText="步枪压制"
+LocPromotionPopupText="<Bullet/> 被压制的敌人的瞄准会受到-50的惩罚，不能使用手榴弹。<br/><Bullet/> 来自步枪压制的反应射击有一个<Ability:+ToHit:SuppressionShot/>瞄准修正。<br/><Bullet/> 压制不会从掩护火力中受益。<br/><Bullet/> 步枪压制需要消耗<Ability:SelfAmmoCost/>弹药点数来使用，但没有冷却时间。<br/><Bullet/> 如果压制单位受到伤害，步枪压制将被取消。<br/><Bullet/> 如果多个单位压制一个目标，瞄准惩罚会叠加。<br/>"
+
+[ShadowOps_Focus X2AbilityTemplate]
+LocFriendlyName="专注"
+LocLongDescription="你每回合的第一次反应射击保证命中。"
+LocHelpText="你每回合的第一次反应射击保证命中。"
+LocFlyOverText="专注"
+LocPromotionPopupText="<Bullet/> 这个能力与其他提升你的监视的能力，如加固，很搭配。<br/><Bullet/> 你的反应射击仍然可以被躲避。<br/>"
+
+[ShadowOps_Resilience X2AbilityTemplate]
+LocFriendlyName="韧性"
+LocLongDescription="你不能被暴击。"
+LocHelpText="你不能被暴击。"
+LocFlyOverText="韧性"
+LocPromotionPopupText="<Bullet/> 韧性对于控制你如果被侧翼的伤害量很有用。<br/><Bullet/> 仅仅因为你不能被暴击并不意味着你如果站在开阔地上就不会死。<br/>"
+
+[ShadowOps_AdrenalineSurge X2AbilityTemplate]
+LocFriendlyName="肾上腺素激增"
+LocLongDescription="当你杀死一个单位时，你和附近的友方单位获得<Ability:+Crit:ShadowOps_AdrenalineSurgeTrigger/>暴击几率和<Ability:+Mobility:ShadowOps_AdrenalineSurgeTrigger/>移动力，直到你的回合结束。"
+LocHelpText="<Ability:+Crit:ShadowOps_AdrenalineSurgeTrigger/>暴击几率和<Ability:+Mobility:ShadowOps_AdrenalineSurgeTrigger/>移动力，直到你的回合结束。"
+LocFlyOverText="肾上腺素激增"
+LocPromotionPopupText="<Bullet/> 如果你在敌人的回合杀死一个单位，奖励会持续到你的下一个回合。<br/><Bullet/> 肾上腺素激增的范围是8格。<br/>"
+
+[ShadowOps_AdrenalineSurgeTrigger X2AbilityTemplate]
+LocFriendlyName="肾上腺素激增"
+LocLongDescription="当你杀死一个单位时，你和附近的友方单位获得<Ability:+Crit/>暴击几率和<Ability:+Mobility/>移动力，直到你的回合结束。"
+LocHelpText="<Ability:+Crit/>暴击几率和<Ability:+Mobility/>移动力，直到你的回合结束。"
+LocFlyOverText="肾上腺素激增"
+
+[ShadowOps_Fortify X2AbilityTemplate]
+LocFriendlyName="加固"
+LocLongDescription="每当你进入监视或使用压制，你获得<Ability:+Defense:ShadowOps_FortifyTrigger/>防御，直到你的下一个回合开始。"
+LocHelpText="每当你进入监视或使用压制，你获得<Ability:+Defense:ShadowOps_FortifyTrigger/>防御，直到你的下一个回合开始。"
+LocFlyOverText="加固"
+LocPromotionPopupText="<Bullet/> 加固将与任何激活的能力一起工作，给你反应射击，包括控制区域。<br/>"
+
+[ShadowOps_FortifyTrigger X2AbilityTemplate]
+LocFriendlyName="加固"
+LocLongDescription="<Ability:+Defense/>防御，直到你的下一个回合开始。"
+LocHelpText="<Ability:+Defense/>防御，直到你的下一个回合开始。"
+LocFlyOverText="加固"
+
+[ShadowOps_FirstAid X2AbilityTemplate]
+LocFriendlyName="急救"
+LocLongDescription="你在每个任务中都有一次免费的急救包使用。每携带一个急救包给你额外两次使用。"
+LocHelpText="你在每个任务中都有一次免费的急救包使用。每携带一个急救包给你额外两次使用。"
+LocFlyOverText="急救"
+LocPromotionPopupText="<Bullet/> 免费的急救包也赋予免疫毒素。</br>"
+
+[ShadowOps_SecondWind X2AbilityTemplate]
+LocFriendlyName="恢复精力"
+LocLongDescription="对受伤单位使用急救包也赋予该单位一个额外的行动点。"
+LocHelpText="对受伤单位使用急救包也赋予该单位一个额外的行动点。"
+LocFlyOverText="恢复精力"
+LocPromotionPopupText="<Bullet/> 如果你对自己使用急救包，你获得额外的行动点。<br/><Bullet/> 急救包仍然只能用于受伤的单位。<br/>"
+
+[ShadowOps_SecondWindTrigger X2AbilityTemplate]
+LocFriendlyName="恢复精力"
+LocLongDescription="对受伤单位使用急救包也赋予该单位一个额外的行动点。"
+LocHelpText="对受伤单位使用急救包也赋予该单位一个额外的行动点。"
+LocFlyOverText="恢复精力"
+LocHitMessage="恢复精力"
+
+[ShadowOps_Tactician X2AbilityTemplate]
+LocFriendlyName="战术家"
+LocLongDescription="你的主武器错过的射击会造成<Ability:MissDamage/>伤害。只限步枪和冲锋枪。"
+LocHelpText="你的主武器错过的射击会造成<Ability:MissDamage/>伤害。"
+LocFlyOverText="战术家"
+LocPromotionPopupText="<Bullet/> 增加武器伤害的能力，如中心质量，不影响战术家的伤害。<br/>"
+
+[ShadowOps_ReadyForAnything X2AbilityTemplate]
+LocFriendlyName="随时准备"
+LocLongDescription="当你用你的<Ability:WeaponName/>进行标准攻击时，你自动进入监视。"
+LocHelpText="对目标开火，然后进入监视。"
+LocFlyOverText="随时准备"
+LocPromotionPopupText="<Bullet/> 如果你没有弹药，你不会进入监视。<br/><Bullet/> 如果射击没有结束你的回合，那么你不会进入监视。这可能发生在你有Light 'Em Up能力，你的武器装备了微力扳机，或者你杀了一个失魂者。<br/>"
+
+[ShadowOps_ReadyForAnythingOverwatch X2AbilityTemplate]
+LocFriendlyName="随时准备"
+LocLongDescription="当你用你的<Ability:WeaponName/>进行标准攻击时，你自动进入监视。"
+LocHelpText="对目标开火，然后进入监视。"
+LocFlyOverText="随时准备"
+LocPromotionPopupText="<Bullet/> 如果你没有弹药，你不会进入监视。<br/><Bullet/> 如果射击没有结束你的回合，那么你不会进入监视。这可能发生在你也有Light 'Em Up能力或者你的武器装备了微力扳机。<br/>"
+
+[ShadowOps_ImprovedSuppression X2AbilityTemplate]
+LocFriendlyName="改进压制"
+LocLongDescription="你的压制和区域压制能力也使主要目标失去方向。"
+LocHelpText="你的压制和区域压制能力也使主要目标失去方向。"
+LocFlyOverText="改进压制"
+LocPromotionPopupText="<Bullet/> 失去方向的单位有减少的瞄准和移动力，不能使用大多数特殊能力。<br/><Bullet/> 当你激活压制时，失去方向被应用。<br/><Bullet/> 如果压制被打破，不会提前移除失去方向。<br/>"
+
+[ShadowOps_CoupDeGrace X2AbilityTemplate]
+LocFriendlyName="处决"
+LocLongDescription="用你的手枪杀死一个敌人不消耗动作。"
+LocHelpText="用你的手枪杀死一个敌人不消耗动作。"
+LocFlyOverText="处决"
+LocPromotionPopupText="<Bullet/> 这影响所有的手枪攻击，不仅仅是标准的手枪射击。<br/>"
+
+[ShadowOps_Airstrike X2AbilityTemplate]
+LocFriendlyName="空袭"
+LocLongDescription="每个任务中只能调用一次空袭，对大范围内造成8-12点伤害。消耗两个动作。"
+LocHelpText="调用空袭，对大范围内造成8-12点伤害。消耗两个动作。"
+LocFlyOverText="空袭"
+LocPromotionPopupText="<Bullet/> 空袭将摧毁影响区域内几乎所有的掩体。<br/>"
+
+[ShadowOps_AgainstTheOdds X2AbilityTemplate]
+LocFriendlyName="逆境"
+LocLongDescription="每看到一个敌人，获得<Ability:+ToHit/>瞄准（最大<Ability:+MaxToHit/>）。"
+LocHelpText="每看到一个敌人，获得<Ability:+ToHit/>瞄准（最大<Ability:+MaxToHit/>）。"
+LocFlyOverText="逆境"
+LocPromotionPopupText="<Bullet/> 如果你面对的敌人足够多以至于达到<Ability:+MaxToHit/>上限，就逃跑。<br/>"
+
+[ShadowOps_Paragon X2AbilityTemplate]
+LocFriendlyName="精英"
+LocLongDescription="获得<Ability:+HP/>生命值，<Ability:+ToHit/>瞄准和<Ability:+Will/>意志。"
+LocHelpText="获得<Ability:+HP/>生命值，<Ability:+ToHit/>瞄准和<Ability:+Will/>意志。"
+LocFlyOverText="精英"
+LocPromotionPopupText="<Bullet/> 这些奖励是在升级的正常奖励之外的。<br/>"
+
+[ShadowOps_SonicBeacon X2AbilityTemplate]
+LocFriendlyName="声波信标"
+LocLongDescription="提供一个特殊的信标，将吸引那些还未发现XCOM的敌人的注意力。"
+LocHelpText="提供一个特殊的信标，将吸引那些还未发现XCOM的敌人的注意力。"
+LocFlyOverText="声波信标"
+LocPromotionPopupText="<Bullet/> 信标可以被扔到18格远的地方，对16格内的敌人可听见。<br/><Bullet/> 听到声波信标会使敌人进入黄色警戒状态。<br/><Bullet/> 这个能力只能在隐蔽状态下使用。<br/>"
+
+[ShadowOps_ThrowSonicBeacon X2AbilityTemplate]
+LocFriendlyName="投掷声波信标"
+LocLongDescription="投掷一个声波信标，不造成伤害但吸引附近敌人的注意。只能在隐蔽状态下使用。"
+LocHelpText="投掷一个声波信标，不造成伤害但吸引附近敌人的注意。只能在隐蔽状态下使用。"
+LocFlyOverText="投掷声波信标"
+
+[ShadowOps_NoiseMaker X2AbilityTemplate]
+LocFriendlyName="制噪器"
+LocLongDescription="提供<Ability:NoiseMakerCharges/>个免费的超声诱饵物品到你的库存。"
+LocHelpText="提供<Ability:NoiseMakerCharges/>个免费的超声诱饵物品到你的库存。"
+LocFlyOverText="制噪器"
+LocPromotionPopupText="<Bullet/> 这与携带的超声诱饵的使用次数叠加。<br/>"
+
+; === 其他能力 ===
+
+[ShadowOps_SwapAmmo X2AbilityTemplate]
+LocFriendlyName="切换弹药"
+LocLongDescription="用<Ability:AssociatedWeapon/>重新装载你的武器。"
+LocHelpText="用<Ability:AssociatedWeapon/>重新装载你的武器。"
+
+; === 物品 ===
+
+[SonicBeacon X2GrenadeTemplate]
+FriendlyName="声波信标"
+FriendlyNamePlural="声波信标"
+
+; === 物品授予的能力 ===
+
+[FlechetteRounds X2AbilityTemplate]
+LocFriendlyName="箭形弹"
+
+[HollowPointRounds X2AbilityTemplate]
+LocFriendlyName="空尖弹"
+
+[ReinforcedVestBonus X2AbilityTemplate]
+LocFriendlyName="加固背心"
+
+; === 物品模板 ===
+
+[FlechetteRounds X2AmmoTemplate]
+FriendlyName="箭形弹"
+FriendlyNamePlural="箭形弹"
+BriefSummary="箭形弹可以造成额外的伤害，但是命中率的惩罚会随着距离的增加而增加。"
+TacticalText="<Bullet/> 箭形弹可以造成额外的伤害，但是命中率的惩罚会随着距离的增加而增加。 <br/><Bullet/> 箭形弹本质上是小型飞镖。它们比标准子弹更有效地穿透装甲和肉体。 <br/><Bullet/> 尽管增加了稳定鳍，箭形弹的准确性略低于正常弹药，尤其是在远距离。 <br/><Bullet/> 箭形弹对抗装甲敌人（如MECs）特别有用。 <br/>"
+
+[HollowPointRounds X2AmmoTemplate]
+FriendlyName="空尖弹"
+FriendlyNamePlural="空尖弹"
+BriefSummary="空尖弹在暴击时造成额外伤害。"
+TacticalText="<Bullet/> 空尖弹在目标内部扩张，对软肉和脆弱的电子组件造成更大的伤害。 <br/>"
+
+[ShadowOps_TigerRounds X2AmmoTemplate]
+FriendlyName="虎式弹药"
+FriendlyNamePlural="虎式弹药"
+BriefSummary="对变种人单位在战场上使用的装甲的研究已经导致了能够撕裂合金装甲的改进弹药的开发。"
+TacticalText="<Bullet/> 虎式弹药包含一个微型成型药，设计用于撕裂装甲。 <br/><Bullet/> 这些弹药对未装甲的目标没有特殊效果。 <br/>"
+
+[ShadowOps_DepletedEleriumRounds X2AmmoTemplate]
+FriendlyName="超铀弹"
+FriendlyNamePlural="超铀弹"
+BriefSummary="将少量的超铀添加到我们的成型药弹药中，既增加了伤害，也显著提高了撕裂能力。"
+TacticalText="<Bullet/> 超铀弹结合了高密度和爆炸力，能够撕裂即使是最重的装甲。 <br/>"
+
+[ReinforcedVest X2EquipmentTemplate]
+FriendlyName="加固背心"
+FriendlyNamePlural="加固背心"
+BriefSummary="这件背心已经用重型装甲板加固，提供了对敌人攻击的额外装甲保护。"
+TacticalText="<Bullet/> 提供装甲。 <br/>"
+
+[PlatedVest X2EquipmentTemplate]
+FriendlyName="板甲背心"
+FriendlyNamePlural="板甲背心"
+BriefSummary="Shen已经用装甲板装备了传统的纳米级背心，提供了对敌人攻击的额外装甲保护。"
+TacticalText="<Bullet/> 提供装甲。"
+
+; === 职业模板 ===
+
+[ShadowOps_CombatEngineer_LW2 X2SoldierClassTemplate]
+DisplayName="战斗工程师"
+ClassSummary="战斗工程师擅长使用手榴弹进行攻击和防御。如果你想要炸毁，拆除或隐藏在烟雾中，带一个战斗工程师。"
+LeftAbilityTreeTitle="先驱"
+RightAbilityTreeTitle="工兵"
++AbilityTreeTitles[0]="先驱"
++AbilityTreeTitles[1]="保护者"
++AbilityTreeTitles[2]="工兵"
+RandomNickNames[0]="提升"
+RandomNickNames[1]="螺栓"
+RandomNickNames[2]="爆破手"
+RandomNickNames[3]="泡泡糖"
+RandomNickNames[4]="电缆"
+RandomNickNames[5]="木炭"
+RandomNickNames[6]="熟肉"
+RandomNickNames[7]="砰砰博士"
+RandomNickNames[8]="驱动"
+RandomNickNames[9]="齿轮"
+RandomNickNames[10]="护目镜"
+RandomNickNames[11]="握把"
+RandomNickNames[12]="陀螺仪"
+RandomNickNames[13]="高压"
+RandomNickNames[14]="拼图"
+RandomNickNames[15]="墨菲"
+RandomNickNames[16]="无手"
+RandomNickNames[17]="火药"
+RandomNickNames[18]="泵"
+RandomNickNames[19]="棘轮"
+RandomNickNames[20]="烟"
+RandomNickNames[21]="系统"
+RandomNickNames[22]="雷霆"
+RandomNickNames[23]="扭矩"
+RandomNickNames[24]="扳手"
+
+[ShadowOps_Dragoon_LW2 X2SoldierClassTemplate]
+DisplayName="龙骑兵"
+ClassSummary="龙骑兵是一种多功能的职业，可以将重型武器和装甲带到前线，或者快速轻装进行渗透任务。他们擅长保护和支持其他小队成员。"
+LeftAbilityTreeTitle="圣骑士"
+RightAbilityTreeTitle="幽灵"
++AbilityTreeTitles[0]="圣骑士"
++AbilityTreeTitles[1]="守护者"
++AbilityTreeTitles[2]="幽灵"
+RandomNickNames[0]="破坏者"
+RandomNickNames[1]="电路"
+RandomNickNames[2]="核心转储"
+RandomNickNames[3]="赛博"
+RandomNickNames[4]="赛博格"
+RandomNickNames[5]="狮鹫"
+RandomNickNames[6]="锤子"
+RandomNickNames[7]="鹰身女妖"
+RandomNickNames[8]="九头蛇"
+RandomNickNames[9]="铁"
+RandomNickNames[10]="蛇尾狮"
+RandomNickNames[11]="牛头怪"
+RandomNickNames[12]="迷宫"
+RandomNickNames[13]="再试一次"
+RandomNickNames[14]="凤凰"
+RandomNickNames[15]="吹笛者"
+RandomNickNames[16]="红屏"
+RandomNickNames[17]="火箭"
+RandomNickNames[18]="军刀"
+RandomNickNames[19]="斯芬克斯"
+RandomNickNames[20]="钢"
+RandomNickNames[21]="会计师"
+RandomNickNames[22]="独角兽"
+RandomNickNames_Male[0]="兽人"
+RandomNickNames_Female[0]="黑寡妇"
+
+[ShadowOps_Hunter_LW2 X2SoldierClassTemplate]
+DisplayName="猎人"
+ClassSummary="猎人类在使用狙击步枪进行远程打击或者使用剑进行近战中都能如鱼得水。我们的敌人将永远不知道是什么击中了他们。"
+LeftAbilityTreeTitle="射手"
+RightAbilityTreeTitle="追踪者"
++AbilityTreeTitles[0]="射手"
++AbilityTreeTitles[1]="偷猎者"
++AbilityTreeTitles[2]="追踪者"
+RandomNickNames[0]="弓箭手"
+RandomNickNames[1]="熊"
+RandomNickNames[2]="猎豹"
+RandomNickNames[3]="奇美拉"
+RandomNickNames[4]="郊狼"
+RandomNickNames[5]="双刃"
+RandomNickNames[6]="鬣狗"
+RandomNickNames[7]="野兔"
+RandomNickNames[8]="冰镐"
+RandomNickNames[9]="豹"
+RandomNickNames[10]="闪电"
+RandomNickNames[11]="猛禽"
+RandomNickNames[12]="乌鸦"
+RandomNickNames[13]="瞌睡虫"
+RandomNickNames[14]="山"
+RandomNickNames[15]="虎"
+RandomNickNames[16]="双鸟"
+RandomNickNames[17]="巫毒"
+RandomNickNames[18]="黄鼠狼"
+RandomNickNames[19]="狼"
+RandomNickNames[20]="狼人"
+RandomNickNames[21]="雪人"
+RandomNickNames_Female[0]="黑寡妇"
+RandomNickNames_Female[1]="树灵"
+RandomNickNames_Female[2]="母狮"
+RandomNickNames_Male[0]="美洲狮"
+RandomNickNames_Male[1]="绿人"
+RandomNickNames_Male[2]="狮子"
+RandomNickNames_Male[3]="睡魔"
+
+[ShadowOps_Infantry_LW2 X2SoldierClassTemplate]
+DisplayName="步兵"
+ClassSummary="我们的步兵能在短距离和中距离提供持续的火力。他们是任何小队的关键成员。"
+LeftAbilityTreeTitle="步枪手"
+RightAbilityTreeTitle="支援"
++AbilityTreeTitles[0]="步枪手"
++AbilityTreeTitles[1]="战术"
++AbilityTreeTitles[2]="支援"
+RandomNickNames[0]="王牌"
+RandomNickNames[1]="枪管"
+RandomNickNames[2]="黄铜"
+RandomNickNames[3]="侧炮"
+RandomNickNames[4]="独眼巨人"
+RandomNickNames[5]="鹰"
+RandomNickNames[6]="猎鹰"
+RandomNickNames[7]="蛇发女妖"
+RandomNickNames[8]="冰雹"
+RandomNickNames[9]="鹰"
+RandomNickNames[10]="冰"
+RandomNickNames[11]="小丑"
+RandomNickNames[12]="铅"
+RandomNickNames[13]="不再"
+RandomNickNames[14]="皇家同花顺"
+RandomNickNames[15]="圣诞老人"
+RandomNickNames[16]="风暴"
+RandomNickNames[17]="曳光弹"
+RandomNickNames[18]="三点"
+RandomNickNames[19]="双手"
+RandomNickNames[20]="吸血鬼"
+RandomNickNames[21]="战争领主"
+RandomNickNames[22]="零"
+RandomNickNames_Female[0]="女男爵"
+RandomNickNames_Female[1]="小猫"
+RandomNickNames_Female[2]="女王"
+RandomNickNames_Male[0]="男爵"
+RandomNickNames_Male[1]="国王"
+RandomNickNames_Male[2]="雪人"
+
+[ShadowOps_Scrapper_LW2 X2SoldierClassTemplate]
+DisplayName="斗士"
+ClassSummary="斗士接受了徒手和刀战斗以及火器的强化训练。在近战中他们是无人能敌的。"
+LeftAbilityTreeTitle="恶棍"
+RightAbilityTreeTitle="斗士"
++AbilityTreeTitles[0]="恶棍"
++AbilityTreeTitles[1]="技术员"
++AbilityTreeTitles[2]="斗士"
+RandomNicknames[0]="野牛"
+RandomNicknames[1]="破玻璃"
+RandomNicknames[2]="圣诞节"
+RandomNicknames[3]="爪子"
+RandomNicknames[4]="棍棒"
+RandomNicknames[5]="恐龙"
+RandomNicknames[6]="垃圾车"
+RandomNicknames[7]="边缘"
+RandomNicknames[8]="脚"
+RandomNicknames[9]="水果"
+RandomNicknames[10]="果冻豆"
+RandomNicknames[11]="初级"
+RandomNicknames[12]="指关节"
+RandomNicknames[13]="小"
+RandomNicknames[14]="好奇宝宝"
+RandomNicknames[15]="单行道"
+RandomNicknames[16]="牛"
+RandomNicknames[17]="花生"
+RandomNicknames[18]="疤痕"
+RandomNicknames[19]="皮肤"
+RandomNicknames[20]="匕首"
+RandomNicknames[21]="牙齿"
+RandomNicknames[22]="蛮汉"
+RandomNicknames[23]="十三"
+RandomNickNames_Male[0]="恶人先生"
+RandomNickNames_Male[1]="杂种"
+RandomNickNames_Male[2]="老头"
+RandomNickNames_Female[0]="猫"
+RandomNickNames_Female[1]="恶女士"
+RandomNickNames_Female[3]="老太婆"
+
+[ShadowOps_Juggernaut_LW2 X2SoldierClassTemplate]
+DisplayName="巨像"
+ClassSummary="正如名字所示，巨像携带我们最重的武器和装甲。他们在隐蔽性上的不足，他们用原始的火力来弥补。"
+LeftAbilityTreeTitle="打击"
+RightAbilityTreeTitle="围攻"
++AbilityTreeTitles[0]="打击"
++AbilityTreeTitles[1]="风暴"
++AbilityTreeTitles[2]="围攻"
+RandomNicknames[0]="棒球"
+RandomNicknames[1]="豆子"
+RandomNicknames[2]="砖头"
+RandomNicknames[3]="疲劳"
+RandomNicknames[4]="蝴蝶"
+RandomNicknames[5]="斗篷"
+RandomNicknames[6]="纸箱"
+RandomNicknames[7]="立方体"
+RandomNicknames[8]="冰雹"
+RandomNicknames[9]="重型"
+RandomNicknames[10]="英雄"
+RandomNicknames[11]="狐猴"
+RandomNicknames[12]="小"
+RandomNicknames[13]="猛犸象"
+RandomNicknames[14]="火柴棍"
+RandomNicknames[15]="山"
+RandomNicknames[16]="无刹车"
+RandomNicknames[17]="汽油"
+RandomNicknames[18]="钚"
+RandomNicknames[19]="壳"
+RandomNicknames[20]="傻瓜"
+RandomNicknames[21]="石板"
+RandomNicknames[22]="吊带裤"
+RandomNicknames[23]="恐怖"
+RandomNicknames[24]="塔"
+RandomNicknames[25]="火车"
+RandomNickNames_Male[0]="杰克"
+RandomNickNames_Female[0]="吉尔"
+
+[ShadowOps_Survivalist_LW2 X2SoldierClassTemplate]
+DisplayName="生存专家"
+ClassSummary="生存专家是专门的狙击手，能够快速中和多个目标。他们还携带了短管霰弹枪进行近战。"
+LeftAbilityTreeTitle="哨兵"
+RightAbilityTreeTitle="袭击者"
++AbilityTreeTitles[0]="哨兵"
++AbilityTreeTitles[1]="幸存者"
++AbilityTreeTitles[2]="袭击者"
+RandomNicknames[0]="白杨"
+RandomNicknames[1]="桦树"
+RandomNicknames[2]="雪松"
+RandomNicknames[3]="卓柏卡布拉"
+RandomNicknames[4]="黑暗"
+RandomNicknames[5]="燧石"
+RandomNicknames[6]="垃圾"
+RandomNicknames[7]="葛藤"
+RandomNicknames[8]="长"
+RandomNicknames[9]="肉"
+RandomNicknames[10]="苔藓"
+RandomNicknames[11]="麝鼠"
+RandomNicknames[12]="松树"
+RandomNicknames[13]="池塘"
+RandomNicknames[14]="火药"
+RandomNicknames[15]="环"
+RandomNicknames[16]="强盗"
+RandomNicknames[17]="三明治"
+RandomNicknames[18]="萨斯夸奇"
+RandomNicknames[19]="板岩"
+RandomNicknames[20]="陷阱"
+RandomNicknames[21]="牛排"
+RandomNicknames[22]="臭"
+RandomNicknames[23]="制革工"
+RandomNicknames[24]="轮胎"
+RandomNicknames[25]="行者"
+RandomNicknames[26]="狼人"
+RandomNicknames[27]="威士忌"
+RandomNicknames[28]="雪人"
+RandomNickNames_Male[0]="水牛比尔"
+RandomNickNames_Male[1]="黄昏"
+RandomNickNames_Female[0]="黎明"
+RandomNickNames_Female[1]="珍珠"
+
+[ShadowOps_Recon_LW2 X2SoldierClassTemplate]
+DisplayName="侦察兵"
+ClassSummary="侦察兵是我们的主要侦查类，受过训练，能够保持隐蔽并使用全息瞄准器协助其他小队成员。他们的高机动性也使他们非常适合进行侧翼机动。"
+LeftAbilityTreeTitle="先锋"
+RightAbilityTreeTitle="侦察员"
++AbilityTreeTitles[0]="先锋"
++AbilityTreeTitles[1]="先遣者"
++AbilityTreeTitles[2]="侦察员"
+RandomNicknames[0]="阳台"
+RandomNicknames[1]="主教"
+RandomNicknames[2]="颈椎病"
+RandomNicknames[3]="可乐"
+RandomNicknames[4]="玻璃"
+RandomNicknames[5]="干扰器"
+RandomNicknames[6]="魔术"
+RandomNicknames[7]="弹珠"
+RandomNicknames[8]="大师"
+RandomNicknames[9]="一"
+RandomNicknames[10]="雷达"
+RandomNicknames[11]="流氓"
+RandomNicknames[12]="悲伤"
+RandomNicknames[13]="下水道"
+RandomNicknames[14]="洗牌"
+RandomNicknames[15]="银"
+RandomNicknames[16]="光滑"
+RandomNicknames[17]="音速"
+RandomNicknames[18]="楼梯"
+RandomNicknames[19]="吸管"
+RandomNicknames[20]="巨嘴鸟"
+RandomNicknames[21]="楼上"
+RandomNicknames[22]="黄蜂"
+RandomNicknames[23]="耳语"
+RandomNickNames_Male[0]="蝙蝠侠"
+RandomNickNames_Male[1]="疯帽子"
+RandomNickNames_Female[0]="爱丽丝"
+RandomNickNames_Female[1]="猫女"
+
+; === GTS 能力模板 ===
+
+[PackmasterUnlock X2SoldierAbilityUnlockTemplate]
+DisplayName="战斗工程师：背包大师"
+Summary="实用插槽中的有限使用物品获得额外使用次数。"
+
+[PackmasterUnlock_LW X2SoldierAbilityUnlockTemplate]
+DisplayName="战斗工程师：背包大师"
+Summary="实用插槽中的有限使用物品获得额外使用次数。"
+
+[ExtraMunitionsUnlock_LW X2SoldierAbilityUnlockTemplate]
+DisplayName="额外弹药"
+Summary="所有士兵在每次任务中都会获得一颗免费的标准手榴弹。"
