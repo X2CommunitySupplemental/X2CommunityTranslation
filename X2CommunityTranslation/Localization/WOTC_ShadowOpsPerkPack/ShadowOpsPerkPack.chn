@@ -1,0 +1,35 @@
+; === 升级信息 ===
+
+[X2DownloadableContentInfo_ShadowOpsPerkPack]
+ModUpgradeLabel="Shadow Ops Class Pack beta v0.7"
+ModUpgradeSummary="Shadow Ops Class Pack已更新到beta版本0.7。重要变化：<br/><br/><Bullet/> Combat Engineer和Infantry的能力树已经被改进，而Hunter的能力树也有了较小的变化。<br/><Bullet/> 所有从以前的mod版本转换过来的士兵都可以免费重新分配。去Armory使用它。<br/><Bullet/> Infantry-Support有两个新的专注于使用Medikits的能力。<br/><Bullet/> Moving Target, Entrench, Fracture, Packmaster, First Strike, 和 Flush都有了大的变化。<br/><Bullet/> AWC中有四个新的只在AWC中可用的能力。你可能需要开始一个新游戏才能看到他们。<br/><br/>更完整的变化记录，请查看readme.txt。"
+ModUpgradeAcceptLabel="明白了"
+
+[UIScreenListener_UIArmory_Promotion]
+LocFreeRespec="免费重新分配"
+RespecWarning="由于Shadow Ops Class Pack类能力树的变化，你的士兵已经被授予了免费的重新分配。如果你在使用他们的免费重新分配之前提升了一个士兵的等级，你将永久性地失去那个免费的重新分配。"
+RespecWarningTitle="免费重新分配过期"
+
+; === 工程师能力 ===
+
+[UIScreenListener_UIArmory]
+m_strKills="击杀数"
+m_strKillsTitle="#1的击杀数"
+m_strUnknown="未知"
+
+[X2Ability_EngineerAbilitySet]
+CombatDrugsName="战斗药物"
+CombatDrugsDescription="一种快速作用的兴奋剂正在提供瞄准和意志的奖励。"
+
+; === 猎人能力 ===
+
+[X2Ability_HunterAbilitySet]
+FadePenaltyText="如果此单位移动，其隐蔽性将被破坏。"
+SnapShotPenaltyText="此单位在使用单个动作进行守望时有瞄准惩罚。"
+BullseyePenaltyName="慌乱"
+BullseyePenaltyText="此单位的瞄准、防御和意志都有-20的惩罚。"
+DisabledFriendlyName="被禁用"
+DisabledFriendlyDesc="无法使用大多数能力。"
+DisabledEffectAcquiredString="<XGParam:StrValue0/!UnitName/>被禁用。"
+DisabledEffectTickedString="<XGParam:StrValue0/!UnitName/>仍然被禁用。"
+DisabledEffectLostString="<XGParam:StrValue0/!UnitName/>不再被禁用。"
