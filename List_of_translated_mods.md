@@ -267,16 +267,22 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1927497195
 
 https://steamcommunity.com/workshop/filedetails/?id=2542543519
 
-# Chinese
+* Chinese
 
 # Jedi Class Revised
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2031929512
 
-# Chinese
+* Chinese
 
 # [WoTC] Mark Zero Augments
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1294744824
+
+* Chinese
+
+# [WOTC] Shadow Ops Perk Pack
+
+https://steamcommunity.com/workshop/filedetails/?id=1519841231
 
 * Chinese
