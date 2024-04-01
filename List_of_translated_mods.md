@@ -280,3 +280,21 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2031929512
 https://steamcommunity.com/sharedfiles/filedetails/?id=1294744824
 
 * Chinese
+
+# Perk Pack - A Better Barracks (WOTC)
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1993868715
+
+* Chinese
+
+# Modpocalypse Perk Pack
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2936550132
+
+* Chinese
+
+# [WOTC] Extended Perk Pack
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1546482849
+
+* Chinese
