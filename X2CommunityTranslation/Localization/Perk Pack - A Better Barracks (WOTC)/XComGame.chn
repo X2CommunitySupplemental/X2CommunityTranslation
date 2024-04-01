@@ -1,0 +1,433 @@
+[Entrench X2AbilityTemplate]
+LocFriendlyName="坚守阵地"
+LocLongDescription="蹲伏持续到你移动。只在掩体中有效。"
+LocHelpText="蹲伏持续到你移动。只在掩体中有效。"
+LocFlyOverText="坚守阵地"
+LocPromotionPopupText="<Bullet/> 坚守阵地提供+30防御和+50闪避，就像常规的蹲伏一样。<br/>"
+
+[TakeUnder X2AbilityTemplate]
+LocFriendlyName="致命一击"
+LocLongDescription="用你的近战武器攻击，必定命中并且不结束回合。只能对生命值3或更少的受伤目标使用。"
+LocHelpText="消灭一个敌人。"
+LocFlyOverText="致命一击"
+LocPromotionPopupText="<Bullet/> 从机制上讲，这就像标准的削击。\n<Bullet/>使用冲刺移动攻击仍然只需要一个动作，但你需要有两个动作才能冲刺。\n<Bullet/>这次攻击永远不会未命中或擦伤，但其伤害仍然可以被护甲和其他减伤效果减少。<br/>"
+
+[Beatdown X2AbilityTemplate]
+LocFriendlyName="击打"
+LocLongDescription="用你的武器的枪托击打敌人，只造成少量伤害，但使目标晕眩。只能对非装甲、非机械目标使用。有3回合冷却时间。"
+LocHelpText="造成1点伤害，使目标晕眩。不能对装甲或机械敌人使用。"
+LocFlyOverText="击打"
+LocPromotionPopupText="<Bullet/> 用你的枪的枪托对敌人造成1点伤害。使目标晕眩。只能对非装甲、非机械目标使用。有3回合冷却时间。<br/>"
+
+[ABB_Infiltrator X2AbilityTemplate]
+LocFriendlyName="渗透者"
+LocFlyOverText="渗透者"
+LocLongDescription="你的技能被用于一项工作。作为间谍和情报获取的大师，你获得+150的黑客技能。"
+LocHelpText="你获得+150的黑客技能。"
+LocPromotionPopupText="<Bullet/> 你的黑客分数足够大，以确保在大多数黑客任务中获得奖励。<br/><Bullet/>注意，你仍然不能使用小精灵，并且无法黑掉塔、机器人等。<br/><Bullet/>奖励确实适用于Skullmining。<br/><Bullet/> 黑客奖励是通过在战术任务期间添加到士兵库存中的物品来添加的。"
+
+[DriveOut X2AbilityTemplate]
+LocFriendlyName="驱逐"
+LocLongDescription="用你的武器的枪托击打敌人，只造成少量伤害，但可能将目标击退，可能出现掩体。不能对机械目标使用。有3回合冷却时间。"
+LocHelpText="造成2点伤害并击退目标。不能对机械敌人使用。"
+LocFlyOverText="驱逐"
+
+[ABB_Parkour X2AbilityTemplate]
+LocFriendlyName="跑酷"
+LocHelpText="这个士兵能够攀爬墙壁。"
+LocLongDescription="这个士兵能够攀爬墙壁。注意，窗户不能被攀爬。"
+
+[Anatomy X2AbilityTemplate]
+LocFriendlyName="解剖学"
+LocFlyOverText="解剖学"
+LocLongDescription="你知道准确的攻击位置以造成最大的伤害。你在所有攻击中获得+15%的暴击几率和2点的穿甲。"
+LocHelpText="你在暴击几率和穿甲上获得奖励。"
+LocPromotionPopupText="<Bullet/> 这是一个无条件的被动奖励。\n<Bullet/> 穿甲奖励不会显示在攻击预览上，但在攻击命中时会起作用。"
+
+[Interrogator X2AbilityTemplate]
+LocFriendlyName="审问者"
+LocFlyOverText="审问者"
+LocLongDescription="在某一点，这项工作涉及到对话。携带Skulljack时，获得+1的Skullmining次数。"
+LocHelpText="携带Skulljack时，获得+1的Skullmining次数。"
+LocPromotionPopupText="<Bullet/> 必须完成Proving Ground的Skullmining项目，这个能力才会有任何效果。"
+
+[SlashAndDashRS X2AbilityTemplate]
+LocFriendlyName="移动斩击"
+LocLongDescription="移动到并切割目标。使用一个动作并且不结束回合，但每回合只能使用一次。有4回合的冷却时间，可以通过使用其他刀具技能来重置。"
+LocHelpText="移动到并切割目标。使用一个动作并且不结束回合，但每回合只能使用一次。有4回合的冷却时间，可以通过使用其他刀具技能来重置。"
+LocFlyOverText="移动斩击"
+LocPromotionPopupText="<Bullet/>移动到并切割目标。使用一个动作，但每回合只能使用一次。\n<Bullet/>能够重置冷却时间的能力是Disarming Strike，Lacerate，Shadowmelt和Hamstring。"
+
+[DisarmingStrike X2AbilityTemplate]
+LocFriendlyName="缴械攻击"
+LocLongDescription="一次也禁用敌人的主要武器的刀击，迫使敌人花费一个动作再次准备。重置移动斩击。有2回合的冷却时间。"
+LocHelpText="攻击并解除敌人的武装。"
+LocFlyOverText="缴械攻击"
+LocPromotionPopupText="<Bullet/> 像所有的刀攻击一样，这使用一个动作并且不结束你的回合。\n<Bullet/> 敌人的主要武器需要重新装载才能再次使用。<br/>"
+
+[Lacerate X2AbilityTemplate]
+LocFriendlyName="撕裂"
+LocLongDescription="一次切开一些重要东西的刀击，导致目标流血。重置移动斩击。有3回合的冷却时间。"
+LocHelpText="击中并导致出血。"
+LocFlyOverText="撕裂"
+LocPromotionPopupText="<Bullet/> 像所有的刀攻击一样，这使用一个动作并且不结束你的回合。\n<Bullet/> 出血效果每回合造成2点伤害，持续10回合。<br/>"
+
+[Shadowmelt X2AbilityTemplate]
+LocFriendlyName="暗影突袭"
+LocLongDescription="用刀击中敌人。如果你杀死目标，进入隐蔽状态。重置移动斩击。有3回合的冷却时间。"
+LocHelpText="击中目标。杀死后，进入隐蔽状态。"
+LocFlyOverText="暗影突袭"
+LocPromotionPopupText="<Bullet/> 像所有的刀攻击一样，这使用一个动作并且不结束你的回合。\n<Bullet/> 有3回合的冷却时间。<br/>"
+
+[Hamstring X2AbilityTemplate]
+LocFriendlyName="割腱"
+LocLongDescription="一次使人残废的刀砍。应用一个永久的-7移动，-30瞄准和-50闪避减益。重置移动斩击。有3回合的冷却时间。"
+LocHelpText="刀砍一个敌人，减少敌人的移动，瞄准和闪避。"
+LocFlyOverText="割腱"
+LocPromotionPopupText="<Bullet/> 像所有的刀攻击一样，这使用一个动作并且不结束你的回合。\n<Bullet/> 有3回合的冷却时间。<br/><Bullet/>可以对同一个敌人应用多次；减益效果可以叠加。<br/>"
+
+[NimbleHands X2AbilityTemplate]
+LocFriendlyName="灵巧之手"
+LocLongDescription="作为一个免费动作，重新装载你的武器。每3回合可以使用一次。"
+LocHelpText="作为一个免费动作，重新装载你的武器。"
+LocFlyOverText="灵巧之手"
+
+[ABB_TrialByFire X2AbilityTemplate]
+LocFriendlyName="炼狱试炼"
+LocLongDescription="在每次任务开始时永久性地获得+1瞄准和+1意志。"
+LocHelpText="在每次任务开始时获得1点瞄准和1点意志。"
+LocPromotionPopupText="<Bullet/>在每次任务开始时触发。<br/>"
+LocFlyOverText="炼狱试炼：+1瞄准/意志"
+
+[Taunt X2AbilityTemplate]
+LocFriendlyName="嘲讽"
+LocLongDescription="试图吸引敌人的火力向你。减少30防御，并增加70闪避。像蹲伏一样使用，结束回合。"
+LocHelpText="试图吸引敌人的火力向你。减少30防御，并增加70闪避。"
+LocFlyOverText="嘲讽"
+LocPromotionPopupText="<Bullet/> 对于有高护甲的士兵来说，特别有用，以减轻即将到来的伤害。\n<Bullet/> 像蹲伏一样使用，但不需要掩体。它也不与Aim或Deep Cover互动。"
+
+[ShieldTaunt X2AbilityTemplate]
+LocFriendlyName="嘲讽（盾）"
+LocLongDescription="试图吸引敌人的火力向你。减少80防御。免费动作，每回合可以使用一次。"
+LocHelpText="试图吸引敌人的火力向你。减少80防御。免费动作，每回合可以使用一次。"
+LocFlyOverText="嘲讽（盾）"
+LocPromotionPopupText="<Bullet/> 对于有高护甲和/或闪避的士兵来说，特别有用，以减轻即将到来的伤害。\n<Bullet/> 免费动作，每回合可以使用一次。\n<Bullet/> 不被视为攻击动作，因此仍然允许免费堆叠Guard能力。"
+
+[HiddenReserves X2AbilityTemplate]
+LocFriendlyName="秘密补给"
+LocLongDescription="每次任务中，作为一个免费动作，将你所有能力的冷却时间全部重置为零。"
+LocHelpText="重置你所有能力的冷却时间。"
+LocFlyOverText="秘密补给"
+
+[TearDown X2AbilityTemplate]
+LocFriendlyName="起爆"
+LocLongDescription="作为一个免费动作，用一个精准的射击引爆环境爆炸物。"
+LocHelpText="引爆环境爆炸物。"
+LocPromotionPopupText="<Bullet/> 有2回合的冷却时间。注意，与Reaper的Remote Start不同，Tear Down不会增加爆炸的伤害或范围，但它也不需要任何弹药。"
+
+[ABB_Bombard X2AbilityTemplate]
+LocFriendlyName="投弹手"
+LocLongDescription="在你所有的手榴弹和装备的火箭上获得一个额外的使用次数。此外，除了你装备的手榴弹外，还获得一个额外的破片手榴弹。"
+LocHelpText="你的手榴弹和火箭每个获得一个额外的使用次数。此外，获得一个额外的破片手榴弹。"
+LocFlyOverText="投弹手"
+LocPromotionPopupText="<Bullet/> Battle Scanners也被视为这个能力的手榴弹。注意，即使它们是基于火箭或手榴弹的，重型武器也不受这个能力的影响。"
+
+[ABB_Cannonade X2AbilityTemplate]
+LocFriendlyName="炮火储备"
+LocLongDescription="在你所有的手榴弹和装备的火箭上获得一个额外的使用次数。此外，获得Bombardier能力，让你可以将手榴弹投掷额外的2个格子。"
+LocHelpText="你的手榴弹和火箭每个获得一个额外的使用次数。此外，获得Bombardier能力。"
+LocFlyOverText="炮火储备"
+LocPromotionPopupText="<Bullet/> Battle Scanners也被视为这个能力的手榴弹。注意，即使它们是基于火箭或手榴弹的，重型武器也不受这个能力的影响。"
+
+[Battlespace X2AbilityTemplate]
+LocFriendlyName="战场空间"
+LocLongDescription="将你的视野半径增加3个格子。每次任务中，你可以将这个奖励增加到12个格子，持续一回合。"
+LocHelpText="将你的视野半径增加3个格子。每次任务中，你可以将这个奖励增加到12个格子，持续一回合。"
+LocFlyOverText="战场空间"
+
+[BattlespacePassive X2AbilityTemplate]
+LocFriendlyName="战场空间"
+LocLongDescription="你从战场空间获得+3的视野半径。"
+LocHelpText="你从战场空间获得+3的视野半径。"
+LocPromotionPopupText="<Bullet/> 额外的+9视野半径在一回合后消失。\n<Bullet/> +3视野半径是永久的。<br/>"
+
+[MineLayer X2AbilityTemplate]
+LocFriendlyName="布雷者"
+LocHelpText="提供一个免费的感应地雷。"
+LocLongDescription="提供一个免费的感应地雷。"
+
+[RiotControl X2AbilityTemplate]
+LocFriendlyName="防暴控制"
+LocLongDescription="你在每次任务中都有一个免费的烟雾手榴弹和一个免费的闪光弹使用。"
+LocHelpText="你在每次任务中都有一个免费的烟雾手榴弹和一个免费的闪光弹使用。"
+LocFlyOverText="防暴控制"
+LocPromotionPopupText="<Bullet/> 这些闪光弹和烟雾手榴弹将被装备，即使你正在携带其他手榴弹。<br/>"
+
+[TrainedSniper X2AbilityTemplate]
+LocFriendlyName="训练有素的狙击手"
+LocHelpText="授予Squadsight能力，但只有当这个士兵的主要武器装备了狙击步枪时才有效。"
+LocLongDescription="授予Squadsight能力，但只有当这个士兵的主要武器装备了狙击步枪时才有效。"
+LocPromotionPopupText="<Bullet/> 任何来自狙击步枪类别的武器都适用于此能力，例如自动狙击步枪或突击步枪，以及标准的狙击步枪。<br/>"
+
+[PerfectPlan X2AbilityTemplate]
+LocFriendlyName="完美计划"
+LocHelpText="当你从隐身中被你自己的动作揭示时，获得一个动作，以及攀爬墙壁的能力，还可以抵消失败的黑客行动的惩罚。"
+LocLongDescription="当你从隐身中被你自己的动作揭示时，获得一个动作，以及攀爬墙壁的能力，还可以抵消失败的黑客行动的惩罚。"
+LocPromotionPopupText="<Bullet/> 快速的脚步将允许士兵在空地上伏击一个小队，或者在隐身中黑掉一个目标，而不会将自己置于危险之中。\n<Bullet/> 即使没有GREMLIN或BIT，Failsafe仍然可以防止Skullmining尝试或使用黑客的笔记本电脑黑掉ADVENT安全塔的失败效果。\n<Bullet/> 墙壁可以被攀爬，但窗户不能被攀爬。"
+
+[Jingoistic X2AbilityTemplate]
+LocFriendlyName = "沙文主义者"
+LocHelpText = "战争的时候到了。这个士兵被授予一个手榴弹插槽和一个重型武器插槽，无论穿着什么装甲。"
+LocLongDescription = "战争的时候到了。这个士兵被授予一个手榴弹插槽和一个重型武器插槽，无论穿着什么装甲。"
+LocPromotionPopupText = "<Bullet/> 注意，这个能力的奖励插槽不会与提供一个或两个相同插槽的大多数其他能力或设备叠加，例如EXO或WAR Suits。"
+
+[ABB_TakeDown X2AbilityTemplate]
+LocFriendlyName="击倒"
+LocFlyOverText="击倒"
+LocHelpText="一个永远不会错过并且即使使用冲刺动作也不会结束你的回合的近战终结者，但只能针对3或更少生命值的受伤敌人。每回合可以使用一次。"
+LocLongDescription="一个永远不会错过并且即使使用冲刺动作也不会结束你的回合的近战终结者，但只能针对3或更少生命值的受伤敌人。每回合可以使用一次。"
+LocPromotionPopupText="<Bullet/> 这次攻击总是造成5点伤害。如果敌人有足够的护甲或其他伤害抗性，击倒可能不会总是导致杀死。\n<Bullet/> 击倒可以每回合使用一次，并且只有在使用第一个动作时才能使用冲刺。\n<Bullet/> 与Take Under不同，Take Down不依赖于近战武器。人类士兵将使用他们的枪的枪托，某些外星人将会挥拳或用他们的爪子挥砍。"
+
+[MarathonRunner_MJ X2AbilityTemplate]
+LocFriendlyName="马拉松跑者"
+LocLongDescription="花费2个动作点来获得3个仅限移动的动作点。每隔一回合可以使用一次。"
+LocHelpText="花费2个动作点来获得3个仅限移动的动作点。1回合冷却时间。"
+LocFlyOverText="马拉松跑者"
+LocPromotionPopupText="<Bullet/> 马拉松跑者不仅非常适合让<Ability:ClassName/>与小队其他成员会合，而且还适合在小队其他成员前面移动以标记供应箱或营救平民。\n<Bullet/> 可以每隔一回合使用一次。\n<Bullet/> 记住：在你激活这个能力后，<Ability:ClassName/>在大多数情况下将无法在本回合内进行攻击。\n<Bullet/> 你仍然可以给这个士兵提供额外的动作，例如通过Teamwork或Command。"
+
+[PrototypeKineticDrivers X2AbilityTemplate]
+LocFriendlyName="原型动能驱动器"
+LocLongDescription="Prototype Strike Module增加了近战攻击的伤害+2，或者对于像Counterstrike这样的半伤害近战攻击增加+1。"
+LocHelpText="Prototype Strike Module增加了近战攻击的伤害+2，或者对于像Counterstrike这样的半伤害近战攻击增加+1。"
+LocFlyOverText="原型动能驱动器"
+
+[40mmGrenadePouches X2AbilityTemplate]
+LocFriendlyName="40mm手榴弹袋"
+LocLongDescription="这种装甲具有用于存储额外40mm手榴弹的袋子。这个士兵将能够在每次任务中额外装载2次下置榴弹发射器。"
+LocHelpText="这种装甲具有用于存储额外40mm手榴弹的袋子。这个士兵将能够在每次任务中额外装载2次下置榴弹发射器。"
+LocFlyOverText="40mm手榴弹袋"
+
+[AssaultShot X2AbilityTemplate]
+LocFriendlyName="突击射击"
+LocHelpText="一次不消耗动作的射击，每回合可以使用一次，但只能对射手视线内4个格子的目标使用。即使在混乱中也可以使用，但在燃烧时不能使用。"
+LocLongDescription="一次不消耗动作的射击，每回合可以使用一次，但只能对射手视线内4个格子的目标使用。即使在混乱中也可以使用，但在燃烧时不能使用。"
+
+[ShortShot X2AbilityTemplate]
+LocFriendlyName="短距离射击"
+LocHelpText="一次只能对射手视线内4个格子的目标使用的射击。即使在混乱中也可以使用，但在燃烧时不能使用。消耗1个动作并结束回合。"
+LocLongDescription="一次只能对射手视线内4个格子的目标使用的射击。即使在混乱中也可以使用，但在燃烧时不能使用。消耗1个动作并结束回合。"
+
+[ShortShotGatlingMec X2AbilityTemplate]
+LocFriendlyName="短距离射击"
+LocHelpText="一次只能对射手视线内6个格子的目标使用的射击。即使在混乱中也可以使用，但在燃烧时不能使用。消耗1个动作并结束回合。"
+LocLongDescription="一次只能对射手视线内6个格子的目标使用的射击。即使在混乱中也可以使用，但在燃烧时不能使用。消耗1个动作并结束回合。"
+
+[TelekinesisShot X2AbilityTemplate]
+LocFriendlyName="心灵动力射击"
+LocHelpText="一种由超能力引导的特殊射击，忽略掩体奖励，但不能获得暴击。只能对在掩体中且未被射手侧翼的目标使用。每3回合可以使用一次。"
+LocLongDescription="一种由超能力引导的特殊射击，忽略掩体奖励，但不能获得暴击。只能对在掩体中且未被射手侧翼的目标使用。每3回合可以使用一次。消耗2个动作并在使用时结束回合。在混乱或被压制时无法使用。"
+
+[WatchfulRaptor X2AbilityTemplate]
+LocFriendlyName="警觉的猛禽"
+LocHelpText="在使用Psi Strike或Telekinesis Shot后自动进入守望状态。"
+LocLongDescription="在使用Psi Strike或Telekinesis Shot后自动进入守望状态。"
+
+[SeeTheFuture X2AbilityTemplate]
+LocFriendlyName="预见未来"
+LocLongDescription="对一次攻击变得无法触及。只能在防御姿态下使用。消耗1个动作并在使用时结束士兵的回合。"
+LocHelpText="对一次攻击变得无法触及。只能在防御姿态下使用。消耗1个动作并在使用时结束士兵的回合。"
+LocFlyOverText="预见未来"
+LocPromotionPopupText="<Bullet/> 可以每回合使用一次。\n<Bullet/> 预见未来可以很好地引诱敌人攻击，但如果还有多个未控制的敌人，那么在选择使用它而不是移动到更好的掩体时要仔细考虑。"
+
+[StasisShell X2AbilityTemplate]
+LocFriendlyName="静滞外壳"
+LocLongDescription="将自己放入静态状态，直到你的下一个回合开始。只能在防御姿态下使用，每隔一回合只能使用一次。消耗1个动作并在使用时结束士兵的回合。"
+LocHelpText="将自己放入静态状态，直到你的下一个回合开始。只能在防御姿态下使用，每隔一回合只能使用一次。消耗1个动作并在使用时结束士兵的回合。"
+LocFlyOverText="静滞外壳"
+LocPromotionPopupText="<Bullet/> 可以每隔一回合使用一次。\n<Bullet/> 静滞外壳会使<Ability:ClassName/>完全无法被选定，这无论好坏都会迫使敌人选择攻击你的其他小队成员。\n<Bullet/> <Ability:ClassName/>可能仍然会受到跌落的伤害，或者在从静滞外壳中出来时发现自己站在火中，所以要注意可能的危险位置。"
+
+[Multitasking X2AbilityTemplate]
+LocFriendlyName="多任务处理"
+LocHelpText="每当你对一个目标使用援助协议，你也会对自己使用援助协议。"
+LocLongDescription="每当你对一个目标使用援助协议，你也会对自己使用援助协议。这包括Threat Assessment（如果可用）。"
+LocPromotionPopupText="<Bullet/> 多任务处理只在针对自己以外的单位时起作用。针对自己不会堆叠效果。"
+
+[FreeScanner X2AbilityTemplate]
+LocFriendlyName="侦查"
+LocHelpText="每4回合，作为一个免费动作，你可以使用一个战场扫描器。"
+LocLongDescription="每4回合，作为一个免费动作，你可以使用一个战场扫描器。这不需要或消耗任何实际装备的战场扫描器。"
+LocPromotionPopupText="<Bullet/> Reconnoiter授予的战场扫描器可以无限制地使用，只受到冷却时间的限制。\n<Bullet/> 这些战场扫描器与战场扫描器物品或Scout能力授予的扫描器是分开的。"
+
+[ScoutScanner X2AbilityTemplate]
+LocFriendlyName="侦查"
+LocHelpText="每4回合，作为一个免费动作，你可以使用一个战场扫描器。"
+LocLongDescription="每4回合，作为一个免费动作，你可以使用一个战场扫描器。这不需要或消耗任何实际装备的战场扫描器。"
+LocPromotionPopupText="<Bullet/> Reconnoiter授予的战场扫描器可以无限制地使用，只受到冷却时间的限制。\n<Bullet/> 这些战场扫描器与战场扫描器物品或Scout能力授予的扫描器是分开的。"
+
+[HurricaneSlash X2AbilityTemplate]
+LocFriendlyName="飓风斩"
+LocHelpText="切割相邻的目标。消耗1个仅限移动的动作点，如果你还有其他动作，不会结束回合。"
+LocLongDescription="切割相邻的目标。消耗1个仅限移动的动作点，如果你还有其他动作，不会结束回合。"
+LocPromotionPopupText="<Bullet/> 如果你没有同时拥有向士兵授予仅限移动动作点的能力，如Whirlwind或Marathon Runner，那么这个能力将完全无用。\n<Bullet/> 如果士兵正在燃烧或混乱，无法使用飓风斩。\n<Bullet/> 没有冷却时间。\n<Bullet/> 当与Whirlwind和Reaper一起使用时，飓风斩可以让你减轻你的Reaper链的第一个目标的不幸伤害滚动。"
+
+[Bullfighter X2AbilityTemplate]
+LocFriendlyName="斗牛士"
+LocHelpText="对一个目标进行极其精确的冲刺近战攻击，造成的伤害很小，但会使目标晕眩2个动作。"
+LocLongDescription="对一个目标进行极其精确的冲刺近战攻击，造成的伤害很小，但会使目标晕眩2个动作。消耗1个动作，使用时结束回合，没有冷却时间。替换Bull Rush。"
+LocPromotionPopupText="<Bullet/> Bullfighter可以用来使机械单位以及有机单位晕眩。只有对晕眩免疫或对所有精神疾病免疫的单位才能阻止它。\n<Bullet/> 虽然Bull Rush只有+15的瞄准修正，但Bullfighter有+100的瞄准修正，因此在大多数情况下不会错过。"
+
+[Phasic_Shot_MJ X2AbilityTemplate]
+LocFriendlyName="相位射击"
+LocLongDescription="军事突击MEC的霰弹枪装载了相位弹，这些弹药忽略护甲，盾牌和掩体防御奖励。机器实体不能被此能力选中。"
+LocHelpText="霰弹枪攻击忽略护甲，盾牌和掩体防御奖励。机器敌人不能被选中。"
+LocFlyOverText="相位射击"
+
+[SoulMania X2AbilityTemplate]
+LocFriendlyName="灵魂狂热"
+LocLongDescription="对任何进入或从2个格子内攻击的敌人进行免费的超能力攻击。保证命中，但不会针对机器人或具有Shadowstep的单位。"
+LocHelpText="对任何进入或从2个格子内攻击的敌人进行免费的超能力攻击。保证命中，但不会针对机器人或具有Shadowstep的单位。"
+LocFlyOverText="灵魂狂热"
+LocPromotionPopupText="<Bullet/> 如果敌人在2个格子内开始他们的回合，灵魂狂热将会在那个敌人试图攻击<Ability:ClassName/>时触发。\n<Bullet/> 如果敌人没有在2个格子内开始他们的回合，那么灵魂狂热将会在那个敌人移动到那个范围时触发。\n<Bullet/> 灵魂狂热造成的基础超能力伤害与Soulfire相同，同样不能针对机器人，但不像Soulfire那样忽略护甲或盾牌。\n<Bullet/> 灵魂狂热保证命中，但仍被视为反应攻击，因此不会针对具有Shadowstep的单位。\n<Bullet/> 在<Ability:ClassName/>'s自己的回合中不会触发。"
+
+[SoulManiaAttack X2AbilityTemplate]
+LocFriendlyName="灵魂狂热"
+LocLongDescription="对任何进入或从2个格子内攻击的敌人进行免费的超能力攻击。保证命中，但不会针对机器人或具有Shadowstep的单位。"
+LocHelpText="对任何进入或从2个格子内攻击的敌人进行免费的超能力攻击。保证命中，但不会针对机器人或具有Shadowstep的单位。"
+LocFlyOverText="灵魂狂热"
+LocPromotionPopupText="<Bullet/> 如果敌人在2个格子内开始他们的回合，灵魂狂热将会在那个敌人试图攻击<Ability:ClassName/>时触发。\n<Bullet/> 如果敌人没有在2个格子内开始他们的回合，那么灵魂狂热将会在那个敌人移动到那个范围时触发。\n<Bullet/> 灵魂狂热造成的基础超能力伤害与Soulfire相同，同样不能针对机器人，但不像Soulfire那样忽略护甲或盾牌。\n<Bullet/> 灵魂狂热保证命中，但仍被视为反应攻击，因此不会针对具有Shadowstep的单位。\n<Bullet/> 在<Ability:ClassName/>'s自己的回合中不会触发。"
+
+[AssaultMecCCS X2AbilityTemplate]
+LocFriendlyName="近战射击"
+LocLongDescription="每回合一次，对任何移动到4个格子内的目标用你的<Ability:WeaponName/>进行反击射击。"
+LocHelpText="每回合一次，对任何移动到4个格子内的目标用你的<Ability:WeaponName/>进行反击射击。"
+LocFlyOverText="近战射击"
+LocPromotionPopupText="<Bullet/> 只在移动时触发，不在其他动作时触发。\n<Bullet/> 如果目标已经在你的4个格子内，不会触发。\n<Bullet/> 在<Ability:ClassName/>'s自己的回合中不会触发。"
+
+[AssaultMecCCSPhase X2AbilityTemplate]
+LocFriendlyName="近战相位射击"
+LocLongDescription="每回合一次，对任何移动到4个格子内的目标用你的<Ability:WeaponName/>进行反击射击。忽略护甲和盾牌，但不能针对机器人。"
+LocHelpText="每回合一次，对任何移动到4个格子内的目标用你的<Ability:WeaponName/>进行反击射击。忽略护甲和盾牌，但不能针对机器人。"
+LocFlyOverText="近战相位射击"
+LocPromotionPopupText="<Bullet/> 只在移动时触发，不在其他动作时触发。\n<Bullet/> 如果目标已经在你的4个格子内，不会触发。\n<Bullet/> 在<Ability:ClassName/>'s自己的回合中不会触发。"
+
+[BloodyKnuckles X2AbilityTemplate]
+LocFriendlyName="血腥的拳头"
+LocHelpText="所有近战攻击获得+3伤害。"
+LocLongDescription="所有近战攻击获得+3伤害。"
+LocPromotionPopupText="<Bullet/> 这影响所有的近战攻击，包括但不限于使用刀，剑，ripjack或刺刀的攻击，以及不依赖武器的攻击，如Bull Rush。"
+LocFlyOverText="血腥的拳头"
+
+[RagingBull X2AbilityTemplate]
+LocFriendlyName="狂牛"
+LocHelpText="对任何进入或从近战范围攻击的敌人进行免费近战攻击。造成微小伤害，并保证在命中后使目标昏迷2个行动。在给定的回合中，只要有目标，就会尝试多次攻击，但只有在成功命中后才会停止。在<Ability:ClassName/>自己的回合中不会触发。在成功命中之间有1个回合的冷却时间。"
+LocLongDescription="对任何进入或从近战范围攻击的敌人进行免费近战攻击。造成微小伤害，并保证在命中后使目标昏迷2个行动。在给定的回合中，只要有目标，就会尝试多次攻击，但只有在成功命中后才会停止。在<Ability:ClassName/>自己的回合中不会触发。在成功命中之间有1个回合的冷却时间。"
+LocPromotionPopupText="<Bullet/> 狂牛可以用来使机械单位以及有机单位昏迷。只有对昏迷免疫或对所有精神疾病免疫的单位才能阻止它。\n<Bullet/> 在<Ability:ClassName/>自己的回合中不会触发。 \n<Bullet/> 1个回合的冷却时间只在成功命中后生效。请注意，即使这次攻击实际上没有使命中的目标昏迷，也仍然被计为命中，因此要小心对昏迷免疫的敌人，例如Celatids。"
+LocFlyOverText="狂牛"
+
+[RagingBullAttack X2AbilityTemplate]
+LocFriendlyName="狂牛"
+LocHelpText="对任何进入或从近战范围攻击的敌人进行免费近战攻击。造成微小伤害，并保证在命中后使目标昏迷2个行动。在给定的回合中，只要有目标，就会尝试多次攻击，但只有在成功命中后才会停止。在<Ability:ClassName/>自己的回合中不会触发。"
+LocLongDescription="对任何进入或从近战范围攻击的敌人进行免费近战攻击。造成微小伤害，并保证在命中后使目标昏迷2个行动。在给定的回合中，只要有目标，就会尝试多次攻击，但只有在成功命中后才会停止。在<Ability:ClassName/>自己的回合中不会触发。"
+LocPromotionPopupText="<Bullet/> 狂牛可以用来使机械单位以及有机单位昏迷。只有对昏迷免疫或对所有精神疾病免疫的单位才能阻止它。\n<Bullet/> 在<Ability:ClassName/>自己的回合中不会触发。"
+LocFlyOverText="狂牛"
+
+[ColdSnap X2AbilityTemplate]
+LocFriendlyName="寒流"
+LocHelpText="每回合第一次使用Cryolator的标准射击将退还一个标准行动点。"
+LocLongDescription="每回合第一次使用Cryolator的标准射击将退还一个标准行动点。不适用于Fulmination或Canister攻击等特殊射击。"
+LocFlyOverText="寒流"
+
+[Sawbones X2AbilityTemplate]
+LocFriendlyName="骨科医生"
+LocHelpText="获得Savior和Neutralizing Agents能力。此外，每回合第一次使用Medical Protocol将退还一个标准行动点。"
+LocLongDescription="获得Savior和Neutralizing Agents能力。此外，每回合第一次使用Medical Protocol将退还一个标准行动点。"
+LocPromotionPopupText="<Bullet/> Savior使所有治疗能力的治疗量增加4点。\n<Bullet/> Neutralizing Agents允许援助协议从目标身上移除燃烧、毒素、酸和出血效果。\n<Bullet/> Neutralizing Agents只影响援助协议，不影响Stronghold Protocol。"
+LocFlyOverText="骨科医生"
+
+[SawbonesPassive X2AbilityTemplate]
+LocFriendlyName="骨科医生"
+LocHelpText="获得Savior和Neutralizing Agents能力。此外，每回合第一次使用Medical Protocol将退还一个标准行动点。"
+LocLongDescription="获得Savior和Neutralizing Agents能力。此外，每回合第一次使用Medical Protocol将退还一个标准行动点。"
+LocPromotionPopupText="<Bullet/> Savior使所有治疗能力的治疗量增加4点。\n<Bullet/> Neutralizing Agents允许援助协议从目标身上移除燃烧、毒素、酸和出血效果。\n<Bullet/> Neutralizing Agents只影响援助协议，不影响Stronghold Protocol。"
+LocFlyOverText="骨科医生"
+
+[ShankRedemption X2AbilityTemplate]
+LocFriendlyName="救赎"
+LocHelpText="每回合第一次使用Knife Fighter将退还一个标准行动点。"
+LocLongDescription="每回合第一次使用Knife Fighter将退还一个标准行动点。不适用于任何其他刀技。"
+LocFlyOverText="救赎"
+
+[BeatUpPassive X2AbilityTemplate]
+LocFriendlyName="殴打"
+LocHelpText="Beatdown不再有冷却时间。"
+LocLongDescription="Beatdown不再有冷却时间。"
+LocPromotionPopupText="<Bullet/> 选择Beat Up将使士兵能够在多个回合中可靠地锁定单个敌人目标。\n<Bullet/> 请注意，Beatdown的其他限制不受影响。它仍然不能攻击机器人或任何当前至少有1点护甲的敌人单位。"
+LocFlyOverText="殴打"
+
+[BeatUp X2AbilityTemplate]
+LocFriendlyName="殴打"
+LocLongDescription="用你的武器的枪托击打敌人，只造成少量伤害，但会使目标昏迷。只能用于无装甲、非机械目标。"
+LocHelpText="对目标造成1点伤害，使目标昏迷。不能攻击装甲或机械敌人。"
+LocFlyOverText="殴打"
+LocPromotionPopupText="<Bullet/> 用你的枪的枪托对敌人造成1点伤害。使目标昏迷。只能用于无装甲、非机械目标。"
+
+[LicenceToKill X2AbilityTemplate]
+LocFriendlyName="杀人执照"
+LocHelpText="当装备狙击步枪时，获得Squadsight和Compensation能力；当装备霰弹枪时，获得Maim能力；当装备冲锋枪时，获得Walk Fire能力。"
+LocLongDescription="当装备狙击步枪时，获得Squadsight和Compensation能力；当装备霰弹枪时，获得Maim能力；当装备冲锋枪时，获得Walk Fire能力。"
+LocPromotionPopupText="<Bullet/> Compensation将在士兵使用2个行动点射击他们的狙击步枪时退还一个标准行动点。\n<Bullet/> Maim是一种特殊的射击，可以造成正常的伤害，并阻止目标在他们的下一个回合中移动。\n<Bullet/> Walk Fire是一种特殊的射击，具有+30的瞄准，但-30的暴击和一半的伤害。"
+LocFlyOverText="杀人执照"
+
+[DoubleOrNothing X2AbilityTemplate]
+LocFriendlyName="孤注一掷"
+LocHelpText="只要将Sawed-Off Shotgun装备为你的副武器，就可以获得Both Barrels和Pump Action能力。"
+LocLongDescription="只要将Sawed-Off Shotgun装备为你的副武器，就可以获得Both Barrels和Pump Action能力。"
+LocPromotionPopupText="<Bullet/> Both Barrels让你可以用两个弹药发射双倍伤害的Sawed-Off Shotgun射击。\n<Bullet/> Pump Action为你的Sawed-Off Shotgun提供两次额外的射击。"
+LocFlyOverText="孤注一掷"
+
+[FishInABarrel X2AbilityTemplate]
+LocFriendlyName="易如反掌"
+LocHelpText="当你的主要武器装备了突击步枪或冲锋枪时，获得Sentinel能力。当你的主要武器装备了狙击步枪时，你获得了使用一个行动点进行守望的能力。"
+LocLongDescription="当你的主要武器装备了突击步枪或冲锋枪时，获得Sentinel能力。当你的主要武器装备了狙击步枪时，你获得了使用一个行动点进行守望的能力。"
+LocPromotionPopupText="<Bullet/> Sentinel在你使用守望时为你提供一个额外的守望射击。\n<Bullet/> 当使用狙击步枪时，狙击步枪特定的守望被替换为标准的守望能力，这是大多数其他主要火器类型所使用的。请注意，某些狙击步枪变体，如Harbinger Rifle或Darklance，完全不会从这个改变中受益。"
+LocFlyOverText="易如反掌"
+
+[SoftenUp X2AbilityTemplate]
+LocFriendlyName="软化"
+LocHelpText="对满血的目标进行攻击时，获得+2的额外伤害。"
+LocLongDescription="对满血的目标进行攻击时，获得+2的额外伤害。"
+LocPromotionPopupText="<Bullet/> 适用于任何使用武器伤害的东西，包括但不限于火器、近战和手榴弹。"
+LocFlyOverText="软化"
+
+[ScourgeCutter X2AbilityTemplate]
+LocFriendlyName="灾祸切割者"
+LocHelpText="用你的近战武器进行的斩击攻击总是一个免费行动，但每回合只能使用一次，不能得到暴击。即使士兵没有行动点也可以使用。"
+LocLongDescription="用你的近战武器进行的斩击攻击总是一个免费行动，但每回合只能使用一次，不能得到暴击。需要用户在近战范围内。即使士兵没有行动点也可以使用。"
+LocPromotionPopupText="<Bullet/> Scourge Cutter作为一个免费行动，允许你移动，攻击，然后移开，或者移动，攻击，然后再攻击，如果你有另一个剑的能力或者一个备用武器，如手枪或短管霰弹枪。\n<Bullet/> 能够在没有行动点的情况下使用意味着Scourge Cutter可以，例如，在冲进敌人的近战范围后使用。"
+LocFlyOverText="灾祸切割者"
+
+[YouGotThis X2AbilityTemplate]
+LocFriendlyName="你行的"
+LocHelpText="给一个可见的盟友授予一个守望射击。每回合可以使用一次，并在使用时结束<Ability:ClassName/>的回合。"
+LocLongDescription="给一个可见的盟友授予一个守望射击。每回合可以使用一次，并在使用时结束<Ability:ClassName/>的回合。"
+LocPromotionPopupText="<Bullet/> 你行的可以在不破坏隐蔽的情况下使用。\n<Bullet/> 盟友必须能够进行守望射击，才能从你行的中获得好处。"
+LocFlyOverText="你行的"
+
+[SlaveDrive X2AbilityTemplate]
+LocFriendlyName="奴役驱动"
+LocHelpText="永远不要问你能不能拿。当装备了GREMLIN或BIT副武器时，获得Haywire Protocol能力。此外，你的Full Override能力获得一个额外的充电。"
+LocLongDescription="永远不要问你能不能拿。当装备了GREMLIN或BIT副武器时，获得Haywire Protocol能力。此外，你的Full Override能力获得一个额外的充电。"
+LocPromotionPopupText="<Bullet/> Haywire Protocol让你可以用你的GREMLIN或BIT暂时控制或者使敌人的机械单位昏迷。"
+LocFlyOverText="奴役驱动"
+
+[QuickScope X2AbilityTemplate]
+LocFriendlyName="快速瞄准"
+LocHelpText="在使用No Scope后自动进入守望。"
+LocLongDescription="在使用No Scope后自动进入守望。"
+LocFlyOverText="快速瞄准"
+
+[StayOnTarget X2AbilityTemplate]
+LocFriendlyName="保持目标"
+LocHelpText="移除Lead The Target能力的冷却时间。"
+LocLongDescription="移除Lead The Target能力的冷却时间。"
+LocFlyOverText="保持目标"
