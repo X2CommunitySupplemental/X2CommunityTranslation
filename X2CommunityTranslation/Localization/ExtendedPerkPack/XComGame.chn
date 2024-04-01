@@ -1,0 +1,730 @@
+[F_ChipAway X2AbilityTemplate]
+LocFriendlyName="凿甲射击"
+LocFlyOverText="凿甲射击"
+LocLongDescription="用你的主武器开火，根据武器等级撕裂装甲。使用 <Ability:SelfAmmoCost/> 弹药。 <Ability:CHIPAWAY_COOLDOWN/> 回合冷却。"
+LocHelpText="用你的主武器开火，根据武器等级撕裂装甲。使用 <Ability:SelfAmmoCost/> 弹药。 <Ability:CHIPAWAY_COOLDOWN/> 回合冷却。"
+LocPromotionPopupText="<Bullet/> 用你的主武器开火，根据武器等级撕裂装甲。<br/><Bullet/> 常规武器撕裂 <Ability:CHIPAWAY_SHRED_CV/> 装甲。<br/><Bullet/> 激光武器撕裂 <Ability:CHIPAWAY_SHRED_LS/> 装甲。<br/><Bullet/> 磁性武器撕裂 <Ability:CHIPAWAY_SHRED_MG/> 装甲。<br/><Bullet/> 线圈武器撕裂 <Ability:CHIPAWAY_SHRED_CL/> 装甲。<br/><Bullet/> 光束武器撕裂 <Ability:CHIPAWAY_SHRED_BM/> 装甲。<br/><Bullet/> 消耗 <Ability:SelfAmmoCost/> 弹药。<br/><Bullet/> <Ability:CHIPAWAY_COOLDOWN/> 回合冷却。<br/>"
+
+[F_Concentration X2AbilityTemplate]
+LocFriendlyName="专注"
+LocFlyOverText="专注"
+LocLongDescription="你射击造成的擦伤会变为正常命中。"
+LocHelpText="你射击造成的擦伤会变为正常命中。"
+LocPromotionPopupText="<Bullet/> 射击造成的擦伤会变为正常命中。<br/><Bullet/> 适用于主武器，副武器和手枪。<br/>"
+
+[F_LikeLightning X2AbilityTemplate]
+LocFriendlyName="像闪电一样!"
+LocFlyOverText="像闪电一样!"
+LocLongDescription="当激活奔跑和枪战时，你的电弧投掷器冷却时间立即移除，而且你本回合的下一个电弧投掷器射击不消耗行动。被动。"
+LocHelpText="当激活奔跑和枪战时，你的电弧投掷器冷却时间立即移除，而且你本回合的下一个电弧投掷器射击不消耗行动。被动。"
+LocPromotionPopupText="<Bullet/> 当激活奔跑和枪战时，你的电弧投掷器冷却时间立即移除，而且你本回合的下一个电弧投掷器射击不消耗行动。<br/><Bullet/> 不适用于链式闪电。<br/><Bullet/> 被动。<br/>"
+
+[F_StationaryThreat X2AbilityTemplate]
+LocFriendlyName="静止威胁"
+LocFlyOverText="静止威胁"
+LocLongDescription="每有一回合没有进行移动，你的主武器攻击就增加+<Ability:STATIONARYTHREAT_DAMAGE_PER_TURN>伤害。被动。"
+LocHelpText="每有一回合没有进行移动，你的主武器就增加+<Ability:STATIONARYTHREAT_DAMAGE_PER_TURN>伤害。被动。"
+LocPromotionPopupText="<Bullet/> 每有一回合没有进行移动，你的主武器就增加+<Ability:STATIONARYTHREAT_DAMAGE_PER_TURN>伤害。<br/><Bullet/> 效果奖励可以叠加到 <Ability:STATIONARYTHREAT_DAMAGE_MAX_TURNS> 次。<br/><Bullet/> 被动。<br/>"
+
+[F_Opportunist X2AbilityTemplate]
+LocFriendlyName="机会主义者"
+LocFlyOverText="机会主义者"
+LocLongDescription="反应射击射击现在忽略一半的掩体奖励。被动。"
+LocHelpText="反应射击射击现在忽略一半的掩体奖励。被动。"
+LocPromotionPopupText="<Bullet/> 反应射击射击现在忽略一半的掩体奖励。<br/><Bullet/> 被动。<br/>"
+
+[F_Maim X2AbilityTemplate]
+LocFriendlyName="重伤"
+LocFlyOverText="重伤"
+LocLongDescription="用你的主武器开火，使目标在他们的下一个回合结束之前无法移动。使用 <Ability:MAIM_AMMO_COST/> 弹药。 <Ability:MAIM_COOLDOWN/> 回合冷却。"
+LocHelpText="用你的主武器开火，使目标在他们的下一个回合结束之前无法移动。使用 <Ability:MAIM_AMMO_COST/> 弹药。 <Ability:MAIM_COOLDOWN/> 回合冷却。"
+LocPromotionPopupText="<Bullet/> 用你的主武器开火，使目标在他们的下一个回合结束之前无法移动。<br/><Bullet/> 在伏击中隔离高价值目标非常有用。<br/><Bullet/> 使用 <Ability:MAIM_AMMO_COST/> 弹药。<br/><Bullet/> <Ability:MAIM_COOLDOWN/> 回合冷却。<br/>"
+
+[F_QuickPatch X2AbilityTemplate]
+LocFriendlyName="快速包扎"
+LocFlyOverText="快速包扎"
+LocLongDescription="使用医疗包不消耗行动。被动。"
+LocHelpText="使用医疗包不消耗行动。被动。"
+LocPromotionPopupText="<Bullet/> 使用医疗包不消耗行动。<br/><Bullet/> 被动。<br/>"
+
+[F_Preservation X2AbilityTemplate]
+LocFriendlyName="保护"
+LocFlyOverText="保护"
+LocLongDescription="当你的隐蔽性被破坏时，获得+<Ability:PRESERVATION_DEFENSE_BONUS>防御，持续<Ability:PRESERVATION_DURATION>回合。被动。"
+LocHelpText="当你的隐蔽性被破坏时，获得+<Ability:PRESERVATION_DEFENSE_BONUS>防御，持续<Ability:PRESERVATION_DURATION>回合。被动。"
+LocPromotionPopupText="<Bullet/> 当你的隐蔽性被破坏时，获得+<Ability:PRESERVATION_DEFENSE_BONUS>防御，持续<Ability:PRESERVATION_DURATION>回合。<br/><Bullet/> 被动。<br/>"
+
+[F_LickYourWounds X2AbilityTemplate]
+LocFriendlyName="重振旗鼓"
+LocFlyOverText="重振旗鼓"
+LocLongDescription="当使用蹲伏时，恢复<Ability:LICKYOURWOUNDS_HEALAMOUNT/>生命值，每次任务最多<Ability:LICKYOURWOUNDS_MAXHEALAMOUNT/>，并移除毒素，燃烧和酸性燃烧。被动。"
+LocHelpText="当使用蹲伏时，恢复<Ability:LICKYOURWOUNDS_HEALAMOUNT/>生命值，每次任务最多<Ability:LICKYOURWOUNDS_MAXHEALAMOUNT/>，并移除毒素，燃烧和酸性燃烧。被动。"
+LocPromotionPopupText="<Bullet/> 当使用蹲伏时，恢复<Ability:LICKYOURWOUNDS_HEALAMOUNT/>生命值，每次任务最多<Ability:LICKYOURWOUNDS_MAXHEALAMOUNT/>。<br/><Bullet/> 移除毒素，燃烧和酸性燃烧。<br/><Bullet/> 如果装备了弹道盾，那么当使用盾墙时，将激活生命恢复。<br/><Bullet/> 被动。<br/>"
+
+[F_Momentum X2AbilityTemplate]
+LocFriendlyName="势不可挡"
+LocFlyOverText="势不可挡"
+LocLongDescription="如果你在本回合移动过，获得<Ability:MOMENTUM_AIM_BONUS/>瞄准和<Ability:MOMENTUM_CRIT_BONUS/>暴击几率。"
+LocHelpText="如果你在本回合移动过，获得<Ability:MOMENTUM_AIM_BONUS/>瞄准和<Ability:MOMENTUM_CRIT_BONUS/>暴击几率。"
+LocPromotionPopupText="<Bullet/> 如果你在本回合移动过，获得<Ability:MOMENTUM_AIM_BONUS/>瞄准和<Ability:MOMENTUM_CRIT_BONUS/>暴击几率。<br/><Bullet/> 被动。<br/>"
+
+[F_ThousandsToGo X2AbilityTemplate]
+LocFriendlyName="数以千计"
+LocFlyOverText="数以千计"
+LocLongDescription="每回合一次，用你的主武器杀死敌人后，你可以进行额外的非移动行动。被动。"
+LocHelpText="每回合一次，用你的主武器杀死敌人后，你可以进行额外的非移动行动。被动。"
+LocPromotionPopupText="<Bullet/> 每回合一次，用你的主武器杀死敌人后，你可以进行额外的非移动行动。<br/><Bullet/> 杀死失落者时不会激活。<br/><Bullet/> 被动。<br/>"
+
+[F_Recharge X2AbilityTemplate]
+LocFriendlyName="充能"
+LocFlyOverText="充能"
+LocLongDescription="用你的主武器杀死敌人会减少所有能力的冷却时间<Ability:RECHARGE_COOLDOWN_AMOUNT/>。"
+LocHelpText="用你的主武器杀死敌人会减少所有能力的冷却时间<Ability:RECHARGE_COOLDOWN_AMOUNT/>。"
+LocPromotionPopupText="<Bullet/> 用你的主武器杀死敌人会减少所有能力的冷却时间<Ability:RECHARGE_COOLDOWN_AMOUNT/>。<br/><Bullet/> 没有冷却时间的能力不受影响。<br/><Bullet/> 被动。<br/>"
+
+[F_PierceTheVeil X2AbilityTemplate]
+LocFriendlyName="穿刺帷幕"
+LocFlyOverText="穿刺帷幕"
+LocLongDescription="激活能力，你的主武器对有机目标提供额外的瞄准、伤害和穿甲，同时增加你所有其他能力的冷却时间。"
+LocHelpText="激活能力，你的主武器对有机目标提供额外的瞄准、伤害和穿甲，同时增加你所有其他能力的冷却时间。"
+LocPromotionPopupText="<Bullet/> 激活能力，你的主武器对有机目标提供额外的瞄准、伤害和穿甲，同时增加你所有其他能力的冷却时间。<br/><Bullet/> <Ability:PIERCETHEVEIL_DAMAGE_BONUS/> 额外伤害。<br/><Bullet/> <Ability:PIERCETHEVEIL_AIM_BONUS/> 额外瞄准。<br/><Bullet/> <Ability:PIERCETHEVEIL_ARMOR_PIERCING/> 额外穿甲。<br/><Bullet/> <Ability:PIERCETHEVEIL_COOLDOWN/> 回合冷却。<br/><Bullet/> 增加所有其他能力的冷却时间<Ability:PIERCETHEVEIL_INCREASE_COOLDOWN_AMOUNT/>。<br/><Bullet/> 能力冷却时间不能超过其最大冷却时间。<br/><Bullet/> 奖励持续到你的下一个回合开始。<br/>"
+
+[F_TheBiggerTheyAre X2AbilityTemplate]
+LocFriendlyName="越大越好"
+LocFlyOverText="越大越好"
+LocLongDescription="对不能躲避的目标提供<Ability:THEBIGGERTHEYARE_AIM_BONUS/>额外瞄准。"
+LocHelpText="对不能躲避的目标提供<Ability:THEBIGGERTHEYARE_AIM_BONUS/>额外瞄准。"
+LocPromotionPopupText="<Bullet/> 对不能躲避的目标提供<Ability:THEBIGGERTHEYARE_AIM_BONUS/>额外瞄准。<br/><Bullet/> 敌人包括但不限于：Chryssalids，MECs和Berserkers。<br/><Bullet/> 被动。<br/>"
+
+[F_CallForFire X2AbilityTemplate]
+LocFriendlyName="开火！"
+LocFlyOverText="开火！"
+LocLongDescription="进入监视状态。你周围<Ability:CALLFORFIRE_RADIUS/>格半径内的所有盟友也进入监视状态。"
+LocHelpText="进入监视状态。你周围<Ability:CALLFORFIRE_RADIUS/>格半径内的所有盟友也进入监视状态。"
+LocPromotionPopupText="<Bullet/> 进入监视状态。你周围<Ability:CALLFORFIRE_RADIUS/>格半径内的所有盟友也进入监视状态。<br/><Bullet/> 需要一个行动点并结束用户的回合。<br/><Bullet/> 受此能力影响的盟友不会自动结束他们的回合。<br/><Bullet/> <Ability:CALLFORFIRE_COOLDOWN> 回合冷却。<br/>"
+
+[F_KillEmAll X2AbilityTemplate]
+LocFriendlyName="赶尽杀绝"
+LocFlyOverText="赶尽杀绝"
+LocLongDescription="对锥形区域内的每个敌人开火。需要视线才能向目标开火。消耗<Ability:KILLEMALL_AMMO_COST/>弹药。<Ability:KILLEMALL_COOLDOWN/>回合冷却。"
+LocHelpText="对锥形区域内的每个敌人开火。需要视线才能向目标开火。消耗<Ability:KILLEMALL_AMMO_COST/>弹药。<Ability:KILLEMALL_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 对锥形区域内的每个敌人开火。<br/><Bullet/> 需要视线才能向目标开火。<br/><Bullet/> 消耗<Ability:KILLEMALL_AMMO_COST/>弹药。<br/><Bullet/> <Ability:KILLEMALL_COOLDOWN/>回合冷却。<br/>"
+
+[F_SurgicalPrecision X2AbilityTemplate]
+LocFriendlyName="精准"
+LocFlyOverText="精准"
+LocLongDescription="将掩体带来的瞄准惩罚减半。不适用于反应射击。"
+LocHelpText="将掩体带来的瞄准惩罚减半。不适用于反应射击。"
+LocPromotionPopupText="<Bullet/> 将掩体带来的瞄准惩罚减半。<br/><Bullet/> 不适用于反应射击。<br/><Bullet/> 被动。<br/>"
+
+[F_LockNLoad X2AbilityTemplate]
+LocFriendlyName="金属狂潮"
+LocFlyOverText="金属狂潮"
+LocLongDescription="用你的主武器杀死敌人会恢复<Ability:LOCKNLOAD_AMMO_TO_RELOAD/>弹药。被动。"
+LocHelpText="用你的主武器杀死敌人会恢复<Ability:LOCKNLOAD_AMMO_TO_RELOAD/>弹药。被动。"
+LocPromotionPopupText="<Bullet/> 用你的主武器杀死敌人会恢复<Ability:LOCKNLOAD_AMMO_TO_RELOAD/>弹药。<br/><Bullet/> 被动。<br/>"
+
+[F_Imposition X2AbilityTemplate]
+LocFriendlyName="强加于人"
+LocFlyOverText="强加于人"
+LocLongDescription="用单位的主武器对敌人进行标准射击，会在下一回合修改目标的瞄准<Ability:IMPOSITION_AIM_PENALTY/>。"
+LocHelpText="用单位的主武器对敌人进行标准射击，会在下一回合修改目标的瞄准<Ability:IMPOSITION_AIM_PENALTY/>。"
+LocPromotionPopupText="<Bullet/> 用单位的主武器对敌人进行标准射击，会在下一回合修改目标的瞄准<Ability:IMPOSITION_AIM_PENALTY/>。<br/><Bullet/> 只适用于标准目标射击。<br/><Bullet/> 此能力的效果不会叠加。<br/><Bullet/> 被动。<br/>"
+
+[F_TrenchWarfare X2AbilityTemplate]
+LocFriendlyName="堑壕战"
+LocFlyOverText="堑壕战"
+LocLongDescription="如果你在你的回合中至少杀死一个敌人，那么在回合结束时自动蹲伏。"
+LocHelpText="如果你在你的回合中至少杀死一个敌人，那么在回合结束时自动蹲伏。"
+LocPromotionPopupText="<Bullet/> 如果你在你的回合中至少杀死一个敌人，那么在回合结束时自动蹲伏。<br/><Bullet/> 你只会在通常可以蹲伏的情况下蹲伏。<br/><Bullet/> 如果装备了弹道盾，那么你将使用盾墙代替。<br/><Bullet/> 被动。<br/>"
+
+[F_Compensation X2AbilityTemplate]
+LocFriendlyName="补偿"
+LocFlyOverText="补偿"
+LocLongDescription="用两个动作射击你的狙击步枪将退还其中一个动作。被动。"
+LocHelpText="用两个动作射击你的狙击步枪将退还其中一个动作。被动。"
+LocPromotionPopupText="<Bullet/> 用两个动作射击你的狙击步枪将退还其中一个动作。<br/><Bullet/> 每回合只能激活一次。<br/><Bullet/> 被动。<br/>"
+
+[F_SniperElite X2AbilityTemplate]
+LocFriendlyName="狙击精英"
+LocFlyOverText="狙击精英"
+LocLongDescription="移除狙击视线惩罚。被动。"
+LocHelpText="移除狙击视线惩罚。被动。"
+LocPromotionPopupText="<Bullet/> 移除狙击视线惩罚。被动。"
+
+[F_FirstStrike X2AbilityTemplate]
+LocFriendlyName="先发制人"
+LocLongDescription="你在隐蔽状态下对目标造成+<Ability:FIRSTSTRIKE_CONCEALED_DAMAGE_BONUS>伤害，而在侧翼攻击目标时造成+<Ability:FIRSTSTRIKE_FLANKING_DAMAGE_BONUS>伤害。被动。"
+LocHelpText=你在隐蔽状态下对目标造成+<Ability:FIRSTSTRIKE_CONCEALED_DAMAGE_BONUS>伤害，而在侧翼攻击目标时造成+<Ability:FIRSTSTRIKE_FLANKING_DAMAGE_BONUS>伤害。被动。"
+LocFlyOverText="先发制人"
+LocPromotionPopupText="<Bullet/> Surprise可以在伏击中一击杀死一个强大的敌人，从而提供决定性的优势。<br/><Bullet/> 必须由拥有Surprise的士兵发起伏击才能获得奖励。它不影响隐蔽的监视。"
+
+[F_DisablingShot X2AbilityTemplate]
+LocFriendlyName="失能射击"
+LocFlyOverText="失能射击"
+LocLongDescription="用你的主武器射击，如果命中，目标会被晕眩<Ability:DISABLINGSHOT_STUN_ACTIONS/>行动。不能暴击。使用<Ability:DISABLINGSHOT_AMMO_COST/>弹药。<Ability:DISABLINGSHOT_COOLDOWN/>回合冷却。"
+LocHelpText="用你的主武器射击，如果命中，目标会被晕眩<Ability:DISABLINGSHOT_STUN_ACTIONS/>行动。不能暴击。使用<Ability:DISABLINGSHOT_AMMO_COST/>弹药。<Ability:DISABLINGSHOT_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 用你的主武器射击，如果命中，目标会被晕眩<Ability:DISABLINGSHOT_STUN_ACTIONS/>行动。<br/><Bullet/> 不能暴击。<br/><Bullet/> 使用<Ability:DISABLINGSHOT_AMMO_COST/>弹药。<br/><Bullet/> <Ability:DISABLINGSHOT_COOLDOWN/>回合冷却。<br/>"
+
+[F_Blend X2AbilityTemplate]
+LocFriendlyName="融入环境"
+LocFlyOverText="融入环境"
+LocLongDescription="立即获得隐蔽性，该隐蔽性在<Ability:BLEND_TURNS_CONCEALED>回合后自动破裂。"
+LocHelpText="立即获得隐蔽性，该隐蔽性在<Ability:BLEND_TURNS_CONCEALED>回合后自动破裂。"
+LocPromotionPopupText="<Bullet/> 立即获得隐蔽性，该隐蔽性在<Ability:BLEND_TURNS_CONCEALED>回合后自动破裂。<br/><Bullet/> 这对于逃离危险的情况或者再次使用Surprise非常有用。<br/><Bullet/> 隐蔽性将在玩家的回合开始时破裂。<br/>"
+
+[F_Botnet X2AbilityTemplate]
+LocFriendlyName="僵尸网络"
+LocFlyOverText="僵尸网络"
+LocLongDescription="在激活状态下，所有盟友在下一回合之前的标准射击都会降低目标的侵入防御<Ability:BOTNET_HACK_DEFENSE_PENALTY>。<Ability:BOTNET_COOLDOWN>回合冷却。免费行动。"
+LocHelpText="在激活状态下，所有盟友在下一回合之前的标准射击都会降低目标的侵入防御<Ability:BOTNET_HACK_DEFENSE_PENALTY>。<Ability:BOTNET_COOLDOWN>回合冷却。免费行动。"
+LocPromotionPopupText="<Bullet/> 在激活状态下，所有盟友在下一回合之前的标准射击都会降低目标的侵入防御<Ability:BOTNET_HACK_DEFENSE_PENALTY>。<br/><Bullet/> <Ability:BOTNET_COOLDOWN>回合冷却。<br/><Bullet/> 免费行动。<br/>"
+
+[F_ReadyForAnything X2AbilityTemplate]
+LocFriendlyName="随时准备"
+LocLongDescription="当你用你的<Ability:WeaponName/>进行普通攻击时，你会自动进入监视状态。"
+LocHelpText="当你用你的<Ability:WeaponName/>进行普通攻击时，你会自动进入监视状态。"
+LocFlyOverText="随时准备"
+LocPromotionPopupText="<Bullet/> 你不会进入监视状态，如果你没有弹药。<br/>"
+
+[F_Resupply X2AbilityTemplate]
+LocFriendlyName="补给"
+LocFlyOverText="补给"
+LocLongDescription="补充所有盟友的主武器弹药。<Ability:RESUPPLY_CHARGES/>次任务充能。"
+LocHelpText="补充所有盟友的主武器弹药。<Ability:RESUPPLY_CHARGES/>次任务充能。"
+LocPromotionPopupText="<Bullet/> 补充所有盟友的主武器弹药。<br/><Bullet/> <Ability:RESUPPLY_CHARGES/>次任务充能。<br/>"
+
+[F_Immunize X2AbilityTemplate]
+LocFriendlyName="免疫"
+LocFlyOverText="免疫"
+LocLongDescription="你的小精灵飞向一个盟友，赋予他们在下一回合开始前对伤害的免疫。<Ability:IMMUNIZE_CHARGES/>次任务充能。"
+LocHelpText="你的小精灵飞向一个盟友，赋予他们在下一回合开始前对伤害的免疫。<Ability:IMMUNIZE_CHARGES/>次任务充能。"
+LocPromotionPopupText="<Bullet/> 你的小精灵飞向一个盟友，赋予他们在下一回合开始前对伤害的免疫。<br/><Bullet/> <Ability:IMMUNIZE_CHARGES/>次任务充能。<br/>"
+
+[F_Rush X2AbilityTemplate]
+LocFriendlyName="冲锋"
+LocFlyOverText="冲锋"
+LocLongDescription="向敌人冲去并用你的<Ability:SecondaryWeaponName/>攻击他们。只能进行单动作移动。消耗一个动作并且不会结束回合。"
+LocHelpText="向敌人冲去并用你的<Ability:SecondaryWeaponName/>攻击他们。只能进行单动作移动。消耗一个动作并且不会结束回合。"
+LocPromotionPopupText="<Bullet/> 向敌人冲去并用你的<Ability:SecondaryWeaponName/>刺他们。只能进行单动作移动。消耗一个动作并且不会结束回合。<br/>"
+
+[F_AmmoConservation X2AbilityTemplate]
+LocFriendlyName="节约弹药"
+LocFlyOverText="节约弹药"
+LocLongDescription="激活的能力，不消耗行动点。在本回合剩余时间内，你每次射击后都会退还你的弹药。<Ability:AMMOCONSERVATION_COOLDOWN/>回合冷却。"
+LocHelpText="激活的能力，不消耗行动点。在本回合剩余时间内，你每次射击后都会退还你的弹药。<Ability:AMMOCONSERVATION_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 激活的能力，不消耗行动点。在本回合剩余时间内，你每次射击后都会退还你的弹药。<br/><Bullet/> 射击和能力仍然需要你的武器中有所需数量的弹药。<br/><Bullet/> <Ability:AMMOCONSERVATION_COOLDOWN/>回合冷却。<br/>"
+
+[F_WellProtected X2AbilityTemplate]
+LocFriendlyName="防护良好"
+LocFlyOverText="防护良好"
+LocLongDescription="提供一个只能装甲衣的通用栏位。"
+LocHelpText="提供一个只能装甲衣的通用栏位。"
+LocPromotionPopupText="<Bullet/> 提供一个只能装甲衣的通用栏位。<br/>"
+
+[F_Dedication X2AbilityTemplate]
+LocFriendlyName="奉献"
+LocFlyOverText="奉献"
+LocLongDescription="免费行动。获得<Ability:DEDICATION_MOBILITY/>移动力，并在本回合剩余时间内忽略反应射击。<Ability:DEDICATION_COOLDOWN/>回合冷却。"
+LocHelpText="免费行动。获得<Ability:DEDICATION_MOBILITY/>移动力，并在本回合剩余时间内忽略反应射击。<Ability:DEDICATION_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 获得<Ability:DEDICATION_MOBILITY/>移动力，并在本回合剩余时间内忽略反应射击。<br/><Bullet/> 免费行动。<br/><Bullet/> <Ability:DEDICATION_COOLDOWN/>回合冷却。<br/>"
+
+[F_Triage X2AbilityTemplate]
+LocFriendlyName="分级护理"
+LocFlyOverText="分级护理"
+LocLongDescription="恢复用户和周围盟友的<Ability:TRIAGE_HEAL_AMOUNT>生命值。移除燃烧，酸性和毒素。<Ability:TRIAGE_CHARGES>次任务充能。"
+LocHelpText="恢复用户和周围盟友的<Ability:TRIAGE_HEAL_AMOUNT>生命值。移除燃烧，酸性和毒素。<Ability:TRIAGE_CHARGES>次任务充能。"
+LocPromotionPopupText="<Bullet/> 恢复用户和周围盟友的<Ability:TRIAGE_HEAL_AMOUNT>生命值。<br/><Bullet/> 移除燃烧，酸性和毒素。<br/><Bullet/> <Ability:TRIAGE_CHARGES>次任务充能。<br/>"
+
+[F_Steadfast X2AbilityTemplate]
+LocFriendlyName="坚定不移"
+LocFlyOverText="坚定不移"
+LocLongDescription="赋予免疫负面精神状态，包括恐慌，精神控制，晕眩和迷惑。"
+LocHelpText="赋予免疫负面精神状态，包括恐慌，精神控制，晕眩和迷惑。"
+LocPromotionPopupText="<Bullet/> 赋予免疫负面精神状态，包括恐慌，精神控制，晕眩和迷惑。<br/><Bullet/> 被动。<br/>"
+
+[F_Corpsman X2AbilityTemplate]
+LocFriendlyName="医疗兵"
+LocFlyOverText="医疗兵"
+LocLongDescription="提供一个免费的医疗包。"
+LocHelpText="提供一个免费的医疗包。"
+LocPromotionPopupText="<Bullet/> 提供一个免费的医疗包。<br/><Bullet/> 如果完成了必要的研究，将提供一个纳米医疗包。<br/>"
+
+[F_FieldMedic X2AbilityTemplate]
+LocFriendlyName="战地医生"
+LocLongDescription="装备的医疗包有<Ability:FIELDMEDIC_BONUS_ITEMS/>额外的使用次数。"
+LocHelpText="装备的医疗包有<Ability:FIELDMEDIC_BONUS_ITEMS/>额外的使用次数。"
+LocPromotionPopupText="<Bullet/> 适用于由Corpsman能力提供的医疗包。<br/><Bullet/> 适用于医疗包和纳米医疗包。<br/>"
+
+[F_Stimulate X2AbilityTemplate]
+LocFriendlyName="激励"
+LocFlyOverText="激励"
+LocLongDescription="每回合一次，你可以从相邻的盟友身上移除精神障碍。"
+LocHelpText="每回合一次，你可以从相邻的盟友身上移除精神障碍。"
+LocPromotionPopupText="<Bullet/> 移除迷惑、恐慌和昏迷。<br/>"
+
+[F_Bloodlet X2AbilityTemplate]
+LocFriendlyName="放血"
+LocLongDescription="你的主武器或手枪的标准射击现在会导致出血。"
+LocHelpText="你的主武器或手枪的标准射击现在会导致出血。"
+LocFlyOverText="放血"
+LocPromotionPopupText="<Bullet/> 你的主武器或手枪的标准射击现在会导致出血。<br/><Bullet/> 出血效果持续<Ability:BLOODLET_DURATION/>回合，每回合造成<Ability:BLOODLET_TICK_DAMAGE/>伤害。<br/>"
+
+[F_BlindingFire X2AbilityTemplate]
+LocFriendlyName="致盲射击"
+LocLongDescription="向锥形区域内的敌人开火。这次攻击不准确，有<Ability:BLINDINGFIRE_SOURCE_AIM_PENALTY/>的瞄准惩罚，但也减少了所有目标的瞄准<Ability:BLINDINGFIRE_TARGET_AIM_PENALTY/>。"
+LocHelpText="向锥形区域内的敌人开火。这次攻击不准确，有<Ability:BLINDINGFIRE_SOURCE_AIM_PENALTY/>的瞄准惩罚，但也减少了所有目标的瞄准<Ability:BLINDINGFIRE_TARGET_AIM_PENALTY/>。"
+LocFlyOverText="致盲射击"
+LocPromotionPopupText="<Bullet/> 即使攻击未命中目标，也会对目标施加瞄准惩罚。<br/>"
+
+[F_QuickFeet X2AbilityTemplate]
+LocFriendlyName="快足"
+LocFlyOverText="快足"
+LocLongDescription="当你通过自己的行动从隐蔽状态中显现时，退还一个行动点。"
+LocHelpText="当你通过自己的行动从隐蔽状态中显现时，退还一个行动点。"
+LocPromotionPopupText="<Bullet/> 当你通过自己的行动从隐蔽状态中显现时，退还一个行动点。<br/><Bullet/> 只适用于在你的回合中进行的行动。<br/><Bullet/> 不会在使用不消耗行动点的能力时激活。<br/>"
+
+[F_CombatDrugs X2AbilityTemplate]
+LocFriendlyName="战斗药物"
+LocLongDescription="你的烟雾弹中的快速作用刺激剂为烟雾云中的单位提供+<Ability:COMBATDRUGS_AIM>瞄准和+<Ability:COMBATDRUGS_CRIT>暴击几率。"
+LocHelpText="你的烟雾弹中的快速作用刺激剂为烟雾云中的单位提供+<Ability:COMBATDRUGS_AIM>瞄准和+<Ability:COMBATDRUGS_CRIT>暴击几率。"
+LocFlyOverText="战斗药物"
+LocPromotionPopupText="<Bullet/> 如果敌人进入烟雾，他们也可以从这个效果中受益。<br/>"
+
+[F_SaltInTheWound X2AbilityTemplate]
+LocFriendlyName="雪上加霜"
+LocFlyOverText="雪上加霜"
+LocLongDescription="所有攻击对受到毒素、燃烧、酸或出血影响的目标造成<Ability:SALTINTHEWOUND_DAMAGE_BONUS/>额外伤害。这包括这些效果的滴答伤害。"
+LocHelpText="所有攻击对受到毒素、燃烧、酸或出血影响的目标造成<Ability:SALTINTHEWOUND_DAMAGE_BONUS/>额外伤害。这包括这些效果的滴答伤害。"
+LocPromotionPopupText="<Bullet/> 所有攻击对受到毒素、燃烧、酸或出血影响的目标造成<Ability:SALTINTHEWOUND_DAMAGE_BONUS/>额外伤害。<br/><Bullet/> 适用于你造成的所有伤害来源。<br/><Bullet/> 如果此单位对目标施加了毒素、燃烧、酸或出血，那么这些效果的滴答伤害也会增加。<br/><Bullet/> 对受到多种这些效果影响的目标，伤害奖励不会叠加。<br/>"
+
+[F_Unload X2AbilityTemplate]
+LocFriendlyName="抹杀"
+LocFlyOverText="抹杀"
+LocLongDescription="用你的<Ability:WeaponName/>开火，直到没有弹药或目标死亡。射击不能暴击，每次射击的伤害都比标准射击少。<Ability:UNLOAD_COOLDOWN/>回合冷却。"
+LocHelpText="用单位的<Ability:WeaponName/>开火，直到没有弹药或目标死亡。射击不能暴击，每次射击的伤害都比标准射击少。<Ability:UNLOAD_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 用单位的<Ability:WeaponName/>开火，直到没有弹药或目标死亡。<br/><Bullet/> 射击不能暴击。<br/><Bullet/> 每次射击的伤害都比标准射击少<Ability:UNLOAD_DAMAGE_PERCENT_MALUS/>%。<br/><Bullet/> <Ability:UNLOAD_COOLDOWN/>回合冷却。<br/>"
+
+[F_Unload2 X2AbilityTemplate]
+LocFriendlyName="抹杀"
+LocFlyOverText="抹杀"
+LocLongDescription="用你的主武器开火，直到没有弹药或目标死亡。射击不能暴击，每次射击的伤害都比标准射击少。<Ability:UNLOAD_COOLDOWN/>回合冷却。"
+LocHelpText="用单位的主武器开火，直到没有弹药或目标死亡。射击不能暴击，每次射击的伤害都比标准射击少。<Ability:UNLOAD_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 用单位的主武器开火，直到没有弹药或目标死亡。<br/><Bullet/> 射击不能暴击。<br/><Bullet/> 每次射击的伤害都比标准射击少<Ability:UNLOAD_DAMAGE_PERCENT_MALUS/>%。<br/><Bullet/> <Ability:UNLOAD_COOLDOWN/>回合冷却。<br/>"
+
+[F_UnloadDamage X2AbilityTemplate]
+LocFriendlyName="抹杀"
+LocFlyOverText="抹杀"
+LocLongDescription="用你的主武器开火，直到没有弹药或目标死亡。射击不能暴击，每次射击的伤害都比标准射击少。<Ability:UNLOAD_COOLDOWN/>回合冷却。"
+LocHelpText="用你的主武器开火，直到没有弹药或目标死亡。射击不能暴击，每次射击的伤害都比标准射击少。<Ability:UNLOAD_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 用你的主武器开火，直到没有弹药或目标死亡。<br/><Bullet/> 射击不能暴击。<br/><Bullet/> 每次射击的伤害都比标准射击少<Ability:UNLOAD_DAMAGE_PERCENT_MALUS/>%。<br/><Bullet/> <Ability:UNLOAD_COOLDOWN/>回合冷却。<br/>"
+
+[F_Ambush X2AbilityTemplate]
+LocFriendlyName="伏击"
+LocFlyOverText="伏击"
+LocLongDescription="对在火力覆盖范围内移动或攻击的任何敌人进行反应射击。只能在隐蔽状态下使用。"
+LocHelpText="对在火力覆盖范围内移动或攻击的任何敌人进行反应射击。只能在隐蔽状态下使用。"
+LocPromotionPopupText="<Bullet/> 除弹药数量外，<Ability:ClassName/>可以进行无限次的伏击射击。<br/><Bullet/> 当整个小队都处于隐蔽状态时，最好在敌人的回合开始战斗。<br/><Bullet/> <Ability:AMBUSH_COOLDOWN/>回合冷却。<br/>"
+
+[F_Renewal X2AbilityTemplate]
+LocFriendlyName="恢复"
+LocFlyOverText="恢复"
+LocLongDescription="在每个回合开始时，恢复你自己和你周围的所有盟友的生命值。"
+LocHelpText="在每个回合开始时，恢复你自己和你周围的所有盟友的生命值。"
+LocPromotionPopupText="<Bullet/> 在每个回合开始时，恢复你自己和你周围的所有盟友的生命值。<br/><Bullet/> 恢复<Ability:RENEWAL_HEALAMOUNT/>生命值。<br/><Bullet/> 在一次任务中，每个目标最多不能恢复超过<Ability:RENEWAL_MAXHEALAMOUNT/>的生命值。<br/><Bullet/> 影响用户和在<Ability:RENEWAL_RADIUS/>格半径内的盟友。<br/><Bullet/> 被动。<br/>"
+
+[F_WarningShot X2AbilityTemplate]
+LocFriendlyName="警告射击"
+LocFlyOverText="警告射击"
+LocLongDescription="用你的主武器射击目标的头顶，使他们恐慌。此攻击不造成伤害。使用<Ability:SelfAmmoCost/>弹药。<Ability:WARNINGSHOT_CHARGES/>次任务使用。"
+LocHelpText="用你的主武器射击目标的头顶，使他们恐慌。此攻击不造成伤害。使用<Ability:SelfAmmoCost/>弹药。<Ability:WARNINGSHOT_CHARGES/>次任务使用。"
+LocPromotionPopupText="<Bullet/> 用你的主武器射击目标的头顶，使他们恐慌。此攻击不造成伤害。<br/><Bullet/> 使用<Ability:SelfAmmoCost/>弹药。<br/><Bullet/> <Ability:WARNINGSHOT_CHARGES/>次任务使用。<br/>"
+
+[F_OpenFire X2AbilityTemplate]
+LocFriendlyName="开火"
+LocFlyOverText="开火"
+LocLongDescription="对满血的目标获得<Ability:+ToHit/>瞄准和<Ability:+Crit/>暴击几率。"
+LocHelpText="对满血的目标获得<Ability:+ToHit/>瞄准和<Ability:+Crit/>暴击几率。"
+LocPromotionPopupText="<Bullet/> 对满血的目标获得<Ability:+ToHit/>瞄准和<Ability:+Crit/>暴击几率。<br/><Bullet/> 被动。<br/>"
+
+[F_Havoc X2AbilityTemplate]
+LocFriendlyName="毁灭"
+LocFlyOverText="毁灭"
+LocLongDescription="你的压制和区域压制能力现在对主要目标造成保证伤害。"
+LocHelpText="你的压制和区域压制能力现在对主要目标造成保证伤害。"
+LocPromotionPopupText="<Bullet/> 你的压制和区域压制能力现在对主要目标造成保证伤害。<br/><Bullet/> 伤害根据使用的武器的技术水平增加。</br>"
+
+[F_Finesse X2AbilityTemplate]
+LocFriendlyName="灵巧"
+LocFlyOverText="灵巧"
+LocLongDescription="你每回合的第一次近战攻击将退还其行动点。被动。"
+LocHelpText="你每回合的第一次近战攻击将退还其行动点。被动。"
+LocPromotionPopupText="<Bullet/> 你每回合的第一次近战攻击将退还其行动点。<br/><Bullet/> 被动。<br/>"
+
+[F_ShoulderToLeanOn X2AbilityTemplate]
+LocFriendlyName="坚韧支撑"
+LocFlyOverText="坚韧支撑"
+LocLongDescription="在<Ability:SHOULDERTOLEANON_RADIUS/>格内的盟友获得+<Ability:SHOULDERTOLEANON_AIM_BONUS/>额外瞄准。当盾墙效果生效时，这个奖励增加到+<Ability:SHOULDERTOLEANON_AIM_BONUS_WITH_SHIELDWALL/>瞄准。被动。"
+LocHelpText="在<Ability:SHOULDERTOLEANON_RADIUS/>格内的盟友获得+<Ability:SHOULDERTOLEANON_AIM_BONUS/>额外瞄准。当盾墙效果生效时，这个奖励增加到+<Ability:SHOULDERTOLEANON_AIM_BONUS_WITH_SHIELDWALL/>瞄准。被动。"
+LocPromotionPopupText="<Bullet/> 在<Ability:SHOULDERTOLEANON_RADIUS/>格内的盟友获得+<Ability:SHOULDERTOLEANON_AIM_BONUS/>额外瞄准。<br/><Bullet/> 当盾墙效果生效时，这个奖励增加到+<Ability:SHOULDERTOLEANON_AIM_BONUS_WITH_SHIELDWALL/>瞄准。<br/><Bullet/> 被动。<br/>"
+
+[F_ShoulderToLeanOn_Passive X2AbilityTemplate]
+LocFriendlyName="坚韧支撑"
+LocFlyOverText="坚韧支撑"
+LocLongDescription="在<Ability:SHOULDERTOLEANON_RADIUS/>格内的盟友获得+<Ability:SHOULDERTOLEANON_AIM_BONUS/>额外瞄准。当盾墙效果生效时，这个奖励增加到+<Ability:SHOULDERTOLEANON_AIM_BONUS_WITH_SHIELDWALL/>瞄准。被动。"
+LocHelpText="在<Ability:SHOULDERTOLEANON_RADIUS/>格内的盟友获得+<Ability:SHOULDERTOLEANON_AIM_BONUS/>额外瞄准。当盾墙效果生效时，这个奖励增加到+<Ability:SHOULDERTOLEANON_AIM_BONUS_WITH_SHIELDWALL/>瞄准。被动。"
+LocPromotionPopupText="<Bullet/> 在<Ability:SHOULDERTOLEANON_RADIUS/>格内的盟友获得+<Ability:SHOULDERTOLEANON_AIM_BONUS/>额外瞄准。<br/><Bullet/> 当盾墙效果生效时，这个奖励增加到+<Ability:SHOULDERTOLEANON_AIM_BONUS_WITH_SHIELDWALL/>瞄准。<br/><Bullet/> 被动。<br/>"
+
+[F_BolsteredWall X2AbilityTemplate]
+LocFriendlyName="壁垒"
+LocFlyOverText="壁垒"
+LocLongDescription="当盾墙效果生效时，获得+<Ability:BOLSTEREDWALL_DODGE_BONUS/>额外闪避。被动。"
+LocHelpText="当盾墙效果生效时，获得+<Ability:BOLSTEREDWALL_DODGE_BONUS/>额外闪避。被动。"
+LocPromotionPopupText="<Bullet/> 当盾墙效果生效时，获得+<Ability:BOLSTEREDWALL_DODGE_BONUS/>额外闪避。<br/><Bullet/> 被动。<br/>"
+
+[F_ProtectAndServe X2AbilityTemplate]
+LocFriendlyName="保护服务"
+LocFlyOverText="保护服务"
+LocLongDescription="使用盾墙后获得一个非移动行动点。"
+LocHelpText="使用盾墙后获得一个非移动行动点。"
+LocPromotionPopupText="<Bullet/> 使用盾墙后获得一个非移动行动点。<br/><Bullet/> 被动。<br/>"
+
+[F_FaultlessDefense X2AbilityTemplate]
+LocFriendlyName="无懈可击"
+LocFlyOverText="无懈可击"
+LocLongDescription="当盾墙处于活动状态时，你不能被暴击。"
+LocHelpText="当盾墙处于活动状态时，你不能被暴击。"
+LocPromotionPopupText="<Bullet/> 当盾墙处于活动状态时，你不能被暴击。<br/><Bullet/> 被动。<br/>"
+
+[F_Adrenaline X2AbilityTemplate]
+LocFriendlyName="肾上腺素"
+LocFlyOverText="肾上腺素"
+LocLongDescription="每当杀死一个敌人，你获得<Ability:ADRENALINE_SHIELD/>盾。被动。"
+LocHelpText="每当杀死一个敌人，你获得<Ability:ADRENALINE_SHIELD/>盾。被动。"
+LocPromotionPopupText="<Bullet/> 每当杀死一个敌人，你获得<Ability:ADRENALINE_SHIELD/>盾。<br/><Bullet/> 可以在每次任务中激活<Ability:ADRENALINE_ACTIVATIONS_PER_MISSION/>次。<br/><Bullet/> 杀死失落者时不会激活。<br/><Bullet/> 被动。<br/>"
+
+[F_WatchThemRun X2AbilityTemplate]
+LocFriendlyName="看他们跑"
+LocFlyOverText="看他们跑"
+LocLongDescription="扔出或发射榴弹后，你将自动进入监视状态。被动。"
+LocHelpText="扔出或发射榴弹后，你将自动进入监视状态。被动。"
+LocPromotionPopupText="<Bullet/> 扔出或发射榴弹后，你将自动进入监视状态。<br/><Bullet/> 被动。<br/>"
+
+[F_CoverArea X2AbilityTemplate]
+LocFriendlyName="覆盖区域"
+LocFlyOverText="覆盖区域"
+LocLongDescription="在<Ability:COVERAREA_RADIUS/>格内的盟友受到的爆炸伤害减半。被动。"
+LocHelpText="在<Ability:COVERAREA_RADIUS/>格内的盟友受到的爆炸伤害减半。被动。"
+LocPromotionPopupText="<Bullet/> 在<Ability:COVERAREA_RADIUS/>格内的盟友受到的爆炸伤害减半。<br/><Bullet/> 被动。<br/>"
+
+[F_CoverArea_Passive X2AbilityTemplate]
+LocFriendlyName="覆盖区域"
+LocFlyOverText="覆盖区域"
+LocLongDescription="你自己和在<Ability:COVERAREA_RADIUS/>格内的盟友受到的爆炸伤害减半。被动。"
+LocHelpText="你自己和在<Ability:COVERAREA_RADIUS/>格内的盟友受到的爆炸伤害减半。被动。"
+LocPromotionPopupText="<Bullet/> 你自己和在<Ability:COVERAREA_RADIUS/>格内的盟友受到的爆炸伤害减半。<br/><Bullet/> 被动。<br/>"
+
+[F_Rally X2AbilityTemplate]
+LocFriendlyName="集结"
+LocFlyOverText="集结"
+LocLongDescription="鼓舞在<Ability:RALLY_RADIUS/>格半径内的所有盟友的决心，给你自己和他们提供额外的盾牌。"
+LocHelpText="鼓舞在<Ability:RALLY_RADIUS/>格半径内的所有盟友的决心，给你自己和他们提供额外的盾牌。"
+LocPromotionPopupText="<Bullet/> 影响用户和在<Ability:RALLY_RADIUS/>格半径内的盟友。<br/><Bullet/> 当装备有常规弹道盾时，提供<Ability:RALLY_SHIELD_CV/>盾。<br/><Bullet/> 当装备有磁性弹道盾时，提供<Ability:RALLY_SHIELD_MG/>盾。<br/><Bullet/> 当装备有光束弹道盾时，提供<Ability:RALLY_SHIELD_BM/>盾。<br/><Bullet/> 每次任务只能使用一次。<br/>"
+
+[F_ShieldTrauma X2AbilityTemplate]
+LocFriendlyName="盾击"
+LocFlyOverText="盾击"
+LocLongDescription="用你的盾牌进行近战攻击，使你的对手失去方向并晕眩1个行动。"
+LocHelpText="用你的盾牌进行近战攻击。"
+LocPromotionPopupText="<Bullet/> 升级到盾牌猛击能力。<br/>"
+
+[F_Avenger X2AbilityTemplate]
+LocFriendlyName="复仇者"
+LocFlyOverText="复仇者"
+LocLongDescription="当在<Ability:AVENGER_RADIUS/>格内的盟友被射击时，你会自动对射击者进行<Ability:WeaponName/>射击。"
+LocHelpText="当在<Ability:AVENGER_RADIUS/>格内的盟友被射击时，你会自动对射击者进行<Ability:WeaponName/>射击。"
+LocPromotionPopupText="<Bullet/> 如果此单位被射击，复仇者不会激活。<br/><Bullet/> 只能在敌人的回合中激活。<br/><Bullet/> 被动。<br/>"
+
+[F_FireFirst X2AbilityTemplate]
+LocFriendlyName="先手开火"
+LocFlyOverText="先手开火"
+LocLongDescription="当敌人试图向你射击时，你会先行对他们进行<Ability:WeaponName/>射击。"
+LocHelpText="当敌人试图向你射击时，你会先行对他们进行<Ability:WeaponName/>射击。"
+LocPromotionPopupText="<Bullet/> 只能在敌人的回合中激活。<br/><Bullet/> 被动。<br/>"
+
+[F_Flatline X2AbilityTemplate]
+LocFriendlyName="平直射击"
+LocFlyOverText="平直射击"
+LocLongDescription="用你的主武器射击，造成+<Ability:FLATLINE_DAMAGE_BONUS>伤害并应用破裂。使用<Ability:SelfAmmoCost/>弹药。<Ability:FLATLINE_COOLDOWN/>回合冷却。"
+LocHelpText="用你的主武器射击，造成+<Ability:FLATLINE_DAMAGE_BONUS>伤害并应用破裂。使用<Ability:SelfAmmoCost/>弹药。<Ability:FLATLINE_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 用你的主武器射击，造成+<Ability:FLATLINE_DAMAGE_BONUS>伤害并应用破裂。<br/><Bullet/> 使用<Ability:SelfAmmoCost/>弹药。<br/><Bullet/> <Ability:FLATLINE_COOLDOWN/>回合冷却。<br/>"
+
+[F_ColdBlooded X2AbilityTemplate]
+LocFriendlyName="冷血"
+LocFlyOverText="冷血"
+LocLongDescription="你对受到出血、毒素、燃烧或酸性燃烧影响的敌人进行的第一次标准射击不消耗行动。"
+LocHelpText="你对受到出血、毒素、燃烧或酸性燃烧影响的敌人进行的第一次标准射击不消耗行动。"
+LocPromotionPopupText="<Bullet/> 你对受到出血、毒素、燃烧或酸性燃烧影响的敌人进行的第一次标准射击不消耗行动。<br/><Bullet/> 如果你的标准射击造成了目标的唯一状态疾病，行动不会被退还。<br/><Bullet/> 每回合只能激活一次。<br/>"
+
+[F_Predator X2AbilityTemplate]
+LocFriendlyName="捕食者"
+LocFlyOverText="捕食者"
+LocLongDescription="对被侧面攻击或没有掩体的敌人获得<Ability:PREDATOR_AIM_BONUS/>额外瞄准和<Ability:PREDATOR_CRIT_BONUS/>额外暴击几率。被动。"
+LocHelpText="对被侧面攻击或没有掩体的敌人获得<Ability:PREDATOR_AIM_BONUS/>额外瞄准和<Ability:PREDATOR_CRIT_BONUS/>额外暴击几率。被动。"
+LocPromotionPopupText="<Bullet/> 对被侧面攻击或没有掩体的敌人获得<Ability:PREDATOR_AIM_BONUS/>额外瞄准和<Ability:PREDATOR_CRIT_BONUS/>额外暴击几率。<br/><Bullet/> 被动。<br/>"
+
+[F_Survivor X2AbilityTemplate]
+LocFriendlyName="幸存者"
+LocFlyOverText="幸存者"
+LocLongDescription="确保任务中的第一次致命打击不会导致立即死亡。同时减少这个士兵的伤口恢复时间。"
+LocHelpText="确保任务中的第一次致命打击不会导致立即死亡。同时减少这个士兵的伤口恢复时间。"
+LocPromotionPopupText="<Bullet/> 使每次任务的出血检查的第一次都自动成功。<br/><Bullet/> 减少士兵在战斗中受伤后需要恢复的生命值1点。<br/><Bullet/> 如果这个士兵受到了致命伤并从出血中稳定下来，减少的伤口恢复不会触发。<br/>"
+
+[F_RegenerativeMist X2AbilityTemplate]
+LocFriendlyName="恢复烟雾"
+LocFlyOverText="恢复烟雾"
+LocLongDescription="在你的烟雾弹中添加恢复化学物质的痕迹，每回合开始时，治疗云中的所有单位<Ability:REGENERATIVEMIST_HEAL_PER_TURN/>生命值，只要他们仍在效果区域内。"
+LocHelpText="烟雾治疗。"
+LocPromotionPopupText="<Bullet/> 使每次任务的出血检查的第一次都自动成功。<br/><Bullet/> 如果敌人进入烟雾，他们也可以从这个效果中受益。<br/>"
+
+[F_ControlledFire X2AbilityTemplate]
+LocFriendlyName="控制火力"
+LocFlyOverText="控制火力"
+LocLongDescription="从区域压制中发射的额外射击不再消耗弹药。"
+LocHelpText="从区域压制中发射的额外射击不再消耗弹药。"
+LocPromotionPopupText="<Bullet/> 这只适用于反应射击；使用区域压制的成本没有改变。<br/><Bullet/> 被动。<br/>"
+
+[F_Stiletto X2AbilityTemplate]
+LocFriendlyName="穿刺射击"
+LocFlyOverText="穿刺射击"
+LocLongDescription="用你的<Ability:WeaponName/>射击，穿透<Ability:STILETTO_ARMOR_PIERCING/>护甲。"
+LocHelpText="用你的<Ability:WeaponName/>射击，穿透<Ability:STILETTO_ARMOR_PIERCING/>护甲。"
+LocPromotionPopupText="<Bullet/> 用你的<Ability:WeaponName/>射击，穿透<Ability:STILETTO_ARMOR_PIERCING/>护甲。<br/><Bullet/> 被动。<br/>"
+
+[F_StayCovered X2AbilityTemplate]
+LocFriendlyName="保持掩护"
+LocFlyOverText="保持掩护"
+LocLongDescription="移除盾墙的防御惩罚。"
+LocHelpText="移除盾墙的防御惩罚。"
+LocPromotionPopupText="<Bullet/> 移除盾墙的防御惩罚。<br/>"
+
+[F_Indomitable X2AbilityTemplate]
+LocFriendlyName="不可触碰"
+LocFlyOverText="不可触碰"
+LocLongDescription="每次任务中，你可以变得无法触及，直到你的下一个回合开始。"
+LocHelpText="每次任务中，你可以变得无法触及，直到你的下一个回合开始。"
+LocPromotionPopupText="<Bullet/> 当处于活动状态时，你不会受到任何伤害。<br/><Bullet/> 消耗一个行动点，如果作为第一个行动使用，不会结束回合。<br/>"
+
+[F_PerfectGuard X2AbilityTemplate]
+LocFriendlyName="完美防御"
+LocFlyOverText="完美防御"
+LocLongDescription="当盾墙效果生效时，获得+<Ability:PERFECTGUARD_ARMOR_BONUS/>额外护甲。"
+LocHelpText="当盾墙效果生效时，获得+<Ability:PERFECTGUARD_ARMOR_BONUS/>额外闪避。"
+LocPromotionPopupText="<Bullet/> 当盾墙效果生效时，获得+<Ability:PERFECTGUARD_ARMOR_BONUS/>额外闪避。<br/>"
+
+[F_ShieldRegeneration X2AbilityTemplate]
+LocFriendlyName="护盾再生"
+LocFlyOverText="护盾再生"
+LocLongDescription="如果你当前的盾牌低于<Ability:SHIELDREGENERATION_SHIELD_MAX/>，则在每个回合开始时获得<Ability:SHIELDREGENERATION_SHIELD/>盾牌。"
+LocHelpText="如果你当前的盾牌低于<Ability:SHIELDREGENERATION_SHIELD_MAX/>，则在每个回合开始时获得<Ability:SHIELDREGENERATION_SHIELD/>盾牌。"
+LocPromotionPopupText="如果你当前的盾牌低于<Ability:SHIELDREGENERATION_SHIELD_MAX/>，则在每个回合开始时获得<Ability:SHIELDREGENERATION_SHIELD/>盾牌。<br/><Bullet/> 被动。<br/>"
+
+[F_CalmMind X2AbilityTemplate]
+LocFriendlyName="冷静"
+LocFlyOverText="冷静"
+LocLongDescription="永久性地获得+<Ability:CALMMIND_PSI/>精神攻击和+<Ability:CALMMIND_WILL/>意志。"
+LocHelpText="永久性地获得+<Ability:CALMMIND_PSI/>精神攻击和+<Ability:CALMMIND_WILL/>意志。"
+LocPromotionPopupText="永久性地获得+<Ability:CALMMIND_PSI/>精神攻击和+<Ability:CALMMIND_WILL/>意志。<br/><Bullet/> 被动。<br/>"
+
+[F_SuppressingFire X2AbilityTemplate]
+LocFriendlyName="压制火力"
+LocFlyOverText="压制火力"
+LocLongDescription="进行标准射击。如果射击没有杀死目标，那么压制他们。"
+LocHelpText="进行标准射击。如果射击没有杀死目标，那么压制他们。"
+LocPromotionPopupText="<Bullet/> 每回合只能使用一次。<br/><Bullet/> 压制后续能力具有与独立压制能力相同的属性。<br/>"
+
+[F_PutEmDown X2AbilityTemplate]
+LocFriendlyName="放倒他们"
+LocFlyOverText="放倒他们"
+LocLongDescription="对被晕眩、迷惑、眩晕或恐慌的目标获得+<Ability:PUTEMDOWN_AIM/>瞄准。"
+LocHelpText="对被晕眩、迷惑、眩晕或恐慌的目标获得+<Ability:PUTEMDOWN_AIM/>瞄准。"
+LocPromotionPopupText="<Bullet/> 对被晕眩、迷惑、眩晕或恐慌的目标获得+<Ability:PUTEMDOWN_AIM/>瞄准。<br/><Bullet/> 被动。<br/>"
+
+[F_WillToSurvive X2AbilityTemplate]
+LocFriendlyName="生存意愿"
+LocFlyOverText="生存意愿"
+LocLongDescription="获得+<Ability:WILLTOSURVIVE_ARMOR/>护甲和+<Ability:WILLTOSURVIVE_DODGE/>闪避。"
+LocHelpText="获得+<Ability:WILLTOSURVIVE_ARMOR/>护甲和+<Ability:WILLTOSURVIVE_DODGE/>闪避。"
+LocPromotionPopupText="<Bullet/> 获得+<Ability:WILLTOSURVIVE_ARMOR/>护甲和+<Ability:WILLTOSURVIVE_DODGE/>闪避。<br/><Bullet/> 被动。<br/>"
+
+[F_WatchfulEye X2AbilityTemplate]
+LocFriendlyName="警惕之眼"
+LocFlyOverText="警惕之眼"
+LocLongDescription="当你标记的任何目标移动或攻击时，你会得到一个免费的监视射击。"
+LocHelpText="当你标记的任何目标移动或攻击时，你会得到一个免费的监视射击。"
+LocPromotionPopupText="<Bullet/> 当你标记的任何目标移动或攻击时，你会得到一个免费的监视射击。<br/><Bullet/> 只适用于士兵自己标记的目标。<br/><Bullet/> 每回合可以在每个被标记的敌人身上激活一次。<br/>"
+
+[F_Guard X2AbilityTemplate]
+LocFriendlyName="格挡"
+LocFlyOverText="格挡"
+LocLongDescription="阻挡对你的下一次攻击，抵消所有伤害和效果。<Ability:GUARD_COOLDOWN/>回合冷却。"
+LocHelpText="阻挡对你的下一次攻击，抵消所有伤害和效果。<Ability:GUARD_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 阻挡对你的下一次攻击，抵消所有伤害和效果。<br/><Bullet/> 适用于远程和近战攻击，但不适用于反应射击。<br/><Bullet/> <Ability:GUARD_COOLDOWN/>回合冷却。<br/>"
+
+[F_Guard_Activate X2AbilityTemplate]
+LocFriendlyName="格挡"
+LocFlyOverText="格挡"
+LocLongDescription="阻挡对你的下一次攻击，抵消所有伤害和效果。<Ability:GUARD_COOLDOWN/>回合冷却。"
+LocHelpText="阻挡对你的下一次攻击，抵消所有伤害和效果。<Ability:GUARD_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 阻挡对你的下一次攻击，抵消所有伤害和效果。<br/><Bullet/> 适用于远程和近战攻击，但不适用于反应射击。<br/><Bullet/> <Ability:GUARD_COOLDOWN/>回合冷却。<br/>"
+
+[F_Safeguard X2AbilityTemplate]
+LocFriendlyName="保护"
+LocFlyOverText="保护"
+LocLongDescription="在<Ability:SAFEGUARD_RADIUS/>格内的盟友受到的射击有<Ability:SAFEGUARD_AIM_MODIFIER/>瞄准。当盾墙效果生效时，惩罚增加到<Ability:SAFEGUARD_AIM_MODIFIER_WITH_SHIELDWALL/>。被动。"
+LocHelpText="在<Ability:SAFEGUARD_RADIUS/>格内的盟友受到的射击有<Ability:SAFEGUARD_AIM_MODIFIER/>瞄准。当盾墙效果生效时，惩罚增加到<Ability:SAFEGUARD_AIM_MODIFIER_WITH_SHIELDWALL/>。被动。"
+LocPromotionPopupText="<Bullet/> 在<Ability:SAFEGUARD_RADIUS/>格内的盟友受到的射击有<Ability:SAFEGUARD_AIM_MODIFIER/>瞄准。<br/><Bullet/> 当盾墙效果生效时，惩罚增加到<Ability:SAFEGUARD_AIM_MODIFIER_WITH_SHIELDWALL/>。<br/><Bullet/> 被动。<br/>"
+
+[F_Safeguard_Passive X2AbilityTemplate]
+LocFriendlyName="保护"
+LocFlyOverText="保护"
+LocLongDescription="在<Ability:SAFEGUARD_RADIUS/>格内的盟友受到的射击有<Ability:SAFEGUARD_AIM_MODIFIER/>瞄准。当盾墙效果生效时，惩罚增加到<Ability:SAFEGUARD_AIM_MODIFIER_WITH_SHIELDWALL/>。被动。"
+LocHelpText="在<Ability:SAFEGUARD_RADIUS/>格内的盟友受到的射击有<Ability:SAFEGUARD_AIM_MODIFIER/>瞄准。当盾墙效果生效时，惩罚增加到<Ability:SAFEGUARD_AIM_MODIFIER_WITH_SHIELDWALL/>。被动。"
+LocPromotionPopupText="<Bullet/> 在<Ability:SAFEGUARD_RADIUS/>格内的盟友受到的射击有<Ability:SAFEGUARD_AIM_MODIFIER/>瞄准。<br/><Bullet/> 当盾墙效果生效时，惩罚增加到<Ability:SAFEGUARD_AIM_MODIFIER_WITH_SHIELDWALL/>。<br/><Bullet/> 被动。<br/>"
+
+[F_TradeFire X2AbilityTemplate]
+LocFriendlyName="交火"
+LocFlyOverText="交火"
+LocLongDescription="在下一回合开始前，对采取敌对行动的任何敌人开火。你的射击没有反应惩罚。<Ability:TRADEFIRE_COOLDOWN/>回合冷却。"
+LocHelpText="在下一回合开始前，对采取敌对行动的任何敌人开火。你的射击没有反应惩罚。<Ability:TRADEFIRE_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 在下一回合开始前，对采取敌对行动的任何敌人开火。<br/><Bullet/> 你的射击没有反应惩罚。<br/><Bullet/> 你的射击在敌人的敌对行动之后进行。<br/><Bullet/> 使用后结束你的回合。<br/><Ability:TRADEFIRE_COOLDOWN/>回合冷却。"
+
+[F_TradeFire_Shot X2AbilityTemplate]
+LocFriendlyName="交火"
+LocFlyOverText="交火"
+LocLongDescription="在下一回合开始前，对采取敌对行动的任何敌人开火。你的射击没有反应惩罚。<Ability:TRADEFIRE_COOLDOWN/>回合冷却。"
+LocHelpText="在下一回合开始前，对采取敌对行动的任何敌人开火。你的射击没有反应惩罚。<Ability:TRADEFIRE_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 在下一回合开始前，对采取敌对行动的任何敌人开火。<br/><Bullet/> 你的射击没有反应惩罚。<br/><Bullet/> 你的射击在敌人的敌对行动之后进行。<br/><Bullet/> 使用后结束你的回合。<br/><Ability:TRADEFIRE_COOLDOWN/>回合冷却。"
+
+[F_Intimidate X2AbilityTemplate]
+LocFriendlyName="恐吓"
+LocLongDescription="当被攻击时，敌人有机会恐慌。"
+LocHelpText="当被攻击时，敌人有机会恐慌。"
+LocFlyOverText="恐吓"
+LocPromotionPopupText="<Bullet/> 恐吓使攻击者恐慌的机会随着弹道盾的等级提高。<br/><Bullet/> 恐吓可以被近战和范围效果攻击触发。<br/><Bullet/> 当被监视火力瞄准时，恐吓不会触发。<br/>"
+
+[F_IntimidateTrigger X2AbilityTemplate]
+LocFriendlyName="恐吓"
+LocLongDescription="当被攻击时，所有可见的敌人都有可能恐慌。"
+LocHelpText="当被攻击时，所有可见的敌人都有可能恐慌。"
+LocFlyOverText="恐吓"
+LocPromotionPopupText=""
+LocMissMessage="恐吓失败"
+
+[F_Rampart X2AbilityTemplate]
+LocFriendlyName="壁垒"
+LocFlyOverText="壁垒"
+LocLongDescription="激活的能力，减少用户和<Ability:RAMPART_RADIUS/>格内的盟友受到的所有伤害<Ability:RAMPART_DAMAGE_MODIFIER/>%。不消耗行动。<Ability:RAMPART_COOLDOWN/>回合冷却。"
+LocHelpText="激活的能力，减少用户和<Ability:RAMPART_RADIUS/>格内的盟友受到的所有伤害<Ability:RAMPART_DAMAGE_MODIFIER/>%。不消耗行动。<Ability:RAMPART_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 激活的能力，减少用户和<Ability:RAMPART_RADIUS/>格内的盟友受到的所有伤害<Ability:RAMPART_DAMAGE_MODIFIER/>%。<br/><Bullet/> 不消耗行动。<br/><Bullet/>盟友必须靠近用户才能获得奖励<br/><Bullet/> <Ability:RAMPART_COOLDOWN/>回合冷却。<br/>"
+
+[F_StrongBack X2AbilityTemplate]
+LocFriendlyName="强壮后背"
+LocFlyOverText="强壮后背"
+LocLongDescription="减少每个携带的通用项目的移动惩罚。被动。"
+LocHelpText="减少每个携带的通用项目的移动惩罚。被动。"
+LocPromotionPopupText="<Bullet/> 减少每个携带的通用项目的移动惩罚。</br><Bullet/> 适用于通用、榴弹和弹药插槽中的物品。</br><Bullet/> 被动。</br>"
+
+[F_CoordinateFire X2AbilityTemplate]
+LocFriendlyName="协同射击"
+LocFlyOverText="协同射击"
+LocLongDescription="向目标开火，然后指挥所有相邻的盟友向该目标开火。<Ability:COORDINATEFIRE_COOLDOWN/>回合冷却。"
+LocHelpText="向目标开火，然后指挥所有相邻的盟友向该目标开火。<Ability:COORDINATEFIRE_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 向目标开火，然后指挥所有相邻的盟友向该目标开火。<br/><Bullet/> <Ability:COORDINATEFIRE_COOLDOWN/>回合冷却。<br/><Bullet/> 盟友将用他们的主武器进行标准武器攻击。如果他们的主武器不是枪，或者他们没有弹药，那么后续攻击将不会发生。<br/>"
+
+[F_CoordinateFire_Passive X2AbilityTemplate]
+LocFriendlyName="协同射击被动"
+LocFlyOverText="协同射击被动"
+LocLongDescription="协同射击被动"
+LocHelpText="协同射击被动"
+LocPromotionPopupText="协同射击被动"
+
+[F_CoordinateFire_Followup X2AbilityTemplate]
+LocFriendlyName="协同射击后续"
+LocFlyOverText="协同射击后续"
+LocLongDescription="协同射击后续"
+LocHelpText="协同射击后续"
+LocPromotionPopupText="协同射击后续"
+
+[F_PackTactics X2AbilityTemplate]
+LocFriendlyName="群体战术"
+LocFlyOverText="群体战术"
+LocLongDescription="如果盾墙处于活动状态，那么所有相邻的盟友将在回合结束时进入监视状态。被动。"
+LocHelpText="如果盾墙处于活动状态，那么所有相邻的盟友将在回合结束时进入监视状态。被动。"
+LocPromotionPopupText="<Bullet/> 如果盾墙处于活动状态，那么所有相邻的盟友将在回合结束时进入监视状态。<br/><Bullet/> 被动。<br/>""
+
+[F_Parry X2AbilityTemplate]
+LocFriendlyName="招架"
+LocFlyOverText="招架"
+LocLongDescription="你可以招架近战攻击并用盾牌反击。"
+LocHelpText="你可以招架近战攻击并用盾牌反击。"
+LocPromotionPopupText="<Bullet/> 你很可能会招架回合中对你的第一次近战攻击，并用盾牌反击。<br/><Bullet/> 如果你有盾击能力，那么反击也会晕眩。"
+
+[F_Parry_Attack X2AbilityTemplate]
+LocFriendlyName="招架攻击"
+LocFlyOverText="招架攻击"
+LocLongDescription="你可以招架近战攻击并用盾牌反击。"
+LocHelpText="你可以招架近战攻击并用盾牌反击。"
+LocPromotionPopupText="<Bullet/> 你很可能会招架回合中对你的第一次近战攻击，并用盾牌反击。<br/><Bullet/> 如果你有盾击能力，那么反击也会晕眩。"
+
+[F_Parry_Preparation X2AbilityTemplate]
+LocFriendlyName="招架准备"
+LocFlyOverText="招架准备"
+LocLongDescription="你可以招架近战攻击并用盾牌反击。"
+LocHelpText="你可以招架近战攻击并用盾牌反击。"
+LocPromotionPopupText="<Bullet/> 你很可能会招架回合中对你的第一次近战攻击，并用盾牌反击。<br/><Bullet/> 如果你有盾击能力，那么反击也会晕眩。"
+
+[F_Parry_Counterattack X2AbilityTemplate]
+LocFriendlyName="招架反击"
+LocFlyOverText="招架反击"
+LocLongDescription="你可以招架近战攻击并用盾牌反击。"
+LocHelpText="你可以招架近战攻击并用盾牌反击。"
+LocPromotionPopupText="<Bullet/> 你很可能会招架回合中对你的第一次近战攻击，并用盾牌反击。<br/><Bullet/> 如果你有盾击能力，那么反击也会晕眩。"
+
+[F_MindBlast X2AbilityTemplate]
+LocFriendlyName="精神冲击"
+LocFlyOverText="精神冲击"
+LocLongDescription="造成少量伤害并使目标晕眩<Ability:MINDBLAST_STUN_ACTIONS/>行动。<Ability:MINDBLAST_COOLDOWN/>回合冷却。"
+LocHelpText="造成少量伤害并使目标晕眩<Ability:MINDBLAST_STUN_ACTIONS/>。<Ability:MINDBLAST_COOLDOWN/>回合冷却。"
+LocPromotionPopupText="<Bullet/> 伤害随装备的Psi Amp的技术水平增加。<br/><Bullet/> 使目标晕眩<Ability:MINDBLAST_STUN_ACTIONS/>行动。<br/><Bullet/> <Ability:MINDBLAST_COOLDOWN/>回合冷却。<br/><Bullet/> 保证命中，穿透护甲，忽略盾牌。<br/><Bullet/> 只能对有机目标使用。<br/>"
+
+[F_SensePanic X2AbilityTemplate]
+LocFriendlyName="心灵之眼"
+LocFlyOverText="心灵之眼"
+LocLongDescription="对受到精神障碍影响的目标的射击忽略一半的掩体奖励。"
+LocHelpText="对受到精神障碍影响的目标的射击忽略一半的掩体奖励。"
+LocPromotionPopupText="<Bullet/> 精神障碍包括晕眩、迷惑、眩晕和恐慌。<br/><Bullet/> 适用于直接武器射击和反应射击。"
+
+[F_OverExertion X2AbilityTemplate]
+LocFriendlyName="超负荷行动"
+LocFlyOverText="超负荷行动"
+LocLongDescription="立即获得一个额外的标准行动点。每回合只能使用一次。每次任务最多可以使用<Ability:OVEREXERTION_CHARGES/>次。"
+LocHelpText="立即获得一个额外的标准行动点。每回合只能使用一次。每次任务最多可以使用<Ability:OVEREXERTION_CHARGES/>次。"
+LocPromotionPopupText="<Bullet/> 立即获得一个额外的标准行动点。<br/><Bullet/> 每回合只能使用一次。<br/><Bullet/> 每次任务最多可以使用<Ability:OVEREXERTION_CHARGES/>次。<br/>"
+
+[F_RiotControl X2AbilityTemplate]
+LocFriendlyName="防暴控制"
+LocFlyOverText="防暴控制"
+LocLongDescription="赠送一个免费的闪光弹和烟雾弹。"
+LocHelpText="赠送一个免费的闪光弹和烟雾弹。"
+LocPromotionPopupText="<Bullet/> 赠送一个免费的闪光弹和烟雾弹。</br>"
+
+===
+
+[F_ShootAnyone X2AbilityTemplate]
+LocFriendlyName="随意开火"
+LocFlyOverText="随意开火"
+LocLongDescription="随意开火"
+LocHelpText="随意开火"
+LocPromotionPopupText="<Bullet/> 待定。<br/>"
+
