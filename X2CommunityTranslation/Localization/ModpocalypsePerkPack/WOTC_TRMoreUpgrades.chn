@@ -1,0 +1,29 @@
+[X2DownloadableContentInfo_WOTC_TRMoreUpgrades]
+
+VestTinySummary = "+背心奖励"
+UtilityTinySummary = "+实用工具奖励"
+GoodColor = "#3ABD23"
+BadColor = "#CA7200"
+strModule = "模块"
+strModules = "模块"
+
+[TRArmorUpgrade_RustyCloistaShield X2ArmorUpgradeTemplate]
+FriendlyName="防护模块"
+FriendlyNamePlural="防护模块"
+BriefSummary="为士兵和附近的盟友投射护盾。如果这个士兵被杀，护盾将会崩溃。这是一个免费动作，需要士兵有2AP（所以必须是第一个动作），并且有2次使用次数和5回合的冷却时间。"
+TinySummary="+实用工具奖励"
+LootTooltip="为士兵和附近的盟友投射护盾。如果这个士兵被杀，护盾将会崩溃。这是一个免费动作，需要士兵有2AP（所以必须是第一个动作），并且有2次使用次数和5回合的冷却时间。"
+
+[TRArmorUpgrade_MKPMrCloista X2ArmorUpgradeTemplate]
+FriendlyName="小型动能镀层"
+FriendlyNamePlural="小型动能镀层"
+BriefSummary="增加 <Ability:iMKP_ADDSHIELDBOOST/> Ablative。对这个单位的未命中射击会增加护盾 <Ability:iMKP_SHIELDSPERMISS/>。"
+TinySummary="+实用工具奖励"
+LootTooltip="增加 <Ability:iMKP_ADDSHIELDBOOST/> Ablative。对这个单位的未命中射击会增加护盾 <Ability:iMKP_SHIELDSPERMISS/>。"
+
+[TRArmorUpgrade_MRC_FreeBeacon X2ArmorUpgradeTemplate]
+FriendlyName="模拟信标模块"
+FriendlyNamePlural="模拟信标模块们"
+BriefSummary="提供一个模拟信标。"
+TinySummary="+实用工具奖励"
+LootTooltip="提供一个模拟信标。"
