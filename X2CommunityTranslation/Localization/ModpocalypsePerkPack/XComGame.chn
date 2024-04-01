@@ -1,0 +1,147 @@
+;将本地化文本放在此文件中
+
+[Mrc_FreeBeacon X2AbilityTemplate]
+LocFriendlyName="诱饵"
+LocLongDescription="提供一个免费的模拟信标。"
+LocHelpText="提供一个免费的模拟信标。"
+LocPromotionPopupText="提供一个免费的模拟信标。"
+
+[Mrc_HOLOFO X2AbilityTemplate]
+LocFriendlyName="大规模全息标靶"
+LocLongDescription="全息标记视野范围内的所有敌人，增加你的小队对这个目标的瞄准+5。不从其他全息标靶专家的奖励中获益。"
+LocHelpText="全息标记视野范围内的所有敌人，增加你的小队对这个目标的瞄准+<Ability:HOLOTARGETAIMBONUS/>。不从其他全息标靶专家的奖励中获益。"
+LocFlyOverText="全息面对面"
+LocPromotionPopupText="全息标记视野范围内的所有敌人。"
+
+[MKPMrCloista X2AbilityTemplate]
+LocFriendlyName="轻型动能镀层"
+LocLongDescription="增加 <Ability:iMKP_ADDSHIELDBOOST/> Ablative。对这个单位的未命中射击会增加护盾 <Ability:iMKP_SHIELDSPERMISS/>。"
+LocHelpText="增加 <Ability:iMKP_ADDSHIELDBOOST/> Ablative。对这个单位的未命中射击会增加护盾 <Ability:iMKP_SHIELDSPERMISS/>。"
+LocPromotionPopupText="增加 <Ability:iMKP_ADDSHIELDBOOST/> Ablative。对这个单位的未命中射击会增加护盾 <Ability:iMKP_SHIELDSPERMISS/>。"
+LocFlyOverText="动能镀层"
+
+[MKPCloista_Overload X2AbilityTemplate]
+LocFriendlyName="轻型动能镀层 - 过载"
+LocLongDescription="增加 <Ability:iMKP_ADDSHIELDBOOST/> Ablative。对这个单位的未命中射击增加的护盾超过了每次任务的最大值 <Ability:iMKP_MAXSHIELDREGEN/>。发生器已过载并临时关闭。它将需要在复仇者上重新校准。"
+LocHelpText="增加 <Ability:iMKP_ADDSHIELDBOOST/> Ablative。对这个单位的未命中射击增加的护盾超过了每次任务的最大值 <Ability:iMKP_MAXSHIELDREGEN/>。发生器已过载并临时关闭。它将需要在复仇者上重新校准。"
+LocFlyOverText="动能镀层过载"
+
+[MKP_MrCloista_Passive X2AbilityTemplate]
+LocFriendlyName="轻型动能镀层"
+LocLongDescription="增加 <Ability:iMKP_ADDSHIELDBOOST/> Ablative。对这个单位的未命中射击会增加护盾 <Ability:iMKP_SHIELDSPERMISS/>。"
+LocHelpText="增加 <Ability:iMKP_ADDSHIELDBOOST/> Ablative。对这个单位的未命中射击会增加护盾 <Ability:iMKP_SHIELDSPERMISS/>。"
+
+[RustyCloistaShield X2AbilityTemplate]
+LocFriendlyName="保护护盾"
+LocLongDescription="在士兵和附近的盟友周围投射护盾。如果这个士兵被杀，护盾将会崩溃。这是一个免费动作，需要士兵有2AP（所以必须是第一个动作）并且有2次使用次数和5回合的冷却时间。"
+LocHelpText="在附近的盟友和你自己周围投射护盾。免费动作需要：2 AP。2次使用次数，5回合冷却时间。"
+LocFlyOverText="护盾启动"
+LocPromotionPopupText="<Bullet/>能力点数消耗：<Ability:WSS_AP/>。\n<Bullet/>是免费动作：<Ability:WSS_ISFREE/>。\n<Bullet/>结束回合：<Ability:WSS_ENDSTURN/>\n<Bullet/>冷却时间：<Ability:WSS_COOLDOWN/>\n<Bullet/>使用次数：<Ability:WSS_CHARGES/>\n<Bullet/>可以在混乱时使用：<Ability:WSS_DISORIENT/>\n<Bullet/>可以在燃烧时使用：<Ability:WSS_BURNING/>\n<Bullet/>半径（以格子计）：<Ability:WSS_RADIUS/>\n<Bullet/>授予的Ablative HP：<Ability:WSS_SHIELDHP/>  (如果不使用能量护盾改造)。"
+
+[TravelLight X2WeaponTemplate]
+LocFriendlyName="轻装上阵"
+FriendlyNamePlural="轻装上阵"
+BriefSummary="在这个插槽中装备无物"
+TacticalText="带少量装备进入战斗可以让你移动更快。提供+1的移动力奖励"
+AbilityDescName="空"
+
+[TravelLightMobilityBonus X2AbilityTemplate]
+LocFriendlyName="轻装上阵"
+LocFlyOverText="轻装上阵"
+LocLongDescription="不携带额外的武器提供+1的移动力奖励。"
+LocHelpText="不携带额外的武器提供+1的移动力奖励。"
+LocPromotionPopupText="<Bullet/> 不携带额外的武器提供+1的移动力奖励。"
+
+[TravelLightPrimary X2WeaponTemplate]
+LocFriendlyName="轻装上阵"
+FriendlyNamePlural="轻装上阵"
+BriefSummary="在这个插槽中装备无物"
+TacticalText="带少量装备进入战斗可以让你移动更快。提供+2的移动力奖励"
+AbilityDescName="空"
+
+[TravelLightPrimaryBonus X2AbilityTemplate]
+LocFriendlyName="轻装上阵"
+LocFlyOverText="轻装上阵"
+LocLongDescription="不携带主要武器提供+2的移动力奖励。"
+LocHelpText="不携带主要武器提供+2的移动力奖励。"
+LocPromotionPopupText="<Bullet/> 不携带主要武器提供+2的移动力奖励。"
+
+;将本地化文本放在此文件中
+
+[SprayMrC X2AbilityTemplate]
+LocFriendlyName="盲射"
+LocFlyOverText="盲射"
+LocLongDescription="从掩体后向敌人开火。-10瞄准 & -20暴击惩罚，不结束回合。单位必须在掩体中。"
+LocHelpText="从掩体后向敌人开火。-10瞄准 & -20暴击惩罚，不结束回合。单位必须在掩体中。"
+LocPromotionPopupText="<Bullet/>从掩体后向敌人喷射火焰。-10瞄准 & -20暴击惩罚，不结束回合。单位必须在掩体中。<br/>"
+
+[SingleReloadMrC X2AbilityTemplate]
+LocFriendlyName="装填弹药"
+LocLongDescription="将一发子弹装填到你的主要武器中。这是一个免费动作，需要士兵有2AP（所以必须是第一个动作）并且有2次使用次数。"
+LocHelpText="将一发子弹装填到你的主要武器中。免费动作需要：2 AP。2次使用次数"
+LocFlyOverText="装填弹药"
+
+;modded vanilla
+[MrCPistolStandardShot X2AbilityTemplate]
+LocFriendlyName="手枪射击"
+LocLongDescription="你已经被训练过，可以有效地利用<Ability:SecondaryWeaponName/>的全部灵活性。"
+LocHelpText="用你的手枪射击一个目标。"
+LocFlyOverText=""
+LocPromotionPopupText="<Bullet/> <Ability:SecondaryWeaponName/>允许<Ability:ClassName/>在消耗其他行动点时进行攻击或守望。<br>"
+
+[MrCSwordSlice X2AbilityTemplate]
+LocFriendlyName="挥剑斩击"
+LocLongDescription="用你的<Ability:SecondaryWeaponName/>攻击移动范围内的任何敌人。"
+LocHelpText="用你的<Ability:SecondaryWeaponName/>攻击移动范围内的任何敌人。"
+LocPromotionPopupText="<Bullet/>你可以通过将移动光标放在敌人上来触发挥剑斩击能力。<br/><Bullet/>游侠可以执行“冲刺”移动，使用两个行动点移动，并仍然可以对相邻的敌人触发挥剑斩击。<br/>"
+
+[MrCBladestorm X2AbilityTemplate]
+LocFriendlyName="剑刃风暴"
+LocLongDescription="对任何进入或在近战范围内攻击的敌人进行免费的<Ability:SecondaryWeaponName/>攻击。"
+LocHelpText="对任何进入或在近战范围内攻击的敌人进行免费的<Ability:SecondaryWeaponName/>攻击。"
+LocFlyOverText="剑刃风暴"
+LocPromotionPopupText="<Bullet/>如果敌人在相邻的格子里开始他们的回合，剑刃风暴将会在那个敌人试图攻击<Ability:ClassName/>时触发。<br/><Bullet/>如果敌人没有在相邻的格子里开始他们的回合，那么剑刃风暴将会在那个敌人移动到近战范围时触发。<br/>"
+
+[MrCBladestormAttack X2AbilityTemplate]
+LocFriendlyName="剑刃风暴"
+LocLongDescription="对任何进入或在近战范围内攻击的敌人进行免费的<Ability:SecondaryWeaponName/>攻击。"
+LocHelpText="对任何进入或在近战范围内攻击的敌人进行免费的<Ability:SecondaryWeaponName/>攻击。"
+LocFlyOverText="剑刃风暴"
+LocPromotionPopupText="<Bullet/>如果敌人在相邻的格子里开始他们的回合，剑刃风暴将会在那个敌人试图攻击<Ability:ClassName/>时触发。<br/><Bullet/>如果敌人没有在相邻的格子里开始他们的回合，那么剑刃风暴将会在那个敌人移动到近战范围时触发。<br/>"
+
+[MrCHeavyOrdnance X2AbilityTemplate]
+LocFriendlyName="重型实用榴弹"
+LocLongDescription="你的实用插槽中的手榴弹获得2次额外使用。"
+LocHelpText="你的实用插槽中的手榴弹获得2次额外使用。"
+LocPromotionPopupText="<Bullet/>所有的手榴弹都适用于重型实用炮弹，甚至是非攻击性的手榴弹，如战场扫描器和烟雾手榴弹。<br/>"
+
+
+[MrCKillZone X2AbilityTemplate]
+LocFriendlyName="手枪杀戮区"
+LocLongDescription="对在火力覆盖锥形区域内移动或攻击的任何敌人进行反击射击。"
+LocHelpText="在火力覆盖锥形区域内进行增强的狙击守望。"
+LocFlyOverText="杀戮区"
+LocPromotionPopupText="<Bullet/>除了弹药数量之外，<Ability:ClassName/>可以进行无限次的杀戮区射击。<br/><Bullet/>杀戮区使用狙击视野，即使<Ability:ClassName/>没有长守望能力。<br/><Bullet/>杀戮区有<Ability:SelfCooldown/>回合的冷却时间。<br/>"
+LocFriendlyNameWhenConcealed="杀戮区（隐蔽）"
+
+[MrCLightningHands X2AbilityTemplate]
+LocFriendlyName="闪电手"
+LocLongDescription="对一个目标射击你的<Ability:SecondaryWeaponName/>。这次攻击不消耗行动。"
+LocHelpText="对一个目标射击你的<Ability:SecondaryWeaponName/>。这次攻击不消耗行动。"
+LocFlyOverText="闪电手"
+LocPromotionPopupText="<Bullet/>闪电手可以与其他<Ability:ClassName/>的能力很好地组合，因为它不会阻止在同一回合内使用其他能力。<br/><Bullet/>闪电手有<Ability:SelfCooldown/>回合的冷却时间。<br/>"
+
+
+[MrCExtraHeavy X2AbilityTemplate]
+LocFriendlyName="额外的重型武器"
+LocLongDescription="为重型武器提供+1的使用次数。"
+LocHelpText="为重型武器提供+1的使用次数。"
+LocFlyOverText="额外的重型武器"
+LocPromotionPopupText="<Bullet/>为重型武器提供+1的使用次数。<br/>"
+
+[MrCExtraHeavySA X2AbilityTemplate]
+LocFriendlyName="额外的BIT重型武器"
+LocLongDescription="为BIT重型武器提供+1的使用次数。"
+LocHelpText="为BIT重型武器提供+1的使用次数。"
+LocFlyOverText="额外的重型武器"
+LocPromotionPopupText="<Bullet/>为BIT重型武器提供+1的使用次数。<br/>"
