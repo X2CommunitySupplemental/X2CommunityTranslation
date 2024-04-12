@@ -1,101 +1,101 @@
 [CorpseAdventBiotic X2ItemTemplate]
-FriendlyName="Asari Biotic Corpse"
-FriendlyNamePlural="Asari Biotic Corpses"
-BriefSummary="These \"Asari\" corpses, with their armor still left on, have been causing strange behaviour with small objects around them, a presumable left over of their talents demonstrated in the field." 
+FriendlyName="阿莎丽生物尸体"
+FriendlyNamePlural="阿莎丽生物尸体"
+BriefSummary="这些 \"阿莎丽\" 尸体还穿着盔甲，却对周围的小物体有奇怪的反应，这可能是他们在战场上展现的才能留下的痕迹。" 
 
 [AutopsyAdventBiotic X2TechTemplate]
-DisplayName="Asari Biotic Autopsy"
-Summary="A species showcasing talents with some kind of dark energy-based abilities, these \"Asari\" have demonstrated the ability to create shielding for themselves and rupture our units in the field. An investigation into how they would do this would most likely grant us benefits for our own soldiers." 
+DisplayName="阿莎丽生物解剖"
+Summary="这些 \"阿莎丽"\ 物种展示了某种基于黑暗能量的能力，他们有能力为自己制造防护罩，并在战场上破坏我们的部队。调查他们是如何做到这一点的，很可能会给我们自己的士兵带来好处。" 
 CodeName="Turner"
-LongDescription="These \"biotic\" abilities shown in the field by this alien species seem to be linked to an previously unknown element tied to their central nervous system: on a first glance it looks like a terminal case of cancer, but further investigation reveals nodules of this element that reacts to bodily impulses. While it would be highly irresponsible to even try replicating this in our own soldiers surgically, both their natural abilities, and the amp enhancers built into their armour, has nonetheless granted us a boon for our light armor development: with a replication of the armor's \"biotic weave\", our light armors will be far more adept at turning enemy fire into grazes. R. Tygan. "
-AlertString="Asari Biotic"
+LongDescription=" 这个 \"外星物种"\ 在战场上表现出的这些 "生物 "能力似乎与他们中枢神经系统中的一种以前不为人知的元素有关：乍一看像是癌症晚期，但进一步调查就会发现这种元素的结节会对身体的冲动产生反应。虽然试图通过手术在我们自己的士兵身上复制这种元素是非常不负责任的，但他们的自然能力以及他们盔甲中内置的放大器增强器，都为我们的轻型盔甲研发带来了福音：通过复制盔甲的 \"生物编织"\ ，我们的轻型盔甲将更擅长把敌人的炮火变成擦伤。R. Tygan. "
+AlertString="阿莎丽生物"
 
 
 
 
 [AdventBiotic_M1 X2CharacterTemplate]
-strCharacterName="Asari Biotic"
+strCharacterName="阿莎丽生物"
 
 [AdventBiotic_M2 X2CharacterTemplate]
-strCharacterName="Asari Adept"
+strCharacterName="阿莎丽专家"
 
 [AdventBiotic_M3 X2CharacterTemplate]
-strCharacterName="Asari Commando"
+strCharacterName="阿莎丽指挥官"
 
 ;abilities
 [RM_Advent_BioticBarrier X2AbilityTemplate]
-LocFriendlyName="Biotic Barrier"
-LocLongDescription="A biotic that has begun training their abilities first learns how to create a dark energy field that can protect them from damage, and how to regenerate that field even when it's destroyed."
-LocHelpText="Biotics start with 4 point strong barriers, and can regain 1 point(s) per turn."
-LocFlyOverText="Biotic Barrier"
-LocPromotionPopupText="<Bullet/>Biotics start with <Ability:BIOTIC_BARRIER/> point strong barriers, and can regain <Ability:BIOTICREGEN/> point(s) per turn.<br/>"
+LocFriendlyName="生物屏障"
+LocLongDescription="开始训练自己能力的生物首先要学会如何创造一个黑暗能量场，保护自己免受伤害，以及如何在能量场被破坏时再生能量场。"
+LocHelpText="生物兵开始时有 4 点护盾，每回合可恢复 1 点。"
+LocFlyOverText="生物屏障"
+LocPromotionPopupText="<Bullet/>生物兵开始时有 <Ability:BIOTIC_BARRIER/> 点护盾, 每回合可恢复 <Ability:BIOTICREGEN/> point(s) 点。<br/>"
 
 [RM_Advent_BioticRebuild X2AbilityTemplate]
-LocFriendlyName="Biotic Barrier"
-LocLongDescription="A biotic that has begun training their abilities first learns how to create a dark energy field that can protect them from damage, and how to regenerate that field even when it's destroyed."
-LocHelpText="Biotics start with 4 point strong barriers, and can regain 1 point(s) per turn."
-LocFlyOverText="Biotic Barrier"
+LocFriendlyName="生物屏障"
+LocLongDescription="开始训练自己能力的生物首先要学会如何创造一个黑暗能量场，保护自己免受伤害，以及如何在能量场被破坏时再生能量场。"
+LocHelpText="生物兵开始时有 4 点护盾，每回合可恢复 1 点。"
+LocFlyOverText="生物屏障"
 
 [RM_Advent_BioticRegen X2AbilityTemplate]
-LocFriendlyName="Biotic Regen"
-LocLongDescription="A biotic that has begun training their abilities first learns how to create a dark energy field that can protect them from damage, and how to regenerate that field even when it's destroyed."
-LocHelpText="Biotics start with 4 point strong barriers, and can regain 1 point(s) per turn."
-LocFlyOverText="Biotic Regen"
+LocFriendlyName="生物再生"
+LocLongDescription="开始训练自己能力的生物首先要学会如何创造一个黑暗能量场，保护自己免受伤害，以及如何在能量场被破坏时再生能量场。"
+LocHelpText="生物兵开始时有 4 点护盾，每回合可恢复 1 点。"
+LocFlyOverText="生物屏障"
 
 
 [RM_Advent_BioticTraversal X2AbilityTemplate]
-LocFriendlyName="Biotic Traversal"
-LocFlyOverText="Biotic Traversal"
-LocLongDescription="Seamlessly travel to rooftops without needing ladders, poles, etc."
-LocHelpText="Seamlessly travel to rooftops without needing ladders, poles, etc."
-LocPromotionPopupText="<Bullet/> Seamlessly travel to rooftops without needing ladders, poles, etc.<br/>"
+LocFriendlyName="生物穿越"
+LocFlyOverText="生物穿越"
+LocLongDescription="无需梯子、杆子等工具，即可无缝到达屋顶。"
+LocHelpText="无需梯子、杆子等工具，即可无缝到达屋顶。"
+LocPromotionPopupText="<Bullet/> 无需梯子、杆子等工具，即可无缝到达屋顶。<br/>"
 
 [RM_Advent_BioticTeleport X2AbilityTemplate]
-LocFriendlyName="Biotic Teleport"
-LocLongDescription="A biotic can teleport to distant locations instead of moving directly. Bypasses all overwatch and reaction fire. "
-LocHelpText="Teleport to a new location. Bypasses all overwatch and reaction fire. "
-LocFlyOverText="Biotic Teleport"
-LocPromotionPopupText="<Bullet/>Teleport to a new location. Bypasses all overwatch and reaction fire. <br/><Bullet/>Has a <Ability:SelfCooldown/> turn cooldown.<br/>"
+LocFriendlyName="生物传送"
+LocLongDescription="生物可以传送到远处，而不是直接移动。绕过所有监视射击和反应射击。 "
+LocHelpText="传送到新地点。绕过所有监视射击和反应射击。"
+LocFlyOverText="生物传送"
+LocPromotionPopupText="<Bullet/>传送到新地点。绕过所有监视射击和反应射击。 <br/><Bullet/>有 <Ability:SelfCooldown/> 回合冷却.<br/>"
 
 [RM_Advent_Warp X2AbilityTemplate]
-LocFriendlyName="Warp"
-LocLongDescription="A biotic can generate a series of rapidly shifting mass effect fields on a target, warping and rupturing a target with a homing attack. Has a <Ability:SelfCooldown/> turn cooldown."
-LocHelpText="Deal a select amount of damage plus rupture the target for +1 damage on all future attacks."
-LocFlyOverText="Warped"
-LocPromotionPopupText="<Bullet/>Deal a select amount of damage plus rupture the target for at least +2 damage on all future attacks.<br/> <Bullet/> Damage scales with the tech level of the amp the biotic has equipped.<br/><Bullet/>Has a <Ability:SelfCooldown/> turn cooldown.<br/>"
+LocFriendlyName="翘棱"
+LocLongDescription="生物可以在目标身上产生一系列快速移动的质量效应场，扭曲目标并使其破裂，造成归位攻击。具有 <Ability:SelfCooldown/> 回合的冷却时间。"
+LocHelpText="造成一定量的伤害，并使目标崩裂，使其在今后的所有攻击中伤害+1。"
+LocFlyOverText="碎裂化"
+LocPromotionPopupText="<Bullet/>造成一定量的伤害，并使目标破裂，在今后的所有攻击中造成至少 +2 的伤害。<br/> <Bullet/>伤害与生物装备的放大器的技术等级成比例。 <br/><Bullet/>有 <Ability:SelfCooldown/> 回合冷却。<br/>"
 
 [RM_Advent_Lance X2AbilityTemplate]
-LocFriendlyName="Lance"
-LocLongDescription="A biotic can generate a shaft of dark energy, throwing it at targets being spotted even at squadsight range. Shreds armour, but can miss. Has a <Ability:SelfCooldown/> turn cooldown."
-LocHelpText="Deal a select amount of damage and shred the target's armour. Attack can miss."
-LocFlyOverText="Lanced"
-LocPromotionPopupText="<Bullet/>Deal a select amount of damage and shred the target's armour. Attack can miss.<br/> <Bullet/> Damage and armour shredding scales with the tech level of the amp the biotic has equipped.<br/><Bullet/>Has a <Ability:SelfCooldown/> turn cooldown.<br/>"
+LocFriendlyName="矛"
+LocLongDescription="生物能产生黑暗能量轴，即使在小队视距内也能投掷到被发现的目标。可撕碎装甲，但也可能射偏。 有 <Ability:SelfCooldown/> 回合冷却。"
+LocHelpText="造成一定量的伤害并撕碎目标的护甲。攻击可能未命中。"
+LocFlyOverText="矛化"
+LocPromotionPopupText="<Bullet/>造成一定量的伤害并撕碎目标的护甲。攻击可能未命中。<br/> <Bullet/> 伤害和碎甲效果与生物装备的放大器的技术等级成比例。<br/><Bullet/>有 <Ability:SelfCooldown/> 回合冷却。<br/>"
 
 [RM_Advent_Reave X2AbilityTemplate]
-LocFriendlyName="Reave"
-LocLongDescription="A biotic can mess with the neurons of an organic target, damaging it and strengthening the biotic's barrier at the same time. Has a <Ability:SelfCooldown/> turn cooldown."
-LocHelpText="Deal a select amount of damage and gain shield points from the ensuring damage."
-LocFlyOverText="Reaved"
-LocPromotionPopupText="<Bullet/>Deal a select amount of damage and gain shield points from the ensuring damage.<br/> <Bullet/> Damage and shield points gained scales with the tech level of the amp the biotic has equipped.<br/><Bullet/>Will also gain an additional shield point for every 50 points of psi offense.<br/><Bullet/>Has a <Ability:SelfCooldown/> turn cooldown, and will end the biotic's turn when used.<br/>"
+LocFriendlyName="反应"
+LocLongDescription="生物体可以扰乱有机目标的神经元，在破坏目标的同时增强生物体的屏障。 有 <Ability:SelfCooldown/> 回合冷却。"
+LocHelpText="造成一定量的伤害，并从造成的伤害中获得护盾点数。"
+LocFlyOverText="反应化"
+LocPromotionPopupText="<Bullet/>造成一定量的伤害，并从造成的伤害中获得护盾点数。<br/> <Bullet/>伤害和获得护盾点数与生物装备的放大器的技术等级成比例。 <br/><Bullet/>每 50 点灵能攻击还将获得一个额外的护盾点。<br/><Bullet/>有 <Ability:SelfCooldown/> 回合冷却， 且会结束生物的回合。<br/>"
 
 ;weapons
 
 
 [RM_AdventBioAmp_CV X2WeaponTemplate]
-FriendlyName="Biotic Amp"
-FriendlyNamePlural="Biotic Amps"
+FriendlyName="生物放大器"
+FriendlyNamePlural="生物放大器"
 BriefSummary=""
-TacticalText="<Bullet/> A Biotic Amp allows Biotics to perform their biotic abilities.\n<Bullet/> More advanced Biotic Amps can increase the biotic's psionic strength, and the effective ness of their abilities."
+TacticalText="<Bullet/> 生物放大器可以让生物发挥生物能力。\n<Bullet/> 更高级的生物放大器可以提高生物的灵能强度和能力的有效性。"
 
 [RM_AdventBioAmp_MG X2WeaponTemplate]
-FriendlyName="Advanced Biotic Amp"
-FriendlyNamePlural="Advanced Biotic Amps"
-BriefSummary="This evolved version of the Biotic Amp channels the user's dark energy far more clearly, enabling greater biotic strength in our operatives. Psi Offense and biotic attack damage of some abilities is improved when carrying this advanced amplifier."
-TacticalText="<Bullet/> The Advanced Biotic Amp increases a Biotic's psionic strength by +20.\n<Bullet/> Psi Strength determines the potency of some of your biotic abilities.\n<Bullet/> The Advanced Biotic Amp also increases the damage done by many biotic attacks.\n"
+FriendlyName="高级生物放大器"
+FriendlyNamePlural="高级生物放大器"
+BriefSummary="这种生物放大器的进化版能更清晰地引导使用者的黑暗能量，使我们的行动人员拥有更强的生物力量。携带这种高级放大器时，某些能力的灵能攻击和生物攻击伤害会得到提高。"
+TacticalText="<Bullet/> 高级生物放大器可使生物的灵能强度增加 +20。\n<Bullet/> 灵能强度决定了一些生物能力的强度。\n<Bullet/> 高级生物放大器还能提高许多生物攻击的伤害。\n"
 
 [RM_AdventBioAmp_BM X2WeaponTemplate]
-FriendlyName="Elerium Biotic Amp"
-FriendlyNamePlural="Elerium Biotic Amps"
-BriefSummary="This version of the Biotic Amplifier incorporates the alien element Elerium-117, along with technology from the powerful \"Gatekeeper\" alien we encountered. It will enable our biotics to compete with the strongest of the Aliens' psionic forces."
-TacticalText="<Bullet/> The Elerium Biotic Amp increases a Biotic's psionic strength by +40.\n<Bullet/> Psi Strength determines the potency of some of your biotic abilities.<Bullet/> The Elerium Biotic Amp also increases the damage done by many biotic attacks.\n"
+FriendlyName="超铀生物放大器"
+FriendlyNamePlural="超铀生物放大器"
+BriefSummary="这个版本的生物放大器结合了外星元素 "超铀-117"， 以及我们遇到的那个强大的 \"看门人'\ 外星人的技术。它将使我们的生物能够与外星人最强的灵能部队抗衡。"
+TacticalText="<Bullet/> 超铀放大器能使生物的灵能强度提高 +40。\n<Bullet/> 灵能强度决定了一些生物能力的强度。<Bullet/> 超铀生物放大器还能提高许多生物攻击的伤害。\n"
 
