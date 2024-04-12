@@ -1,0 +1,101 @@
+[CorpseAdventBiotic X2ItemTemplate]
+FriendlyName="Asari Biotic Corpse"
+FriendlyNamePlural="Asari Biotic Corpses"
+BriefSummary="These \"Asari\" corpses, with their armor still left on, have been causing strange behaviour with small objects around them, a presumable left over of their talents demonstrated in the field." 
+
+[AutopsyAdventBiotic X2TechTemplate]
+DisplayName="Asari Biotic Autopsy"
+Summary="A species showcasing talents with some kind of dark energy-based abilities, these \"Asari\" have demonstrated the ability to create shielding for themselves and rupture our units in the field. An investigation into how they would do this would most likely grant us benefits for our own soldiers." 
+CodeName="Turner"
+LongDescription="These \"biotic\" abilities shown in the field by this alien species seem to be linked to an previously unknown element tied to their central nervous system: on a first glance it looks like a terminal case of cancer, but further investigation reveals nodules of this element that reacts to bodily impulses. While it would be highly irresponsible to even try replicating this in our own soldiers surgically, both their natural abilities, and the amp enhancers built into their armour, has nonetheless granted us a boon for our light armor development: with a replication of the armor's \"biotic weave\", our light armors will be far more adept at turning enemy fire into grazes. R. Tygan. "
+AlertString="Asari Biotic"
+
+
+
+
+[AdventBiotic_M1 X2CharacterTemplate]
+strCharacterName="Asari Biotic"
+
+[AdventBiotic_M2 X2CharacterTemplate]
+strCharacterName="Asari Adept"
+
+[AdventBiotic_M3 X2CharacterTemplate]
+strCharacterName="Asari Commando"
+
+;abilities
+[RM_Advent_BioticBarrier X2AbilityTemplate]
+LocFriendlyName="Biotic Barrier"
+LocLongDescription="A biotic that has begun training their abilities first learns how to create a dark energy field that can protect them from damage, and how to regenerate that field even when it's destroyed."
+LocHelpText="Biotics start with 4 point strong barriers, and can regain 1 point(s) per turn."
+LocFlyOverText="Biotic Barrier"
+LocPromotionPopupText="<Bullet/>Biotics start with <Ability:BIOTIC_BARRIER/> point strong barriers, and can regain <Ability:BIOTICREGEN/> point(s) per turn.<br/>"
+
+[RM_Advent_BioticRebuild X2AbilityTemplate]
+LocFriendlyName="Biotic Barrier"
+LocLongDescription="A biotic that has begun training their abilities first learns how to create a dark energy field that can protect them from damage, and how to regenerate that field even when it's destroyed."
+LocHelpText="Biotics start with 4 point strong barriers, and can regain 1 point(s) per turn."
+LocFlyOverText="Biotic Barrier"
+
+[RM_Advent_BioticRegen X2AbilityTemplate]
+LocFriendlyName="Biotic Regen"
+LocLongDescription="A biotic that has begun training their abilities first learns how to create a dark energy field that can protect them from damage, and how to regenerate that field even when it's destroyed."
+LocHelpText="Biotics start with 4 point strong barriers, and can regain 1 point(s) per turn."
+LocFlyOverText="Biotic Regen"
+
+
+[RM_Advent_BioticTraversal X2AbilityTemplate]
+LocFriendlyName="Biotic Traversal"
+LocFlyOverText="Biotic Traversal"
+LocLongDescription="Seamlessly travel to rooftops without needing ladders, poles, etc."
+LocHelpText="Seamlessly travel to rooftops without needing ladders, poles, etc."
+LocPromotionPopupText="<Bullet/> Seamlessly travel to rooftops without needing ladders, poles, etc.<br/>"
+
+[RM_Advent_BioticTeleport X2AbilityTemplate]
+LocFriendlyName="Biotic Teleport"
+LocLongDescription="A biotic can teleport to distant locations instead of moving directly. Bypasses all overwatch and reaction fire. "
+LocHelpText="Teleport to a new location. Bypasses all overwatch and reaction fire. "
+LocFlyOverText="Biotic Teleport"
+LocPromotionPopupText="<Bullet/>Teleport to a new location. Bypasses all overwatch and reaction fire. <br/><Bullet/>Has a <Ability:SelfCooldown/> turn cooldown.<br/>"
+
+[RM_Advent_Warp X2AbilityTemplate]
+LocFriendlyName="Warp"
+LocLongDescription="A biotic can generate a series of rapidly shifting mass effect fields on a target, warping and rupturing a target with a homing attack. Has a <Ability:SelfCooldown/> turn cooldown."
+LocHelpText="Deal a select amount of damage plus rupture the target for +1 damage on all future attacks."
+LocFlyOverText="Warped"
+LocPromotionPopupText="<Bullet/>Deal a select amount of damage plus rupture the target for at least +2 damage on all future attacks.<br/> <Bullet/> Damage scales with the tech level of the amp the biotic has equipped.<br/><Bullet/>Has a <Ability:SelfCooldown/> turn cooldown.<br/>"
+
+[RM_Advent_Lance X2AbilityTemplate]
+LocFriendlyName="Lance"
+LocLongDescription="A biotic can generate a shaft of dark energy, throwing it at targets being spotted even at squadsight range. Shreds armour, but can miss. Has a <Ability:SelfCooldown/> turn cooldown."
+LocHelpText="Deal a select amount of damage and shred the target's armour. Attack can miss."
+LocFlyOverText="Lanced"
+LocPromotionPopupText="<Bullet/>Deal a select amount of damage and shred the target's armour. Attack can miss.<br/> <Bullet/> Damage and armour shredding scales with the tech level of the amp the biotic has equipped.<br/><Bullet/>Has a <Ability:SelfCooldown/> turn cooldown.<br/>"
+
+[RM_Advent_Reave X2AbilityTemplate]
+LocFriendlyName="Reave"
+LocLongDescription="A biotic can mess with the neurons of an organic target, damaging it and strengthening the biotic's barrier at the same time. Has a <Ability:SelfCooldown/> turn cooldown."
+LocHelpText="Deal a select amount of damage and gain shield points from the ensuring damage."
+LocFlyOverText="Reaved"
+LocPromotionPopupText="<Bullet/>Deal a select amount of damage and gain shield points from the ensuring damage.<br/> <Bullet/> Damage and shield points gained scales with the tech level of the amp the biotic has equipped.<br/><Bullet/>Will also gain an additional shield point for every 50 points of psi offense.<br/><Bullet/>Has a <Ability:SelfCooldown/> turn cooldown, and will end the biotic's turn when used.<br/>"
+
+;weapons
+
+
+[RM_AdventBioAmp_CV X2WeaponTemplate]
+FriendlyName="Biotic Amp"
+FriendlyNamePlural="Biotic Amps"
+BriefSummary=""
+TacticalText="<Bullet/> A Biotic Amp allows Biotics to perform their biotic abilities.\n<Bullet/> More advanced Biotic Amps can increase the biotic's psionic strength, and the effective ness of their abilities."
+
+[RM_AdventBioAmp_MG X2WeaponTemplate]
+FriendlyName="Advanced Biotic Amp"
+FriendlyNamePlural="Advanced Biotic Amps"
+BriefSummary="This evolved version of the Biotic Amp channels the user's dark energy far more clearly, enabling greater biotic strength in our operatives. Psi Offense and biotic attack damage of some abilities is improved when carrying this advanced amplifier."
+TacticalText="<Bullet/> The Advanced Biotic Amp increases a Biotic's psionic strength by +20.\n<Bullet/> Psi Strength determines the potency of some of your biotic abilities.\n<Bullet/> The Advanced Biotic Amp also increases the damage done by many biotic attacks.\n"
+
+[RM_AdventBioAmp_BM X2WeaponTemplate]
+FriendlyName="Elerium Biotic Amp"
+FriendlyNamePlural="Elerium Biotic Amps"
+BriefSummary="This version of the Biotic Amplifier incorporates the alien element Elerium-117, along with technology from the powerful \"Gatekeeper\" alien we encountered. It will enable our biotics to compete with the strongest of the Aliens' psionic forces."
+TacticalText="<Bullet/> The Elerium Biotic Amp increases a Biotic's psionic strength by +40.\n<Bullet/> Psi Strength determines the potency of some of your biotic abilities.<Bullet/> The Elerium Biotic Amp also increases the damage done by many biotic attacks.\n"
+
