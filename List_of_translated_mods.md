@@ -286,3 +286,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1294744824
 https://steamcommunity.com/workshop/filedetails/?id=1519841231
 
 * Chinese
+
+# [WOTC] YAF1 Autopsy Required Extension
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2377251739
+
+* Chinese
