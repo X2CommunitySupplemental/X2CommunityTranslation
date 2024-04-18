@@ -287,8 +287,16 @@ https://steamcommunity.com/workshop/filedetails/?id=1519841231
 
 * Chinese
 
+
 # [WOTC] YAF1 Autopsy Required Extension
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2377251739
 
 * Chinese
+
+# Asari Adepts
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1316359865
+
+* Chinese
+

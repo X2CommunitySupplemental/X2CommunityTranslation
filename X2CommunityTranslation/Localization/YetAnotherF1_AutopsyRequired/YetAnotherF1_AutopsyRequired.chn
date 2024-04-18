@@ -1,0 +1,71 @@
+;=====================================================================================
+;	Class:	AutopsyRequired LOCAL
+;	Author: RustyDios
+;	
+;	Created		12/04/24	02:00
+;	Last Edited 12/04/24	05:00
+;
+;=====================================================================================
+
+[YetAnotherF1_AutopsyRequired]
+[X2EventListener_AutopsyRequired]
+
+;   these are the string displays for an autopsy required, or #encounters for rulers, or #encounters/faction intel for chosen;
+m_strNoInfoAvailable_Required   = "需要尸体解剖"
+m_strNoInfoAvailable_Encounters = "遭遇 :"
+m_strNoInfoAvailable_Faction    = "狩猎进展 :"
+
+;=====================================================================================
+
+[YetAnotherF1_AutopsyRequired]
+[UIChosenInfo_AutopsyRequired]
+
+;these are slight string alterations to the normal info screen
+;ChosenInfo_EncountersLabel             = "遭遇:"
+ChosenInfo_EncountersLabel_Required     = "遭遇 / 信息披露所需:"
+ChosenInfo_XComAwarenessLabel_Required	= "信息披露在几次遭遇后:"
+ChosenInfo_XComAwarenessLabel_Completed = "信息已披露!"
+
+ChosenInfo_UnknownChosenTraitName = "未知"
+ChosenInfo_UnknownChosenTraitDescription = "-- ?? -- ?? --"
+
+;=====================================================================================
+
+[YetAnotherF1_AutopsyRequired]
+[UIChosenReveal_AutopsyRequired]
+
+;these are slight string alterations to the normal tactical reveal screen
+;due to UI limitations string length here is limited to 16 characters
+strForReveal = " : 供揭晓"
+
+;ChosenStrengthTitle = "能力"
+;ChosenWeaknessTitle = "弱点"
+
+UnknownChosenTraitName = "未知"
+UnknownChosenTraitDescription = "-- ?? -- ?? --"
+
+;=====================================================================================
+
+[YetAnotherF1_AutopsyRequired]
+[UIChosenMissionSummary_AutopsyRequired]
+
+;these are slight string alterations to the normal post-mission screen
+;ChosenEncounterSubtitle=""
+;StrengthsLabel="天选者能力:"
+;WeaknessesLabel="天选者弱点:"
+
+strForReveal = " : 供揭晓"
+UnknownChosenTraitDescription = "-- ?? -- ?? --"
+
+;=====================================================================================
+
+[YetAnotherF1_AutopsyRequired]
+[UIChosenLevelUp_AutopsyRequired]
+
+;these are slight string alterations to the normal level gained screen
+strForReveal = " : 供揭晓"
+
+UnknownChosenTraitName = "未知"
+UnknownChosenTraitDescription = "-- ?? -- ?? --"
+
+;=====================================================================================
