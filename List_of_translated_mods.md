@@ -286,3 +286,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1294744824
 https://steamcommunity.com/workshop/filedetails/?id=1519841231
 
 * Chinese
+
+# Asari Adepts
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1316359865
+
+* Chinese
+
