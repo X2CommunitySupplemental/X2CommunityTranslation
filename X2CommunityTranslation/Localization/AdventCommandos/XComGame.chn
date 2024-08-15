@@ -1,0 +1,259 @@
+[AdvRaptorM1 X2CharacterTemplate]
+strCharacterName="猛禽突击队"
+
+[AdvRaptorM2 X2CharacterTemplate]
+strCharacterName="高级猛禽突击队"
+
+[AdvRaptorM3 X2CharacterTemplate]
+strCharacterName="精英猛禽突击队"
+
+[AdvRaptorM1_WPN X2WeaponTemplate]
+FriendlyName="猛禽狙击步枪"
+
+[AdvRaptorM2_WPN X2WeaponTemplate]
+FriendlyName="猛禽狙击步枪"
+
+[AdvRaptorM3_WPN X2WeaponTemplate]
+FriendlyName="猛禽狙击步枪"
+
+[AdvWraithM1 X2CharacterTemplate]
+strCharacterName="幽灵突击队"
+
+[AdvWraithM2 X2CharacterTemplate]
+strCharacterName="高级幽灵突击队"
+
+[AdvWraithM3 X2CharacterTemplate]
+strCharacterName="精英幽灵突击队"
+
+[WraithGauntletM1_BM X2PairedWeaponTemplate]
+FriendlyName="超铀碎片护臂"
+
+[WraithGauntletM2_BM X2PairedWeaponTemplate]
+FriendlyName="超铀碎片护臂"
+
+[WraithGauntletM3_BM X2PairedWeaponTemplate]
+FriendlyName="超铀碎片护臂"
+
+[WraithPistolM1_WPN X2WeaponTemplate]
+FriendlyName="幽灵灵能手枪"
+
+[WraithPistolM2_WPN X2WeaponTemplate]
+FriendlyName="幽灵灵能手枪"
+
+[WraithPistolM3_WPN X2WeaponTemplate]
+FriendlyName="幽灵灵能手枪"
+
+[AdvDestroyerM1 X2CharacterTemplate]
+strCharacterName="毁灭者突击队"
+
+[AdvDestroyerM2 X2CharacterTemplate]
+strCharacterName="高级毁灭者突击队"
+
+[AdvDestroyerM3 X2CharacterTemplate]
+strCharacterName="精英毁灭者突击队"
+
+[AdvDestroyerM1_WPN X2WeaponTemplate]
+FriendlyName="毁灭者突击步枪"
+
+[AdvDestroyerM2_WPN X2WeaponTemplate]
+FriendlyName="毁灭者突击步枪"
+
+[AdvDestroyerM3_WPN X2WeaponTemplate]
+FriendlyName="毁灭者突击步枪"
+
+[DestroyerWristBladeM1_BM X2PairedWeaponTemplate]
+FriendlyName="毁灭者护臂"
+
+[DestroyerWristBladeM2_BM X2PairedWeaponTemplate]
+FriendlyName="毁灭者护臂"
+
+[DestroyerWristBladeM3_BM X2PairedWeaponTemplate]
+FriendlyName="毁灭者护臂"
+
+
+[PsiDroneM1 X2CharacterTemplate]
+strCharacterName="相位无人机"
+
+[PsiDroneM2 X2CharacterTemplate]
+strCharacterName="相位无人机"
+
+[PsiDroneM3 X2CharacterTemplate]
+strCharacterName="相位无人机"
+
+[XCOMPsiDrone X2CharacterTemplate]
+strCharacterName="相位无人机"
+
+[PsiDroneBeamM1_WPN X2WeaponTemplate]
+FriendlyName="无人机相位冲击器"
+
+[PsiDroneBeamM2_WPN X2WeaponTemplate]
+FriendlyName="无人机相位冲击器"
+
+[PsiDroneBeamM3_WPN X2WeaponTemplate]
+FriendlyName="无人机相位冲击器"
+
+[PsiDroneLauncher_WPN X2WeaponTemplate]
+FriendlyName="微型发射器"
+
+[CorpsePsiDrone X2ItemTemplate]
+FriendlyName="相位无人机残骸"
+FriendlyNamePlural="相位无人机残骸"
+BriefSummary="我们过去曾见过变种人部署过各种类型的无人机，但这种无人机似乎是为了与其他特定装置配合使用而设计的。它不是很耐用，但速度快，行动敏捷，探测范围似乎很大。它还能穿越固体物体。我们应该尝试重建一架，并与我们的士兵一起部署。"
+ 
+[AutopsyPhaseDrone X2TechTemplate]
+DisplayName="相位无人机解剖"
+Summary="相位无人机是一种小型快速无人机，可以相位穿墙，探测范围非常大。"
+CodeName="波克球"
+LongDescription="相位无人机乍一看很简单。仔细观察，这架无人机似乎被赋予了某种相位技术。这种无人机的速度非常快，而且有一个小而致命的武器 。虽然很少能找到或捕获到完整的无人机，但如果我们能找到更多可打捞的残骸，将其重建并部署到战场上供我们的部队使用也许是明智之举，指挥官。R. 泰根"
+ 
+
+[DeployablePhaseDrone X2AbilityTemplate]
+LocFriendlyName="可部署的相位无人机"
+LocLongDescription="在指定地点部署 XCOM 相位无人机。"
+LocHelpText="在指定地点部署 XCOM 相位无人机。"
+LocFlyOverText="部署相位无人机"
+
+[DeployablePhaseDrone X2WeaponTemplate]
+FriendlyName="可部署的相位无人机"
+BriefSummary="相位无人机可为我方士兵提供额外的侦察和火力支援。它的探测半径为 15 瓦。它的部署方式类似于手榴弹，扔到无人机将要部署的位置。"
+TacticalText="<Bullet/> 在指定地点部署 XCOM 相位无人机。\n<Bullet/>可以标记目标。\n<Bullet/>不会消耗，除非被摧毁。"
+
+[WraithVest X2EquipmentTemplate]
+FriendlyName="幽灵背心"
+FriendlyNamePlural="幽灵背心"
+BriefSummary="幽灵突击队所穿的轻型装甲内衬，可与所有 XCOM 装甲一起穿戴，以增加士兵的体能。"
+TacticalText="<Bullet/> 小幅提升士兵的生命值。\n<Bullet/> 赋予穿墙能力。"
+
+[DummyWraithVest X2EquipmentTemplate]
+FriendlyName="幽灵背心"
+FriendlyNamePlural="幽灵背心"
+BriefSummary="幽灵突击队所穿的轻型装甲内衬，可与所有 XCOM 装甲一起穿戴，以增加士兵的体能。"
+TacticalText="<Bullet/> 小幅提升士兵的生命值。\n<Bullet/> 赋予穿墙能力。"
+
+[WallPhasing X2AbilityTemplate]
+LocFriendlyName="幽灵"
+LocHelpText="这套盔甲采用了维度转换技术，使穿戴者可以自由穿越障碍物。"
+LocLongDescription="这套盔甲允许单位直接穿越障碍物。"
+LocFlyOverText="阶段"
+
+[WraithInvert X2AbilityTemplate]
+LocFriendlyName="反转"
+LocLongDescription="与敌方单位交换位置。耗费 1 个专注。"
+LocHelpText="与敌方单位交换位置。耗费 1 个专注。"
+LocPromotionPopupText="<Bullet/> 幽灵反转的冷却时间为 2 个回合，不会结束幽灵的回合。"
+
+[RaptorPsiStrike X2AbilityTemplate]
+LocFriendlyName="灵能打击"
+LocHelpText="施放强大的灵能，将目标推离掩体并击退，同时混乱他们。"
+LocLongDescription="<Bullet/> 灵能打击是一种强大的灵能能力，可将目标推出掩体之外<br><Bullet/>会引起混乱。<br>"
+
+
+[AdvRaptorStandardFire X2AbilityTemplate]
+LocFriendlyName="狙击步枪开火"
+LocHelpText="狙击步枪目标开火。"
+LocLongDescription="<Bullet/> 猛禽的步枪威力强大，远距离射击精准度高，但总是需要两个动作才能开火<br><Bullet/>发射主武器总是会结束士兵的回合<br>"
+
+[AdvRaptorRifleOverwatch X2AbilityTemplate]
+LocFriendlyName="监视"
+LocHelpText="向视线内第一个移动的敌人开火，但会受到瞄准惩罚。"
+LocLongDescriptionWhenConcealed="向在你视线内移动的第一个敌人开火，但只有在被发现时才会开火。"
+LocFlyOverText="监视"
+LocFriendlyNameWhenConcealed="监视 (隐蔽)"
+
+[AdvRaptorSquadsight X2AbilityTemplate]
+LocFriendlyName="小队视野"
+LocLongDescription="只要有目标视线，变种人猛禽就能瞄准队友视线范围内的敌人。"
+LocHelpText="只要有目标视线，变种人猛禽就能瞄准队友视线范围内的敌人。"
+LocFlyOverText="小队视野"
+
+[AdvRaptorLongWatch X2AbilityTemplate]
+LocFriendlyName="守望"
+LocLongDescription="允许小队视野触发监视。"
+LocHelpText="向你视线范围内（小队视线范围内）移动的第一个敌人开火。"
+LocLongDescriptionWhenConcealed="向你视线范围内（小队视线范围内）移动的第一个敌人开火，但只有被发现时才会开火。"
+LocFlyOverText="守望"
+
+[AdvRaptorLongWatchShot X2AbilityTemplate]
+LocFriendlyName="守望射击"
+
+[RaptorJump X2AbilityTemplate]
+LocFriendlyName="猛禽跳跃"
+LocLongDescription="猛禽护甲内置的推进喷射器可让士兵瞬间将自己发射到新的位置。"
+LocHelpText="跳转到新位置。绕过所有监视射击和反应射击。"
+LocFlyOverText="猛禽跳跃"
+
+[DemolitionShot X2AbilityTemplate]
+LocFriendlyName="爆破射击"
+LocLongDescription="向目标的掩体发射一发炮弹，对其造成重大伤害或摧毁。不会对目标造成伤害。"
+LocHelpText="向目标的掩体开火，对其造成重大伤害或摧毁。不会对目标造成伤害。"
+LocFlyOverText="爆破射击"
+LocPromotionPopupText="<Bullet/> 爆破射击需要 <Ability:SelfAmmoCost/> 子弹而且有 <Ability:SelfCooldown/> 回合冷却。<br/><Bullet/> 爆破射击会增加对环境的伤害，并能摧毁大部分掩体。<br/>"
+LocMissMessage="未命中！"
+
+
+[CommandoEnergyShield X2AbilityTemplate]
+LocFriendlyName="能量护盾"
+LocLongDescription="毁灭者突击队可以为附近的所有盟友提供一个能量护盾。如果该单位被击杀，护盾就会崩溃。"
+LocHelpText="在附近的盟友和自己周围投射一个能量护盾。"
+LocFlyOverText="能量护盾"
+
+[CommandoEnergyShieldMk2 X2AbilityTemplate]
+LocFriendlyName="能量护盾"
+LocLongDescription="毁灭者突击队可以为附近的所有盟友提供一个能量护盾。如果该单位被击杀，护盾就会崩溃。"
+LocHelpText="在附近的盟友和自己周围投射一个能量护盾。"
+LocFlyOverText="能量护盾"
+
+[CommandoEnergyShieldMk3 X2AbilityTemplate]
+LocFriendlyName="能量护盾"
+LocLongDescription="毁灭者突击队可以为附近的所有盟友提供一个能量护盾。如果该单位被击杀，护盾就会崩溃。"
+LocHelpText="在附近的盟友和自己周围投射一个能量护盾。"
+LocFlyOverText="能量护盾"
+
+[CommandoKineticPlating X2AbilityTemplate]
+LocFriendlyName="动能电镀"
+LocLongDescription="对毁灭者突击队的射击失误会产生护盾。"
+LocHelpText="对毁灭者突击队的射击失误会产生护盾。"
+LocFlyoverText="动能电镀！"
+
+[CommandoKineticPlatingMk2 X2AbilityTemplate]
+LocFriendlyName="动能电镀"
+LocLongDescription="对毁灭者突击队的射击失误会产生护盾。"
+LocHelpText="对毁灭者突击队的射击失误会产生护盾。"
+LocFlyoverText="动能电镀！"
+
+[CommandoKineticPlatingMk3 X2AbilityTemplate]
+LocFriendlyName="动能电镀"
+LocLongDescription="对毁灭者突击队的射击失误会产生护盾。"
+LocHelpText="对毁灭者突击队的射击失误会产生护盾。"
+LocFlyoverText="动能电镀！"
+
+[DestroyerPull X2AbilityTemplate]
+LocFriendlyName="灵能拉扯"
+LocHelpText="使用超能力拉近目标，进行近身攻击。"
+LocLongDescription="<Bullet/> 灵能牵引是一种灵能能力，它能将目标拉近进行灵能之刃攻击。<br><Bullet/>可以造成恐慌。<br>"
+LocMissMessage="灵能拉扯未命中！"
+
+[PsiDroneLauncher X2AbilityTemplate]
+LocFriendlyName="相位无人机微型导弹"
+LocLongDescription="相位无人机配备一个微型发射器，可发射一枚微型导弹。"
+LocHelpText="向目标区域发射微型导弹。"
+LocFlyoverText="发射微型导弹。"
+
+[WraithBladestorm X2AbilityTemplate]
+LocFriendlyName="剑刃风暴"
+LocLongDescription="自由使用 <Ability:WeaponName/> 攻击任何进入或从近战范围内攻击的敌人。"
+LocHelpText="自由使用 <Ability:WeaponName/> 攻击任何进入或从近战范围内攻击的敌人。"
+LocFlyOverText="剑刃风暴"
+LocPromotionPopupText="<Bullet/> 如果有敌人在相邻的地块上开始回合，如果该敌人试图攻击，剑刃风暴就会触发。 <Ability:ClassName/>.<br/><Bullet/> 如果敌人没有在相邻的地块上开始回合，那么当该敌人移动到近战范围时就会触发 "剑刃风暴"。<br/>"
+
+[WraithBladestormAttack X2AbilityTemplate]
+LocFriendlyName="剑刃风暴"
+LocLongDescription="自由使用 <Ability:WeaponName/> 攻击任何进入或从近战范围内攻击的敌人。"
+LocHelpText="自由使用 <Ability:WeaponName/> 攻击任何进入或从近战范围内攻击的敌人。"
+LocFlyOverText="剑刃风暴"
+LocPromotionPopupText="<Bullet/> 如果有敌人在相邻的地块上开始回合，如果该敌人试图攻击，剑刃风暴就会触发。 <Ability:ClassName/>.<br/><Bullet/> 如果敌人没有在相邻的地块上开始回合，那么当该敌人移动到近战范围时就会触发 "剑刃风暴"。<br/>"
+
+
+
+
+
