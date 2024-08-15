@@ -300,3 +300,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1316359865
 
 * Chinese
 
+# [WOTC] Advent Psi Ops
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1309465679
+
+* Chinese
