@@ -300,3 +300,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1316359865
 
 * Chinese
 
+# [WoTC] ADVENT Military Assault MEC
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2755570022
+
+* Chinese
