@@ -300,3 +300,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1316359865
 
 * Chinese
 
+# [WOTC] FOXCOM Psionics 2.0
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3340465595
+
+* Chinese
