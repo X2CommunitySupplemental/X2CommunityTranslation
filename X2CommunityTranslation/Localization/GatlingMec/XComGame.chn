@@ -1,0 +1,35 @@
+;Place localized text in this file
+
+[GatlingMec X2CharacterTemplate]
+strCharacterName="变种人军用突击MEC"
+strAcquiredText="变种人军用突击MEC拥有厚的装甲板和奇特的武器装备"
+
+[MEC_Shotgun X2WeaponTemplate]
+FriendlyName="变种人MEC霰弹枪"
+FriendlyNamePlural="变种人MEC霰弹枪"
+BriefSummary="强大的MEC型霰弹枪可提供无与伦比的火力"
+TacticalText="<Bullet/> 发射主武器总是会结束士兵的回合\n<Bullet/>"
+
+[MEC_GatlingCannon X2WeaponTemplate]
+FriendlyName="变种人军用突击MEC加特林加农炮"
+FriendlyNamePlural="变种人军用突击MEC加特林加农炮"
+BriefSummary="巨型加特林和大型弹药筒，可用于长时间部署"
+TacticalText="<Bullet/> 发射主武器总是会结束士兵的回合\n<Bullet/>"
+
+[Phasic_Shot X2AbilityTemplate]
+LocFriendlyName="相位射击"
+LocLongDescription="军用突击MEC的霰弹枪装有相位子弹，这些子弹无视护甲、护盾和掩体防御加成。机器人无法成为此能力的目标。"
+LocHelpText="霰弹枪攻击无视护甲、护盾和掩体防御加成。无法瞄准机器人敌人。"
+LocFlyOverText="相位射击"
+
+[Gatling_Sweep X2AbilityTemplate]
+LocFriendlyName="加特林横扫"
+LocLongDescription="突击型MEC使用加特林射击大面积锥形区域，精度较低，无法摧毁装甲。"
+LocHelpText="以MEC前方的广阔区域为目标，用加特林进行攻击，精度低，无法摧毁装甲"
+LocFlyOverText="加特林横扫"
+
+[Gatling_Shot X2AbilityTemplate]
+LocFriendlyName="加特林射击"
+LocLongDescription="强大的单目标攻击，可击碎 4 点护甲并造成流血。近距离内准确率很低。"
+LocHelpText="使用加特林加农炮对单个目标发动毁灭性攻击，可击碎 4 点护甲并造成流血。近距离内准确率很低。"
+LocFlyOverText="加特林射击"

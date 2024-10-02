@@ -287,7 +287,6 @@ https://steamcommunity.com/workshop/filedetails/?id=1519841231
 
 * Chinese
 
-
 # [WOTC] YAF1 Autopsy Required Extension
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2377251739
@@ -303,5 +302,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1316359865
 # [WoTC] ADVENT Military Assault MEC
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2755570022
+
+# [WOTC] Advent Psi Ops
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1309465679
 
 * Chinese
