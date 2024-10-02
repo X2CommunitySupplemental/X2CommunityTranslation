@@ -1,0 +1,57 @@
+[PsiChamber_SecondCell X2FacilityUpgradeTemplate]
+DisplayName="灵能灌注室"
+FacilityName="灵能实验室"
+Summary="在灵能实验室中添加一个灵能灌注室，让没有灵能天赋的士兵也能接受灵能灌注并获得灵能能力。已经接受过灵能装备使用训练的士兵也可以进行灵能注入，以获得额外的灵能能力。"
+
+[IRI_PsiEvaluationStaffSlot X2StaffSlotTemplate]
+BonusDefaultText="灵能评估"
+BonusEmptyText="揭露灵能潜力。"
+
+; I don't think this is used.
+FilledText="%UNITNAME is undergoing deep mediatation to find out if they have innate psionic potential."
+
+[IRI_PsiInfusionStaffSlot X2StaffSlotTemplate]
+BonusDefaultText="灵能灌注"
+BonusEmptyText="赋予灵能潜力。"
+
+; I don't think is actually used for my Psi Slots.
+FilledText="%UNITNAME is undergoing Psionic infusion process to gain access to Psionic abilities despite having no innate psionic potential."
+
+; Pop-up message shown when entering the Psi Lab for the first time.
+[XComGame.UIAlert]
+[UIAlert]
+m_strIntroToPsiLab = "灵能评估"
+m_strIntroToPsiLabBody = "任何非新兵单位都可以在 灵能实验室接受灵能评估，以确定他们是否拥有灵能天赋。如果士兵拥有 “天赋”，他们将立即获得一种新的灵能能力，并随着等级的提升解锁更多能力。为灵能实验室配备一名科学家将减少所有灵能实验室项目的时间。"
+
+[IRI_NoPsionicGift X2AbilityTemplate]
+LocFriendlyName="没有灵能天赋"
+LocLongDescription="这名士兵没有灵能天赋。"
+LocHelpText="这名士兵没有灵能天赋。"
+
+[PsiChamberScientistStaffSlot X2StaffSlotTemplate]
+; BonusText="TRAINING TIME -%AVENGERBONUS%"
+; BonusEmptyText="Decreases Training Time."
+; EmptyText="OPEN: ENGINEER REQUIRED"
+; Sidenote: so cheesy
+; FilledText="%UNITNAME's Psionic engineering program is increasing the rate soldiers train as Psi Operatives!"
+
+BonusEmptyText="减少项目时间、"
+BonusText="PROJECT TIME -%AVENGERBONUS%"
+FilledText="%UNITNAME 在灵能方面的专业知识缩短了完成灵能项目所需的时间。"
+
+; I'd love to use different lines for Psi Infusion and Psi Evaluation, but I also want to extend XComGameState_HeadquartersProjectPsiTraining
+; and having both seems to be impossible. Having slightly worse loc is gonna have to be it.
+[XComGame.XComGameState_HeadquartersXCom]
+[XComGameState_HeadquartersXCom]
+; PsiTrainingEventLabel="PSI TRAINING:"
+PsiTrainingEventLabel="PSI PROJECT:"
+
+
+[PsiChamber X2FacilityTemplate]
+CompletedSummary="用灵能实验室可以评估我们的士兵，看看他们是否拥有灵能天赋。"
+Summary="灵能实验室将允许非新兵单位接受灵能评估，以了解他们是否有任何潜在的灵能天赋，如果有的话，还可以解锁这些天赋。"
+
+[PsiLab X2EncyclopediaTemplate]
+; ListTitle="灵能实验室"
+; DescriptionTitle="灵能实验室"
+DescriptionEntry="为 XCOM 行动人员提供灵能评估的权限。任何非新兵单位都可以通过”灵能评估“了解自己是否拥有与生俱来的灵能能力。如果有，他们就会立即解锁一种新的灵能能力，并可以随着等级的提升学习新的能力，不过通常要以常规的士兵等级训练为代价。"
