@@ -2,6 +2,7 @@
 https://steamcommunity.com/sharedfiles/filedetails/?id=688405905
 
 * Simplified Chinese
+* Russian
   
 # [Vanilla/WotC] Black Market Soldier Stats
 https://steamcommunity.com/sharedfiles/filedetails/?id=3004108595
@@ -35,6 +36,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2303836344
 https://steamcommunity.com/sharedfiles/filedetails/?id=2810261755
 
 * Simplified Chinese
+* Russian
 
 # Fulton Rewards 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1148245942
@@ -52,11 +54,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2664422411
 
 * Simplified Chinese
 * Russian
-* 
+  
 # [WOTC] Spectral Zombie Warning Signs
 https://steamcommunity.com/sharedfiles/filedetails/?id=2743416893
 
 * Chinese
+* Russian
 
 # [WOTC] Rename And Reorganize Campaign
 https://steamcommunity.com/sharedfiles/filedetails/?id=1157270927
@@ -72,6 +75,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1544760525
 https://steamcommunity.com/sharedfiles/filedetails/?id=2782908294
 
 * Chinese
+* Russian
 
 # Narrative Control
 https://steamcommunity.com/sharedfiles/filedetails/?id=1334298434
@@ -107,6 +111,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2012323571
 https://steamcommunity.com/sharedfiles/filedetails/?id=709499969
 
 * Chinese
+* Russian
 
 # Yet Another F1
 https://steamcommunity.com/sharedfiles/filedetails/?id=934236622
@@ -129,6 +134,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1134266810
 https://steamcommunity.com/sharedfiles/filedetails/?id=1183444470
 
 * Chinese
+* Russian
 
 # [WOTC] YAF1 Profile Extension
 https://steamcommunity.com/sharedfiles/filedetails/?id=2368109302
@@ -149,6 +155,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2832773856
 https://steamcommunity.com/sharedfiles/filedetails/?id=1123163799
 
 * Chinese
+* Russian
 
 # [WOTC] Force Level Display
 https://steamcommunity.com/sharedfiles/filedetails/?id=1916761361
@@ -164,6 +171,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2405013108
 https://steamcommunity.com/sharedfiles/filedetails/?id=2347354900
 
 * Chinese
+* Russian
 
 # [WOTC] Extended Personnel Info Redux
 https://steamcommunity.com/sharedfiles/filedetails/?id=2965980985
@@ -180,6 +188,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1207741138
 https://steamcommunity.com/sharedfiles/filedetails/?id=2995251401
 
 * Chinese
+* Russian
 
 # [WOTC] Musashi's Mods Fixes
 https://steamcommunity.com/sharedfiles/filedetails/?id=2569592723
@@ -200,6 +209,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1149493976
 https://steamcommunity.com/sharedfiles/filedetails/?id=667104300
 
 * Chinese
+* Russian
 
 # [WOTC] Cosmo Dragoon
 https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
@@ -308,3 +318,83 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2755570022
 https://steamcommunity.com/sharedfiles/filedetails/?id=1309465679
 
 * Chinese
+
+# Raider Faction: Bandits
+https://steamcommunity.com/sharedfiles/filedetails/?id=1368613369
+
+* Russian
+
+# Raider Faction Bases
+https://steamcommunity.com/sharedfiles/filedetails/?id=1601260788
+
+* Russian
+
+# Raider Faction: Phantoms
+https://steamcommunity.com/sharedfiles/filedetails/?id=1368589567
+
+* Russian
+
+# Raider Faction: Marauders
+https://steamcommunity.com/sharedfiles/filedetails/?id=1368608233
+
+* Russian
+
+# Raider Faction: Cult of Jariah
+https://steamcommunity.com/sharedfiles/filedetails/?id=1368626625
+
+* Russian
+
+# Raider Faction: Rogue XCOM Operatives
+https://steamcommunity.com/sharedfiles/filedetails/?id=1434693497
+
+* Russian
+
+# [WoTC] Custodian Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2094672450
+
+* Russian
+
+# [WOTC] The Hive
+https://steamcommunity.com/sharedfiles/filedetails/?id=1918499687
+
+* Russian
+
+# [WoTC] Muton Harriers
+https://steamcommunity.com/sharedfiles/filedetails/?id=2435857055
+
+* Russian
+
+# [WOTC] Choose My Class
+https://steamcommunity.com/sharedfiles/filedetails/?id=1467643380
+
+* Russian
+
+# Rookie's Choice (WotC)
+https://steamcommunity.com/sharedfiles/filedetails/?id=1942730184
+
+* Russian
+
+# [WOTC] Open Squad Select at any time
+https://steamcommunity.com/sharedfiles/filedetails/?id=1529472981
+
+* Russian
+
+# [WOTC] Show Current PCS
+https://steamcommunity.com/sharedfiles/filedetails/?id=2989400002
+
+* Russian
+
+# Remove Weapon Upgrades
+https://steamcommunity.com/sharedfiles/filedetails/?id=1162274976
+
+* Russian
+
+# [WOTC] Prototype Armoury
+https://steamcommunity.com/sharedfiles/filedetails/?id=2567230602
+
+* Russian
+
+# [WOTC] Show All Class Counts
+https://steamcommunity.com/sharedfiles/filedetails/?id=2167235854
+
+* Russian
