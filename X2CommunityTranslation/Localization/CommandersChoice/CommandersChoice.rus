@@ -1,7 +1,7 @@
 [UIScreenListener_CommandersChoice]
-strCCMenuOption="Повысить солдата"
-strCCTooltip="Выбрав класс солдата"
-strCCDescription="Повысить солдата и выбрать класс для него."
+strCCMenuOption="Повысить бойца"
+strCCTooltip="Выбрав класс бойца"
+strCCDescription="Повысить бойца и выбрать класс для него."
 
 [UIChooseClass_CommandersChoice]
 m_strTitle="Классы"
