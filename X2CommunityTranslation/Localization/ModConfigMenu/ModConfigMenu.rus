@@ -1,13 +1,13 @@
 [MCM_OptionsMenuListener]
-m_strModMenuButton="НАСТРОЙКА МОДОВ"
+m_strModMenuButton="РќРђРЎРўР РћР™РљРђ РњРћР”РћР’"
 
 [MCM_OptionsScreen]
-m_strSaveAndExit="Сохранить и выйти"
-m_strCancel="Отмена"
-m_strTitle="Настройка модов"
+m_strSaveAndExit="РЎРѕС…СЂР°РЅРёС‚СЊ Рё РІС‹Р№С‚Рё"
+m_strCancel="РћС‚РјРµРЅР°"
+m_strTitle="РќР°СЃС‚СЂРѕР№РєР° РјРѕРґРѕРІ"
 m_strSubtitle=""
 
 [MCM_SettingsPanel]
-m_strResetButton="Сбросить"
-m_strRevertButton="Отменить"
-m_strApplyButton="Сохранить"
+m_strResetButton="РЎР±СЂРѕСЃРёС‚СЊ"
+m_strRevertButton="РћС‚РјРµРЅРёС‚СЊ"
+m_strApplyButton="РЎРѕС…СЂР°РЅРёС‚СЊ"
