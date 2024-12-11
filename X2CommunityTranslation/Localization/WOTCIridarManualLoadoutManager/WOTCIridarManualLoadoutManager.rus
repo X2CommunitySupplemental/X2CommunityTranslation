@@ -1,0 +1,141 @@
+[UISL_MLM]
+strSaveLoadout = "СОХРАНИТЬ СНР."
+strLoadLoadout = "ЭКИПИРОВАТЬ СНР."
+
+[Help]
+LoadoutListTitleSave = "ВЫБРАТЬ СНАРЯЖЕНИЕ"
+LoadoutListTitleLoad = "ВЫБРАТЬ СНАРЯЖЕНИЕ"
+
+LoadoutListSubTitleSave = "ПОДГОТОВКА К СОХРАНЕНИЮ СНАРЯЖЕНИЯ БОЙЦА"
+LoadoutListSubTitleLoad = "ПОДГОТОВКА К ЭКИПИРОВАНИЮ СНАРЯЖЕНИЯ БОЙЦА"
+
+CreateNewLoadoutButton = "СОХРАНИТЬ КАК НОВОЕ СНАРЯЖЕНИЕ"
+
+EnterLoadoutName = "Введите название снаряжения"
+PlaceholderLoadoutName = ""
+
+InvalidLoadoutNameTitle = "ОШИБКА!"
+InvalidLoadoutNameText = "Неверное имя снаряжения, снаряжение НЕ сохранено."
+
+LoadoutAlreadyExistsTitle = "ВНИМАНИЕ!"
+LoadoutAlreadyExistsText = "Снаряжение с таким именем уже существует. Перезаписать?"
+
+ConfirmDeleteLoadoutTitle = "ПОДТВЕРЖДЕНИЕ УДАЛЕНИЯ СНАРЯЖЕНИЯ"
+ConfirmDeleteLoadoutText = "Вы уверены, что хотите удалить снаряжение %LoadoutName%?"
+
+EquipLoadout = "ЭКИПИРОВАТЬ СНАРЯЖЕНИЕ"
+
+InvalidLoadoutTitle = "НЕВЕРНОЕ СНАРЯЖЕНИЕ"
+NoItemsInLoadoutText = "Не выбрано ни одного снаряженного предмета. Загрузка не будет сохранена."
+NoItemsInLoadoutText_Equip  = "Не выбрано ни одного предмета из снаряжения. Загрузка не будет произведена."
+
+ConfirmOverwriteLoadoutTitle = "ПОДТВЕРДИТЕ ПЕРЕЗАПИСЬ"
+ConfirmOverwriteLoadoutText = "Вы уверены, что хотите перезаписать снаряжение %LoadoutName%?"
+
+NoLoadoutsToDisplay = "Нет сохраненных снаряжений для отображения."
+NoLoadoutsToDisplay_MaybeDisableFilters = "Нет сохраненных снаряжений для отображения. Может быть, попробовать другой фильтр?"
+
+LIS_MissingTemplate				= "Шаблон отсутствующего элемента:"
+;LIS_NotAvailable				= ""
+;LIS_NotAvailable_NoReplacement	= ""
+;LIS_Restricted					= ""
+LIS_NoSlot						= ": НЕТ СВОБОДНОГО СЛОТА"
+;LIS_NotSelected				= ""
+;LIS_Selected					= ""
+
+LIS_MissingTemplate_Tooltip				= "Шаблон для этого предмета недоступен. В настоящее время этот предмет не существует в вашей игре. Скорее всего, в игре отсутствует мод, добавлявший этот предмет ранее."
+LIS_NotAvailable_Tooltip				= "Этот предмет сейчас недоступен."
+LIS_NotAvailable_Tooltip_NoReplacement	= "Этот предмет в данный момент недоступен, и подходящей замены ему нет."
+LIS_Restricted_Tooltip					= "Этому юниту нельзя экипировать данный предмет."
+
+LIS_NoSlot_Tooltip						= "Похоже, что у юнита нет слота для установки этого предмета, но вы все равно можете попытаться установить его."
+LIS_NoSlot_Replacement_Tooltip			= "Данный предмет в данный момент недоступен. Похоже, что у юнита нет слота для установки этого предмета, но вы все равно можете попытаться его установить."
+
+LIS_NotSelected_Tooltip					= "Этот предмет не будет экипирован. Установите флажок, чтобы экипировать этот предмет."
+LIS_NotSelected_Replacement_Tooltip		= "Данный предмет в данный момент недоступен. Этот предмет на замену не будет экипирован. Установите флажок, чтобы экипировать заменяющий предмет."
+
+LIS_Selected_Tooltip					= "Этот предмет будет экипирован на юните."
+LIS_Selected_Replacement_Tooltip		= "Данный предмет снаряжения в настоящее время недоступен. Этот предмет будет заменен на другой."
+
+LIS_NotSelected_Tooltip_AlreadyEquipped	= "Этот предмет уже экипирован на данном юните. Установите флажок, чтобы убедиться, что он остался."
+LIS_Selected_Tooltip_AlreadyEquipped	= "Этот предмет уже экипирован на юните."
+
+
+SearchFieldTitle = "Введите частичное название снаряжения"
+SearchButtonTooltip = "Поиск снаряжений с указанным текстом в названии."
+SearchButtonTitle = "ПОИСК"
+
+FilterButtonTitle = "ФИЛЬТР"
+
+SquadItems = "ПРЕДМЕТЫ ОТРЯДА"
+
+MakeItemsAvailable_Title = "СДЕЛАТЬ ПРЕДМЕТЫ ДОСТУПНЫМИ"
+MakeItemsAvailable_Tooltip = "Снять броню, предметы и оружие со всех солдат, не выбранных для выполнения текущей миссии. Это снаряжение станет доступно любому солдату для немедленного снаряжения."
+MakeItemsAvailable_Tooltip_Disabled = "Броня, предметы и оружие уже были доступны."
+
+
+ConfirmLoadBackupTitle = "Восстановить снаряжение из резервной копии?"
+ConfirmLoadBackupText = "Iridar's Loadout Manager обнаружил, что сохраненные вами снаряжения были потеряны.<br/><br/>Текущее количество сохраненных снаряжений: %CurrentNumLoadouts%\n\nДоступен файл резервной копии. Он содержит %BackupNumLoadouts% сохраненных снаряжений. Если вы согласитесь, то ваши текущие сохраненные снаряжения будут полностью переписаны из этой резервной копии.\n\n Если вы продолжите работу без восстановления резервной копии, то при сохранении новой снаряжения резервная копия будет переписана."
+
+
+[WOTCIridarManualLoadoutManager_MCMScreen]
+ModName = "Loadout Manager"
+PageTitle = "Iridar's Loadout Manager"
+
+GroupHeader = "Настройки снаряжения"
+
+SHOW_HEADERS_Label = "Показывать метки слотов"
+SHOW_HEADERS_Tip = "Если включено, то в списке предметов снаряжения будут отображаться метки слотов инвентаря."
+
+USE_SIMPLE_HEADERS_Label = "Использовать компактные метки слотов"
+USE_SIMPLE_HEADERS_Tip = "Если включено, то в списке предметов снаряжения будут использоваться более компактные метки слотов инвентаря."
+
+ALLOW_MODIFIED_ITEMS_Label = "Разрешить модифицированные предметы"
+ALLOW_MODIFIED_ITEMS_Tip = "Если включено, Loadout Manager будет экипировать модифицированный предмет, если недоступна немодифицированная версия."
+
+ALLOW_REPLACEMENT_ITEMS_Label = "Разрешить замену предметов"
+ALLOW_REPLACEMENT_ITEMS_Tip = "Если включено, Loadout Manager будет искать наилучшую замену предмету снаряжения, который в данный момент недоступен. На эту опцию влияет параметр \"Разрешить модифицированные предметы\"."
+
+LOADOUT_FILTER_STATUS_Label = "Фильтр снаряжения по умолчанию"
+LOADOUT_FILTER_STATUS_Tip = "Выберите фильтр снаряжения, активный по умолчанию на экранах \"сохранить снаряжение\" и \"Экипировать снаряжение\". Опция \"Выключено\" означает, что кнопка фильтра будет скрыта, а все экипированные предметы будут видны всегда."
+
+
+Group2Header = "Выбор отряда"
+
+DISPLAY_SQUAD_ITEMS_BUTTON_Label = "Отображать кнопку \"Предметы отряда\"."
+DISPLAY_SQUAD_ITEMS_BUTTON_Tip = "Если включено, то на экране выбора отряда появится кнопка \"Предметы отряда\". При нажатии на нее отображается список всех предметов, которыми экипированы бойцы отряда."
+
+MAX_LOADOUT_LIST_ITEMS_Label = "Макс. количество предметов в списке предметов отряда"
+MAX_LOADOUT_LIST_ITEMS_Tip = "Максимальное количество предметов, отображаемых в списке предметов отряда, прежде чем он станет прокручиваемым. Определяет объем пространства, которое может потенциально занимать список."
+
+DISPLAY_SQUAD_SELECT_SHORTCUT_Label = "Отображать кнопки \"Экипировать снаряжение\" на экране выбора отряда."
+DISPLAY_SQUAD_SELECT_SHORTCUT_Tip = "Если эта опция включена, то под каждым солдатом в на экране выбора отряда будет находиться кнопка \"Экипировать снаряжение\"."
+
+
+Group3Header = "Разное"
+
+MAKE_BACKUPS_Label = "Автоматическое резервное копирование"
+MAKE_BACKUPS_Tip = "Если эта опция включена, мод будет автоматически создавать резервные копии всех снаряжений и сохранять их в файле, расположенном по адресу:\n.\\\Documents\my games\\\XCOM2 War of the Chosen\\\XComGame\\X2LoadoutManagerBackup.bin."
+
+DEBUG_LOGGING_Label = "Включить ведение журнала отладки"
+DEBUG_LOGGING_Tip = "При включении мод будет сохранять отладочные сообщения в файле журнала, расположенного по адресу:\n..\\\Documents\\\my games\\\XCOM2 War of the Chosen\\\XComGame\\\Logs\\\Launch.log."
+
+SquadItemsPositionX_Label = "Положение кнопки \"Предметы отряда\" по оси X"
+SquadItemsPositionX_Tip = "Горизонтальное смещение от левого верхнего угла экрана."
+SquadItemsPositionY_Label = "Положение кнопки \"Предметы отряда\" по оси Y"
+SquadItemsPositionY_Tip = "Вертикальное смещение от левого верхнего угла экрана."
+
+
+LOADOUT_FILTER_STATUS_Strings[0] = "Отключено"
+LOADOUT_FILTER_STATUS_Strings[1] = "Нет"
+LOADOUT_FILTER_STATUS_Strings[2] = "Класс"
+LOADOUT_FILTER_STATUS_Strings[3] = "Снаряжение"
+LOADOUT_FILTER_STATUS_Strings[4] = "Основное оружие"
+LOADOUT_FILTER_STATUS_Strings[5] = "Доп. оружие"
+
+LOADOUT_FILTER_STATUS_Tooltips[0] = "Отключено"
+LOADOUT_FILTER_STATUS_Tooltips[1] = "Все предметы снаряжения видны."
+LOADOUT_FILTER_STATUS_Tooltips[2] = "Снаряжения, сохраненные для другого класса солдата, отфильтровываются."
+LOADOUT_FILTER_STATUS_Tooltips[3] = "Отфильтровываются снаряжения, содержащие оружие или броню, запрещенные для данного класса бойцов."
+LOADOUT_FILTER_STATUS_Tooltips[4] = "Снаряжения, содержащие основное оружие, ограниченное для данного класса бойцов, отфильтровываются."
+LOADOUT_FILTER_STATUS_Tooltips[5] = "Снаряжения, содержащие доп. оружие, ограниченное для данного класса бойцов, отфильтровываются."

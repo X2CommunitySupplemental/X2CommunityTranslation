@@ -1,0 +1,11 @@
+[PreviewLOS X2AbilityTemplate]
+LocFriendlyName="Предпросмотр прямой видимости"
+LocHelpText="Посмотреть границы линии прямой видимости"
+
+[PreviewMovement X2AbilityTemplate]
+LocFriendlyName="Предпросмотр перемещения"
+LocHelpText="Посмотреть клетки перемещения вражеского юнита"
+
+[PreviewBodyLocation X2AbilityTemplate]
+LocFriendlyName="Предпросмотр переносимых тел"
+LocHelpText="Посмотреть местоположение переносимых тел."

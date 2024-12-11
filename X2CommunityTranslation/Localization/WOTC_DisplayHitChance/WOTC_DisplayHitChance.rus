@@ -1,0 +1,120 @@
+[X2Action_ApplyWeaponDamageToUnit_HITCHANCE]
+HIT_CHANCE ="Шанс";
+CRIT_CHANCE ="Крит";
+DODGE_CHANCE ="Царапина";
+MISS_CHANCE ="Шанс";
+
+SHORT_GUARANTEED_HIT="";
+SHORT_HIT_CHANCE="";
+SHORT_MISS_CHANCE="";
+SHORT_CRIT_CHANCE="К";
+SHORT_DODGE_CHANCE="Ц";
+
+GUARANTEED_HIT ="";
+GUARANTEED_MISS ="Гарантированный Промах";
+
+REPEATER_KILL ="Повторитель!";
+
+FAILED_TEXT = "Неудача!"
+
+[WOTC_DisplayHitChance_MCMScreen]
+sSettingsPage_MCMText = "Extended Information!";
+sPageTitle_MCMText = "Extended Information!";
+sGroupGeneralSettings_MCMText = "Основные настройки";
+sGroupFlyoverSettings_MCMText = "Настройка всплывающих подсказок урона";
+sShowHitChance_MCMText = "Показывать проценты вероятностей в всплывающих подсказках урона";
+sVerboseText_MCMText = "Включить длинный текст всплывающих подсказок урона";
+sDisplayMissChance_MCMText = "Отображать шанс промахнуться вместо шанса попасть";
+sShowTemplarMessages_MCMText = "Показывать проценты вероятностей для навыков Храмовника: Парирование/Отражение/Поделом";
+sShowAimAssist_MCMText = "Показывать помошника прицеливания";
+; sFlyoverDuration_MCMText = "Время отображения всплывающих подсказок";
+sShowGuaranteedHit_MCMText = "Показывать строку \"Гарантированное попадание\"";
+
+sGroupShotBar_MCMText = "Настройки строк";
+sBarHeight_MCMText = "Высота строк";
+;sBarOffsetX_MCMText = "Расположение строк по X";
+;sBarOffsetY_MCMText = "Расположение строк по Y";
+sBarAlpha_MCMText = "Прозрачность строк";
+;sBarWidthMult_MCMText = "Множитель ширины строк";
+;sGeneralOffsetY_MCMText = "Основное Расположение по Y";
+;sDodgeOffsetX_MCMText = "Промах: расположение по X";
+;sCritOFfsetX_MCMText = "Крит: расположение по X";
+;sCritOffsetY_MCMText = "Крит: расположение по Y";
+sHitHexColor_MCMText = "Цвет строки Попадание";
+sCritHexColor_MCMText = "Цвет строки Крит";
+sDodgeHexColor_MCMText = "Цвет строки Уклонение";
+sMissHexColor_MCMText = "Цвет строки Промах";
+sGroupShotHUD_MCMText = "Настройки HUD выстрела";
+sGroupBarColors_MCMText = "Настройки цвета строк";
+sShowGrazed_MCMText = "Показывать царапины в HUD выстрела";
+sShowCrit_MCMText = "Показывать Крит в HUD выстрела";
+sAimLeftOfCrit_MCMText = "Шанс попадания слева от Крита";
+sAssistBesideHit_MCMText = "Помошника прицеливания рядом с шансом Попадания";
+sPreviewMinimum_MCMText = "Предпросмотр минимального урона";
+sPreviewHacking_MCMText = "Предпросмотр \"Взлома\"";
+sWarningMessage_MCMText = "Обратите внимание что любое смещение расположения может привести к ухудщению отображения информации на экране!";
+sGrazeCritLayout_MCMText = "Формат отображение шанса Царапины и Критического урона"
+sAssistHexColor_MCMText = "Цвет шанса помошника прицеливания";
+
+
+;DEBUG
+sDodgeOffsetY_MCMText = "Уворот: расположение по Y";
+;DEBUG
+
+
+sBlack = "Черный";
+sWhite = "Белый";
+sCyan = "Голубой";
+sFadedCyan = "Блеклый голубой";
+sFadedYellow = "Блеклый желтый";
+sGray = "Серый";
+sGreen = "Зеленый";
+sRed = "Красный";
+sYellow = "Желтый";
+sPerkYellow = "Яркий желтый";
+sCashGreen = "Зеленый ресурсный";
+sPurple = "Фиолетовый";
+sOrange = "Оранжевый";
+sOrangeEngineering = "Оранжевый инженерный";
+sBlueScience = "Голубой научный";
+sObjIconBackground = "Фон иконки цели";
+
+sLayoutLeft = "Царапина и Критический урон слева";
+sLayoutBalanced = "Царапина слева и Критический урон справа";
+sLayoutRight = "Царапина и Критический урон справа";
+
+sShowAlwaysShotBreakdownHUD_MCMText = "Всегда показывать разбивку параметров выстрела";
+sGroupShotWings_MCMText = "Настройки параметров выстрела";
+
+sGroupToolTips_MCMTtext = "Настройки подсказок";
+sToolTipAlpha_MCMText = "Прозрачность фона подсказок";
+sShowEnemyToolTip_MCMText = "Показывать подсказки о противнике";
+sShowExtraWeaponStats_MCMText = "ВКЛ./ВЫКЛ. характеристик оружия";
+
+
+[WOTC_DisplayHitChance_UITacticalHUD_ShotWings]
+LOWER_DIFFICULTY_MSG = "Снижение сложности";
+MISS_STREAK_MSG = "Серия промахов";
+SOLDIER_LOST_BONUS = "Бонус павшего солдата";
+CRIT_DAMAGE_LABEL =  "Крит";
+
+
+[WOTC_DisplayHitChance_UITacticalHUD_ShotHUD]
+CRIT_DAMAGE_LABEL="Крит";
+GRAZE_CHANCE_LABEL="Царапина";
+
+
+[UITacticalHUD_EnemyTooltip_HitChance]
+PrimaryBase = "Базовый урон";
+PrimarySpread = "Разброс урона";
+PrimaryPlusOne = "Урон +1";
+EnemyStatsTitle = "Характеристики противника";
+
+
+[UITacticalHUD_SoldierInfoTooltip_HitChance]
+KILLS_LABEL = "Убийства";
+ASSIST_LABEL = "Содействие";
+FLANKING_CRIT_LABEL = "Крит с фланга";
+
+[StatListLib]
+HackDefenseLabel = "Защита от взлома";
