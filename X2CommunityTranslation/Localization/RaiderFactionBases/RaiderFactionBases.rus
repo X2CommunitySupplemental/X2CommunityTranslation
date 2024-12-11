@@ -1,0 +1,37 @@
+[UIStrategyMapItem_RaiderBase]
+MapPin_Header="Штаб"
+MapPin_Tooltip=""
+
+
+[UIMission_RaiderAmbush]
+m_strFlavorText="Шеф, что то пошло не по плану, и наш оперативник срочно нуждается в поддержке!"
+m_strLaunchMission="НАЧАТЬ"
+m_strIgnore="НЕЛЬЗЯ ИГНОРИРОВАТЬ"
+m_strMissionSubtitle="Засада \"Налетчиков\""
+
+[X2StrategyElement_RaiderRewards]
+m_strDiscoveryText="Найти <XGParam:StrValue0/!BaseName/>"
+m_strActionText="Уничтожить <XGParam:StrValue0/!BaseName/>"
+
+[Reward_RaiderBaseAction X2RewardTemplate]
+DisplayName="Уничтожить штаб-квартиру \"Налетчиков\""
+RewardDetails="Рейд по уничтожению штаб-квартиры \"Налетчиков\" в данном регионе, это заметно снизит их активность во время наших заданий."
+
+[Reward_DiscoverRaiderBase X2RewardTemplate]
+DisplayName="Найти штаб-квартиру \"Налетчиков\""
+RewardDetails="Как можно скорее мы должны обнаружить штаб-квартиру \"Налетчиков\" в данном регионе, это позволит нанести по ним удар, и покончить с их вмешательством в наши дела."
+
+[CovertActionNarrative_FindRaiderBase X2CovertActionNarrativeTemplate]
+ActionName="Поиск \"Налетчиков\""
+ActionPreNarrative="Разведка сообщила об обнаружении штаб-квартиры \"Налетчиков\" в <XGParam:StrValue3/!ContinentName/>. Их присутствие несомненно доставит нам немало хлопот, пока мы не решим эту проблему кардинально, именно поэтому нам необходимо обнаружить координаты их штаб-квартиры."
+ActionPostNarrative="Нам удалось обнаружить их штаб-квартиру: осталось дело за малым, спланировать и осуществить операцию по их нейтрализации."
+
+[CovertActionNarrative_RaiderBaseAction X2CovertActionNarrativeTemplate]
+ActionName="Саботаж \"Налетчиков\""
+ActionPreNarrative="Непонятно зачем, но \"Адвент\" всячески защищает \"Налетчиков\" в <XGParam:StrValue3/!ContinentName/> от любого нашего вмешательства. Возможно это наш единственный шанс помешать им раз и навсегда."
+ActionPostNarrative="Конечно со временем они найдут новых добровольцев, но до этого они будут гораздо меньше болтаться у нас под ногами."
+
+[CovertActionNarrative_RaiderDataRetrieval X2CovertActionNarrativeTemplate]
+ActionName="Захватить данные"
+ActionPreNarrative="По нашим данным, \"Налетчик\" проявляют активность в <XGParam:StrValue3/!ContinentName/> с целью завладеть важными разведданными \"Адвента\": если мы отправим в этот регион нашего оперативника, то мы можем перехватить эти данные."
+ActionPostNarrative="Операция прошла успешно: Теперь нам стали более понятны цели и мотивы \"Адвента\"."

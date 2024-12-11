@@ -1,0 +1,15 @@
+[X2Effect_AdrenalRush]
+strAdrenalRushFriendlyDesc="Под воздействием \"Прилива Адреналина\" Воина Роя. +10 к меткости и +2 к мобильности. Длительность - 2 хода."
+
+[X2Effect_HyperReactiveSenses]
+strHyperReactiveSensesFriendlyDesc="Воин Роя активировал свое реактивное чутье. +10 к уклонению, +20 к воле. Длительность - 2 хода."
+strXCOMHyperReactiveSensesFriendlyDesc="Солдат активировал свое реактивное чутье. +10 к уклонению, +20 к воле, +10 к меткости и +3 к мобильности. Длительность - 2 хода."
+
+[X2EventListener_TacticalUI]
+TheHiveTurn="ДИКИЙ РОЙ"
+
+[X2Effect_RipperMobilityDamage]
+RipperMobilityDamageMessage="Передвижение затруднено"
+
+[X2StrategyElement_HiveArmorSlot]
+SlotName="БРОНЯ РОЯ"

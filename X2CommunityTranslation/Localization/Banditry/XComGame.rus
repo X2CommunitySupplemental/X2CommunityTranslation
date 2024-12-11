@@ -1,0 +1,230 @@
+[RaiderIncursion X2SitRepTemplate]
+FriendlyName="Нашествие бандитов"
+Description="По данным разведки, в зоне операции действуют бандиты: действуйте с осторожностью."
+
+[RaiderIncursionEffect X2SitRepEffect_AddTeam]
+FriendlyName="Нашествие бандитов"
+Description="В регионе действует враждебный всем сторонам бандитский патруль."
+
+;junta
+[JuntaGrunt_M1 X2CharacterTemplate]
+strCharacterName="Быстрый солдат хунты"
+[JuntaGrunt_M2 X2CharacterTemplate]
+strCharacterName="Быстрый солдат хунты"
+[JuntaGrunt_M3 X2CharacterTemplate]
+strCharacterName="Быстрый солдат хунты"
+
+[JuntaRifleman_M1 X2CharacterTemplate]
+strCharacterName="Солдат хунты"
+[JuntaRifleman_M2 X2CharacterTemplate]
+strCharacterName="Солдат хунты"
+[JuntaRifleman_M3 X2CharacterTemplate]
+strCharacterName="Солдат хунты"
+
+[JuntaGunner_M1 X2CharacterTemplate]
+strCharacterName="Тяжелый солдат хунты"
+[JuntaGunner_M2 X2CharacterTemplate]
+strCharacterName="Тяжелый солдат хунты"
+[JuntaGunner_M3 X2CharacterTemplate]
+strCharacterName="Тяжелый солдат хунты"
+
+[JuntaSniper_M1 X2CharacterTemplate]
+strCharacterName="Снайпер хунты"
+[JuntaSniper_M2 X2CharacterTemplate]
+strCharacterName="Снайпер хунты"
+[JuntaSniper_M3 X2CharacterTemplate]
+strCharacterName="Снайпер хунты"
+
+;bandits
+[BanditGrunt_M1 X2CharacterTemplate]
+strCharacterName="Солдат бандитов"
+
+[BanditGunner_M1 X2CharacterTemplate]
+strCharacterName="Пулеметчик бандитов"
+
+[BanditRifleman_M1 X2CharacterTemplate]
+strCharacterName="Стрелок бандитов"
+
+[BanditGrunt_M2 X2CharacterTemplate]
+strCharacterName="Налетчик бандитов"
+
+[BanditGunner_M2 X2CharacterTemplate]
+strCharacterName="Тяжелый пулеметчик бандитов"
+
+[BanditRifleman_M2 X2CharacterTemplate]
+strCharacterName="Стрелок-пехотинец бандитов"
+
+[BanditGrunt_M3 X2CharacterTemplate]
+strCharacterName="Заступник бандитов"
+
+[BanditGunner_M3 X2CharacterTemplate]
+strCharacterName="Заградительный пулеметчик бандитов"
+
+[BanditRifleman_M3 X2CharacterTemplate]
+strCharacterName="Меткий стрелок бандитов"
+
+
+[BanditRifle_CV X2WeaponTemplate]
+FriendlyName="Штурмовая винтовка бандитов"
+FriendlyNamePlural="Штурмовые винтовки бандитов"
+BriefSummary=""
+TacticalText=""
+
+[BanditLMG_CV X2WeaponTemplate]
+FriendlyName="Ручной пулемет бандитов"
+FriendlyNamePlural="Ручные пулеметы бандитов"
+BriefSummary=""
+TacticalText=""
+
+[BanditSMG_CV X2WeaponTemplate]
+FriendlyName="Ручной пулемет бандитов"
+FriendlyNamePlural="Ручные пулеметы бандитов"
+BriefSummary=""
+TacticalText=""
+
+[BanditRifle_MG X2WeaponTemplate]
+FriendlyName="Штурмовая винтовка бандитов"
+FriendlyNamePlural="Штурмовые винтовки бандитов"
+BriefSummary=""
+TacticalText=""
+
+[BanditLMG_MG X2WeaponTemplate]
+FriendlyName="Ручной пулемет бандитов"
+FriendlyNamePlural="Ручные пулеметы бандитов"
+BriefSummary=""
+TacticalText=""
+
+[BanditSMG_MG X2WeaponTemplate]
+FriendlyName="Ручной пулемет бандитов"
+FriendlyNamePlural="Ручные пулеметы бандитов"
+BriefSummary=""
+TacticalText=""
+
+[BanditRifle_BM X2WeaponTemplate]
+FriendlyName="Штурмовая винтовка бандитов"
+FriendlyNamePlural="Штурмовые винтовки бандитов"
+BriefSummary=""
+TacticalText=""
+
+[BanditLMG_BM X2WeaponTemplate]
+FriendlyName="Ручной пулемет бандитов"
+FriendlyNamePlural="Ручные пулеметы бандитов"
+BriefSummary=""
+TacticalText=""
+
+[BanditSMG_BM X2WeaponTemplate]
+FriendlyName="Ручной пулемет бандитов"
+FriendlyNamePlural="Ручные пулеметы бандитов"
+BriefSummary=""
+TacticalText=""
+; junta weapons
+
+[JuntaLMG_M1 X2WeaponTemplate]
+FriendlyName="Пушка хунты"
+FriendlyNamePlural="Пушки хунты"
+BriefSummary=""
+TacticalText=""
+[JuntaLMG_M2 X2WeaponTemplate]
+FriendlyName="Пушка хунты"
+FriendlyNamePlural="Пушки хунты"
+BriefSummary=""
+TacticalText=""
+[JuntaLMG_M3 X2WeaponTemplate]
+FriendlyName="Пушка хунты"
+FriendlyNamePlural="Пушки хунты"
+BriefSummary=""
+TacticalText=""
+
+
+[JuntaSMG_M1 X2WeaponTemplate]
+FriendlyName="Ручной пулемет хунты"
+FriendlyNamePlural="Ручные пулеметы хунты"
+BriefSummary=""
+TacticalText=""
+[JuntaSMG_M2 X2WeaponTemplate]
+FriendlyName="Ручной пулемет хунты"
+FriendlyNamePlural="Ручные пулеметы хунты"
+BriefSummary=""
+TacticalText=""
+[JuntaSMG_M3 X2WeaponTemplate]
+FriendlyName="Ручной пулемет хунты"
+FriendlyNamePlural="Ручные пулеметы хунты"
+BriefSummary=""
+TacticalText=""
+
+[JuntaRifle_M1 X2WeaponTemplate]
+FriendlyName="Винтовка хунты"
+FriendlyNamePlural="Винтовки хунты"
+BriefSummary=""
+TacticalText=""
+[JuntaRifle_M2 X2WeaponTemplate]
+FriendlyName="Винтовка хунты"
+FriendlyNamePlural="Винтовки хунты"
+BriefSummary=""
+TacticalText=""
+[JuntaRifle_M3 X2WeaponTemplate]
+FriendlyName="Винтовка хунты"
+FriendlyNamePlural="Винтовки хунты"
+BriefSummary=""
+TacticalText=""
+
+[JuntaSniper_M1 X2WeaponTemplate]
+FriendlyName="Снайперская винтовка хунты"
+FriendlyNamePlural="Снайперские винтовки хунты"
+BriefSummary=""
+TacticalText=""
+[JuntaSniper_M2 X2WeaponTemplate]
+FriendlyName="Снайперская винтовка хунты"
+FriendlyNamePlural="Снайперские винтовки хунты"
+BriefSummary=""
+TacticalText=""
+[JuntaSniper_M3 X2WeaponTemplate]
+FriendlyName="Снайперская винтовка хунты"
+FriendlyNamePlural="Снайперские винтовки хунты"
+BriefSummary=""
+TacticalText=""
+
+; abilities
+[BanditLowProfile X2AbilityTemplate]
+LocFriendlyName="Низкий профиль"
+LocHelpText="Прячется за низким укрытием, так как если бы это было высокое укрытие."
+
+[JuntaSniperReaction_M1 X2AbilityTemplate]
+LocFriendlyName="Реакции хунты"
+LocHelpText="Может выстрелить в ответ в того, кто ранит кого-то из его отряда."
+[JuntaSniperReaction_M2 X2AbilityTemplate]
+LocFriendlyName="Реакции хунты"
+LocHelpText="Может выстрелить в ответ в того, кто ранит кого-то из его отряда."
+[JuntaSniperReaction_M3 X2AbilityTemplate]
+LocFriendlyName="Реакции хунты"
+LocHelpText="Может выстрелить в ответ в того, кто ранит кого-то из его отряда."
+
+[JuntaRiflemanReaction_M1 X2AbilityTemplate]
+LocFriendlyName="Реакции хунты"
+LocHelpText="Может выстрелить в ответ в того, кто ранит кого-то из его отряда."
+[JuntaRiflemanReaction_M2 X2AbilityTemplate]
+LocFriendlyName="Реакции хунты"
+LocHelpText="Может выстрелить в ответ в того, кто ранит кого-то из его отряда."
+[JuntaRiflemanReaction_M3 X2AbilityTemplate]
+LocFriendlyName="Реакции хунты"
+LocHelpText="Может выстрелить в ответ в того, кто ранит кого-то из его отряда."
+
+[JuntaGruntReaction_M1 X2AbilityTemplate]
+LocFriendlyName="Реакции хунты"
+LocHelpText="Может выстрелить в ответ в того, кто ранит кого-то из его отряда."
+[JuntaGruntReaction_M2 X2AbilityTemplate]
+LocFriendlyName="Реакции хунты"
+LocHelpText="Может выстрелить в ответ в того, кто ранит кого-то из его отряда."
+[JuntaGruntReaction_M3 X2AbilityTemplate]
+LocFriendlyName="Реакции хунты"
+LocHelpText="Может выстрелить в ответ в того, кто ранит кого-то из его отряда."
+
+[JuntaGunnerReaction_M1 X2AbilityTemplate]
+LocFriendlyName="Реакции хунты"
+LocHelpText="Может выстрелить в ответ в того, кто ранит кого-то из его отряда."
+[JuntaGunnerReaction_M2 X2AbilityTemplate]
+LocFriendlyName="Реакции хунты"
+LocHelpText="Может выстрелить в ответ в того, кто ранит кого-то из его отряда."
+[JuntaGunnerReaction_M3 X2AbilityTemplate]
+LocFriendlyName="Реакции хунты"
+LocHelpText="Может выстрелить в ответ в того, кто ранит кого-то из его отряда."

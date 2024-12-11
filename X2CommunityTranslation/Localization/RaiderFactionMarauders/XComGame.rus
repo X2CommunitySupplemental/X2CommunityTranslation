@@ -1,0 +1,177 @@
+;abilities
+[RM_GuardianStasis X2AbilityTemplate]
+LocFriendlyName="Стазис"
+LocLongDescription="Полностью оглушает цель на 1 ход, но делает ее невосприимчивой к любому урону или атаке."
+LocHelpText="Полностью оглушает цель на 1 ход, но делает ее невосприимчивой к любому урону или атаке."
+LocFlyOverText="Стазис"
+LocPromotionPopupText="<Bullet/> Имеет перезарядку в <Ability:SelfCooldown/> хода.<br/><Bullet/> Поскольку стазис полностью выводит отряд из строя, его можно использовать на союзниках в обороне, или на врагах в наступлении.<br/>"
+
+[RM_ScarredReaction X2AbilityTemplate]
+LocFriendlyName="Рефлексы шрамованного"
+LocLongDescription="Шрамованный реагирует на любой нанесенный ему урон."
+LocHelpText="Шрамованный реагирует на любой нанесенный ему урон."
+LocFlyOverText="Рефлексы шрамованного"
+
+; misc text
+[MarauderIncursion X2SitRepTemplate]
+FriendlyName="Нападение \"Мародеров\""
+Description="ВНИМАНИЕ! По данным разведки в регионе присутствует фракция \"Мародеров\"."
+
+[MarauderIncursionEffect X2SitRepEffect_AddTeam]
+FriendlyName="Нападение \"Мародеров\""
+Description="В регионе действует враждебный патруль \"Мародеров\"."
+
+;characters
+[MARScarred_M1 X2CharacterTemplate]
+strCharacterName="Злобный шрамованный"
+[MARScarred_M2 X2CharacterTemplate]
+strCharacterName="Яростный шрамованный"
+[MARScarred_M3 X2CharacterTemplate]
+strCharacterName="Бешеный шрамованный"
+
+[MARCleanser_M1 X2CharacterTemplate]
+strCharacterName="Злобный чистильщик"
+
+[MARCleanser_M2 X2CharacterTemplate]
+strCharacterName="Яростный чистильщик"
+
+[MARCleanser_M3 X2CharacterTemplate]
+strCharacterName="Бешеный чистильщик"
+
+[MARGuardian_M1 X2CharacterTemplate]
+strCharacterName="Злобный страж"
+
+[MARGuardian_M2 X2CharacterTemplate]
+strCharacterName="Яростный страж"
+
+[MARGuardian_M3 X2CharacterTemplate]
+strCharacterName="Бешеный страж"
+
+[MARMarauder_M1 X2CharacterTemplate]
+strCharacterName="Злобный мародер"
+
+[MARMarauder_M2 X2CharacterTemplate]
+strCharacterName="Яростный мародер"
+
+[MARMarauder_M3 X2CharacterTemplate]
+strCharacterName="Бешеный мародер"
+
+
+;weapons
+[Cleanser_CV X2WeaponTemplate]
+FriendlyName="Огнемет чистильщика"
+FriendlyNamePlural="Огнеметы чистильщиков"
+BriefSummary=""
+TacticalText=""
+
+[Cleanser_MG X2WeaponTemplate]
+FriendlyName="Огнемет чистильщика"
+FriendlyNamePlural="Огнеметы чистильщиков"
+BriefSummary=""
+TacticalText=""
+
+[Cleanser_BM X2WeaponTemplate]
+FriendlyName="Огнемет чистильщика"
+FriendlyNamePlural="Огнеметы чистильщиков"
+BriefSummary=""
+TacticalText=""
+
+[MARCannon_CV X2WeaponTemplate]
+FriendlyName="Пушка стража"
+FriendlyNamePlural="Пушки стражей"
+BriefSummary=""
+TacticalText=""
+
+[MARCannon_MG X2WeaponTemplate]
+FriendlyName="Пушка стража"
+FriendlyNamePlural="Пушки стражей"
+BriefSummary=""
+TacticalText=""
+
+[MARCannon_BM X2WeaponTemplate]
+FriendlyName="Пушка стража"
+FriendlyNamePlural="Пушки стражей"
+BriefSummary=""
+TacticalText=""
+
+[MARAmp_CV X2WeaponTemplate]
+FriendlyName="Пси-усилитель стража"
+FriendlyNamePlural="Пси-усилители стражей"
+BriefSummary=""
+TacticalText=""
+
+[MARAmp_MG X2WeaponTemplate]
+FriendlyName="Пси-усилитель стража"
+FriendlyNamePlural="Пси-усилители стражей"
+BriefSummary=""
+TacticalText=""
+
+[MARAmp_BM X2WeaponTemplate]
+FriendlyName="Пси-усилитель стража"
+FriendlyNamePlural="Пси-усилители стражей"
+BriefSummary=""
+TacticalText=""
+
+[MARBullpup_CV X2PairedWeaponTemplate]
+FriendlyName="Буллпап мародера"
+FriendlyNamePlural="Буллпапы мародеров"
+BriefSummary=""
+TacticalText=""
+
+[MARBullpup_MG X2PairedWeaponTemplate]
+FriendlyName="Буллпап мародера"
+FriendlyNamePlural="Буллпапы мародеров"
+BriefSummary=""
+TacticalText=""
+
+[MARBullpup_BM X2PairedWeaponTemplate]
+FriendlyName="Буллпап мародера"
+FriendlyNamePlural="Буллпапы мародеров"
+BriefSummary=""
+TacticalText=""
+
+[MARJack_CV X2WeaponTemplate]
+FriendlyName="Потрошитель мародера"
+FriendlyNamePlural="Потрошители мародеров"
+BriefSummary=""
+TacticalText=""
+
+[MARJack_MG X2WeaponTemplate]
+FriendlyName="Потрошитель мародера"
+FriendlyNamePlural="Потрошители мародеров"
+BriefSummary=""
+TacticalText=""
+
+[MARJack_BM X2WeaponTemplate]
+FriendlyName="Потрошитель мародера"
+FriendlyNamePlural="Потрошители мародеров"
+BriefSummary=""
+TacticalText=""
+
+[ScarredSMG_M1 X2WeaponTemplate]
+FriendlyName="Буллпап шрамованного"
+FriendlyNamePlural="Буллпапы шрамованных"
+BriefSummary=""
+TacticalText=""
+AbilityDescName="буллпап"
+
+[ScarredSMG_M2 X2WeaponTemplate]
+FriendlyName="Буллпап шрамованного"
+FriendlyNamePlural="Буллпапы шрамованных"
+BriefSummary=""
+TacticalText=""
+AbilityDescName="буллпап"
+
+[ScarredSMG_M3 X2WeaponTemplate]
+FriendlyName="Буллпап шрамованного"
+FriendlyNamePlural="Буллпапы шрамованных"
+BriefSummary=""
+TacticalText=""
+AbilityDescName="буллпап"
+
+[ScarredSMG_XCOM X2WeaponTemplate]
+FriendlyName="Буллпап шрамованного"
+FriendlyNamePlural="Буллпапы шрамованных"
+BriefSummary="Личная модификация буллпапа шрамованных. Обладает исключительной огневой мощью, но имеет меньший магазин, по сравнению со стандартным буллпапом."
+TacticalText="<Bullet/> Модификации этого буллпапа, позволяют наносить огромный урон на поле боя.\n<Bullet/> Можно выстрелить и переместится, а можно пальнуть дважды за ход.\n<Bullet/> Имеет менее вместительный магазин, чем стандартный буллпап.\n<Bullet/> Из-за специфических модификаций, это оружие не может быть улучшено."
+AbilityDescName="буллпап"

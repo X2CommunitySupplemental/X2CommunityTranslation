@@ -1,0 +1,177 @@
+[CultistIncursion X2SitRepTemplate]
+FriendlyName="Нападение \"Сектантов\""
+Description="ВНИМАНИЕ! По данным разведки в регионе присутствует фракция \"Сектантов\"."
+
+[CultistIncursionEffect X2SitRepEffect_AddTeam]
+FriendlyName="Нападение \"Сектантов\""
+Description="В регионе действует враждебный патруль \"Сектантов\"."
+
+
+[CultFanatic_M1 X2CharacterTemplate]
+strCharacterName="Начинающий фанатик"
+
+[CultFanatic_M2 X2CharacterTemplate]
+strCharacterName="Лояльный фанатик"
+
+[CultFanatic_M3 X2CharacterTemplate]
+strCharacterName="Преданный фанатик"
+
+[CultNecro_M1 X2CharacterTemplate]
+strCharacterName="Начинающий некромант"
+
+[CultNecro_M2 X2CharacterTemplate]
+strCharacterName="Обученный некромант"
+
+[CultNecro_M3 X2CharacterTemplate]
+strCharacterName="Мастер-некромант"
+
+[CultPaladin_M1 X2CharacterTemplate]
+strCharacterName="Падший храмовник"
+
+[CultPaladin_M2 X2CharacterTemplate]
+strCharacterName="Храмовник отступник"
+
+[CultPaladin_M3 X2CharacterTemplate]
+strCharacterName="Храмовник еретик"
+
+
+[CultJariah_M1 X2CharacterTemplate]
+strCharacterName="Джария адепт"
+[CultJariah_M2 X2CharacterTemplate]
+strCharacterName="Джария оракул"
+[CultJariah_M3 X2CharacterTemplate]
+strCharacterName="Джария предвестник"
+;weapons
+[CultPistol_M1 X2WeaponTemplate]
+FriendlyName="Пистолет фанатика"
+FriendlyNamePlural="Пистолеты фанатиков"
+BriefSummary=""
+TacticalText=""
+
+[CultPistol_M2 X2WeaponTemplate]
+FriendlyName="Пистолет фанатика"
+FriendlyNamePlural="Пистолеты фанатиков"
+BriefSummary=""
+TacticalText=""
+
+[CultPistol_M3 X2WeaponTemplate]
+FriendlyName="Пистолет фанатика"
+FriendlyNamePlural="Пистолеты фанатиков"
+BriefSummary=""
+TacticalText=""
+
+
+[CultShotgun_M1 X2WeaponTemplate]
+FriendlyName="Дробовик некроманта"
+FriendlyNamePlural="Дробовики некромантов"
+BriefSummary=""
+TacticalText=""
+
+[CultShotgun_M2 X2WeaponTemplate]
+FriendlyName="Дробовик некроманта"
+FriendlyNamePlural="Дробовики некромантов"
+BriefSummary=""
+TacticalText=""
+
+[CultShotgun_M3 X2WeaponTemplate]
+FriendlyName="Дробовик некроманта"
+FriendlyNamePlural="Дробовики некромантов"
+BriefSummary=""
+TacticalText=""
+
+[CultGauntlet_M1 X2PairedWeaponTemplate]
+FriendlyName="Рукавицы падшего"
+FriendlyNamePlural="Рукавицы падших"
+BriefSummary=""
+TacticalText=""
+AbilityDescName="осколок"
+[CultGauntlet_M2 X2PairedWeaponTemplate]
+FriendlyName="Рукавицы падшего"
+FriendlyNamePlural="Рукавицы падших"
+BriefSummary=""
+TacticalText=""
+AbilityDescName="осколок"
+[CultGauntlet_M3 X2PairedWeaponTemplate]
+FriendlyName="Рукавицы падшего"
+FriendlyNamePlural="Рукавицы падших"
+BriefSummary=""
+TacticalText=""
+AbilityDescName="осколок"
+
+[CultAutopistol_M1 X2WeaponTemplate]
+FriendlyName="Пистолет фанатика"
+FriendlyNamePlural="Пистолеты фанатиков"
+BriefSummary=""
+TacticalText=""
+
+[CultAutopistol_M2 X2WeaponTemplate]
+FriendlyName="Пистолет фанатика"
+FriendlyNamePlural="Пистолеты фанатиков"
+BriefSummary=""
+TacticalText=""
+
+[CultAutopistol_M3 X2WeaponTemplate]
+FriendlyName="Пистолет фанатика"
+FriendlyNamePlural="Пистолеты фанатиков"
+BriefSummary=""
+TacticalText=""
+
+[JariahGauntlet_M1 X2PairedWeaponTemplate]
+FriendlyName="Рукавицы джарии"
+FriendlyNamePlural="Рукавицы джарий"
+BriefSummary=""
+TacticalText=""
+AbilityDescName="осколок"
+[JariahGauntlet_M2 X2PairedWeaponTemplate]
+FriendlyName="Рукавицы джарии"
+FriendlyNamePlural="Рукавицы джарий"
+BriefSummary=""
+TacticalText=""
+AbilityDescName="осколок"
+[JariahGauntlet_M3 X2PairedWeaponTemplate]
+FriendlyName="Рукавицы джарии"
+FriendlyNamePlural="Рукавицы джарий"
+BriefSummary=""
+TacticalText=""
+AbilityDescName="осколок"
+
+[JariahGauntlet_XCOM X2PairedWeaponTemplate]
+FriendlyName="Рукавицы псайкера"
+FriendlyNamePlural="Рукавицы псайкера"
+BriefSummary="Перчатки Храмовника принадлежащие лично джарии. Доработанные с использованием элериумных технологий, они дают пользователю значительную силу, но используют для этого псионические связи которые, как считают Храмовники, могут быть опасны при длительном использовании."
+TacticalText="<Bullet/> Эти рукавицы значительно увеличивают бонусы, получаемые Храмовником от фокуса.\n<Bullet/> Однако они подвергают Храмовника постоянному снижению воли и делают его более уязвимым к психическим воздействиям.\n"
+AbilityDescName="осколок"
+
+[RM_AutoFocus X2AbilityTemplate]
+LocFriendlyName="Учиться у боли"
+LocLongDescription="Этот падший храмовник получает фокус от получения урона."
+LocHelpText="Этот падший храмовник получает фокус от получения урона."
+
+[RM_UndyingWill X2AbilityTemplate]
+LocFriendlyName="Бессмертная воля"
+LocLongDescription="Предсмертное дыхание этого некроманта убьет любого мирного жителя в поле зрения и воскресит его из мертвых."
+LocHelpText="Предсмертное дыхание этого некроманта убьет любого мирного жителя в поле зрения и воскресит его из мертвых."
+LocFlyOverText="Бессмертная воля"
+
+[RM_DeadAura X2AbilityTemplate]
+LocFriendlyName="Аура смерти"
+LocLongDescription="Этот некромант окружен аурой смерти, позволяющей автоматически оживить любой новый труп в поле своей видимости."
+LocHelpText="Этот некромант окружен аурой смерти, позволяющей автоматически оживить любой новый труп в поле своей видимости."
+
+[RM_JariahHeal X2AbilityTemplate]
+LocFriendlyName="Псионические пиявки"
+LocLongDescription="Джария извлекает пиявок из псионического поля планеты и своих последователей, восстанавливая своё здоровье после того как была повержена первый раз"
+LocHelpText="Джария извлекает пиявок из псионического поля планеты и своих последователей, восстанавливая своё здоровье после того как была повержена первый раз"
+LocFlyOverText="Псионические пиявки"
+
+[RM_JariahLeech X2AbilityTemplate]
+LocFriendlyName="Псионические пиявки"
+LocLongDescription="Джария извлекает пиявок из псионического поля планеты и своих последователей, восстанавливая своё здоровье после того как была повержена первый раз"
+LocHelpText="Джария извлекает пиявок из псионического поля планеты и своих последователей, восстанавливая своё здоровье после того как была повержена первый раз"
+LocFlyOverText="Псионические пиявки"
+
+[RM_CultPsyker X2AbilityTemplate]
+LocFriendlyName="Связь псайкера"
+LocLongDescription="Увеличивает значение дополнительных мобильности, уклонения и урона получаемых Храмовником за каждый уровень фокуса. Наносит урон Воле каждый ход и делает более восприимчивым к ментальным эффектам на поле боя."
+LocHelpText="Увеличивает значение дополнительных мобильности, уклонения и урона получаемых Храмовником за каждый уровень фокуса. Наносит урон Воле каждый ход и делает более восприимчивым к ментальным эффектам на поле боя."
+LocFlyOverText="Связь псайкера"

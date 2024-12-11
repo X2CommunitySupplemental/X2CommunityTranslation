@@ -1,0 +1,344 @@
+;abilities
+[RM_XComBossStartAbility X2AbilityTemplate]
+LocFriendlyName="Генномодифицированный"
+LocFlyOverText="Генномодифицированный"
+LocLongDescription="Имеет три действия и восстанавливает несколько ОЗ за ход."
+LocHelpText="Имеет три действия и восстанавливает несколько ОЗ за ход."
+
+[RogueSHIVCover X2AbilityTemplate]
+LocFriendlyName="Укрытие из сплавов"
+LocFlyOverText="Укрытие из сплавов"
+LocLongDescription="Т-БМП может выступать в роли низкого укрытия."
+LocHelpText="Т-БМП может выступать в роли низкого укрытия."
+
+[RogueCollateralDamage X2AbilityTemplate]
+LocFriendlyName="Побочный урон"
+LocLongDescription="Выпустить град пуль в указанную точку, который значительно повреждает окружение. Наносит незначительный урон врагам."
+LocHelpText="Атака укрытия противника, разрушающая или значительно повреждающая его. Противник получает минимальный урон."
+LocFlyOverText="Побочный урон"
+LocMissMessage="Промах!"
+
+[RogueAbsorptionFields X2AbilityTemplate]
+LocFriendlyName="Поглощающее поле"
+LocFlyOverText="Поглощающее поле"
+LocLongDescription="Наносимый урон уменьшается на 33%"
+LocHelpText="Наносимый урон уменьшается на 33%"
+
+[RogueRegeneration X2AbilityTemplate]
+LocFriendlyName="Регенерация стража"
+LocFlyOverText="Регенерация стража"
+LocLongDescription="Восстанавливает несколько ОЗ за ход."
+LocHelpText="Восстанавливает несколько ОЗ за ход."
+
+[RogueXComLowProfile X2AbilityTemplate]
+LocFriendlyName="Малозаметность"
+LocFlyOverText="Малозаметность"
+LocLongDescription="При использовании низкого укрытия, дает преимущества высокого укрытия."
+LocHelpText="При использовании низкого укрытия, дает преимущества высокого укрытия."
+
+[CloseCombatSpecialist_RogueXCom X2AbilityTemplate]
+LocFriendlyName="Специалист ближнего боя"
+LocFlyOverText="Специалист ближнего боя"
+LocLongDescription="Ответный выстрел в любого видимого противника, в радиусе четырех клеток, который двигается или стреляет, во время вражеского хода."
+LocHelpText="Ответный выстрел в любого видимого противника, в радиусе четырех клеток, который двигается или стреляет, во время вражеского хода."
+LocPromotionPopupText="<Bullet/> Не действует если оперативник замаскирован.<br/><Bullet/> Оперативник может атаковать каждого обнаруженного противника, только один раз в течении хода."
+
+[CloseCombatSpecialistAttack_RogueXCom X2AbilityTemplate]
+LocFriendlyName="Специалист ближнего боя"
+LocFlyOverText="Специалист ближнего боя"
+LocLongDescription="Ответный выстрел в любого видимого противника, в радиусе четырех клеток, который двигается или стреляет, во время вражеского хода."
+LocHelpText="Ответный выстрел в любого видимого противника, в радиусе четырех клеток, который двигается или стреляет, во время вражеского хода."
+LocPromotionPopupText="<Bullet/> Не действует если оперативник замаскирован.<br/><Bullet/> Оперативник может атаковать каждого обнаруженного противника, только один раз в течении хода."
+
+
+[RogueSentinel X2AbilityTemplate]
+LocFriendlyName="Страж"
+LocFlyOverText="Страж"
+LocLongDescription="Позволяет произвести два выстрела в режиме \"Наблюдения\" вместо одного"
+LocHelpText="Позволяет произвести два выстрела в режиме \"Наблюдения\" вместо одного"
+
+[RogueTacticalSense X2AbilityTemplate]
+LocFriendlyName="Тактическое чутье"
+LocFlyOverText="Тактическое чутье"
+LocLongDescription="Добавляет 5 защиты за каждого противника в поле зрения, максимальный бонус не более 25 защиты."
+LocHelpText="Добавляет 5 защиты за каждого противника в поле зрения, максимальный бонус не более 25 защиты."
+
+[RogueGunslinger X2AbilityTemplate]
+LocFriendlyName="Стрелок"
+LocFlyOverText="Стрелок"
+LocLongDescription="Дает бонус к урону при использовании пистолета."
+LocHelpText="Дает бонус к урону при использовании пистолета."
+
+;sitrep
+
+[RogueXComIncursion X2SitRepTemplate]
+FriendlyName="Нашествие неизвестных"
+Description="Разведка докладывает что в этом регионе неизвестная сторона использует частоты XCOM: рекомендуется действовать осторожно."
+
+[RogueIncursionEffect X2SitRepEffect_AddTeam]
+FriendlyName="Нашествие неизвестных"
+Description="Разведка докладывает что в этом регионе неизвестная сторона использует частоты XCOM: готовьтесь к встрече с неизвестными на поле боя."
+
+;characters
+[XComBoss_M1 X2CharacterTemplate]
+strCharacterName="Полковник"
+
+[XComAssault_M2 X2CharacterTemplate]
+strCharacterName="Полковник"
+
+[XComAssault_M3 X2CharacterTemplate]
+strCharacterName="Полковник"
+
+
+
+
+[XComAssault_M1 X2CharacterTemplate]
+strCharacterName="Десантник бунтарь"
+
+[XComAssault_M2 X2CharacterTemplate]
+strCharacterName="Десантник изгой"
+
+[XComAssault_M3 X2CharacterTemplate]
+strCharacterName="Десантник отщепенец"
+
+
+[XComSniper_M1 X2CharacterTemplate]
+strCharacterName="Снайпер бунтарь"
+
+[XComSniper_M2 X2CharacterTemplate]
+strCharacterName="Снайпер изгой"
+
+[XComSniper_M3 X2CharacterTemplate]
+strCharacterName="Снайпер отщепенец"
+
+
+[XComHeavy_M1 X2CharacterTemplate]
+strCharacterName="Штурмовик бунтарь"
+
+[XComHeavy_M2 X2CharacterTemplate]
+strCharacterName="Штурмовик изгой"
+
+[XComHeavy_M3 X2CharacterTemplate]
+strCharacterName="Штурмовик отщепенец"
+
+
+[XComSupport_M1 X2CharacterTemplate]
+strCharacterName="Боец поддержки бунтарь"
+
+[XComSupport_M2 X2CharacterTemplate]
+strCharacterName="Боец поддержки изгой"
+
+[XComSupport_M3 X2CharacterTemplate]
+strCharacterName="Боец поддержки отщепенец"
+
+
+[XComShiv_M1 X2CharacterTemplate]
+strCharacterName="Уцелевший Т-БМП"
+
+[XComShiv_M2 X2CharacterTemplate]
+strCharacterName="Модифицированный Т-БМП"
+
+[XComShiv_M3 X2CharacterTemplate]
+strCharacterName="Т-БМП на воздушной подушке"
+
+
+[XComMecTrooper_M1 X2CharacterTemplate]
+strCharacterName="Уцелевший боец МЭК"
+
+[XComMecTrooper_M2 X2CharacterTemplate]
+strCharacterName="Восстановленный боец МЭК"
+
+[XComMecTrooper_M3 X2CharacterTemplate]
+strCharacterName="Боец МЭК отщепенец"
+
+
+
+
+
+;weapons
+[XComBossCarbine_M1 X2WeaponTemplate]
+FriendlyName="Плазменный карабин полковника"
+FriendlyNamePlural="Плазменные карабины полковников"
+BriefSummary=""
+TacticalText=""
+
+[XComBossCarbine_M2 X2WeaponTemplate]
+FriendlyName="Плазменный карабин полковника"
+FriendlyNamePlural="Плазменные карабины полковников"
+BriefSummary=""
+TacticalText=""
+
+[XComBossCarbine_M3 X2WeaponTemplate]
+FriendlyName="Плазменный карабин полковника"
+FriendlyNamePlural="Плазменные карабины полковников"
+BriefSummary=""
+TacticalText=""
+
+[XComBossCarbine_XCOM X2WeaponTemplate]
+FriendlyName="Плазменный карабин полковника"
+FriendlyNamePlural="Плазменные карабины полковников"
+BriefSummary="Это значительно модифицированный прототип плазменного оружия созданный ещё во время зарождения проекта ХСОМ. Наносит меньше повреждений чем плазменные винтовки, но более эргономичен в использовании и удобен при переноске."
+TacticalText="<Bullet/> Этот плазменный карабин - мощная система вооружения основных пехотных войск.\n<Bullet/> Стрельба из этого оружия не приводит к автоматическому завершению хода солдата.\n<Bullet/> Современные улучшения недоступны из-за возраста оружия."
+AbilityDescName="Плазменный карабин"
+
+[XComPistol_M1 X2WeaponTemplate]
+FriendlyName="Похищенный пистолет"
+FriendlyNamePlural="Похищенные пистолеты"
+BriefSummary=""
+TacticalText=""
+
+[XComRifle_M1 X2WeaponTemplate]
+FriendlyName="Похищенная винтовка"
+FriendlyNamePlural="Похищенные винтовки"
+BriefSummary=""
+TacticalText=""
+
+[XComSniper_M1 X2WeaponTemplate]
+FriendlyName="Похищенная снайперская винтовка"
+FriendlyNamePlural="Похищенные снайперские винтовки"
+BriefSummary=""
+TacticalText=""
+
+[XComShotgun_M1 X2WeaponTemplate]
+FriendlyName="Похищенный дробовик"
+FriendlyNamePlural="Похищенные дробовики"
+BriefSummary=""
+TacticalText=""
+
+[XComCannon_M1 X2WeaponTemplate]
+FriendlyName="Похищенная пушка"
+FriendlyNamePlural="Похищенные пушки"
+BriefSummary=""
+TacticalText=""
+
+[XComShivCannon_M1 X2WeaponTemplate]
+FriendlyName="Похищенная пушка"
+FriendlyNamePlural="Похищенные пушки"
+BriefSummary=""
+TacticalText=""
+
+[XComMecCannon_M1 X2WeaponTemplate]
+FriendlyName="Похищенная пушка"
+FriendlyNamePlural="Похищенные пушки"
+BriefSummary=""
+TacticalText=""
+
+[XComPistol_M2 X2WeaponTemplate]
+FriendlyName="Похищенный пистолет"
+FriendlyNamePlural="Похищенные пистолеты"
+BriefSummary=""
+TacticalText=""
+
+[XComRifle_M2 X2WeaponTemplate]
+FriendlyName="Похищенная винтовка"
+FriendlyNamePlural="Похищенные винтовки"
+BriefSummary=""
+TacticalText=""
+
+[XComSniper_M2 X2WeaponTemplate]
+FriendlyName="Похищенная снайперская винтовка"
+FriendlyNamePlural="Похищенные снайперские винтовки"
+BriefSummary=""
+TacticalText=""
+
+[XComShotgun_M2 X2WeaponTemplate]
+FriendlyName="Похищенный дробовик"
+FriendlyNamePlural="Похищенные дробовики"
+BriefSummary=""
+TacticalText=""
+
+[XComCannon_M2 X2WeaponTemplate]
+FriendlyName="Похищенная пушка"
+FriendlyNamePlural="Похищенные пушки"
+BriefSummary=""
+TacticalText=""
+
+[XComShivCannon_M2 X2WeaponTemplate]
+FriendlyName="Похищенная пушка"
+FriendlyNamePlural="Похищенные пушки"
+BriefSummary=""
+TacticalText=""
+
+[XComMecCannon_M2 X2WeaponTemplate]
+FriendlyName="Похищенная пушка"
+FriendlyNamePlural="Похищенные пушки"
+BriefSummary=""
+TacticalText="
+
+[XComPistol_M3 X2WeaponTemplate]
+FriendlyName="Похищенный пистолет"
+FriendlyNamePlural="Похищенные пистолеты"
+BriefSummary=""
+TacticalText=""
+
+[XComRifle_M3 X2WeaponTemplate]
+FriendlyName="Похищенная винтовка"
+FriendlyNamePlural="Похищенные винтовки"
+BriefSummary=""
+TacticalText=""
+
+[XComSniper_M3 X2WeaponTemplate]
+FriendlyName="Похищенная снайперская винтовка"
+FriendlyNamePlural="Похищенные снайперские винтовки"
+BriefSummary=""
+TacticalText=""
+
+[XComShotgun_M3 X2WeaponTemplate]
+FriendlyName="Похищенный дробовик"
+FriendlyNamePlural="Похищенные дробовики"
+BriefSummary=""
+TacticalText=""
+
+[XComCannon_M3 X2WeaponTemplate]
+FriendlyName="Похищенная пушка"
+FriendlyNamePlural="Похищенные пушки"
+BriefSummary=""
+TacticalText=""
+
+[XComShivCannon_M3 X2WeaponTemplate]
+FriendlyName="Похищенная пушка"
+FriendlyNamePlural="Похищенные пушки"
+BriefSummary=""
+TacticalText=""
+
+[XComMecCannon_M3 X2WeaponTemplate]
+FriendlyName="Похищенная пушка"
+FriendlyNamePlural="Похищенные пушки"
+BriefSummary=""
+TacticalText="
+
+[XComMedikit_M1 X2WeaponTemplate]
+FriendlyName="Аптечка"
+FriendlyNamePlural="Медпакеты"
+
+[XComRocket_M1 X2WeaponTemplate]
+FriendlyName="Ракетная установка"
+FriendlyNamePlural="Ракетные установки"
+
+[XComSmoke_M1 X2GrenadeTemplate]
+FriendlyName="Дымовая граната"
+FriendlyNamePlural="Дымовые гранаты"
+BriefSummary="Дым способен повысить защиту солдат, а также перекрыть противнику обзор. Он имеет массу различных тактических применений."
+TacticalText="<Bullet/> Дымовая завеса немедленно повышает защиту солдат в зоне действия.<br><Bullet/> Дымовые гранаты можно бросить и выстрелить дальше, чем обычные гранаты."
+ThrownAbilityName="Бросок дымовой гранаты"
+ThrownAbilityHelpText="Увеличивает защиту солдат в радиусе действия."
+LaunchedAbilityname="Выстрелить дымовой гранатой"
+LaunchedAbilityHelpText="Увеличивает защиту солдат в радиусе действия."
+
+[XComMedikit_M2 X2WeaponTemplate]
+FriendlyName="Аптечка"
+FriendlyNamePlural="Медпакеты"
+
+[XComRocket_M2 X2WeaponTemplate]
+FriendlyName="Ракетная установка"
+FriendlyNamePlural="Ракетные установки"
+
+[XComSmoke_M2 X2GrenadeTemplate]
+FriendlyName="Дымовая граната"
+FriendlyNamePlural="Дымовые гранаты"
+BriefSummary="Дым способен повысить защиту солдат, а также перекрыть противнику обзор. Он имеет массу различных тактических применений."
+TacticalText="<Bullet/> Дымовая завеса немедленно повышает защиту солдат в зоне действия.<br><Bullet/> Дымовые гранаты можно бросить и выстрелить дальше, чем обычные гранаты."
+ThrownAbilityName="Бросок дымовой гранаты"
+ThrownAbilityHelpText="Увеличивает защиту солдат в радиусе действия."
+LaunchedAbilityname="Выстрелить дымовой гранатой"
+LaunchedAbilityHelpText="Увеличивает защиту солдат в радиусе действия."

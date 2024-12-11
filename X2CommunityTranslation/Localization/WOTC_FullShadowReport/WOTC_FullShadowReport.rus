@@ -1,0 +1,124 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Localized Strings for new UI Items
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[UI_FullShadowReport]
+m_strEnemiesDetectedO=ОБНАРУЖЕННЫЕ ВРАГИ:
+m_strEnemiesDetectedA=ОБНАРУЖЕННЫЕ АДВЕНТ:
+m_strEnemiesDetectedL=ОБНАРУЖЕННЫЕ СГИНУВШИЕ:
+m_strEnemiesDetected1=ОБНАРУЖЕННЫЕ ПЕРВОЙ ФРАКЦИИ:
+m_strEnemiesDetected2=ОБНАРУЖЕННЫЕ ВТОРОЙ ФРАКЦИИ:
+m_strEnemiesDetectedC=ОБНАРУЖЕННЫЕ ПОВСТАНЦЫ:
+
+m_strPlotTypePrefix=Местность:
+m_strBiomeTypePrefix=Биом:
+m_strTimePrefix=Время прибытия:
+
+m_strChosenDefeated="- ПОВЕРЖЕН"
+
+;biomes
+m_strBiome_Arid=Засушливый
+m_strBiome_Temperate=Умеренный
+m_strBiome_Tundra=Тундра
+m_strBiome_Xenoform=Инопланетный
+
+;known locations
+m_strLocat_CityCenter=Городской центр
+m_strLocat_Facility=Комплекс \"Адвента\"
+m_strLocat_Rooftops=Крыша
+m_strLocat_Shanty=Поселение
+m_strLocat_Slums=Трущобы
+m_strLocat_SmallTown=Пригород
+m_strLocat_Wilderness=Лес
+m_strLocat_Abandoned=Заброшенный город
+m_strLocat_Stronghold=Цитадель Избранного
+m_strLocat_Tunnels_Sewer=Канализация
+m_strLocat_Tunnels_Subway=Метро
+m_strLocat_LostTower=Заброшенные башни
+m_strLocat_DerelictFacility=Лаборатория доктора Вален
+m_strLocat_MapTest=Тест Карта
+
+;unknown locations
+m_strLocat_Abandoned_Indoors=Внутри (старый)
+m_strLocat_Abandoned_Occluded=Тень (старый)
+m_strLocat_Tunnels_Reverb=Метро
+m_strLocat_SarcophagusRoom=Саркофаг
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Localized Strings for Mod Config Menu Items
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[MCM_FullShadowReport_Options]
+
+sSettingsPage_Label=Full Shadow Report
+sPageTitle_Label=Full Shadow Report
+
+;GROUP 1
+sGroupGeneralSettings_Label=Основные настройки
+ShowBackground_Label=Показывать фон панели
+ShowWithoutShadowChamber_Label=Показывать без построенного \"Зала Теней\"
+
+;GROUP 2
+sGroupPanelSettings_Label=Настройки панели
+BackgroundType_Label=Тип фона панели
+AlphaBackground_Label=Прозрачность панели
+AutoSpaceAllY_Label=Автосмещение панелей по Y
+AutoSpaceAllY_Tip="С этой опцией все панели будут пытататься автоматически размещаться относительно Местности по X"
+
+;GROUP 3
+sGroupTerrainSettings_Label=Настройки панели Местности
+ShowTerrain_Label=Показывать панель Местности
+ShowTerrainGeo_Label=Показывать панель Местности на глобальной карте
+ShowPlotText_Label=Показывать текст Местности
+ShowBiomeText_Label=Показывать текст Биома
+ShowTimeText_Label=Показывать текст Времени прибытия
+ShowTerrainIcons_Label=Показывать иконки панели Местности
+IconSizeTerrain_Label=Размер иконок панели Местности
+TerrainTitleColor_Label=Цвет заголовка панели Местности
+TerrainColor_Label=Цвет содержимого панели Местности
+TimeColor_Label=Цвет Времени прибытия
+
+;GROUP 4
+sGroupEnemiesListSettings_Label=Настройки предпросмотра Врагов
+ReplaceGeoscapePanelWithHeads_Label=Заменить список глобальной карты
+ReplaceGeoscapePanelWithHeads_Tip="Должен ли этот мод заменить ванильный список врагов на глобальной карте"
+ShowEnemyCounts_Label=Показать общее количество врагов
+ShowFullCount_Label=Показывать индивидуальных юнитов
+ShowFullCount_Tip="С этой включенной опцией обнаруженные враги будут разделены по фракциям и типам юнитов"
+ShowUnitQuantity_Label=Показывать количество юнитов
+ShowChosen_Label=Показывать скрытых юнитов
+ShowChosen_Tip="Эта опция будет включать в список обычно неотображаемых юнитов, таких как Избранные и Правители"
+ShowControllingChosen_Label=Показывать Избранного в регионе
+ShowControllingChosen_Tip="Эта опция будет показывать Избранного контролирующего регион, чтобы знать какой Избранный может появиться на миссии, если вообще сможет."
+ShowNamesEvenIfNotEncountered_Label=Отображать Неизвестных врагов
+ShowNamesEvenIfNotEncountered_Tip="Эта опция будет показывать имена еще не встречавшихся врагов"
+ShowEnemiesList_Label=Показывать текстовый список врагов
+ShowEnemiesList_Tip="Если выкл, то список врагов отображается в всплывающей подсказке."
+
+ShowEnemyIcons_Label=Показывать строку иконок врагов
+ShowEnemyIconsCentral_Label=Иконки по центру
+IconSizeEnemy_Label=Размер иконок врагов
+
+;GROUP 5
+Debug_Label=DEBUG
+EnableTooltipWorkaround_Label= Toggle Tooltip Workaround
+EnableTooltipWorkaround_Tip="This is required to fix an issue with Icon tooltips not displaying after ANY NavHelp tooltip.\nMy solution is slightly janky so I made it optional."
+TerrainAnchor_Label=Terrain Screen Anchor
+EnemiesListAnchor_Label=Enemy List Screen Anchor
+TerrainPosX_Label=Terrain X pos offset
+TerrainPosY_Label=Terrain Y pos offset
+TerrainGeoPosX_Label=Terrain Geoscape X pos offset
+TerrainGeoPosY_Label=Terrain Geoscape Y pos offset
+TerrainPanelSizeX_Label=Terrain Panel Size X
+TerrainPanelSizeY_Label=Terrain Panel Size Y
+EnemiesListPosX_Label=Enemy X pos offset
+EnemiesListPosY_Label=Enemy Y pos offset
+EnemiesListGeoPosX_Label=Enemy Geoscape X pos offset
+EnemiesListGeoPosY_Label=Enemy Geoscape Y pos offset
+EnemiesListPanelSizeX_Label=Enemy List Panel Size X
+EnemiesListPanelSizeY_Label=Enemy List Panel Size Y
+EnemiesCountPanelSizeX_Label=Enemy Count Panel Size X
+EnemiesCountPanelSizeY_Label=Enemy Count Panel Size Y
+
+TerrainPosX_Tip="For LWotC players you can set the PosX to -1530, which will shift the panels to the left screenside"
+EnemiesListPosX_Tip="For LWotC players you can set the PosX to -1530, which will shift the panels to the left screenside"

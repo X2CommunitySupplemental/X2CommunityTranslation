@@ -1,0 +1,169 @@
+[Phantom_Vanish X2AbilityTemplate]
+LocFriendlyName="Исчезновение"
+LocLongDescription="Боец маскируется от врагов."
+LocHelpText="Боец маскируется от врагов."
+LocFlyOverText="Скрыт!"
+
+
+[PhantomHuntsmaster_Vanish X2AbilityTemplate]
+LocFriendlyName="Исчезновение"
+LocLongDescription="Боец маскируется от врагов."
+LocHelpText="Боец маскируется от врагов."
+LocFlyOverText="Скрыт!"
+
+
+[Phantom_VanishStart X2AbilityTemplate]
+LocFriendlyName="Фантом"
+LocLongDescription="Этот боец начинает миссию в режиме маскировки"
+LocHelpText="Этот боец начинает миссию в режиме маскировки"
+LocFlyOverText="Фантом"
+
+[PenaltyShot X2AbilityTemplate]
+LocFriendlyName="Выстрел из снайперской винтовки"
+LocHelpText="Выстрел из снайперской винтовки со штрафом к меткости."
+
+[Phantom_VanishReveal X2AbilityTemplate]
+LocFriendlyName="Обнаружение"
+LocFlyOverText="Обнаружен!"
+LocHelpText="Отключает маскировку. При задействованном режиме маскировки это происходит автоматически."
+LocLongDescription="Отключает маскировку. При задействованном режиме маскировки это происходит автоматически."
+
+[RemoteFuse X2AbilityTemplate]
+LocFriendlyName="Дистанционный детонатор"
+LocLongDescription="Если у врага есть взрывчатка, Фантом может дистанционно ее взорвать."
+LocHelpText="Если у врага есть взрывчатка, Фантом может дистанционно ее взорвать."
+
+[RelocationShot X2AbilityTemplate]
+LocFriendlyName="Смена дислокации"
+LocHelpText="Получить очко движения после выстрела. <Ability:CANNOTBEDODGED/>"
+LocLongDescription="Выстрел из основного оружия дает солдату дополнительное движение."
+
+;sitrep
+
+[PhantomIncursion X2SitRepTemplate]
+FriendlyName="Нападение \"Фантомов\""
+Description="ВНИМАНИЕ! По данным разведки в регионе присутствует фракция \"Фантомов\"."
+
+[PhantomIncursionEffect X2SitRepEffect_AddTeam]
+FriendlyName="Нападение \"Фантомов\""
+Description="В регионе действует враждебный патруль \"Фантомов\"."
+
+
+;characters
+[PhantomGhost_M1 X2CharacterTemplate]
+strCharacterName="Призрак-новичок"
+
+[PhantomGhost_M2 X2CharacterTemplate]
+strCharacterName="Призрак-боец"
+
+[PhantomGhost_M3 X2CharacterTemplate]
+strCharacterName="Призрак-мастер"
+
+[PhantomMarksman_M1 X2CharacterTemplate]
+strCharacterName="Стрелок-новичок"
+
+[PhantomMarksman_M2 X2CharacterTemplate]
+strCharacterName="Стрелок-боец"
+
+[PhantomMarksman_M3 X2CharacterTemplate]
+strCharacterName="Стрелок-мастер"
+
+[PhantomHunter_M1 X2CharacterTemplate]
+strCharacterName="Охотник-новичок"
+
+[PhantomHunter_M2 X2CharacterTemplate]
+strCharacterName="Охотник-боец"
+
+[PhantomHunter_M3 X2CharacterTemplate]
+strCharacterName="Охотник-мастер"
+
+
+[PhantomHuntsmaster_M1 X2CharacterTemplate]
+strCharacterName="Егерь"
+
+[PhantomHuntsmaster_M2 X2CharacterTemplate]
+strCharacterName="Следопыт"
+
+[PhantomHuntsmaster_M3 X2CharacterTemplate]
+strCharacterName="Охотник за головами"
+
+
+;weapons
+[PhantomRifle_M1 X2WeaponTemplate]
+FriendlyName="Винтовка призрака"
+FriendlyNamePlural="Винтовки призраков"
+BriefSummary=""
+TacticalText=""
+
+[PhantomRifle_M2 X2WeaponTemplate]
+FriendlyName="Винтовка призрака"
+FriendlyNamePlural="Винтовки призраков"
+BriefSummary=""
+TacticalText=""
+
+[PhantomRifle_M3 X2WeaponTemplate]
+FriendlyName="Винтовка призрака"
+FriendlyNamePlural="Винтовки призраков"
+BriefSummary=""
+TacticalText=""
+
+[PhantomSniper_M1 X2WeaponTemplate]
+FriendlyName="Снайперская винтовка стрелка"
+FriendlyNamePlural="Снайперские винтовки стрелков"
+BriefSummary=""
+TacticalText=""
+
+[PhantomSniper_M2 X2WeaponTemplate]
+FriendlyName="Снайперская винтовка стрелка"
+FriendlyNamePlural="Снайперские винтовки стрелков"
+BriefSummary=""
+TacticalText=""
+
+[PhantomSniper_M3 X2WeaponTemplate]
+FriendlyName="Снайперская винтовка стрелка"
+FriendlyNamePlural="Снайперские винтовки стрелков"
+BriefSummary=""
+TacticalText=""
+
+[PhantomCaster_M1 X2WeaponTemplate]
+FriendlyName="Арбалет охотника"
+FriendlyNamePlural="Арбалеты охотников"
+BriefSummary=""
+TacticalText=""
+
+[PhantomCaster_M2 X2WeaponTemplate]
+FriendlyName="Арбалет охотника"
+FriendlyNamePlural="Арбалеты охотников"
+BriefSummary=""
+TacticalText=""
+
+[PhantomCaster_M3 X2WeaponTemplate]
+FriendlyName="Арбалет охотника"
+FriendlyNamePlural="Арбалеты охотников"
+BriefSummary=""
+TacticalText=""
+
+[HuntsmasterRifle_M1 X2WeaponTemplate]
+FriendlyName="Винторез охотника"
+FriendlyNamePlural="Винторезы охотников"
+BriefSummary=""
+TacticalText=""
+
+[HuntsmasterRifle_M2 X2WeaponTemplate]
+FriendlyName="Винторез охотника"
+FriendlyNamePlural="Винторезы охотников"
+BriefSummary=""
+TacticalText=""
+
+[HuntsmasterRifle_M3 X2WeaponTemplate]
+FriendlyName="Винторез охотника"
+FriendlyNamePlural="Винторезы охотников"
+BriefSummary=""
+TacticalText=""
+
+[HuntsmasterRifle_XCOM X2WeaponTemplate]
+FriendlyName="Винторез охотника"
+FriendlyNamePlural="Винторезы охотников"
+BriefSummary="Сильно модифицированная векторная винтовка, используемая элитными бойцами Фантомов. Это оружие, адаптированно для ведения боя на максимальных дистанциях и противодействия броне, эффективно даже против самой сильно бронированной цели."
+TacticalText="<Bullet/> Стрельба из этого оружия дает солдату очко передвижения.\n<Bullet/> Эта винтовка, особенно эффективна на дальних дистанциях, предоставляя бойцу 'Общий вид'.\n<Bullet/> Наносит меньше стандартного урона, но больше критического и пробивает броню. Однако не может быть модифицирована."
+AbilityDescName="винтовка вектор"
