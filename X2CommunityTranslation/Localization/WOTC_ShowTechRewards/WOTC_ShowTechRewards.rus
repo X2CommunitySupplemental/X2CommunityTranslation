@@ -1,6 +1,0 @@
-[UIScreenListener_ShowTechUnlocks]
-Title="Откроет"
-m_strPartial = "[Частично]"
-m_strPossible = "[Возможно]"
-m_strObfuscate = "[?????]"
-m_strEmptyUnlocks = "Нет информации"
