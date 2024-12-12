@@ -429,6 +429,11 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1964595004
 
 * Russian
 
+# More Traits
+https://steamcommunity.com/sharedfiles/filedetails/?id=1122837889
+
+* Russian
+
 # More Cities WotC
 https://steamcommunity.com/sharedfiles/filedetails/?id=1131405167
 
