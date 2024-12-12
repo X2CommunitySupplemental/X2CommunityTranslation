@@ -1,0 +1,3 @@
+[RM_PhantomEvac X2AbilityTemplate]
+LocFriendlyName="Эвакуировать"
+LocHelpText="Отправить на \"Рейнджер\" (эвакуировать) другого юнита в пределах зоны эвакуации."
