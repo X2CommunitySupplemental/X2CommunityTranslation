@@ -1,0 +1,5 @@
+; copied HunkerDown X2AbilityTemplate
+[HunkerDownNoAnim X2AbilityTemplate]
+LocFriendlyName="Глухая оборона"
+LocHelpText="Увеличивает защиту на <Ability:HUNKERDEFENSEBONUS/> и уклонение на <Ability:HUNKERDODGEBONUS/>. Действует только в укрытии."
+LocFlyOverText="Глухая оборона"

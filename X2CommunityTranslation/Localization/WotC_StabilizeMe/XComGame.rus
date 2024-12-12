@@ -1,0 +1,6 @@
+[StabilizeMedkitOwner X2AbilityTemplate]
+LocFriendlyName="Стабилизация"
+LocLongDescription="Не дает бойцу умереть от потери крови. Использует аптечку цели."
+LocHelpText="Не дает бойцу умереть от потери крови."
+LocFlyOverText="Стабилизирован"
+LocPromotionPopupText=""
