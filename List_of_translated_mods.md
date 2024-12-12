@@ -82,11 +82,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1334298434
 
 * Chinese
 
-# [WOTC] Automatic Reload by Iridar
-https://steamcommunity.com/sharedfiles/filedetails/?id=2595660540
-
-* Chinese
-
 # [WOTC] Faction Anchor
 https://steamcommunity.com/sharedfiles/filedetails/?id=2387956032
 
@@ -225,6 +220,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2025780967
 https://steamcommunity.com/sharedfiles/filedetails/?id=2595660540
 
 * Russian
+* Chinese
 
 
 # WotC: robojumper's Squad Select
