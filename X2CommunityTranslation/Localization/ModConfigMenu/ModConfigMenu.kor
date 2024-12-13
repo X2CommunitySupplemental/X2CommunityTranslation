@@ -1,0 +1,13 @@
+[MCM_OptionsMenuListener]
+m_strModMenuButton="모드 설정"
+
+[MCM_OptionsScreen]
+m_strSaveAndExit="저장하고 종료"
+m_strCancel="취소"
+m_strTitle="모드 설정"
+m_strSubtitle=""
+
+[MCM_SettingsPanel]
+m_strResetButton="리셋"
+m_strRevertButton="폐기"
+m_strApplyButton="저장"

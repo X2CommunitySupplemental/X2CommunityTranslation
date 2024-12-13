@@ -1,0 +1,6 @@
+[UIScreenListener_ShowTechUnlocks]
+Title="Desbloquea:"
+m_strPartial = "[Parcial]"
+m_strPossible = "[Posible]"
+m_strObfuscate = "[?????]"
+m_strEmptyUnlocks = "No hay información para mostrar"

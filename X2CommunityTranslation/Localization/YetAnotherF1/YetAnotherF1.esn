@@ -1,0 +1,7 @@
+[YAF1_UIUnitInfo]
+m_strEnemyInfo="Info. del enemigo"
+m_strSoldierInfo="Info. del soldado"
+m_strNotAUnit="No es una unidad"
+m_strNoInfoAvailable="Info. no disponible"
+
+m_strPassives="Pasivas"

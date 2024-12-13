@@ -1,0 +1,120 @@
+[X2Action_ApplyWeaponDamageToUnit_HITCHANCE]
+HIT_CHANCE ="IMPACTO";
+CRIT_CHANCE ="CRÍTICO";
+DODGE_CHANCE ="ESQUIVAR";
+MISS_CHANCE ="FALLO";
+
+SHORT_GUARANTEED_HIT="I.G.";
+SHORT_HIT_CHANCE="I";
+SHORT_MISS_CHANCE="F";
+SHORT_CRIT_CHANCE="C";
+SHORT_DODGE_CHANCE="E";
+
+GUARANTEED_HIT ="IMPACTO GARANTIZADO";
+GUARANTEED_MISS ="FALLO GARANTIZADO";
+
+REPEATER_KILL ="Repetidor";
+
+FAILED_TEXT = "¡Fallido!"
+
+[WOTC_DisplayHitChance_MCMScreen]
+sSettingsPage_MCMText = "Extended Information";
+sPageTitle_MCMText = "Extended Information";
+sGroupGeneralSettings_MCMText = "Opciones generales";
+sGroupFlyoverSettings_MCMText = "Opciones de la vista aérea de daños";
+sShowHitChance_MCMText = "Mostrar probabilidad de impacto en vista aérea";
+sVerboseText_MCMText = "Texto descriptivo en vista aérea";
+sDisplayMissChance_MCMText = "Mostar probabilidad de fallo en lugar de impacto";
+sShowTemplarMessages_MCMText = "Mostrar probabilidad de impacto dentro de los mensajes de vista aérea especiales para Parar/Desviar/Devolver de los Templarios";
+sShowAimAssist_MCMText = "Mostrar asistencia de puntería";
+; sFlyoverDuration_MCMText = "Duración de los mensajes de vista aérea";
+sShowGuaranteedHit_MCMText = "Mostrar texto de 'Impacto Garantizado'";
+
+sGroupShotBar_MCMText = "Opciones de la barra de disparo";
+sBarHeight_MCMText = "Altura de la barra";
+;sBarOffsetX_MCMText = "Compensación en X de la barra";
+;sBarOffsetY_MCMText = "Compensación en Y de la barra";
+sBarAlpha_MCMText = "Opacidad de la barra";
+;sBarWidthMult_MCMText = "Multiplicador de la anchura de la barra";
+;sGeneralOffsetY_MCMText = "Compensación en Y general";
+;sDodgeOffsetX_MCMText = "Compensación en X de Esquivar";
+;sCritOFfsetX_MCMText = "Compensación en X de Crítico";
+;sCritOffsetY_MCMText = "Compensación en Y de Crítico";
+♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥ = "Color de Impacto en la barra";
+sCritHexColor_MCMText = "Color de Crítico en la barra";
+sDodgeHexColor_MCMText = "Color de Esquivar en la barra";
+sMissHexColor_MCMText = "Color de Fallo en la barra";
+sGroupShotHUD_MCMText = "Opciones del HUD de Disparo/Acción";
+sGroupBarColors_MCMText = "Opciones de los colores de la barra";
+sShowGrazed_MCMText = "Mostrar Rozado en el HUD de Disparo/Acción";
+sShowCrit_MCMText = "Mostrar Crítico en el HUD de Disparo/Acción";
+sAimLeftOfCrit_MCMText = "Impacto a la izquierda de Crítico";
+sAssistBesideHit_MCMText = "Asistencia de puntería junto a Impacto";
+sPreviewMinimum_MCMText = "Vista previa de Daño mínimo";
+sPreviewHacking_MCMText = "Vista previa de Pirateo";
+sWarningMessage_MCMText = "¡Por favor tenga en cuenta que cualquier cambio en la Compensación podría resultar en una mala visualización!";
+sGrazeCritLayout_MCMText = "Disposición de la visualización de probabilidad de Roce y Daño Crítico"
+sAssistHexColor_MCMText = "Color de la probabilidad por Asistencia";
+
+
+;DEBUG
+sDodgeOffsetY_MCMText = "Compensación en Y de Esquivar";
+;DEBUG
+
+
+sBlack = "Negro";
+sWhite = "Blanco";
+sCyan = "Cian";
+sFadedCyan = "Cian desvanecido";
+sFadedYellow = "Amarillo desvanecido";
+sGray = "Gris";
+sGreen = "Verde";
+sRed = "Rojo";
+sYellow = "Amarillo";
+sPerkYellow = "Amarillo Habilidad";
+sCashGreen = "Verde Recursos";
+sPurple = "Púrpura";
+sOrange = "Naranja";
+sOrangeEngineering = "Naranja Ingeniería";
+sBlueScience = "Azul Ciencia";
+sObjIconBackground = "Fondo del ícono objetivo";
+
+sLayoutLeft = "Roce y Daño Crít. a la izquierda";
+sLayoutBalanced = "Roce y Daño Crít. a cada lado";
+sLayoutRight = "Roce y Daño Crít. a la derecha";
+
+sShowAlwaysShotBreakdownHUD_MCMText = "Siempre mostrar desgloce del disparo";
+sGroupShotWings_MCMText = "Opciones de ala de disparo";
+
+sGroupToolTips_MCMTtext = "Opciones de la descripción emergente";
+sToolTipAlpha_MCMText = "Transparencia del fondo de la descripción emergente";
+sShowEnemyToolTip_MCMText = "Mostrar descripción emergente del enemigo";
+sShowExtraWeaponStats_MCMText = "Activar/Desactivar estadísticas del arma";
+
+
+[WOTC_DisplayHitChance_UITacticalHUD_ShotWings]
+LOWER_DIFFICULTY_MSG = "Dificultad baja";
+MISS_STREAK_MSG = "Cadena de fallos";
+SOLDIER_LOST_BONUS = "Bono de soldado perdido";
+CRIT_DAMAGE_LABEL =  "DAÑO CRÍTICO";
+
+
+[WOTC_DisplayHitChance_UITacticalHUD_ShotHUD]
+CRIT_DAMAGE_LABEL="DÑO.C";
+GRAZE_CHANCE_LABEL="ROCE";
+
+
+[UITacticalHUD_EnemyTooltip_HitChance]
+PrimaryBase = "Base de daño";
+PrimarySpread = "Dispersión del daño";
+PrimaryPlusOne = "Daño +1";
+EnemyStatsTitle = "Estadísticas del enemigo";
+
+
+[UITacticalHUD_SoldierInfoTooltip_HitChance]
+KILLS_LABEL = "Muertes";
+ASSIST_LABEL = "Asistencias";
+FLANKING_CRIT_LABEL = "Flanqueando";
+
+[StatListLib]
+HackDefenseLabel = "Defensa contra pirateo";

@@ -1,0 +1,18 @@
+[PrototypeArmoury_MCMScreen]
+ModName=Prototipo de arsenal
+PageTitle=Prototipo de arsenal
+
+CanBeChangedInSaveTitle=Se puede cambiar durante la campaña
+REMOVE_NICKNAMED_UPGRADES_Label=Eliminar mejoras de objetos con nombre
+REMOVE_NICKNAMED_UPGRADES_Tip="Si se desactiva esta opción, se conservarán las mejoras de los elementos con nombre al seleccionar 'HACER MEJORAS DISPONIBLES' en la pantalla de selección de pelotón"
+
+CanNotBeChangedInSaveTitle=No se puede cambiar durante la campaña
+FORCE_LOCK_AND_LOAD_Label=Activar siempre el bonus de continente para sacar mejoras de arma sin romperlas
+FORCE_LOCK_AND_LOAD_Tip=Permite cambiar mejoras de objeto sin destruir el previo. Requiere reiniciar el juego para que se aplique
+
+[UIUtilities_PA]
+strDropUpgrade=QUITAR MEJORA
+strStripUpgrades=AHCER MEJORAS DISPONIBLES
+strStripUpgradesTooltip=Elimina todas las mejoras de objetos NO equipados por soldados seleccionados para la batalla actual.
+strStripUpgradesConfirm=CONFIRMAR MEJORAS DISPONIBLES
+strStripUpgradesConfirmDesc=Confirma que quieres eliminar todas las mejoras de objetos NO equipados por soldados seleccionados para la batalla actual. Estas mejoras se vuelven disponibles al instante. Las mejoras de objetos con nombre se <XGParam:StrValue0>. Esto se puede cambiar en el MCM.

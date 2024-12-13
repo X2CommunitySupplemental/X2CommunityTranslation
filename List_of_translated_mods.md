@@ -118,6 +118,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=934236622
 
 * Chinese
 * Russian
+* Italian
+* Spanish
 
 # [WOTC] Soldier Info Redux
 https://steamcommunity.com/sharedfiles/filedetails/?id=2415446578
@@ -135,6 +137,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1183444470
 
 * Chinese
 * Russian
+* Spanish
 
 # [WOTC] YAF1 Profile Extension
 https://steamcommunity.com/sharedfiles/filedetails/?id=2368109302
@@ -172,6 +175,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2347354900
 
 * Chinese
 * Russian
+* Korean
+* Spanish
 
 # [WOTC] Extended Personnel Info Redux
 https://steamcommunity.com/sharedfiles/filedetails/?id=2965980985
@@ -210,6 +215,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=667104300
 
 * Chinese
 * Russian
+* Spanish
+* German
+* Korean
 
 # [WOTC] Cosmo Dragoon
 https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
@@ -369,11 +377,13 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2989400002
 https://steamcommunity.com/sharedfiles/filedetails/?id=1162274976
 
 * Russian
+* Korean
 
 # [WOTC] Prototype Armoury
 https://steamcommunity.com/sharedfiles/filedetails/?id=2567230602
 
 * Russian
+* Spanish
 
 # [WOTC] Show All Class Counts
 https://steamcommunity.com/sharedfiles/filedetails/?id=2167235854

@@ -1,0 +1,49 @@
+[POI_Prototype_T2 X2PointOfInterestTemplate]
+DisplayNames[0]="Llamada de socorro"
+
+CompletedSummaries[0]="Mientras escaneábamos en esta zona, detectamos una señal de SOS procedente de una estructura oculta en las profundidades de las ruinas de la ciudad. Parece que algunos científicos desertaron de ADVENT y continuaron su investigación en la clandestinidad. No sabemos qué pasó con ellos, pero debajo de una viga de soporte derrumbada encontramos un prototipo que funciona y que parece ser mejor de lo que hemos desarrollado hasta ahora."
+
+POIImages[0]="img:///UILibrary_StrategyImages.X2StrategyMap.POI_OvergrownCity"
+
+[Reward_PrototypeT2 X2RewardTemplate]
+DisplayName="Prototipo avanzado"
+
+[POI_Prototype_T3 X2PointOfInterestTemplate]
+DisplayNames[0]="Vieja señal de XCOM"
+
+CompletedSummaries[0]="Rastreando una señal utilizada en su día por XCOM durante la invasión, encontramos un búnker subterráneo, aparentemente un laboratorio de investigación externo. La instalación está desierta, y los impactos de plasma marcan las paredes. Los defensores parecen haber estado armados con un equipo equiparable al de los propios alienígenas, y entre los soldados caídos que murieron durante la última resistencia de la instalación, encontramos un objeto que sigue intacto."
+
+POIImages[0]="img:///UILibrary_StrategyImages.X2StrategyMap.POI_WhatsInTheBarn"
+
+[Reward_PrototypeT3 X2RewardTemplate]
+DisplayName="Prototipo avanzado"
+
+[POI_Sidegrade_T1 X2PointOfInterestTemplate]
+DisplayNames[0]="Búnker del Viejo Mundo"
+
+CompletedSummaries[0]="La resistencia local nos avisó de la existencia de un búnker del viejo mundo escondido en las montañas. Los escáneres del Avenger lo localizaron fácilmente, pero desgraciadamente las salas más internas del búnker fueron eliminadas por un ataque directo de un arma de plasma orbital. Sin embargo, habían varias salas secundarias que estaban lo suficientemente lejos como para salvarse, y en una de ellas encontramos una armería con algunas armas intactas de antaño."
+
+POIImages[0]="img:///UILibrary_StrategyImages.X2StrategyMap.POI_RadioTower"
+
+[Reward_SidegradeT1 X2RewardTemplate]
+DisplayName="Objetos de prototipo"
+
+[POI_Sidegrade_T2 X2PointOfInterestTemplate]
+DisplayNames[0]="Llamada de socorro"
+
+CompletedSummaries[0]="Mientras escaneábamos en esta zona, detectamos una señal de SOS procedente de una estructura oculta en las profundidades de las ruinas de la ciudad. Parece que algunos ingenieros desertaron de ADVENT y continuaron sus proyectos en la clandestinidad. No sabemos qué les ocurrió, pero utilizando el equipo de escaneo del Avenger pudimos identificar una caja fuerte de metal, enterrada a varios metros bajo tierra. La sacamos y encontramos algunos ejemplos del trabajo de los ingenieros."
+
+POIImages[0]="img:///UILibrary_StrategyImages.X2StrategyMap.POI_OvergrownCity"
+
+[Reward_SidegradeT2 X2RewardTemplate]
+DisplayName="Objetos de prototipo"
+
+[POI_Sidegrade_T3 X2PointOfInterestTemplate]
+DisplayNames[0]="Vieja señal de XCOM"
+
+CompletedSummaries[0]="Rastreando una señal utilizada en su día por XCOM durante la invasión, encontramos un búnker subterráneo, aparentemente una fábrica externa. La instalación está desierta, y los impactos de plasma marcan las paredes. Los defensores parecen haber estado armados con equipos muy avanzados, todos inutilizados por los alienígenas. Pero cerca del autofabricante principal, un panel de control seguía encendido. Aceptó uno de nuestros viejos códigos, y abrió una bóveda llena de varios artículos."
+
+POIImages[0]="img:///UILibrary_StrategyImages.X2StrategyMap.POI_WhatsInTheBarn"
+
+[Reward_SidegradeT3 X2RewardTemplate]
+DisplayName="Objetos de prototipo"
