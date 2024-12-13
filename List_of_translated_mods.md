@@ -129,6 +129,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2415446578
 https://steamcommunity.com/sharedfiles/filedetails/?id=1134266810
 
 * Chinese
+* Russian
 
 # WOTC - Extended Information!
 https://steamcommunity.com/sharedfiles/filedetails/?id=1183444470
