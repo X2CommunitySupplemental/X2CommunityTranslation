@@ -236,6 +236,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1122974240
 * Russian
 * French
 * Korean
+* Spanish
 
 # [WOTC] Covert Infiltration
 
