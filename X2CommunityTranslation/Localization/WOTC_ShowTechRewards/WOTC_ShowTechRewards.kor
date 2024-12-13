@@ -1,0 +1,6 @@
+[UIScreenListener_ShowTechUnlocks]
+Title="해금되는 것들"
+m_strPartial = "[부분]"
+m_strPossible = "[가능]"
+m_strObfuscate = "[?????]"
+m_strEmptyUnlocks = "보일 수 있는 정보 없음"

@@ -1,0 +1,13 @@
+[MCM_OptionsMenuListener]
+m_strModMenuButton="AJUSTES DE MODS"
+
+[MCM_OptionsScreen]
+m_strSaveAndExit="Guardar y salir"
+m_strCancel="Cancelar"
+m_strTitle="Ajustes de mod"
+m_strSubtitle=""
+
+[MCM_SettingsPanel]
+m_strResetButton="Reiniciar"
+m_strRevertButton="Descartar"
+m_strApplyButton="Guardar"

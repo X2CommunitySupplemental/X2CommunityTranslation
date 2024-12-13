@@ -1,0 +1,26 @@
+[TLE_KevlarArmor X2ArmorTemplate]
+FriendlyName="Armadura de campo recuperada"
+FriendlyNamePlural="Armaduras de campo recuperadas"
+BriefSummary="Esta armadura básica consiste en una protección improvisada que se obtiene a partir de restos y depósitos de armas de la resistencia. Proporciona una protección mínima contra el armamento de ADVENT y los alienígenas."
+TacticalText="<Bullet/> Todos los soldados reciben una armadura de kevlar como parte de su equipo básico.\n<Bullet/> La investigación puede darnos acceso a una mejor armadura."
+
+[TLE_PlatedArmor X2ArmorTemplate]
+FriendlyName="Prototipo de armadura de placas"
+FriendlyNamePlural="Prototipos de armaduras de placas"
+BriefSummary="Utilizando placas recuperadas de la armadura de ADVENT, este traje proporciona una mayor protección y capacidad de inventario adicional para nuestros soldados."
+TacticalText="<Bullet/> Armadura de peso medio basada en restos de ADVENT.\n<Bullet/> Como armadura de clase media, proporciona una ranura para un objeto de inventario adicional."
+
+[TLE_PoweredArmor X2ArmorTemplate]
+FriendlyName="Armadura potenciada experimental"
+FriendlyNamePlural="Armaduras potenciadas experimentales"
+BriefSummary="Nuestro nuevo dominio de la tecnología de elerio de los alienígenas nos ha llevado a lo último en armaduras de batalla. La armadura con elerio proporciona una capacidad de supervivencia y una versatilidad sin precedentes en la batalla contra enemigos alienígenas cada vez más poderosos."
+TacticalText="<Bullet/> Armadura de clase media de máximo nivel disponible.\n<Bullet/> La armadura potenciada proporciona 2 ranuras para objetos de inventario adicionales."
+
+[SparkBit_CV X2GremlinTemplate]
+BriefSummary="El BIT es una variante de nuestro dron GREMLIN, con los subsistemas de botiquín y electrochoque sustituidos por un soporte para armas pesadas."
+
+[SparkBit_MG X2GremlinTemplate]
+BriefSummary="La adición de aleaciones alienígenas al diseño del BIT nos permite miniaturizar el lanzador y hacer espacio para módulos adicionales de guerra electrónica."
+
+[SparkBit_BM X2GremlinTemplate]
+BriefSummary="Las células de energía de elerio tienen una utilidad especial cuando se aplican a nuestros diseños de drones, aumentando drásticamente la potencia y las capacidades de ciberguerra."

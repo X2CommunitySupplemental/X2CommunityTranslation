@@ -1,0 +1,13 @@
+[MCM_OptionsMenuListener]
+m_strModMenuButton="MODS"
+
+[MCM_OptionsScreen]
+m_strSaveAndExit="Speichern & Verl."
+m_strCancel="Abbrechen"
+m_strTitle="Mod-Einstellungen"
+m_strSubtitle=""
+
+[MCM_SettingsPanel]
+m_strResetButton="Zurücksetzen"
+m_strRevertButton="Verwerfen"
+m_strApplyButton="Speichern"
