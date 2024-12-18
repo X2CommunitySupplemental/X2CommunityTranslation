@@ -303,6 +303,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1316359865
 # [WoTC] ADVENT Military Assault MEC
 https://steamcommunity.com/sharedfiles/filedetails/?id=2755570022
 
+* Simplified Chinese
+
 # [WOTC] Advent Psi Ops
 https://steamcommunity.com/sharedfiles/filedetails/?id=1309465679
 
@@ -390,15 +392,13 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2167235854
 
 * Russian
 
-# [WOTC] Purifier Grenades Fix
-https://steamcommunity.com/sharedfiles/filedetails/?id=1371195713
+# More Cities WotC
+https://steamcommunity.com/sharedfiles/filedetails/?id=1131405167
 
-* International English
+* Russian
 
 # More Nations and Names WotC
 https://steamcommunity.com/sharedfiles/filedetails/?id=1124284135
-
-Note: for guaranteed work delete steamapps\workshop\content\268500\1124284135\Localization\RUS\XComGame.rus
 
 * Russian
 
@@ -415,6 +415,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1748331160
 # [WOTC] Purifier Grenades Fix
 https://steamcommunity.com/sharedfiles/filedetails/?id=1371195713
 
+* International English
 * Russian
 
 # [WOTC] Stabilize Me
@@ -434,11 +435,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1964595004
 
 # More Traits
 https://steamcommunity.com/sharedfiles/filedetails/?id=1122837889
-
-* Russian
-
-# More Cities WotC
-https://steamcommunity.com/sharedfiles/filedetails/?id=1131405167
 
 * Russian
 
