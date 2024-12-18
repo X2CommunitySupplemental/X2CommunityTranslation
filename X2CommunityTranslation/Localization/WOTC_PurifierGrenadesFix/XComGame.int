@@ -1,0 +1,10 @@
+; missing any localization. copied Firebomb X2GrenadeTemplate
+[PurifierGrenade X2GrenadeTemplate]
+FriendlyName="Incendiary Grenade"
+FriendlyNamePlural="Incendiary Grenades"
+BriefSummary="The Incendiary Grenade is a technical improvement to the improvised fire weapons the Resistance has been using for years. After the initial blast, most targets will be set aflame and suffer persistent burning damage."
+TacticalText="<Bullet/> Incendiary grenades will damage all units in the blast radius, and apply the \"burning\" effect to any units vulnerable to flame.\n<Bullet/> Incendiary grenades do more blast damage than all other grenades.\n<Bullet/> Some enemies, particularly metallic ones, are immune to fire and will not suffer the \"burning\" effect."
+ThrownAbilityName="Throw Incendiary Grenade"
+ThrownAbilityHelpText="Sets fire to the target area, along with affected units."
+LaunchedAbilityname="Launch Incendiary Grenade"
+LaunchedAbilityHelpText="Sets fire to the target area, along with affected units."

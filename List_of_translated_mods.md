@@ -395,6 +395,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2167235854
 
 * Russian
 
+
+# [WOTC] Purifier Grenades Fix
+https://steamcommunity.com/sharedfiles/filedetails/?id=1371195713
+
+* International English
+
 # More Nations and Names WotC
 Note: for guaranteed work delete steamapps\workshop\content\268500\1124284135\Localization\RUS\XComGame.rus
 https://steamcommunity.com/sharedfiles/filedetails/?id=1124284135
@@ -438,3 +444,4 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1122837889
 https://steamcommunity.com/sharedfiles/filedetails/?id=1131405167
 
 * Russian
+
