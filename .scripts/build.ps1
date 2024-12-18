@@ -30,6 +30,8 @@ switch ($config)
     default { ThrowFailure "Unknown build configuration $config" }
 }
 
+$builder.SetWorkshopID(3001342800)
+
 # Uncomment this line to enable cooking.
 # $builder.SetContentOptionsJsonFilename("ContentOptions.json")
 $builder.InvokeBuild()
