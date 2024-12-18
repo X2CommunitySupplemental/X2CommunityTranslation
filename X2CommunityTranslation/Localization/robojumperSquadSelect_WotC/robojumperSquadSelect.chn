@@ -1,0 +1,40 @@
+[robojumper_UISquadSelect]
+strSwitchPerspective=切換視圖
+strSwitchPerspectiveTooltip=在概覽和正常視角之間切換。
+strCycleLists=Cycle Lists
+strUnequipSquad=卸下小隊武器
+strUnequipSquadTooltip=卸下目前被選中任務單位的護甲和裝備。
+strUnequipSquadConfirm=確認卸下小隊武器
+strUnequipSquadWarning=這將取消所有當前任務所選擇士兵的所有物品。 此裝備將可供任何士兵立即裝備。
+strUnequipBarracks=卸下兵營武器
+strUnequipBarracksTooltip=卸下目前未被選中任務單位的護甲和裝備。
+strUnequipBarracksConfirm=確認卸下兵營武器
+strUnequipBarracksWarning=這將取消所有未被當前任務所選擇士兵的所有物品。 此裝備將可供任何士兵立即裝備。
+
+[robojumper_SquadSelect_UISL_MCM]
+strModTitle="robojumper's Squad Select"
+strLabel="Squad Select"
+strGroupTitle="一般設置"
+
+strShowWeaponUpgradeIcons=顯示主武器插件
+strSkipSecondaryUpgradeIconsAvailable=不顯示副武器插件
+strShowBGImages=顯示護甲和武器背景圖像
+strShowMeTheSkills=顯示單位技能
+strShowStats=顯示單位數據
+strSkipInitialAbilities=跳過初始能力
+strAutofillSquad=自動補充小隊
+
+strDisallowInfiniteScrolling=禁止無限滾動
+strSkipIntro=跳過介紹部分
+
+strSquadSize=小隊規模
+
+strSquadSizeSpawnWarning=小隊超過9名以上會出現問題，因為撤離點只能支援9個單位。請到本MOD的workshop頁面了解解決方案！
+
+
+strHideTrainingCenterButton=隱藏訓練中心按鈕
+
+[robojumper_UISquadSelect_SkillsPanel]
+strTrainingCenter=%SOLDIERPOINTS 士兵能力點
+; removed because duplicate info bad
+; (%TOTALPOINTS in Shared Pool)
