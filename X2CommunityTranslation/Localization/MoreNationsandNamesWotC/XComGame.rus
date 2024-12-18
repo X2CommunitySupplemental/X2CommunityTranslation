@@ -1,0 +1,1161 @@
+[Country_MNMAfghanistan X2CountryTemplate]
+DisplayName="Афганистан"
+DisplayNameWithArticle="Афганистан"
+DisplayNameWithArticleLower="Афганистан"
+DisplayNamePossessive="афганистанск."
+DisplayAdjective="афганистанск."
+
+[Country_MNMAlbania X2CountryTemplate]
+DisplayName="Албания"
+DisplayNameWithArticle="Албания"
+DisplayNameWithArticleLower="Албания"
+DisplayNamePossessive="албанск."
+DisplayAdjective="албанск."
+
+[Country_MNMAlgeria X2CountryTemplate]
+DisplayName="Алжир"
+DisplayNameWithArticle="Алжир"
+DisplayNameWithArticleLower="Алжир"
+DisplayNamePossessive="алжирск."
+DisplayAdjective="алжирск."
+
+[Country_MNMAndorra X2CountryTemplate]
+DisplayName="Андорра"
+DisplayNameWithArticle="Андорра"
+DisplayNameWithArticleLower="Андорра"
+DisplayNamePossessive="андорск."
+DisplayAdjective="андорск."
+
+[Country_MNMAngola X2CountryTemplate]
+DisplayName="Ангола"
+DisplayNameWithArticle="Ангола"
+DisplayNameWithArticleLower="Ангола"
+DisplayNamePossessive="анголск."
+DisplayAdjective="анголск."
+
+[Country_MNMAntigua X2CountryTemplate]
+DisplayName="Антигуа и Барбуда"
+DisplayNameWithArticle="Антигуа и Барбуда"
+DisplayNameWithArticleLower="Антигуа и Барбуда"
+DisplayNamePossessive="антигуанск."
+DisplayAdjective="антигуанск."
+
+[Country_MNMArmenia X2CountryTemplate]
+DisplayName="Армения"
+DisplayNameWithArticle="Армения"
+DisplayNameWithArticleLower="Армения"
+DisplayNamePossessive="армянск."
+DisplayAdjective="армянск."
+
+[Country_MNMAustria X2CountryTemplate]
+DisplayName="Австрия"
+DisplayNameWithArticle="Австрия"
+DisplayNameWithArticleLower="Австрия"
+DisplayNamePossessive="австрийск."
+DisplayAdjective="австрийск."
+
+[Country_MNMAzerbaijan X2CountryTemplate]
+DisplayName="Азербайджан"
+DisplayNameWithArticle="Азербайджан"
+DisplayNameWithArticleLower="Азербайджан"
+DisplayNamePossessive="азербайджанск."
+DisplayAdjective="азербайджанск."
+
+[Country_MNMBahamas X2CountryTemplate]
+DisplayName="Багамы"
+DisplayNameWithArticle="The Багамы"
+DisplayNameWithArticleLower="the Багамы"
+DisplayNamePossessive="багамск."
+DisplayAdjective="багамск."
+
+[Country_MNMBahrain X2CountryTemplate]
+DisplayName="Бахрейн"
+DisplayNameWithArticle="Бахрейн"
+DisplayNameWithArticleLower="Бахрейн"
+DisplayNamePossessive="бахрейнск."
+DisplayAdjective="бахрейнск."
+
+[Country_MNMBangladesh X2CountryTemplate]
+DisplayName="Бангладеш"
+DisplayNameWithArticle="Бангладеш"
+DisplayNameWithArticleLower="Бангладеш"
+DisplayNamePossessive="бангладешск."
+DisplayAdjective="бангладешск."
+
+[Country_MNMBarbados X2CountryTemplate]
+DisplayName="Барбадос"
+DisplayNameWithArticle="Барбадос"
+DisplayNameWithArticleLower="Барбадос"
+DisplayNamePossessive="барбадоск."
+DisplayAdjective="барбадоск."
+
+[Country_MNMBelarus X2CountryTemplate]
+DisplayName="Беларусь"
+DisplayNameWithArticle="Беларусь"
+DisplayNameWithArticleLower="Беларусь"
+DisplayNamePossessive="беларуск."
+DisplayAdjective="беларуск."
+
+[Country_MNMBelize X2CountryTemplate]
+DisplayName="Белиз"
+DisplayNameWithArticle="Белиз"
+DisplayNameWithArticleLower="Белиз"
+DisplayNamePossessive="белизск"
+DisplayAdjective="белизск"
+
+[Country_MNMBenin X2CountryTemplate]
+DisplayName="Бенин"
+DisplayNameWithArticle="Бенин"
+DisplayNameWithArticleLower="Бенин"
+DisplayNamePossessive="бенинск"
+DisplayAdjective="бенинск"
+
+[Country_MNMBhutan X2CountryTemplate]
+DisplayName="Бутан"
+DisplayNameWithArticle="Бутан"
+DisplayNameWithArticleLower="Бутан"
+DisplayNamePossessive="бутанск"
+DisplayAdjective="бутанск"
+
+[Country_MNMBolivia X2CountryTemplate]
+DisplayName="Боливия"
+DisplayNameWithArticle="Боливия"
+DisplayNameWithArticleLower="Боливия"
+DisplayNamePossessive="боливийск."
+DisplayAdjective="боливийск."
+
+[Country_MNMBosnia X2CountryTemplate]
+DisplayName="Босния и Герцеговина"
+DisplayNameWithArticle="Босния и Герцеговина"
+DisplayNameWithArticleLower="Босния и Герцеговина"
+DisplayNamePossessive="боснийск."
+DisplayAdjective="боснийск."
+
+[Country_MNMBotswana X2CountryTemplate]
+DisplayName="Ботсвана"
+DisplayNameWithArticle="Ботсвана"
+DisplayNameWithArticleLower="Ботсвана"
+DisplayNamePossessive="ботсванск."
+DisplayAdjective="ботсванск."
+
+[Country_MNMBrunei X2CountryTemplate]
+DisplayName="Бруней"
+DisplayNameWithArticle="Бруней"
+DisplayNameWithArticleLower="Бруней"
+DisplayNamePossessive="брунейск."
+DisplayAdjective="брунейск."
+
+[Country_MNMBulgaria X2CountryTemplate]
+DisplayName="Болгария"
+DisplayNameWithArticle="Болгария"
+DisplayNameWithArticleLower="Болгария"
+DisplayNamePossessive="болгарск."
+DisplayAdjective="болгарск."
+
+[Country_MNMBurkinaFaso X2CountryTemplate]
+DisplayName="Буркина-Фасо"
+DisplayNameWithArticle="Буркина-Фасо"
+DisplayNameWithArticleLower="Буркина-Фасо"
+DisplayNamePossessive="Burkina Faso's"
+DisplayAdjective="Burkinabй"
+
+[Country_MNMBurundi X2CountryTemplate]
+DisplayName="Бурунди"
+DisplayNameWithArticle="Бурунди"
+DisplayNameWithArticleLower="Бурунди"
+DisplayNamePossessive="Burundi's"
+DisplayAdjective="Burundian"
+
+[Country_MNMCambodia X2CountryTemplate]
+DisplayName="Камбоджа"
+DisplayNameWithArticle="Камбоджа"
+DisplayNameWithArticleLower="Камбоджа"
+DisplayNamePossessive="Cambodia's"
+DisplayAdjective="Cambodian"
+
+[Country_MNMCameroon X2CountryTemplate]
+DisplayName="Камерун"
+DisplayNameWithArticle="Камерун"
+DisplayNameWithArticleLower="Камерун"
+DisplayNamePossessive="Cameroon's"
+DisplayAdjective="Cameroonian"
+
+[Country_MNMCapeVerde X2CountryTemplate]
+DisplayName="Кабо-Верде"
+DisplayNameWithArticle="Кабо-Верде"
+DisplayNameWithArticleLower="Кабо-Верде"
+DisplayNamePossessive="Cabo Verde's"
+DisplayAdjective="Cabo Verdean"
+
+[Country_MNMCAR X2CountryTemplate]
+DisplayName="Центральноафриканская Республика"
+DisplayNameWithArticle="Центральноафриканская Республика"
+DisplayNameWithArticleLower="Центральноафриканская Республика"
+DisplayNamePossessive="Central African Republic's"
+DisplayAdjective="Central African"
+
+[Country_MNMChad X2CountryTemplate]
+DisplayName="Чад"
+DisplayNameWithArticle="Чад"
+DisplayNameWithArticleLower="Чад"
+DisplayNamePossessive="Chad's"
+DisplayAdjective="Chadian"
+
+[Country_MNMChile X2CountryTemplate]
+DisplayName="Чили"
+DisplayNameWithArticle="Чили"
+DisplayNameWithArticleLower="Чили"
+DisplayNamePossessive="чилийск."
+DisplayAdjective="чилийск."
+
+[Country_MNMComoros X2CountryTemplate]
+DisplayName="Коморы"
+DisplayNameWithArticle="Коморы"
+DisplayNameWithArticleLower="Коморы"
+DisplayNamePossessive="Comoros'"
+DisplayAdjective="Comoran"
+
+[Country_MNMCongo X2CountryTemplate]
+DisplayName="Конго"
+DisplayNameWithArticle="Конго"
+DisplayNameWithArticleLower="Конго"
+DisplayNamePossessive="Congo's"
+DisplayAdjective="Congolese"
+
+[Country_MNMCostaRica X2CountryTemplate]
+DisplayName="Коста-Рика"
+DisplayNameWithArticle="Коста-Рика"
+DisplayNameWithArticleLower="Коста-Рика"
+DisplayNamePossessive="Costa Rica's"
+DisplayAdjective="Costa Rican"
+
+[Country_MNMCroatia X2CountryTemplate]
+DisplayName="Хорватия"
+DisplayNameWithArticle="Хорватия"
+DisplayNameWithArticleLower="Хорватия"
+DisplayNamePossessive="хорватск."
+DisplayAdjective="хорватск."
+
+[Country_MNMCuba X2CountryTemplate]
+DisplayName="Куба"
+DisplayNameWithArticle="Куба"
+DisplayNameWithArticleLower="Куба"
+DisplayNamePossessive="кубийск."
+DisplayAdjective="кубийск."
+
+[Country_MNMCyprus X2CountryTemplate]
+DisplayName="Кипр"
+DisplayNameWithArticle="Кипр"
+DisplayNameWithArticleLower="Кипр"
+DisplayNamePossessive="киприотск."
+DisplayAdjective="киприотск."
+
+[Country_MNMCzechRepublic X2CountryTemplate]
+DisplayName="Чехия"
+DisplayNameWithArticle="Чехия"
+DisplayNameWithArticleLower="Чехия"
+DisplayNamePossessive="чешск."
+DisplayAdjective="чешск."
+
+[Country_MNMDenmark X2CountryTemplate]
+DisplayName="Дания"
+DisplayNameWithArticle="Дания"
+DisplayNameWithArticleLower="Дания"
+DisplayNamePossessive="датск."
+DisplayAdjective="датск."
+
+[Country_MNMDjibouti X2CountryTemplate]
+DisplayName="Джибути"
+DisplayNameWithArticle="Джибути"
+DisplayNameWithArticleLower="Джибути"
+DisplayNamePossessive="Djibouti's"
+DisplayAdjective="Djiboutian"
+
+[Country_MNMDominica X2CountryTemplate]
+DisplayName="Доминика"
+DisplayNameWithArticle="Доминика"
+DisplayNameWithArticleLower="Доминика"
+DisplayNamePossessive="Dominica's"
+DisplayAdjective="Dominican"
+
+[Country_MNMDominicanRep X2CountryTemplate]
+DisplayName="Доминиканская Республика"
+DisplayNameWithArticle="Доминиканская Республика"
+DisplayNameWithArticleLower="Доминиканская Республика"
+DisplayNamePossessive="Dominican Republic's"
+DisplayAdjective="Dominican"
+
+[Country_MNMDRCongo X2CountryTemplate]
+DisplayName="ДР Конго"
+DisplayNameWithArticle="ДР Конго"
+DisplayNameWithArticleLower="ДР Конго"
+DisplayNamePossessive="DR Congo's"
+DisplayAdjective="Congolese"
+
+[Country_MNMEastTimor X2CountryTemplate]
+DisplayName="Восточный Тимор"
+DisplayNameWithArticle="Восточный Тимор"
+DisplayNameWithArticleLower="Восточный Тимор"
+DisplayNamePossessive="East Timor's"
+DisplayAdjective="East Timorese"
+
+[Country_MNMEcuador X2CountryTemplate]
+DisplayName="Эквадор"
+DisplayNameWithArticle="Эквадор"
+DisplayNameWithArticleLower="Эквадор"
+DisplayNamePossessive="Ecuador's"
+DisplayAdjective="Ecuadorian"
+
+[Country_MNMElSalvador X2CountryTemplate]
+DisplayName="Сальвадор"
+DisplayNameWithArticle="Сальвадор"
+DisplayNameWithArticleLower="Сальвадор"
+DisplayNamePossessive="El Salvador's"
+DisplayAdjective="Salvadoran"
+
+[Country_MNMEngland X2CountryTemplate]
+DisplayName="Англия"
+DisplayNameWithArticle="Англия"
+DisplayNameWithArticleLower="Англия"
+DisplayNamePossessive="английск."
+DisplayAdjective="английск."
+
+[Country_MNMEqGuinea X2CountryTemplate]
+DisplayName="Экваториальная Гвинея"
+DisplayNameWithArticle="Экваториальная Гвинея"
+DisplayNameWithArticleLower="Экваториальная Гвинея"
+DisplayNamePossessive="Equatorial Guinea's"
+DisplayAdjective="Equatoguinean"
+
+[Country_MNMEritrea X2CountryTemplate]
+DisplayName="Эритрея"
+DisplayNameWithArticle="Эритрея"
+DisplayNameWithArticleLower="Эритрея"
+DisplayNamePossessive="Eritrea's"
+DisplayAdjective="Eritrean"
+
+[Country_MNMEstonia X2CountryTemplate]
+DisplayName="Эстония"
+DisplayNameWithArticle="Эстония"
+DisplayNameWithArticleLower="Эстония"
+DisplayNamePossessive="эстонск."
+DisplayAdjective="эстонск."
+
+[Country_MNMEthiopia X2CountryTemplate]
+DisplayName="Эфиопия"
+DisplayNameWithArticle="Эфиопия"
+DisplayNameWithArticleLower="Эфиопия"
+DisplayNamePossessive="Ethiopia's"
+DisplayAdjective="Ethiopian"
+
+[Country_MNMFiji X2CountryTemplate]
+DisplayName="Фиджи"
+DisplayNameWithArticle="Фиджи"
+DisplayNameWithArticleLower="Фиджи"
+DisplayNamePossessive="Fiji's"
+DisplayAdjective="Fijian"
+
+[Country_MNMFinland X2CountryTemplate]
+DisplayName="Финляндия"
+DisplayNameWithArticle="Финляндия"
+DisplayNameWithArticleLower="Финляндия"
+DisplayNamePossessive="финск."
+DisplayAdjective="финск."
+
+[Country_MNMGabon X2CountryTemplate]
+DisplayName="Габон"
+DisplayNameWithArticle="Габон"
+DisplayNameWithArticleLower="Габон"
+DisplayNamePossessive="Gabon's"
+DisplayAdjective="Gabonese"
+
+[Country_MNMGambia X2CountryTemplate]
+DisplayName="Гамбия"
+DisplayNameWithArticle="Гамбия"
+DisplayNameWithArticleLower="Гамбия"
+DisplayNamePossessive="Gambia's"
+DisplayAdjective="Gambian"
+
+[Country_MNMGeorgia X2CountryTemplate]
+DisplayName="Грузия"
+DisplayNameWithArticle="Грузия"
+DisplayNameWithArticleLower="Грузия"
+DisplayNamePossessive="грузинск."
+DisplayAdjective="грузинск."
+
+[Country_MNMGhana X2CountryTemplate]
+DisplayName="Гана"
+DisplayNameWithArticle="Гана"
+DisplayNameWithArticleLower="Гана"
+DisplayNamePossessive="Ghana's"
+DisplayAdjective="Ghanaian"
+
+[Country_MNMGrenada X2CountryTemplate]
+DisplayName="Гренада"
+DisplayNameWithArticle="Гренада"
+DisplayNameWithArticleLower="Гренада"
+DisplayNamePossessive="Grenada's"
+DisplayAdjective="Grenadian"
+
+[Country_MNMGuatemala X2CountryTemplate]
+DisplayName="Гватемала"
+DisplayNameWithArticle="Гватемала"
+DisplayNameWithArticleLower="Гватемала"
+DisplayNamePossessive="Guatemala's"
+DisplayAdjective="Guatemalan"
+
+[Country_MNMGuinea X2CountryTemplate]
+DisplayName="Гвинея"
+DisplayNameWithArticle="Гвинея"
+DisplayNameWithArticleLower="Гвинея"
+DisplayNamePossessive="Guinea's"
+DisplayAdjective="Guinean"
+
+[Country_MNMGuineaBissau X2CountryTemplate]
+DisplayName="Гвинея-Бисау"
+DisplayNameWithArticle="Гвинея-Бисау"
+DisplayNameWithArticleLower="Гвинея-Бисау"
+DisplayNamePossessive="Guinea-Bissau's"
+DisplayAdjective="Bissau-Guinean"
+
+[Country_MNMGuyana X2CountryTemplate]
+DisplayName="Гайана"
+DisplayNameWithArticle="Гайана"
+DisplayNameWithArticleLower="Гайана"
+DisplayNamePossessive="Guyana's"
+DisplayAdjective="Guyanese"
+
+[Country_MNMHaiti X2CountryTemplate]
+DisplayName="Гаити"
+DisplayNameWithArticle="Гаити"
+DisplayNameWithArticleLower="Гаити"
+DisplayNamePossessive="Haiti's"
+DisplayAdjective="Haitian"
+
+[Country_MNMHonduras X2CountryTemplate]
+DisplayName="Гондурас"
+DisplayNameWithArticle="Гондурас"
+DisplayNameWithArticleLower="Гондурас"
+DisplayNamePossessive="Honduras'"
+DisplayAdjective="Honduran"
+
+[Country_MNMHongKong X2CountryTemplate]
+DisplayName="Гонконг"
+DisplayNameWithArticle="Гонконг"
+DisplayNameWithArticleLower="Гонконг"
+DisplayNamePossessive="гонконгск."
+DisplayAdjective="гонконгск."
+
+[Country_MNMHungary X2CountryTemplate]
+DisplayName="Венгрия"
+DisplayNameWithArticle="Венгрия"
+DisplayNameWithArticleLower="Венгрия"
+DisplayNamePossessive="Hungary's"
+DisplayAdjective="Hungarian"
+
+[Country_MNMIceland X2CountryTemplate]
+DisplayName="Исландия"
+DisplayNameWithArticle="Исландия"
+DisplayNameWithArticleLower="Исландия"
+DisplayNamePossessive="Iceland's"
+DisplayAdjective="Icelandic"
+
+[Country_MNMIraq X2CountryTemplate]
+DisplayName="Ирак"
+DisplayNameWithArticle="Ирак"
+DisplayNameWithArticleLower="Ирак"
+DisplayNamePossessive="Iraq's"
+DisplayAdjective="Iraqi"
+
+[Country_MNMIvoryCoast X2CountryTemplate]
+DisplayName="Кот-д'Ивуар"
+DisplayNameWithArticle="Кот-д'Ивуар"
+DisplayNameWithArticleLower="Кот-д'Ивуар"
+DisplayNamePossessive="Ivory Coast's"
+DisplayAdjective="Ivorian"
+
+[Country_MNMJamaica X2CountryTemplate]
+DisplayName="Ямайка"
+DisplayNameWithArticle="Ямайка"
+DisplayNameWithArticleLower="Ямайка"
+DisplayNamePossessive="Jamaica's"
+DisplayAdjective="Jamaican"
+
+[Country_MNMJordan X2CountryTemplate]
+DisplayName="Иордания"
+DisplayNameWithArticle="Иордания"
+DisplayNameWithArticleLower="Иордания"
+DisplayNamePossessive="Jordan's"
+DisplayAdjective="Jordanian"
+
+[Country_MNMKazakhstan X2CountryTemplate]
+DisplayName="Казахстан"
+DisplayNameWithArticle="Казахстан"
+DisplayNameWithArticleLower="Казахстан"
+DisplayNamePossessive="казахск."
+DisplayAdjective="казахск."
+
+[Country_MNMKenya X2CountryTemplate]
+DisplayName="Кения"
+DisplayNameWithArticle="Кения"
+DisplayNameWithArticleLower="Кения"
+DisplayNamePossessive="Kenya's"
+DisplayAdjective="Kenyan"
+
+[Country_MNMKiribati X2CountryTemplate]
+DisplayName="Кирибати"
+DisplayNameWithArticle="Кирибати"
+DisplayNameWithArticleLower="Кирибати"
+DisplayNamePossessive="Kiribati's"
+DisplayAdjective="I-Kiribati"
+
+[Country_MNMKosovo X2CountryTemplate]
+DisplayName="Косово"
+DisplayNameWithArticle="Косово"
+DisplayNameWithArticleLower="Косово"
+DisplayNamePossessive="Kosovo's"
+DisplayAdjective="Kosovar"
+
+[Country_MNMKuwait X2CountryTemplate]
+DisplayName="Кувейт"
+DisplayNameWithArticle="Кувейт"
+DisplayNameWithArticleLower="Кувейт"
+DisplayNamePossessive="Kuwait's"
+DisplayAdjective="Kuwaiti"
+
+[Country_MNMKyrgyzstan X2CountryTemplate]
+DisplayName="Кыргызстан"
+DisplayNameWithArticle="Кыргызстан"
+DisplayNameWithArticleLower="Кыргызстан"
+DisplayNamePossessive="кыргызстанск."
+DisplayAdjective="кыргызстанск."
+
+[Country_MNMLaos X2CountryTemplate]
+DisplayName="Лаос"
+DisplayNameWithArticle="Лаос"
+DisplayNameWithArticleLower="Лаос"
+DisplayNamePossessive="Laos'"
+DisplayAdjective="Laotian"
+
+[Country_MNMLatvia X2CountryTemplate]
+DisplayName="Латвия"
+DisplayNameWithArticle="Латвия"
+DisplayNameWithArticleLower="Латвия"
+DisplayNamePossessive="латвийск."
+DisplayAdjective="латвийск."
+
+[Country_MNMLebanon X2CountryTemplate]
+DisplayName="Ливан"
+DisplayNameWithArticle="Ливан"
+DisplayNameWithArticleLower="Ливан"
+DisplayNamePossessive="Lebanon's"
+DisplayAdjective="Lebanese"
+
+[Country_MNMLesotho X2CountryTemplate]
+DisplayName="Лесото"
+DisplayNameWithArticle="Лесото"
+DisplayNameWithArticleLower="Лесото"
+DisplayNamePossessive="Lesotho's"
+DisplayAdjective="Basotho"
+
+[Country_MNMLiberia X2CountryTemplate]
+DisplayName="Либерия"
+DisplayNameWithArticle="Либерия"
+DisplayNameWithArticleLower="Либерия"
+DisplayNamePossessive="Liberia's"
+DisplayAdjective="Liberian"
+
+[Country_MNMLibya X2CountryTemplate]
+DisplayName="Ливия"
+DisplayNameWithArticle="Ливия"
+DisplayNameWithArticleLower="Ливия"
+DisplayNamePossessive="Libya's"
+DisplayAdjective="Libyan"
+
+[Country_MNMLiechtenstein X2CountryTemplate]
+DisplayName="Лихтенштейн"
+DisplayNameWithArticle="Лихтенштейн"
+DisplayNameWithArticleLower="Лихтенштейн"
+DisplayNamePossessive="Liechtenstein's"
+DisplayAdjective="Liechtenstein"
+
+[Country_MNMLithuania X2CountryTemplate]
+DisplayName="Литва"
+DisplayNameWithArticle="Литва"
+DisplayNameWithArticleLower="Литва"
+DisplayNamePossessive="Lithuania's"
+DisplayAdjective="Lithuanian"
+
+[Country_MNMLuxembourg X2CountryTemplate]
+DisplayName="Люксембург"
+DisplayNameWithArticle="Люксембург"
+DisplayNameWithArticleLower="Люксембург"
+DisplayNamePossessive="Luxembourg's"
+DisplayAdjective="Luxembourg"
+
+[Country_MNMMacedonia X2CountryTemplate]
+DisplayName="Македония"
+DisplayNameWithArticle="Македония"
+DisplayNameWithArticleLower="Македония"
+DisplayNamePossessive="Macedonia's"
+DisplayAdjective="Macedonian"
+
+[Country_MNMMadagascar X2CountryTemplate]
+DisplayName="Мадагаскар"
+DisplayNameWithArticle="Мадагаскар"
+DisplayNameWithArticleLower="Мадагаскар"
+DisplayNamePossessive="Madagascar's"
+DisplayAdjective="Malagasy"
+
+[Country_MNMMalawi X2CountryTemplate]
+DisplayName="Малави"
+DisplayNameWithArticle="Малави"
+DisplayNameWithArticleLower="Малави"
+DisplayNamePossessive="Malawi's"
+DisplayAdjective="Malawian"
+
+[Country_MNMMalaysia X2CountryTemplate]
+DisplayName="Малайзия"
+DisplayNameWithArticle="Малайзия"
+DisplayNameWithArticleLower="Малайзия"
+DisplayNamePossessive="Malaysia's"
+DisplayAdjective="Malaysian"
+
+[Country_MNMMaldives X2CountryTemplate]
+DisplayName="Мальдивы"
+DisplayNameWithArticle="The Мальдивы"
+DisplayNameWithArticleLower="the Мальдивы"
+DisplayNamePossessive="мальдийск."
+DisplayAdjective="мальдийск."
+
+[Country_MNMMali X2CountryTemplate]
+DisplayName="Мали"
+DisplayNameWithArticle="Мали"
+DisplayNameWithArticleLower="Мали"
+DisplayNamePossessive="Mali's"
+DisplayAdjective="Malian"
+
+[Country_MNMMalta X2CountryTemplate]
+DisplayName="Мальта"
+DisplayNameWithArticle="Мальта"
+DisplayNameWithArticleLower="Мальта"
+DisplayNamePossessive="Malta's"
+DisplayAdjective="Maltese"
+
+[Country_MNMMarshall X2CountryTemplate]
+DisplayName="Маршалловы острова"
+DisplayNameWithArticle="Маршалловы острова"
+DisplayNameWithArticleLower="Маршалловы острова"
+DisplayNamePossessive="Marshall Islands'"
+DisplayAdjective="Marshallese"
+
+[Country_MNMMauritania X2CountryTemplate]
+DisplayName="Мавритания"
+DisplayNameWithArticle="Мавритания"
+DisplayNameWithArticleLower="Мавритания"
+DisplayNamePossessive="Mauritania's"
+DisplayAdjective="Mauritanian"
+
+[Country_MNMMauritius X2CountryTemplate]
+DisplayName="Маврикий"
+DisplayNameWithArticle="Маврикий"
+DisplayNameWithArticleLower="Маврикий"
+DisplayNamePossessive="Mauritius'"
+DisplayAdjective="Mauritian"
+
+[Country_MNMMicronesia X2CountryTemplate]
+DisplayName="Микронезия"
+DisplayNameWithArticle="Микронезия"
+DisplayNameWithArticleLower="Микронезия"
+DisplayNamePossessive="Micronesia's"
+DisplayAdjective="Micronesian"
+
+[Country_MNMMoldova X2CountryTemplate]
+DisplayName="Молдова"
+DisplayNameWithArticle="Молдова"
+DisplayNameWithArticleLower="Молдова"
+DisplayNamePossessive="Moldova's"
+DisplayAdjective="Moldovan"
+
+[Country_MNMMonaco X2CountryTemplate]
+DisplayName="Монако"
+DisplayNameWithArticle="Монако"
+DisplayNameWithArticleLower="Монако"
+DisplayNamePossessive="Monaco's"
+DisplayAdjective="Monegasque"
+
+[Country_MNMMongolia X2CountryTemplate]
+DisplayName="Монголия"
+DisplayNameWithArticle="Монголия"
+DisplayNameWithArticleLower="Монголия"
+DisplayNamePossessive="Mongolia's"
+DisplayAdjective="Mongolian"
+
+[Country_MNMMontenegro X2CountryTemplate]
+DisplayName="Черногория"
+DisplayNameWithArticle="Черногория"
+DisplayNameWithArticleLower="Черногория"
+DisplayNamePossessive="Montenegro's"
+DisplayAdjective="Montenegrin"
+
+[Country_MNMMorocco X2CountryTemplate]
+DisplayName="Марокко"
+DisplayNameWithArticle="Марокко"
+DisplayNameWithArticleLower="Марокко"
+DisplayNamePossessive="Morocco's"
+DisplayAdjective="Moroccan"
+
+[Country_MNMMozambique X2CountryTemplate]
+DisplayName="Мозамбик"
+DisplayNameWithArticle="Мозамбик"
+DisplayNameWithArticleLower="Мозамбик"
+DisplayNamePossessive="Mozambique's"
+DisplayAdjective="Mozambican"
+
+[Country_MNMMyanmar X2CountryTemplate]
+DisplayName="Мьянма"
+DisplayNameWithArticle="Мьянма"
+DisplayNameWithArticleLower="Мьянма"
+DisplayNamePossessive="Myanmar's"
+DisplayAdjective="Myanma"
+
+[Country_MNMNamibia X2CountryTemplate]
+DisplayName="Намибия"
+DisplayNameWithArticle="Намибия"
+DisplayNameWithArticleLower="Намибия"
+DisplayNamePossessive="Namibia's"
+DisplayAdjective="Namibian"
+
+[Country_MNMNauru X2CountryTemplate]
+DisplayName="Науру"
+DisplayNameWithArticle="Науру"
+DisplayNameWithArticleLower="Науру"
+DisplayNamePossessive="Nauru's"
+DisplayAdjective="Nauruan"
+
+[Country_MNMNepal X2CountryTemplate]
+DisplayName="Непал"
+DisplayNameWithArticle="Непал"
+DisplayNameWithArticleLower="Непал"
+DisplayNamePossessive="Nepal's"
+DisplayAdjective="Nepali"
+
+[Country_MNMNewZealand X2CountryTemplate]
+DisplayName="Новая Зеландия"
+DisplayNameWithArticle="Новая Зеландия"
+DisplayNameWithArticleLower="Новая Зеландия"
+DisplayNamePossessive="новозеландск."
+DisplayAdjective="новозеландск."
+
+[Country_MNMNicaragua X2CountryTemplate]
+DisplayName="Никарагуа"
+DisplayNameWithArticle="Никарагуа"
+DisplayNameWithArticleLower="Никарагуа"
+DisplayNamePossessive="Nicaragua's"
+DisplayAdjective="Nicaraguan"
+
+[Country_MNMNiger X2CountryTemplate]
+DisplayName="Нигер"
+DisplayNameWithArticle="Нигер"
+DisplayNameWithArticleLower="Нигер"
+DisplayNamePossessive="Niger's"
+DisplayAdjective="Nigerien"
+
+[Country_MNMNorthernIreland X2CountryTemplate]
+DisplayName="Северная Ирландия"
+DisplayNameWithArticle="Северная Ирландия"
+DisplayNameWithArticleLower="Северная Ирландия"
+DisplayNamePossessive="Northern Ireland's"
+DisplayAdjective="Northern Irish"
+
+[Country_MNMNorthKorea X2CountryTemplate]
+DisplayName="Северная Корея"
+DisplayNameWithArticle="Северная Корея"
+DisplayNameWithArticleLower="Северная Корея"
+DisplayNamePossessive="северокорейск."
+DisplayAdjective="северокорейск."
+
+[Country_MNMOman X2CountryTemplate]
+DisplayName="Оман"
+DisplayNameWithArticle="Оман"
+DisplayNameWithArticleLower="Оман"
+DisplayNamePossessive="Oman's"
+DisplayAdjective="Omani"
+
+[Country_MNMPalau X2CountryTemplate]
+DisplayName="Палау"
+DisplayNameWithArticle="Палау"
+DisplayNameWithArticleLower="Палау"
+DisplayNamePossessive="Palau's"
+DisplayAdjective="Palauan"
+
+[Country_MNMPalestine X2CountryTemplate]
+DisplayName="Палестина"
+DisplayNameWithArticle="Палестина"
+DisplayNameWithArticleLower="Палестина"
+DisplayNamePossessive="Palestine's"
+DisplayAdjective="Palestinian"
+
+[Country_MNMPanama X2CountryTemplate]
+DisplayName="Панама"
+DisplayNameWithArticle="Панама"
+DisplayNameWithArticleLower="Панама"
+DisplayNamePossessive="Panama's"
+DisplayAdjective="Panamanian"
+
+[Country_MNMPapuaNewGuinea X2CountryTemplate]
+DisplayName="Папуа-Новая Гвинея"
+DisplayNameWithArticle="Папуа-Новая Гвинея"
+DisplayNameWithArticleLower="Папуа-Новая Гвинея"
+DisplayNamePossessive="Papua New Guinea's"
+DisplayAdjective="Papua New Guinean"
+
+[Country_MNMParaguay X2CountryTemplate]
+DisplayName="Парагвай"
+DisplayNameWithArticle="Парагвай"
+DisplayNameWithArticleLower="Парагвай"
+DisplayNamePossessive="Paraguay's"
+DisplayAdjective="Paraguayan"
+
+[Country_MNMPeru X2CountryTemplate]
+DisplayName="Перу"
+DisplayNameWithArticle="Перу"
+DisplayNameWithArticleLower="Перу"
+DisplayNamePossessive="Peru's"
+DisplayAdjective="Peruvian"
+
+[Country_MNMPhilippines X2CountryTemplate]
+DisplayName="Филиппины"
+DisplayNameWithArticle="Филиппины"
+DisplayNameWithArticleLower="Филиппины"
+DisplayNamePossessive="Philippines'"
+DisplayAdjective="Filipino"
+
+[Country_MNMPuertoRico X2CountryTemplate]
+DisplayName="Пуэрто-Рико"
+DisplayNameWithArticle="Пуэрто-Рико"
+DisplayNameWithArticleLower="Пуэрто-Рико"
+DisplayNamePossessive="Puerto Rico's"
+DisplayAdjective="Puerto Rican"
+
+[Country_MNMQatar X2CountryTemplate]
+DisplayName="Катар"
+DisplayNameWithArticle="Катар"
+DisplayNameWithArticleLower="Катар"
+DisplayNamePossessive="Qatar's"
+DisplayAdjective="Qatari"
+
+[Country_MNMRomania X2CountryTemplate]
+DisplayName="Румыния"
+DisplayNameWithArticle="Румыния"
+DisplayNameWithArticleLower="Румыния"
+DisplayNamePossessive="румынск."
+DisplayAdjective="румынск."
+
+[Country_MNMRwanda X2CountryTemplate]
+DisplayName="Руанда"
+DisplayNameWithArticle="Руанда"
+DisplayNameWithArticleLower="Руанда"
+DisplayNamePossessive="Rwanda's"
+DisplayAdjective="Rwandan"
+
+[Country_MNMSamoa X2CountryTemplate]
+DisplayName="Самоа"
+DisplayNameWithArticle="Самоа"
+DisplayNameWithArticleLower="Самоа"
+DisplayNamePossessive="Samoa's"
+DisplayAdjective="Samoan"
+
+[Country_MNMSanMarino X2CountryTemplate]
+DisplayName="Сан-Марино"
+DisplayNameWithArticle="Сан-Марино"
+DisplayNameWithArticleLower="Сан-Марино"
+DisplayNamePossessive="San Marino's"
+DisplayAdjective="Sammarinese"
+
+[Country_MNMSaoTome X2CountryTemplate]
+DisplayName="Сан-Томе и Принсипи"
+DisplayNameWithArticle="Сан-Томе и Принсипи"
+DisplayNameWithArticleLower="Сан-Томе и Принсипи"
+DisplayNamePossessive="Sгo Tomй and Prнncipe's"
+DisplayAdjective="Sгo Tomйan"
+
+[Country_MNMSaudiArabia X2CountryTemplate]
+DisplayName="Саудовская Аравия"
+DisplayNameWithArticle="Саудовская Аравия"
+DisplayNameWithArticleLower="Саудовская Аравия"
+DisplayNamePossessive="Saudi Arabia's"
+DisplayAdjective="Saudi"
+
+[Country_MNMSenegal X2CountryTemplate]
+DisplayName="Сенегал"
+DisplayNameWithArticle="Сенегал"
+DisplayNameWithArticleLower="Сенегал"
+DisplayNamePossessive="Senegal's"
+DisplayAdjective="Senegalese"
+
+[Country_MNMSerbia X2CountryTemplate]
+DisplayName="Сербия"
+DisplayNameWithArticle="Сербия"
+DisplayNameWithArticleLower="Сербия"
+DisplayNamePossessive="сербск."
+DisplayAdjective="сербск."
+
+[Country_MNMSeychelles X2CountryTemplate]
+DisplayName="Сейшелы"
+DisplayNameWithArticle="Сейшелы"
+DisplayNameWithArticleLower="Сейшелы"
+DisplayNamePossessive="Seychelles'"
+DisplayAdjective="Seychellois"
+
+[Country_MNMSierraLeone X2CountryTemplate]
+DisplayName="Сьерра-Леоне"
+DisplayNameWithArticle="Сьерра-Леоне"
+DisplayNameWithArticleLower="Сьерра-Леоне"
+DisplayNamePossessive="Sierra Leone's"
+DisplayAdjective="Sierra Leonean"
+
+[Country_MNMSingapore X2CountryTemplate]
+DisplayName="Сингапур"
+DisplayNameWithArticle="Сингапур"
+DisplayNameWithArticleLower="Сингапур"
+DisplayNamePossessive="Singapore's"
+DisplayAdjective="Singapore"
+
+[Country_MNMSlovakia X2CountryTemplate]
+DisplayName="Словакия"
+DisplayNameWithArticle="Словакия"
+DisplayNameWithArticleLower="Словакия"
+DisplayNamePossessive="Slovakia's"
+DisplayAdjective="Slovak"
+
+[Country_MNMSlovenia X2CountryTemplate]
+DisplayName="Словения"
+DisplayNameWithArticle="Словения"
+DisplayNameWithArticleLower="Словения"
+DisplayNamePossessive="Slovenia's"
+DisplayAdjective="Slovenian"
+
+[Country_MNMSolomon X2CountryTemplate]
+DisplayName="Соломоновы острова"
+DisplayNameWithArticle="Соломоновы острова"
+DisplayNameWithArticleLower="Соломоновы острова"
+DisplayNamePossessive="Solomon Islands'"
+DisplayAdjective="Solomon Islander"
+
+[Country_MNMSomalia X2CountryTemplate]
+DisplayName="Сомали"
+DisplayNameWithArticle="Сомали"
+DisplayNameWithArticleLower="Сомали"
+DisplayNamePossessive="Somalia's"
+DisplayAdjective="Somali"
+
+[Country_MNMSouthSudan X2CountryTemplate]
+DisplayName="Южный Судан"
+DisplayNameWithArticle="Южный Судан"
+DisplayNameWithArticleLower="Южный Судан"
+DisplayNamePossessive="South Sudan's"
+DisplayAdjective="South Sudanese"
+
+[Country_MNMSriLanka X2CountryTemplate]
+DisplayName="Шри-Ланка"
+DisplayNameWithArticle="Шри-Ланка"
+DisplayNameWithArticleLower="Шри-Ланка"
+DisplayNamePossessive="Sri Lanka's"
+DisplayAdjective="Sri Lankan"
+
+[Country_MNMStKitts X2CountryTemplate]
+DisplayName="Сент-Китс и Невис"
+DisplayNameWithArticle="Сент-Китс и Невис"
+DisplayNameWithArticleLower="Сент-Китс и Невис"
+DisplayNamePossessive="Saint Kitts and Nevis'"
+DisplayAdjective="Kittitian"
+
+[Country_MNMStLucia X2CountryTemplate]
+DisplayName="Сент-Люсия"
+DisplayNameWithArticle="Сент-Люсия"
+DisplayNameWithArticleLower="Сент-Люсия"
+DisplayNamePossessive="Saint Lucia's"
+DisplayAdjective="Saint Lucian"
+
+[Country_MNMStVincent X2CountryTemplate]
+DisplayName="Сент-Винсент и Гренадины"
+DisplayNameWithArticle="Сент-Винсент и Гренадины"
+DisplayNameWithArticleLower="Сент-Винсент и Гренадины"
+DisplayNamePossessive="Saint Vincent and the Grenadines'"
+DisplayAdjective="Vincentian"
+
+[Country_MNMSudan X2CountryTemplate]
+DisplayName="Судан"
+DisplayNameWithArticle="Судан"
+DisplayNameWithArticleLower="Судан"
+DisplayNamePossessive="Sudan's"
+DisplayAdjective="Sudanese"
+
+[Country_MNMSuriname X2CountryTemplate]
+DisplayName="Суринам"
+DisplayNameWithArticle="Суринам"
+DisplayNameWithArticleLower="Суринам"
+DisplayNamePossessive="Suriname's"
+DisplayAdjective="Surinamese"
+
+[Country_MNMSwaziland X2CountryTemplate]
+DisplayName="Свазиленд"
+DisplayNameWithArticle="Свазиленд"
+DisplayNameWithArticleLower="Свазиленд"
+DisplayNamePossessive="Swaziland's"
+DisplayAdjective="Swazi"
+
+[Country_MNMSwitzerland X2CountryTemplate]
+DisplayName="Швейцария"
+DisplayNameWithArticle="Швейцария"
+DisplayNameWithArticleLower="Швейцария"
+DisplayNamePossessive="швейцарск."
+DisplayAdjective="швейцарск."
+
+[Country_MNMSyria X2CountryTemplate]
+DisplayName="Сирия"
+DisplayNameWithArticle="Сирия"
+DisplayNameWithArticleLower="Сирия"
+DisplayNamePossessive="Syria's"
+DisplayAdjective="Syrian"
+
+[Country_MNMTaiwan X2CountryTemplate]
+DisplayName="Тайвань"
+DisplayNameWithArticle="Тайвань"
+DisplayNameWithArticleLower="Тайвань"
+DisplayNamePossessive="Taiwan's"
+DisplayAdjective="Taiwanese"
+
+[Country_MNMTajikistan X2CountryTemplate]
+DisplayName="Таджикистан"
+DisplayNameWithArticle="Таджикистан"
+DisplayNameWithArticleLower="Таджикистан"
+DisplayNamePossessive="таджикск."
+DisplayAdjective="таджикск."
+
+[Country_MNMTanzania X2CountryTemplate]
+DisplayName="Танзания"
+DisplayNameWithArticle="Танзания"
+DisplayNameWithArticleLower="Танзания"
+DisplayNamePossessive="Tanzania's"
+DisplayAdjective="Tanzanian"
+
+[Country_MNMThailand X2CountryTemplate]
+DisplayName="Таиланд"
+DisplayNameWithArticle="Таиланд"
+DisplayNameWithArticleLower="Таиланд"
+DisplayNamePossessive="Thailand's"
+DisplayAdjective="Thai"
+
+[Country_MNMTogo X2CountryTemplate]
+DisplayName="Того"
+DisplayNameWithArticle="Того"
+DisplayNameWithArticleLower="Того"
+DisplayNamePossessive="Togo's"
+DisplayAdjective="Togolese"
+
+[Country_MNMTonga X2CountryTemplate]
+DisplayName="Тонга"
+DisplayNameWithArticle="Тонга"
+DisplayNameWithArticleLower="Тонга"
+DisplayNamePossessive="Tonga's"
+DisplayAdjective="Tongan"
+
+[Country_MNMTrinidad X2CountryTemplate]
+DisplayName="Тринидад и Тобаго"
+DisplayNameWithArticle="Тринидад и Тобаго"
+DisplayNameWithArticleLower="Тринидад и Тобаго"
+DisplayNamePossessive="Trinidad and Tobago's"
+DisplayAdjective="Trinidadian"
+
+[Country_MNMTunisia X2CountryTemplate]
+DisplayName="Тунис"
+DisplayNameWithArticle="Тунис"
+DisplayNameWithArticleLower="Тунис"
+DisplayNamePossessive="Tunisia's"
+DisplayAdjective="Tunisian"
+
+[Country_MNMTurkmenistan X2CountryTemplate]
+DisplayName="Туркменистан"
+DisplayNameWithArticle="Туркменистан"
+DisplayNameWithArticleLower="Туркменистан"
+DisplayNamePossessive="туркменск."
+DisplayAdjective="туркменск."
+
+[Country_MNMTuvalu X2CountryTemplate]
+DisplayName="Тувалу"
+DisplayNameWithArticle="Тувалу"
+DisplayNameWithArticleLower="Тувалу"
+DisplayNamePossessive="Tuvalu's"
+DisplayAdjective="Tuvaluan"
+
+[Country_MNMUAE X2CountryTemplate]
+DisplayName="ОАЭ"
+DisplayNameWithArticle="ОАЭ"
+DisplayNameWithArticleLower="ОАЭ"
+DisplayNamePossessive="эмиратск."
+DisplayAdjective="эмиратск."
+
+[Country_MNMUganda X2CountryTemplate]
+DisplayName="Уганда"
+DisplayNameWithArticle="Уганда"
+DisplayNameWithArticleLower="Уганда"
+DisplayNamePossessive="Uganda's"
+DisplayAdjective="Ugandan"
+
+[Country_MNMUruguay X2CountryTemplate]
+DisplayName="Уругвай"
+DisplayNameWithArticle="Уругвай"
+DisplayNameWithArticleLower="Уругвай"
+DisplayNamePossessive="Uruguay's"
+DisplayAdjective="Uruguayan"
+
+[Country_MNMUzbekistan X2CountryTemplate]
+DisplayName="Узбекистан"
+DisplayNameWithArticle="Узбекистан"
+DisplayNameWithArticleLower="Узбекистан"
+DisplayNamePossessive="узбекск."
+DisplayAdjective="узбекск."
+
+[Country_MNMVanuatu X2CountryTemplate]
+DisplayName="Вануату"
+DisplayNameWithArticle="Вануату"
+DisplayNameWithArticleLower="Вануату"
+DisplayNamePossessive="Vanuatu's"
+DisplayAdjective="Ni-Vanuatu"
+
+[Country_MNMVietnam X2CountryTemplate]
+DisplayName="Вьетнам"
+DisplayNameWithArticle="Вьетнам"
+DisplayNameWithArticleLower="Вьетнам"
+DisplayNamePossessive="Vietnam's"
+DisplayAdjective="Vietnamese"
+
+[Country_MNMWales X2CountryTemplate]
+DisplayName="Уэльс"
+DisplayNameWithArticle="Уэльс"
+DisplayNameWithArticleLower="Уэльс"
+DisplayNamePossessive="Wales'"
+DisplayAdjective="Welsh"
+
+[Country_MNMYemen X2CountryTemplate]
+DisplayName="Йемен"
+DisplayNameWithArticle="Йемен"
+DisplayNameWithArticleLower="Йемен"
+DisplayNamePossessive="Yemen's"
+DisplayAdjective="Yemeni"
+
+[Country_MNMZambia X2CountryTemplate]
+DisplayName="Замбия"
+DisplayNameWithArticle="Замбия"
+DisplayNameWithArticleLower="Замбия"
+DisplayNamePossessive="Zambia's"
+DisplayAdjective="Zambian"
+
+[Country_MNMZimbabwe X2CountryTemplate]
+DisplayName="Зимбабве"
+DisplayNameWithArticle="Зимбабве"
+DisplayNameWithArticleLower="Зимбабве"
+DisplayNamePossessive="Zimbabwe's"
+DisplayAdjective="Zimbabwean"

@@ -29,7 +29,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1125184617
 https://steamcommunity.com/sharedfiles/filedetails/?id=2303836344
 
 * Simplified Chinese
-
 * Russian
 
 # [WOTC] Iridar's Loadout Manager 
@@ -86,6 +85,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1334298434
 https://steamcommunity.com/sharedfiles/filedetails/?id=2595660540
 
 * Chinese
+* Russian
 
 # [WOTC] Faction Anchor
 https://steamcommunity.com/sharedfiles/filedetails/?id=2387956032
@@ -117,7 +117,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=709499969
 https://steamcommunity.com/sharedfiles/filedetails/?id=934236622
 
 * Chinese
-
 * Russian
 
 # [WOTC] Soldier Info Redux
@@ -129,6 +128,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2415446578
 https://steamcommunity.com/sharedfiles/filedetails/?id=1134266810
 
 * Chinese
+* Russian
 
 # WOTC - Extended Information!
 https://steamcommunity.com/sharedfiles/filedetails/?id=1183444470
@@ -221,101 +221,81 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2025780967
 
 * Russian
 
-# [WOTC] Automatic Reload by Iridar
-https://steamcommunity.com/sharedfiles/filedetails/?id=2595660540
-
-* Russian
-
-
 # WotC: robojumper's Squad Select
+https://steamcommunity.com/sharedfiles/filedetails/?id=1122974240
 
 Note: This may work for the vanilla/LW2 mod as well.
-
-https://steamcommunity.com/sharedfiles/filedetails/?id=1122974240
 
 * Russian
 * French
 * Korean
 * Chinese
+* Spanish
 
 # [WOTC] Covert Infiltration
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=2567230730
 
 * french
 
 # [WOTC] Iridar's ADVENT Arsenal - Ghost Templates
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=2438647615
 
 * Simplified Chinese
 
 # [WoTC]ADVENT Sniper
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=1126501968
 
 * Chinese
 
 # [WOTC] Advent Field Training
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=1658110374
 
 * Chinese
 
 # [WOTC] Dynamic Deployment by Iridar
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=2950736651
 
 * Chinese
 
 # [WoTC] Purge Priests
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=1927497195
 
 * Chinese
 
 # [WOTC] Squad Manager
-
 https://steamcommunity.com/workshop/filedetails/?id=2542543519
 
 * Chinese
 
 # Jedi Class Revised
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=2031929512
 
 * Chinese
 
 # [WoTC] Mark Zero Augments
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=1294744824
 
 * Chinese
 
 # [WOTC] Shadow Ops Perk Pack
-
 https://steamcommunity.com/workshop/filedetails/?id=1519841231
 
 * Chinese
 
 # [WOTC] YAF1 Autopsy Required Extension
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=2377251739
 
 * Chinese
 
 # Asari Adepts
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=1316359865
 
 * Chinese
 
 # [WoTC] ADVENT Military Assault MEC
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=2755570022
 
 # [WOTC] Advent Psi Ops
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=1309465679
 
 * Chinese
@@ -399,3 +379,56 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2567230602
 https://steamcommunity.com/sharedfiles/filedetails/?id=2167235854
 
 * Russian
+
+# [WOTC] Purifier Grenades Fix
+https://steamcommunity.com/sharedfiles/filedetails/?id=1371195713
+
+* International English
+
+# More Nations and Names WotC
+https://steamcommunity.com/sharedfiles/filedetails/?id=1124284135
+
+Note: for guaranteed work delete steamapps\workshop\content\268500\1124284135\Localization\RUS\XComGame.rus
+
+* Russian
+
+# [WOTC] Automated Loadout Manager
+https://steamcommunity.com/sharedfiles/filedetails/?id=1882809714
+
+* Russian
+
+# Phantom Evac
+https://steamcommunity.com/sharedfiles/filedetails/?id=1748331160
+
+* Russian
+
+# [WOTC] Purifier Grenades Fix
+https://steamcommunity.com/sharedfiles/filedetails/?id=1371195713
+
+* Russian
+
+# [WOTC] Stabilize Me
+https://steamcommunity.com/sharedfiles/filedetails/?id=1380625450
+
+* Russian
+
+# Everyone Gets Hunker Down WOTC
+https://steamcommunity.com/sharedfiles/filedetails/?id=1541012085
+
+* Russian
+
+# [WOTC] Yellow Alert Gameplay V2.0
+https://steamcommunity.com/sharedfiles/filedetails/?id=1964595004
+
+* Russian
+
+# More Traits
+https://steamcommunity.com/sharedfiles/filedetails/?id=1122837889
+
+* Russian
+
+# More Cities WotC
+https://steamcommunity.com/sharedfiles/filedetails/?id=1131405167
+
+* Russian
+

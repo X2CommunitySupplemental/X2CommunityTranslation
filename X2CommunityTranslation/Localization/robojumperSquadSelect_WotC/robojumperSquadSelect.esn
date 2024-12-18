@@ -1,0 +1,44 @@
+[robojumper_UISquadSelect]
+strSwitchPerspective=Cambiar vista
+strSwitchPerspectiveTooltip=Cambia entre la vista por encima y la normal.
+
+strCycleLists=Listas de ciclo
+
+strUnequipSquad=Desequipar escuadra
+strUnequipSquadTooltip=Quita todas las armaduras y equipamiento de todas las unidades actualmente seleccionadas para la batalla.
+strUnequipSquadConfirm=Confirmar desequipamiento de escuadra
+strUnequipSquadWarning=Esto va a quitar todas las armaduras y equipamiento de todas las unidades actualmente seleccionadas para la batalla. El equipamiento se pone disponible para que cualquier soldado pueda equiparlo inmediatamente.
+
+strUnequipBarracks=Desequipar barracones
+strUnequipBarracksTooltip=Quita todas las armaduras y equipamiento de todas las unidades actualmente NO seleccionadas para la batalla.
+strUnequipBarracksConfirm=Confirmar desequipamiento de barracones
+strUnequipBarracksWarning=Esto va a quitar todas las armaduras y equipamiento de todas las unidades actualmente NO seleccionadas para la batalla. El equipamiento se pone disponible para que cualquier soldado pueda equiparlo inmediatamente.
+
+[robojumper_SquadSelect_UISL_MCM]
+strModTitle="Selector de escuadra de robojumper"
+strLabel="Selector de escuadra"
+strGroupTitle="Ajustes generales"
+
+strShowWeaponUpgradeIcons=Mostrar iconos de mejora
+strSkipSecondaryUpgradeIconsAvailable=Iconos de mejora solo para principales
+strShowBGImages=Mostrar fondos de objeto
+strShowMeTheSkills=Mostrar habilidades
+strShowStats=Mostrar datos de soldado
+strSkipInitialAbilities=Ocultar habilidades iniciales
+strAutofillSquad=Autorellenar escuadra
+strOpenWeaponUpgradeWithController=abrir mejora de arma con controlador
+
+strDisallowInfiniteScrolling=Desactivar desplazamiento infinito
+strSkipIntro=Saltar intro
+
+strSquadSize=Soldados en escuadra
+
+strSquadSizeSpawnWarning=Las escuadras superiores a 9 soldados pueden causar problemas porque los puntos de inicio solo soportan 9 unidades. ¡Mira la Workshop para buscar soluciones!
+
+
+strHideTrainingCenterButton=Ocultar pulsador de Centro de entrenamiento
+
+[robojumper_UISquadSelect_SkillsPanel]
+strTrainingCenter=%SOLDIERPOINTS Soldado PA
+; removed because duplicate info bad
+; (%TOTALPOINTS in Shared Pool)
