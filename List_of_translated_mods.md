@@ -395,6 +395,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2167235854
 
 * Russian
 
+# More Nations and Names WotC
+Note: for guaranteed work delete steamapps\workshop\content\268500\1124284135\Localization\RUS\XComGame.rus
+https://steamcommunity.com/sharedfiles/filedetails/?id=1124284135
+
 # [WOTC] Automated Loadout Manager
 https://steamcommunity.com/sharedfiles/filedetails/?id=1882809714
 
