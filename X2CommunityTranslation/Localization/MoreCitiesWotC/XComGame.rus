@@ -1,0 +1,1235 @@
+;North American cities
+[Louisville X2CityTemplate]
+DisplayName="Луисвилл"
+PoiText=""
+
+[Indianapolis X2CityTemplate]
+DisplayName="Индианаполис"
+PoiText=""
+
+[CharlestonWV X2CityTemplate]
+DisplayName="Индианаполис"
+PoiText=""
+
+[Portland X2CityTemplate]
+DisplayName="Портленд"
+PoiText=""
+
+[Nuuk X2CityTemplate]
+DisplayName="Нуук"
+PoiText=""
+
+[Reykjavik X2CityTemplate]
+DisplayName="Рейкьявик"
+PoiText=""
+
+;American cities
+[Cheyenne X2CityTemplate]
+DisplayName="Шайенн"
+
+[Billings X2CityTemplate]
+DisplayName="Биллингс"
+
+[Boise X2CityTemplate]
+DisplayName="Бойсе"
+
+[Honolulu X2CityTemplate]
+DisplayName="Гонолулу"
+
+[LasVegas X2CityTemplate]
+DisplayName="Лас Вегас"
+PoiText=""
+
+[Denver X2CityTemplate]
+DisplayName="Денвер"
+PoiText=""
+
+[Albuquerque X2CityTemplate]
+DisplayName="Альбукерке"
+PoiText=""
+
+[WashingtonDC X2CityTemplate]
+DisplayName="Вашингтон"
+PoiText=""
+
+[Boston X2CityTemplate]
+DisplayName="Бостон"
+PoiText=""
+
+[Atlanta X2CityTemplate]
+DisplayName="Атланта"
+PoiText=""
+
+[SanAntonio X2CityTemplate]
+DisplayName="Сан-Антонио"
+PoiText=""
+
+[Phoenix X2CityTemplate]
+DisplayName="Финикс"
+PoiText=""
+
+[Pittsburgh X2CityTemplate]
+DisplayName="Питтсбург"
+PoiText=""
+
+[Philadelphia X2CityTemplate]
+DisplayName="Филадельфия"
+PoiText=""
+
+[Nashville X2CityTemplate]
+DisplayName="Нашвилл"
+PoiText=""
+
+[StLouis X2CityTemplate]
+DisplayName="Сент-Луис"
+PoiText=""
+
+[Anchorage X2CityTemplate]
+DisplayName="Анкоридж"
+PoiText=""
+
+[SanDiego X2CityTemplate]
+DisplayName="Сан-Диего"
+PoiText=""
+
+[Newark X2CityTemplate]
+DisplayName="Ньюарк"
+PoiText=""
+
+[Providence X2CityTemplate]
+DisplayName="Провиденс"
+PoiText=""
+
+[Bridgeport X2CityTemplate]
+DisplayName="Бриджпорт"
+PoiText=""
+
+[SaltLakeCity X2CityTemplate]
+DisplayName="Солт-Лейк-Сити"
+PoiText=""
+
+[Richmond X2CityTemplate]
+DisplayName="Ричмонд"
+PoiText=""
+
+[Charlotte X2CityTemplate]
+DisplayName="Шарлотт"
+PoiText=""
+
+[Jacksonville X2CityTemplate]
+DisplayName="Джексонвилл"
+PoiText=""
+
+[BatonRouge X2CityTemplate]
+DisplayName="Батон-Руж"
+PoiText=""
+
+[NewOrleans X2CityTemplate]
+DisplayName="Новый Орлеан"
+PoiText="
+
+[Minneapolis X2CityTemplate]
+DisplayName="Миннеаполис"
+PoiText="
+
+
+;Canadian cities
+
+
+[QuebecCity X2CityTemplate]
+DisplayName="Квебек"
+PoiText=""
+
+
+[Winnipeg X2CityTemplate]
+DisplayName="Виннипег"
+PoiText=""
+
+
+[Saskatoon X2CityTemplate]
+DisplayName="Саскатун"
+PoiText=""
+
+
+[Yellowknife X2CityTemplate]
+DisplayName="Йеллоунайф"
+PoiText=""
+
+[Halifax X2CityTemplate]
+DisplayName="Галифакс"
+PoiText=""
+
+[Moncton X2CityTemplate]
+DisplayName="Монктон"
+PoiText=""
+
+[Laval X2CityTemplate]
+DisplayName="Лаваль"
+PoiText=""
+
+[Whitehorse X2CityTemplate]
+DisplayName="Уайтхорс"
+PoiText=""
+
+[GrandePrairie X2CityTemplate]
+DisplayName="Гранд-Прери"
+PoiText=""
+
+[Saguenay X2CityTemplate]
+DisplayName="Сагеней"
+PoiText=""
+
+[LabradorCity X2CityTemplate]
+DisplayName="Лабрадор-Сити"
+PoiText=""
+
+;Mexican cities
+
+[Juarez X2CityTemplate]
+DisplayName="Хуарес"
+PoiText=""
+
+
+[Merida X2CityTemplate]
+DisplayName="Мерида"
+PoiText=""
+
+
+[LaPaz X2CityTemplate]
+DisplayName="Ла-Пас"
+PoiText=""
+
+
+[Puebla X2CityTemplate]
+DisplayName="Пуэбла"
+PoiText=""
+
+[Monterrey X2CityTemplate]
+DisplayName="Монтеррей"
+PoiText=""
+
+;Argetinian cities
+
+
+[Corrientes X2CityTemplate]
+DisplayName="Корриентес"
+PoiText=""
+
+
+[ComodoroRivadavia X2CityTemplate]
+DisplayName="Комодоро-Ривадавия"
+PoiText=""
+
+
+[RioGallegos X2CityTemplate]
+DisplayName="Рио-Гальегос"
+PoiText=""
+
+
+[LaPlata X2CityTemplate]
+DisplayName="Ла-Плата"
+PoiText=""
+
+[Tucuman X2CityTemplate]
+DisplayName="Сан-Мигель-де-Тукуман"
+PoiText=""
+
+[SanJuan X2CityTemplate]
+DisplayName="Сан-Хуан"
+PoiText=""
+
+;Brazilian Cities
+
+[PortoAlegre X2CityTemplate]
+DisplayName="Порту-Алегри"
+PoiText=""
+
+[Recife X2CityTemplate]
+DisplayName="Ресифи"
+PoiText=""
+
+[Salvador X2CityTemplate]
+DisplayName="Сальвадор"
+PoiText=""
+
+[BeloHorizonte X2CityTemplate]
+DisplayName="Белу-Оризонти"
+PoiText=""
+
+;Британские города
+
+[Cardiff X2CityTemplate]
+DisplayName="Кардифф"
+PoiText=""
+
+[Aberdeen X2CityTemplate]
+DisplayName="Абердин"
+PoiText=""
+
+[Sheffield X2CityTemplate]
+DisplayName="Шеффилд"
+PoiText=""
+
+[Coventry X2CityTemplate]
+DisplayName="Ковентри"
+PoiText=""
+
+[Edinburgh X2CityTemplate]
+DisplayName="Эдинбург"
+PoiText=""
+
+[Swindon X2CityTemplate]
+DisplayName="Суиндон"
+PoiText=""
+
+;French cities
+
+[Toulouse X2CityTemplate]
+DisplayName="Тулуза"
+PoiText=""
+
+[Bordeaux X2CityTemplate]
+DisplayName="Бордо"
+PoiText=""
+
+[Nantes X2CityTemplate]
+DisplayName="Нант"
+PoiText=""
+
+[Nice X2CityTemplate]
+DisplayName="Ницца"
+PoiText=""
+
+[LeHavre X2CityTemplate]
+DisplayName="Гавр"
+PoiText=""
+
+[Tours X2CityTemplate]
+DisplayName="Тур"
+PoiText=""
+
+;German cities
+[Dortmund X2CityTemplate]
+DisplayName="Дортмунд"
+
+[Frankfurt X2CityTemplate]
+DisplayName="Франкфурт"
+PoiText=""
+
+[Leipzig X2CityTemplate]
+DisplayName="Лейпциг"
+PoiText=""
+
+[Bremen X2CityTemplate]
+DisplayName="Бремен"
+PoiText=""
+
+[Stuttgart X2CityTemplate]
+DisplayName="Штутгарт"
+PoiText=""
+
+[Dusseldorf X2CityTemplate]
+DisplayName="Дюссельдорф"
+PoiText=""
+
+[Hannover X2CityTemplate]
+DisplayName="Ганновер"
+PoiText=""
+
+[Kiel X2CityTemplate]
+DisplayName="Киль"
+PoiText=""
+
+;Russian cities
+
+[Novosibirsk X2CityTemplate]
+DisplayName="Новосибирск"
+PoiText=""
+
+[Yekaterinburg X2CityTemplate]
+DisplayName="Екатеринбург"
+PoiText=""
+
+[Chelyabinsk X2CityTemplate]
+DisplayName="Челябинск"
+PoiText=""
+
+[Samara X2CityTemplate]
+DisplayName="Самара"
+PoiText=""
+
+[Vladivostok X2CityTemplate]
+DisplayName="Владивосток"
+PoiText=""
+
+[Khabarovsk X2CityTemplate]
+DisplayName="Хабаровск"
+PoiText=""
+
+[RostovOnDon X2CityTemplate]
+DisplayName="Ростов-на-Дону"
+PoiText=""
+
+[Sochi X2CityTemplate]
+DisplayName="Сочи"
+PoiText=""
+
+[Irkutsk X2CityTemplate]
+DisplayName="Иркутск"
+PoiText=""
+
+[Murmansk X2CityTemplate]
+DisplayName="Мурманск"
+PoiText=""
+
+[Kazan X2CityTemplate]
+DisplayName="Казань"
+PoiText=""
+
+[Omsk X2CityTemplate]
+DisplayName="Омск"
+PoiText=""
+
+[Voronezh X2CityTemplate]
+DisplayName="Воронеж"
+PoiText=""
+
+[Norilsk X2CityTemplate]
+DisplayName="Норильск"
+PoiText=""
+
+;Indian cities
+
+[Shillong X2CityTemplate]
+DisplayName="Шиллонг"
+PoiText=""
+
+[Chennai X2CityTemplate]
+DisplayName="Ченнай"
+PoiText=""
+
+[Rajkot X2CityTemplate]
+DisplayName="Раджкот"
+PoiText=""
+
+[Visakhapatnam X2CityTemplate]
+DisplayName="Вишакхапатнам"
+PoiText=""
+
+[Hyderabad X2CityTemplate]
+DisplayName="Хайдарабад"
+PoiText=""
+
+[Lucknow X2CityTemplate]
+DisplayName="Лакхнау"
+PoiText=""
+
+[Jaipur X2CityTemplate]
+DisplayName="Джайпур"
+PoiText=""
+
+[Ahmedabad X2CityTemplate]
+DisplayName="Ахмедабад"
+PoiText=""
+
+[Srinagar X2CityTemplate]
+DisplayName="Сринагар"
+PoiText=""
+
+;Japanense cities
+
+[Kobe X2CityTemplate]
+DisplayName="Кобе"
+PoiText=""
+
+[Kyoto X2CityTemplate]
+DisplayName="Киото"
+PoiText=""
+
+[Hyogo X2CityTemplate]
+DisplayName="Хёго"
+PoiText=""
+
+[Matsuyama X2CityTemplate]
+DisplayName="Мацуяма"
+PoiText=""
+
+[Yokohama X2CityTemplate]
+DisplayName="Иокогама"
+PoiText=""
+
+;Australian cities
+
+[Adelaide X2CityTemplate]
+DisplayName="Аделаида"
+PoiText=""
+
+[Darwin X2CityTemplate]
+DisplayName="Дарвин"
+PoiText=""
+
+[Townsville X2CityTemplate]
+DisplayName="Таунсвилл"
+PoiText=""
+
+[Canberra X2CityTemplate]
+DisplayName="Канберра"
+PoiText=""
+
+[Cairns X2CityTemplate]
+DisplayName="Кэрнс"
+PoiText=""
+
+[Hobart X2CityTemplate]
+DisplayName="Хобарт"
+PoiText=""
+
+;Chinese cities
+
+[Kunming X2CityTemplate]
+DisplayName="Куньмин"
+PoiText=""
+
+[Tianjin X2CityTemplate]
+DisplayName="Тяньцзинь"
+PoiText=""
+
+[Shenzhen X2CityTemplate]
+DisplayName="Шэньчжэнь"
+PoiText=""
+
+[Chengdu X2CityTemplate]
+DisplayName="Чэнду"
+PoiText=""
+
+[Harbin X2CityTemplate]
+DisplayName="Харбин"
+PoiText=""
+
+[Urumqi X2CityTemplate]
+DisplayName="Урумчи"
+PoiText=""
+
+[Wuhan X2CityTemplate]
+DisplayName="Ухань"
+PoiText=""
+
+[Nanjing X2CityTemplate]
+DisplayName="Нанкин"
+PoiText=""
+
+[Xian X2CityTemplate]
+DisplayName="Сиань"
+PoiText=""
+
+[Qingdao X2CityTemplate]
+DisplayName="Циндао"
+PoiText=""
+
+[Lhasa X2CityTemplate]
+DisplayName="Лхаса"
+PoiText=""
+
+[Baotou X2CityTemplate]
+DisplayName="Баотоу"
+PoiText=""
+
+[Hulunbuir X2CityTemplate]
+DisplayName="Хулун-Буир"
+PoiText=""
+
+
+;Nigerian cities
+
+[Abuja X2CityTemplate]  
+DisplayName="Абуджа"  
+PoiText=""
+
+[Aba X2CityTemplate]  
+DisplayName="Аба"  
+PoiText=""
+
+[Maiduguri X2CityTemplate]  
+DisplayName="Майдугури"  
+PoiText=""
+
+[Ogbomosho X2CityTemplate]  
+DisplayName="Огбомошо"  
+PoiText=""
+
+;South African cities
+
+[Soweto X2CityTemplate]
+DisplayName="Соуэто"
+PoiText=""
+
+[Tembisa X2CityTemplate]
+DisplayName="Тембиса"
+PoiText=""
+
+[Katlehong X2CityTemplate]
+DisplayName="Кэтлхонг"
+PoiText=""
+
+[Umlazi X2CityTemplate]
+DisplayName="Умлази"
+PoiText=""
+
+;Egyptian cities
+
+[Luxor X2CityTemplate]
+DisplayName="Луксор"
+PoiText=""
+
+[Asyut X2CityTemplate]
+DisplayName="Асьют"
+PoiText=""
+
+[Giza X2CityTemplate]
+DisplayName="Гиза"
+PoiText=""
+
+[Suez X2CityTemplate]
+DisplayName="Суэц"
+PoiText=""
+
+[Aswan X2CityTemplate]
+DisplayName="Асуан"
+PoiText=""
+
+;Middle Eastern cities
+
+[TelAviv X2CityTemplate]
+DisplayName="Тель-Авив"
+PoiText=""
+
+[GazaCity X2CityTemplate]
+DisplayName="Газа"
+PoiText=""
+
+[Jerusalem X2CityTemplate]
+DisplayName="Иерусалим"
+PoiText=""
+
+[Riydah X2CityTemplate]
+DisplayName="Эр-Рияд"
+PoiText=""
+
+[Jeddah X2CityTemplate]
+DisplayName="Джедда"
+PoiText=""
+
+[Basra X2CityTemplate]
+DisplayName="Басра"
+PoiText=""
+
+[Amman X2CityTemplate]
+DisplayName="Амман"
+PoiText=""
+
+[Dubai X2CityTemplate]
+DisplayName="Дубай"
+PoiText=""
+
+[Mecca X2CityTemplate]
+DisplayName="Мекка"
+PoiText=""
+
+[Istanbul X2CityTemplate]
+DisplayName="Стамбул"
+PoiText=""
+
+[Karachi X2CityTemplate]
+DisplayName="Карачи"
+PoiText=""
+
+[Islamabad X2CityTemplate]
+DisplayName="Исламабад"
+PoiText=""
+
+[Quetta X2CityTemplate]
+DisplayName="Кветта"
+PoiText=""
+
+[Kabul X2CityTemplate]
+DisplayName="Кабул"
+PoiText=""
+
+[Damascus X2CityTemplate]
+DisplayName="Дамаск"
+PoiText=""
+
+[Aleppo X2CityTemplate]
+DisplayName="Алеппо"
+PoiText=""
+
+[Baku X2CityTemplate]
+DisplayName="Баку"
+PoiText=""
+
+;Eastern European cities
+[Athens X2CityTemplate]
+DisplayName="Афины"
+
+[Tirana X2CityTemplate]
+DisplayName="Тирана"
+
+[Sofia X2CityTemplate]
+DisplayName="София"
+
+[Sarajevo X2CityTemplate]
+DisplayName="Сараево"
+
+[Kiev X2CityTemplate]
+DisplayName="Киев"
+PoiText=""
+
+[Helsinki X2CityTemplate]
+DisplayName="Хельсинки"
+PoiText=""
+
+[Tallinn X2CityTemplate]
+DisplayName="Таллинн"
+PoiText=""
+
+[Riga X2CityTemplate]
+DisplayName="Рига"
+PoiText=""
+
+[Vilnius X2CityTemplate]
+DisplayName="Вильнюс"
+PoiText=""
+
+[Minsk X2CityTemplate]
+DisplayName="Минск"
+PoiText=""
+
+[Budapest X2CityTemplate]
+DisplayName="Будапешт"
+PoiText=""
+
+[Bucharest X2CityTemplate]
+DisplayName="Бухарест"
+PoiText=""
+
+[Lublin X2CityTemplate]
+DisplayName="Люблин"
+
+[Gdansk X2CityTemplate]
+DisplayName="Гданьск"
+
+;Western European cities
+
+[Rome X2CityTemplate]
+DisplayName="Рим"
+PoiText=""
+
+[Milan X2CityTemplate]
+DisplayName="Милан"
+PoiText=""
+
+[Madrid X2CityTemplate]
+DisplayName="Мадрид"
+PoiText=""
+
+[Barcelona X2CityTemplate]
+DisplayName="Барселона"
+PoiText=""
+
+[Amsterdam X2CityTemplate]
+DisplayName="Амстердам"
+PoiText=""
+
+[Copenhagen X2CityTemplate]
+DisplayName="Копенгаген"
+PoiText=""
+
+[Lisbon X2CityTemplate]
+DisplayName="Лиссабон"
+PoiText=""
+
+[LuxembourgCity X2CityTemplate]
+DisplayName="Люксембург"
+PoiText=""
+
+[Naples X2CityTemplate]
+DisplayName="Неаполь"
+PoiText=""
+
+[Antwerp X2CityTemplate]
+DisplayName="Антверпен"
+PoiText=""
+
+[Stockholm X2CityTemplate]
+DisplayName="Стокгольм"
+PoiText=""
+
+[Oslo X2CityTemplate]
+DisplayName="Осло"
+PoiText=""
+
+[Esjberg X2CityTemplate]
+DisplayName="Эсбьерг"
+PoiText=""
+
+[Aarhus X2CityTemplate]
+DisplayName="Орхус"
+PoiText=""
+
+[Liege X2CityTemplate]
+DisplayName="Льеж"
+PoiText=""
+
+[Charleroi X2CityTemplate]
+DisplayName="Шарлеруа"
+PoiText=""
+
+
+;New Indonesian cities
+
+[Singapore X2CityTemplate]
+DisplayName="Сингапур"
+PoiText=""
+
+[KualaLumpur X2CityTemplate]
+DisplayName="Куала-Лумпур"
+PoiText=""
+
+[GeorgeTown X2CityTemplate]
+DisplayName="Джорджтаун"
+PoiText=""
+
+[Hanoi X2CityTemplate]
+DisplayName="Ханой"
+PoiText=""
+
+[Jakarta X2CityTemplate]
+DisplayName="Джакарта"
+PoiText=""
+
+[QuezonCity X2CityTemplate]
+DisplayName="Кесон-Сити"
+PoiText=""
+
+[Manila X2CityTemplate]
+DisplayName="Манила"
+PoiText=""
+
+[Bangkok X2CityTemplate]
+DisplayName="Бангкок"
+PoiText=""
+
+[HoChiMinh X2CityTemplate]
+DisplayName="Хошимин"
+PoiText=""
+
+[PhnomPenh X2CityTemplate]
+DisplayName="Пном Пен"
+PoiText=""
+
+[Vientiane X2CityTemplate]
+DisplayName="Вьентьян"
+PoiText=""
+
+[Yangon X2CityTemplate]
+DisplayName="Янгон"
+PoiText=""
+
+[Caloocan X2CityTemplate]
+DisplayName="Калоокан"
+PoiText=""
+
+[PortMoresby X2CityTemplate]
+DisplayName="Порт-Морсби"
+PoiText=""
+
+
+;Central American cities
+
+[SanJose X2CityTemplate]
+DisplayName="Сан-Хосе"
+PoiText=""
+
+[Tegucigalpa X2CityTemplate]
+DisplayName="Тегусигальпа"
+PoiText=""
+
+[Managua X2CityTemplate]
+DisplayName="Манагуа"
+PoiText=""
+
+[SanSalvador X2CityTemplate]
+DisplayName="Сан-Сальвадор"
+PoiText=""
+
+[PanamaCity X2CityTemplate]
+DisplayName="Панама"
+PoiText=""
+
+[SanPedroSula X2CityTemplate]
+DisplayName="Сан-Педро-Сула"
+PoiText=""
+
+;Asian cities
+
+[Seoul X2CityTemplate]
+DisplayName="Сеул"
+PoiText=""
+
+[Pyongyang X2CityTemplate]
+DisplayName="Пхеньян"
+PoiText=""
+
+[Dhaka X2CityTemplate]
+DisplayName="Дакка"
+PoiText=""
+
+[Tehran X2CityTemplate]
+DisplayName="Тегеран"
+PoiText=""
+
+[Kathmandu X2CityTemplate]
+DisplayName="Катманду"
+PoiText=""
+
+[Colombo X2CityTemplate]
+DisplayName="Коломбо"
+PoiText=""
+
+[Ulaanbaatar X2CityTemplate]
+DisplayName="Улан-Батор"
+PoiText=""
+
+[Taipei X2CityTemplate]
+DisplayName="Тайбэй"
+PoiText=""
+
+[Thimphu X2CityTemplate]
+DisplayName="Тхимпху"
+PoiText=""
+
+[Male X2CityTemplate]
+DisplayName="Мале"
+PoiText=""
+
+;Central European cities
+
+[Prague X2CityTemplate]
+DisplayName="Прага"
+PoiText=""
+
+[Brno X2CityTemplate]
+DisplayName="Брно"
+PoiText=""
+
+[Plzen X2CityTemplate]
+DisplayName="Пльзень"
+PoiText=""
+
+[Zurich X2CityTemplate]
+DisplayName="Цюрих"
+PoiText=""
+
+[Geneva X2CityTemplate]
+DisplayName="Женева"
+PoiText=""
+
+[Vienna X2CityTemplate]
+DisplayName="Вена"
+PoiText=""
+
+[Salzburg X2CityTemplate]
+DisplayName="Зальцбург"
+PoiText=""
+
+[Innsbruck X2CityTemplate]
+DisplayName="Инсбрук"
+PoiText=""
+
+[Warsaw X2CityTemplate]
+DisplayName="Варшава"
+PoiText=""
+
+[Szczecin X2CityTemplate]
+DisplayName="Щецин"
+PoiText=""
+
+[Wroclaw X2CityTemplate]
+DisplayName="Вроцлав"
+PoiText=""
+
+;South American cities
+[Medellin X2CityTemplate]
+DisplayName="Медельин"
+PoiText=""
+
+[Barranquilla X2CityTemplate]
+DisplayName="Барранкилья"
+PoiText=""
+
+[Pasto X2CityTemplate]
+DisplayName="Пасто"
+PoiText=""
+
+[Quito X2CityTemplate]
+DisplayName="Кито"
+PoiText=""
+
+[Guayaquil X2CityTemplate]
+DisplayName="Гуаякиль"
+PoiText=""
+
+[Loja X2CityTemplate]
+DisplayName="Лоха"
+PoiText=""
+
+[NewAmsterdam X2CityTemplate]
+DisplayName="Новый Амстердам"
+PoiText=""
+
+[SAGeorgetown X2CityTemplate]
+DisplayName="Джорджтаун"
+PoiText=""
+
+[Lethem X2CityTemplate]
+DisplayName="Летем"
+PoiText=""
+
+[Lima X2CityTemplate]
+DisplayName="Лима"
+PoiText=""
+
+[Arequipa X2CityTemplate]
+DisplayName="Арекипа"
+PoiText=""
+
+[Trujillo X2CityTemplate]
+DisplayName="Трухильо"
+PoiText=""
+
+[Paramaribo X2CityTemplate]
+DisplayName="Парамарибо"
+PoiText=""
+
+[Caracas X2CityTemplate]
+DisplayName="Каракас"
+PoiText=""
+
+[Maracaibo X2CityTemplate]
+DisplayName="Маракайбо"
+PoiText=""
+
+[Ciudad X2CityTemplate]
+DisplayName="Сьюдад-Гуаяна"
+PoiText=""
+
+[Cayenne X2CityTemplate]
+DisplayName="Кайенна"
+PoiText=""
+
+[SanFernando X2CityTemplate]
+DisplayName="Сан-Фернандо"
+PoiText=""
+
+[Willemstad X2CityTemplate]
+DisplayName="Виллемстад"
+PoiText=""
+
+[Montevideo X2CityTemplate]
+DisplayName="Монтевидео"
+PoiText=""
+
+[Salto X2CityTemplate]
+DisplayName="Сальто"
+PoiText=""
+
+[Sucre X2CityTemplate]
+DisplayName="Сукре"
+PoiText=""
+
+[SantaCruz X2CityTemplate]
+DisplayName="Санта-Круз"
+PoiText=""
+
+[ElAlto X2CityTemplate]
+DisplayName="Эль-Альто"
+PoiText=""
+
+[Santiago X2CityTemplate]
+DisplayName="Сантьяго"
+PoiText=""
+
+[Antofagasta X2CityTemplate]
+DisplayName="Антофагаста"
+PoiText=""
+
+[Temuco X2CityTemplate]
+DisplayName="Темуко"
+PoiText=""
+
+[Asuncion X2CityTemplate]
+DisplayName="Асунсьон"
+PoiText=""
+
+[CiudadEste X2CityTemplate]
+DisplayName="Сьюдад-дель-Эсте"
+PoiText=""
+
+[Encarnacion X2CityTemplate]
+DisplayName="Энкарнасьон"
+PoiText=""
+
+;African cities
+
+[Antananarivo X2CityTemplate]
+DisplayName="Антананариву"
+PoiText=""
+
+[Harare X2CityTemplate]
+DisplayName="Хараре"
+PoiText=""
+
+[Bulawayo X2CityTemplate]
+DisplayName="Булавайо"
+PoiText=""
+
+[Douala X2CityTemplate]
+DisplayName="Дуала"
+PoiText=""
+
+[Yaounde X2CityTemplate]
+DisplayName="Яунде"
+PoiText=""
+
+[Ouagadougou X2CityTemplate]
+DisplayName="Уагадугу"
+PoiText=""
+
+[BoboDioulasso X2CityTemplate]
+DisplayName="Бобо-Диуласо"
+PoiText=""
+
+[Gaborone X2CityTemplate]
+DisplayName="Габороне"
+PoiText=""
+
+[Cotonou X2CityTemplate]
+DisplayName="Котону"
+PoiText=""
+
+[PortoNovo X2CityTemplate]
+DisplayName="Порто-Ново"
+PoiText=""
+
+[Bata X2CityTemplate]
+DisplayName="Бата"
+PoiText=""
+
+[Malabo X2CityTemplate]
+DisplayName="Малабо"
+PoiText=""
+
+[Liberville X2CityTemplate]
+DisplayName="Либревиль"
+PoiText=""
+
+[Banjul X2CityTemplate]
+DisplayName="Банжул"
+PoiText=""
+
+[Serekunda X2CityTemplate]
+DisplayName="Серекунда"
+PoiText=""
+
+[Accra X2CityTemplate]
+DisplayName="Аккра"
+PoiText=""
+
+[Conakry X2CityTemplate]
+DisplayName="Конакри"
+PoiText=""
+
+[Bissau X2CityTemplate]
+DisplayName="Бисау"
+PoiText=""
+
+[Yamoussoukro X2CityTemplate]
+DisplayName="Ямусукро"
+PoiText=""
+
+[Abidjan X2CityTemplate]
+DisplayName="Абиджан"
+PoiText=""
+
+[Maseru X2CityTemplate]
+DisplayName="Масеру"
+PoiText=""
+
+[Monrovia X2CityTemplate]
+DisplayName="Монровия"
+PoiText=""
+
+[Mamako X2CityTemplate]
+DisplayName="Мамако"
+PoiText=""
+
+[Maputo X2CityTemplate]
+DisplayName="Мапуту"
+PoiText=""
+
+[Beira X2CityTemplate]
+DisplayName="Бейра"
+PoiText=""
+
+[Windhoek X2CityTemplate]
+DisplayName="Виндхук"
+PoiText=""
+
+[Niamey X2CityTemplate]
+DisplayName="Ниамей"
+PoiText=""
+
+[Zinder X2CityTemplate]
+DisplayName="Зиндер"
+PoiText=""
+
+[Dakar X2CityTemplate]
+DisplayName="Дакар"
+PoiText=""
+
+[Freetown X2CityTemplate]
+DisplayName="Фритаун"
+PoiText=""
+
+[Bo X2CityTemplate]
+DisplayName="Бо"
+PoiText=""
+
+[Mbabane X2CityTemplate]
+DisplayName="Мбабане"
+PoiText=""
+
+[Lome X2CityTemplate]
+DisplayName="Ломе"
+PoiText=""
+
+[Tripoli X2CityTemplate]
+DisplayName="Триполи"
+PoiText=""
+
+[Benghazi X2CityTemplate]
+DisplayName="Бенгази"
+PoiText=""
+
+[Casablanca X2CityTemplate]
+DisplayName="Касабланка"
+PoiText=""
+
+[Fez X2CityTemplate]
+DisplayName="Фес"
+PoiText=""
+
+[Rabat X2CityTemplate]
+DisplayName="Рабат"
+PoiText=""
+

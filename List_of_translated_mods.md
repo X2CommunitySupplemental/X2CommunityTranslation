@@ -86,6 +86,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1334298434
 https://steamcommunity.com/sharedfiles/filedetails/?id=2595660540
 
 * Chinese
+* Russian
 
 # [WOTC] Faction Anchor
 https://steamcommunity.com/sharedfiles/filedetails/?id=2387956032
@@ -129,6 +130,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2415446578
 https://steamcommunity.com/sharedfiles/filedetails/?id=1134266810
 
 * Chinese
+* Russian
 
 # WOTC - Extended Information!
 https://steamcommunity.com/sharedfiles/filedetails/?id=1183444470
@@ -220,12 +222,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
 https://steamcommunity.com/sharedfiles/filedetails/?id=2025780967
 
 * Russian
-
-# [WOTC] Automatic Reload by Iridar
-https://steamcommunity.com/sharedfiles/filedetails/?id=2595660540
-
-* Russian
-
 
 # WotC: robojumper's Squad Select
 
@@ -402,3 +398,43 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2167235854
 # More Nations and Names WotC
 Note: for guaranteed work delete steamapps\workshop\content\268500\1124284135\Localization\RUS\XComGame.rus
 https://steamcommunity.com/sharedfiles/filedetails/?id=1124284135
+
+# [WOTC] Automated Loadout Manager
+https://steamcommunity.com/sharedfiles/filedetails/?id=1882809714
+
+* Russian
+
+# Phantom Evac
+https://steamcommunity.com/sharedfiles/filedetails/?id=1748331160
+
+* Russian
+
+# [WOTC] Purifier Grenades Fix
+https://steamcommunity.com/sharedfiles/filedetails/?id=1371195713
+
+* Russian
+
+# [WOTC] Stabilize Me
+https://steamcommunity.com/sharedfiles/filedetails/?id=1380625450
+
+* Russian
+
+# Everyone Gets Hunker Down WOTC
+https://steamcommunity.com/sharedfiles/filedetails/?id=1541012085
+
+* Russian
+
+# [WOTC] Yellow Alert Gameplay V2.0
+https://steamcommunity.com/sharedfiles/filedetails/?id=1964595004
+
+* Russian
+
+# More Traits
+https://steamcommunity.com/sharedfiles/filedetails/?id=1122837889
+
+* Russian
+
+# More Cities WotC
+https://steamcommunity.com/sharedfiles/filedetails/?id=1131405167
+
+* Russian
