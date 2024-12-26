@@ -1,0 +1,14 @@
+
+[X2Ability_WOTC_APA_MarineAbilitySet]
+
+;  -- Localized Strings for Marine Abilities --
+;  --------------------------------------------
+
+strFireDiscipline1Name="Огневая подготовка I"
+strFireDiscipline1Desc="<font color='#CA7200'>УРОВЕНЬ ПРОФЕССИОНАЛИЗМА I</font><br/><Bullet/> Выстрелы из \"наблюдения\" могут наносить критический урон и <Ability:FIRE_DISCIPLINE_REACTION_FIRE_BONUS_TYPE/> получают <font color='#3ABD23'><Ability:FIRE_DISCIPLINE_REACTION_FIRE_AIM_BONUS_1/>%</font> к точности."
+
+strFireDiscipline2Name="Огневая подготовка II"
+strFireDiscipline2Desc="<font color='#CA7200'>УРОВЕНЬ ПРОФЕССИОНАЛИЗМА II</font><br/><Bullet/> Выстрелы из \"наблюдения\" могут наносить критический урон и <Ability:FIRE_DISCIPLINE_REACTION_FIRE_BONUS_TYPE/> получают <font color='#3ABD23'><Ability:FIRE_DISCIPLINE_REACTION_FIRE_AIM_BONUS_2/>%</font> к точности.<br/><Bullet/> Получает дополнительные патроны в каждом магазине (<font color='#3ABD23'>+<Ability:FIRE_DISCIPLINE_RIFLE_AMMO_BONUS/></font> патронов."
+
+strFireDiscipline3Name="Огневая подготовка III"
+strFireDiscipline3Desc="<font color='#CA7200'>УРОВЕНЬ ПРОФЕССИОНАЛИЗМА III</font><br/><Bullet/> Выстрелы из \"наблюдения\" могут наносить критический урон и <Ability:FIRE_DISCIPLINE_REACTION_FIRE_BONUS_TYPE/> получают <font color='#3ABD23'><Ability:FIRE_DISCIPLINE_REACTION_FIRE_AIM_BONUS_3/>%</font> к точности.<br/><Bullet/> Получает дополнительные патроны в каждом магазине (<font color='#3ABD23'>+<Ability:FIRE_DISCIPLINE_RIFLE_AMMO_BONUS/></font> патронов."

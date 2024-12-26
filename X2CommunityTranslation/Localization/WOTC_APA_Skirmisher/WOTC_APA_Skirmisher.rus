@@ -1,0 +1,24 @@
+[X2AbilityTag_WOTC_APA_Skirmisher]
+
+;  -- Localized Strings for Ability Tags --
+;  ----------------------------------------
+
+; // Generic Tags
+strOnce = "единожды"
+strUpTo = "вплоть до"
+strTimes = "времени"
+strTiles = "клеток"
+
+
+[X2Ability_WOTC_APA_SkirmisherAbilitySet]
+
+strHeatsink1Name = "Теплоотвод I"
+strHeatsink1Desc = "<font color='#CA7200'>МЕХАНИКА ФОКУСА:</font><br/><Bullet/> Дополнительно <font color='#3ABD23'>+<Ability:HEATSINK_CRIT_CHANCE_BONUS/>%</font> к шансу критического урона атакам \"Потрошителем\" за каждый уровень \"Тепла\".<br/><Bullet/> Дополнительно <font color='#3ABD23'>+<Ability:HEATSINK_DAMAGE_BONUS/></font> к урону атакам \"Потрошителем\" за <font color='#CA7200'><Ability:HEATSINK_DAMAGE_BONUS_CHARGE_DIVISOR/></font> уровня \"Тепла\".<br/><Bullet/>Даёт возможность перемещения с помощью крюка интегрированного в перчатку \"Потрошитель\"."
+strHeatsink2Name = "Теплоотвод II"
+strHeatsink2Desc = "<font color='#CA7200'>МЕХАНИКА ФОКУСА:</font><br/><Bullet/> Дополнительно <font color='#3ABD23'>+<Ability:HEATSINK_CRIT_CHANCE_BONUS/>%</font> к шансу критического урона атакам \"Потрошителем\" за каждый уровень \"Тепла\".<br/><Bullet/> Дополнительно <font color='#3ABD23'>+<Ability:HEATSINK_DAMAGE_BONUS/></font> к урону атакам \"Потрошителем\" за <font color='#CA7200'><Ability:HEATSINK_DAMAGE_BONUS_CHARGE_DIVISOR/></font> уровня \"Тепла\".<br/><Bullet/>Даёт возможность перемещения с помощью крюка и способность \"Правосудие\"."
+strHeatsink3Name = "Теплоотвод III"
+strHeatsink3Desc = "<font color='#CA7200'>МЕХАНИКА ФОКУСА:</font><br/><Bullet/> Дополнительно <font color='#3ABD23'>+<Ability:HEATSINK_CRIT_CHANCE_BONUS/>%</font> к шансу критического урона атакам \"Потрошителем\" за каждый уровень \"Тепла\".<br/><Bullet/> Дополнительно <font color='#3ABD23'>+<Ability:HEATSINK_DAMAGE_BONUS/></font> к урону атакам \"Потрошителем\" за <font color='#CA7200'><Ability:HEATSINK_DAMAGE_BONUS_CHARGE_DIVISOR/></font> уровня \"Тепла\".<br/><Bullet/>Даёт возможность перемещения с помощью крюка, способности \"Правосудие\" и \"Гнев\"."
+
+
+strHeatLevelName = "Уровень тепла"
+strHeatLevelDesc = "Количество тепла сохранённого в перчатке \"Потрошитель\"."

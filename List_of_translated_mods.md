@@ -1,3 +1,13 @@
+# Musashis RPG Overhaul
+https://steamcommunity.com/sharedfiles/filedetails/?id=1280477867
+
+* Russian
+
+# [WOTC] Proficiency Class Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=1265143828
+
+* Russian
+
 # Commander's Choice [WOTC & Vanilla]
 https://steamcommunity.com/sharedfiles/filedetails/?id=688405905
 
@@ -14,11 +24,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3002469584
 
 * Simplified Chinese
 * Russian
-
-# [WOTC] Don't Pull That Trigger 
-https://steamcommunity.com/sharedfiles/filedetails/?id=2012323571
-
-* Simplified Chinese
 
 # [WotC] Bronzeman Mode
 https://steamcommunity.com/sharedfiles/filedetails/?id=1125184617
@@ -80,6 +85,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2782908294
 https://steamcommunity.com/sharedfiles/filedetails/?id=1334298434
 
 * Chinese
+* Russian
 
 # [WOTC] Automatic Reload by Iridar
 https://steamcommunity.com/sharedfiles/filedetails/?id=2595660540
@@ -106,6 +112,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1124794449
 https://steamcommunity.com/sharedfiles/filedetails/?id=2012323571
 
 * Chinese
+* Simplified Chinese
 
 # Show More Buff Details
 https://steamcommunity.com/sharedfiles/filedetails/?id=709499969
@@ -304,6 +311,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1316359865
 https://steamcommunity.com/sharedfiles/filedetails/?id=2755570022
 
 * Simplified Chinese
+* Russian
 
 # [WOTC] Advent Psi Ops
 https://steamcommunity.com/sharedfiles/filedetails/?id=1309465679
@@ -437,4 +445,30 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1964595004
 https://steamcommunity.com/sharedfiles/filedetails/?id=1122837889
 
 * Russian
+* Chinese
+* Simplified Chinese
 
+# [WOTC] Proficiency Class Plugin: Reaper
+https://steamcommunity.com/sharedfiles/filedetails/?id=1864618184
+
+* Russian
+
+# [WOTC] Proficiency Class Plugin: Skirmisher
+https://steamcommunity.com/sharedfiles/filedetails/?id=1990637687
+
+* Russian
+
+# [WOTC] Proficiency Class Plugin: Templar
+https://steamcommunity.com/sharedfiles/filedetails/?id=2496297018
+
+* Russian
+
+# [WOTC] Proficiency Class Plugin: Jane Kelly
+https://steamcommunity.com/sharedfiles/filedetails/?id=2352681017
+
+* Russian
+
+# Suit Upgrading
+https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
+
+* Russian

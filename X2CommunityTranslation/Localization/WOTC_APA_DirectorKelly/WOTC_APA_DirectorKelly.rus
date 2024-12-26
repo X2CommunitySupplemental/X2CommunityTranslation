@@ -1,0 +1,9 @@
+
+[X2Ability_WOTC_APA_DirectorKellyAbilitySet]
+
+strIntelOfficer1Name = "Офицер разведки I"
+strIntelOfficer1Desc = "<br/><Bullet/> Когда отряд обнаружен, этот боец остается замаскированным, снижает радиус обнаружения бойца на <font color='#3ABD23'><Ability:INTEL_OFFICER_DETECTION_MODIFIER_1/>%</font>."
+strIntelOfficer2Name = "Офицер разведки II"
+strIntelOfficer2Desc = "<br/><Bullet/> Когда отряд обнаружен, этот боец остается замаскированным, снижает радиус обнаружения бойца на <font color='#3ABD23'><Ability:INTEL_OFFICER_DETECTION_MODIFIER_2/>%</font>."
+strIntelOfficer3Name = "Офицер разведки III"
+strIntelOfficer3Desc = "<br/><Bullet/> Когда отряд обнаружен, этот боец остается замаскированным, снижает радиус обнаружения бойца на <font color='#3ABD23'><Ability:INTEL_OFFICER_DETECTION_MODIFIER_3/>%</font>.<br/><Bullet/> Дополнительный радиус обзора <font color='#3ABD23'>+<Ability:INTEL_OFFICER_VISION_TILE_BONUS/></font> клеток."

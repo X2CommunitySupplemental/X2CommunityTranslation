@@ -1,0 +1,24 @@
+
+[X2Ability_WOTC_APA_MedicAbilitySet]
+
+;  -- Localized Strings for Medic Abilities --
+;  -------------------------------------------
+
+strMedicalSpecialistHealModMsg="Медработник: Дополнительно восстанавливает <HealMod/> здоровья"
+
+strMedicalSpecialist1Name="Специалист-медик I"
+strMedicalSpecialist1Desc="<font color='#CA7200'>УРОВЕНЬ ПРОФЕССИОНАЛИЗМА I</font><br/><Bullet/> <font color='#3ABD23'>+<Ability:MED_I_FREE_MEDKITS/></font> бесплатных аптечек.<br/><Bullet/> Экипированные аптечки получают <font color='#3ABD23'>+<Ability:MED_I_EQUIPPED_MEDKITS_BONUS/></font> заряд."
+
+strMedicalSpecialist2Name="Специалист-медик II"
+strMedicalSpecialist2Desc="<font color='#CA7200'>УРОВЕНЬ ПРОФЕССИОНАЛИЗМА II</font><br/><Bullet/> <font color='#3ABD23'>+<Ability:MED_I_FREE_MEDKITS/></font> бесплатных аптечек.<br/><Bullet/> Экипированные аптечки получают <font color='#3ABD23'>+<Ability:MED_II_EQUIPPED_MEDKITS_BONUS_TOTAL/></font> зарядов.<br/><Bullet/> Лечебные способность восстанавливают дополнительно <font color='#3ABD23'>+<Ability:MED_II_MEDKIT_HEAL_BONUS/></font> здоровья.<br/><Bullet/> <font color='#3ABD23'>+<Ability:MED_II_REVIVE_CHARGE_BONUS/></font> зарядов Возрождения."
+
+strMedicalSpecialist3Name="Специалист-медик III"
+strMedicalSpecialist3Desc="<font color='#CA7200'>УРОВЕНЬ ПРОФЕССИОНАЛИЗМА III</font><br/><Bullet/> <font color='#3ABD23'>+<Ability:MED_III_FREE_MEDKITS_TOTAL/></font> бесплатных аптечек.<br/><Bullet/> Экипированные аптечки получают <font color='#3ABD23'>+<Ability:MED_III_EQUIPPED_MEDKITS_BONUS_TOTAL/></font> зарядов.<br/><Bullet/> Лечебные способность восстанавливают дополнительно <font color='#3ABD23'>+<Ability:MED_III_MEDKIT_HEAL_BONUS_TOTAL/></font> здоровья.<br/><Bullet/> <font color='#3ABD23'>+<Ability:MED_III_REVIVE_CHARGE_BONUS_TOTAL/></font> зарядов Возрождения."
+
+strAdrenalineRushPenaltyDesc="Эффект ослабления после Всплеска адреналина: <font color='#CA7200'>-<Ability:ADRENALINE_RUSH_DAMAGE_PENALTY/>%</font> штрафа к урону до следующего раунда."
+strAdvTraumaKitsReviveHealFlyover="Улучшенные мед наборы: Восстанавливают дополнительно <HealMod/> здоровья"
+strSteadiedBurstFireName="Стрельба с упора" ;Also set in WOTC_APA_Class_Pack.int due to order of compiling
+strSuppressionAimPenaltyName="Подавление"
+strCombatStimulantsTickedFlyover="Боевые стимуляторы: <Duration/> ходов осталось"
+strCombatStimulantsRemovedFlyover="Стимулятор закончил действие - солдат теряет <Will/> воли!"
+;strCombatStimulantsRemovedFlyover="Стимулятор закончил действие - солдат теряет <HP/> здоровья и <Will/> воли!"

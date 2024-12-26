@@ -1,0 +1,298 @@
+
+
+;  ////////////////////////////////////
+;  // Changes to Base-Game Abilities //
+;  ////////////////////////////////////
+
+
+
+;  ////////////////////////////////
+;  // Changes to Items & Weapons //
+;  ////////////////////////////////
+
+
+
+;  /////////////
+;  // Templar //
+;  /////////////
+
+[Templar X2EncyclopediaTemplate]
+ListTitle = "Класс Храмовника"
+DescriptionTitle = "Класс Храмовника"
+DescriptionEntry = "Храмовники - члены эзотерического техно-религиозного ордена, которые, по их словам, открыли способ использовать Энергию передачи сознания с нашего плана существования на другой. Хотя только самые высокопоставленные члены ордена знают секреты, истинной природы их силы или то откуда она появляется, никто не может спорить с мощью псионических сил, которыми могут оперировать члены ордена. Энергия (их механика Фокуса) может быть собрана у органических врагов при убийстве, а затем использована для применения могучих псионических способностей, которые ничего не оставляют на волю случая.<br/><br/> Различные способности класса могут получать дополнительные свойста, в зависимости от количества накопленной энергии."
+
+[XLocalizedData]
+TemplarTutorialTitle = "\"Пси-канал\" Храмовников"
+TemplarTutorialText = "Храмовники - члены эзотерического техно-религиозного ордена могут использовать энергию, получаемую при убийстве врага и конвертировать её в могучие пси-способности. Энергия (их механика Фокуса) может быть собрана у органических врагов при убийстве \"резаком\"."
+
+TemplarMomentumTutorialTitle="\"инерция\" Храмовников"
+TemplarMomentumTutorialText="После использования способности \"резак\" Храмовники получают \"инерцию\" - действие-движение которое можно использовать для возвращение в безопасное место или чтобы спрятаться в укрытие. Некоторые способности, такие как \"парирование\" могут быть использованы за действие-движение \"инерцию\"."
+
+
+[Templar X2SoldierClassTemplate]
+DisplayName = "Храмовник"
+ClassSummary = "Храмовник - это воин, самостоятельно освоивший пси-способности и становящийся сильнее по ходу боя."<br/><br/><font color='#CA7200'>Использует пси-перчатки и автоматический пистолет.</font>"
+AbilityTreeTitles[0] = "Волшебник"
+AbilityTreeTitles[1] = "Крестоносец"
+AbilityTreeTitles[2] = "Капеллан"
+AbilityTreeTitles[3] = "XCOM"
+
++RankIcons[0]="UILibrary_Common.rank_rookie"
++RankIcons[1]="UILibrary_WOTC_APA_Templar.ranks_Squaddie_Level1"
++RankIcons[2]="UILibrary_WOTC_APA_Templar.ranks_Corporal_Level1"
++RankIcons[3]="UILibrary_WOTC_APA_Templar.ranks_Sergeant_Level2"
++RankIcons[4]="UILibrary_WOTC_APA_Templar.ranks_Lieutenant_Level2"
++RankIcons[5]="UILibrary_WOTC_APA_Templar.ranks_Captain_Level2"
++RankIcons[6]="UILibrary_WOTC_APA_Templar.ranks_Major_Level3"
++RankIcons[7]="UILibrary_WOTC_APA_Templar.ranks_Colonel_Level3"
+
+WOTC_APA_TemplarAcolyte X2SoldierClassTemplate]
+DisplayName = "Храмовник-послушник"
+ClassSummary = "Храмовник - это воин, самостоятельно освоивший пси-способности и становящийся сильнее по ходу боя.<br/><br/><font color='#CA7200'>Использует пси-перчатки и автоматический пистолет.</font>"
+AbilityTreeTitles[0] = "Волшебник"
+AbilityTreeTitles[1] = "Крестоносец"
+AbilityTreeTitles[2] = "Капеллан"
+AbilityTreeTitles[3] = "XCOM"
+
+!RankIcons=()
++RankIcons[0]="UILibrary_Common.rank_rookie"
++RankIcons[1]="UILibrary_WOTC_APA_Class_Pack.ranks_Squaddie_Level1"
++RankIcons[2]="UILibrary_WOTC_APA_Class_Pack.ranks_Corporal_Level1"
++RankIcons[3]="UILibrary_WOTC_APA_Class_Pack.ranks_Sergeant_Level2"
++RankIcons[4]="UILibrary_WOTC_APA_Class_Pack.ranks_Lieutenant_Level2"
++RankIcons[5]="UILibrary_WOTC_APA_Class_Pack.ranks_Captain_Level2"
++RankIcons[6]="UILibrary_WOTC_APA_Class_Pack.ranks_Major_Level3"
++RankIcons[7]="UILibrary_WOTC_APA_Class_Pack.ranks_Colonel_Level3"
+
+RandomNickNames[0]="Эфир"
+RandomNickNames[1]="Шок"
+RandomNickNames[2]="Ожог"
+RandomNickNames[3]="Ярость"
+RandomNickNames[4]="Ураган"
+RandomNickNames[5]="Вольт"
+RandomNickNames[6]="Блюститель"
+RandomNickNames[7]="Пламя"
+RandomNickNames[8]="Пророк"
+RandomNickNames[9]="Буревестник"
+RandomNickNames[10]="Мистик"
+RandomNickNames[11]="Магистр"
+
+RandomNickNames_Male[0]="Чародей"
+
+RandomNickNames_Female[0]="Ведьма"
+
+PhotoboothSoloBLines_Male[0]="Его самое смертоносное оружие... разум!"
+PhotoboothSoloBLines_Male[1]="Сила через самопожертвование"
+PhotoboothSoloBLines_Male[2]="Природа покоряется его воле. Так будет и с \"Адвентом\"!"
+PhotoboothSoloBLines_Male[3]="Он повелевает пространством и временем!"
+PhotoboothSoloBLines_Male[4]="Если он за нас, то каково нашим врагам?"
+PhotoboothSoloBLines_Male[5]="Он меняет законы самой природы. \"Адвент\" ОБРЕЧЕН!"
+PhotoboothSoloBLines_Male[6]="Близится буря."
+PhotoboothSoloBLines_Male[7]="\"Я не боюсь бури. Я сам - буря\"."
+PhotoboothSoloBLines_Male[8]="Если у \"Адвента\" есть боги, пришла пора им молиться."
+PhotoboothSoloBLines_Male[9]="Почувствуй его СИЛУ."
+
+PhotoboothSoloBLines_Female[0]="Ее самое смертоносное оружие... разум!"
+PhotoboothSoloBLines_Female[1]="Сила через самопожертвование"
+PhotoboothSoloBLines_Female[2]="Природа покоряется ее воле. Так будет и с \"Адвентом\"!"
+PhotoboothSoloBLines_Female[3]="Она повелевает пространством и временем!"
+PhotoboothSoloBLines_Female[4]="Если она за нас, то каково нашим врагам?"
+PhotoboothSoloBLines_Female[5]="Она меняет законы самой природы. \"Адвент\" ОБРЕЧЕН!"
+PhotoboothSoloBLines_Female[6]="Близится буря."
+PhotoboothSoloBLines_Female[7]="\"Я не боюсь бури. Я сама - буря\"."
+PhotoboothSoloBLines_Female[8]="Если у \"Адвента\" есть боги, пришла пора им молиться."
+PhotoboothSoloBLines_Female[9]="Почувствуй ее СИЛУ."
+
+
+; - GTS Unlocks -
+
+[WOTC_APA_TemplarUnlock1 X2SoldierAbilityUnlockTemplate]
+DisplayName = "Храмовники: Церемонии посвящения I"
+Summary = "Все храмовники начинают задание с пси-проводником 2 уровня, вне зависимости от их звания. Вы можете обучить одного из ваших оперативников как послушника Храмовников"
+
+[WOTC_APA_TemplarUnlock2 X2SoldierAbilityUnlockTemplate]
+DisplayName = "Храмовники: Церемонии посвящения II"
+Summary = "Все храмовники начинают задание с пси-проводником 3 уровня, вне зависимости от их звания. Вы можете обучить еще одного из ваших оперативников как послушника Храмовников."<br/><br/><font color='#CA7200'>Требует Церемонии посвящения I</font>"
+
+; - Ability Templates -
+
+[WOTC_APA_Conduit X2AbilityTemplate]
+LocFriendlyName = "Пси-проводник"
+LocLongDescription = "<Ability:ClassName/> может сохранять энергию, получаемую от убийства врагов и расходовать ее на применение пси-способностей с каждым званием все эффективнее."
+LocPromotionPopupText = "<font color='#CA7200'>МЕХАНИКА ФОКУСА:</font> <Ability:ClassName/> может сохранять энергию, получаемую от убийства врагов и расходовать ее на применение пси-способностей. Другие способности увеличивают эффективность в зависимости от запасённой энергии.<br/><Bullet/> Храмовники отлично вооружены и бронированы, многие их способности никогда не промахиваются, а сами они могут отражать атаки, снижая или полностью игнорируя ущерб.<br/><Bullet/> Храмовники могут усиливать свои способности перенаправляя энергию для усиления пси-способностей и получения ими дополнительных свойств.<br/><br/><font color='#CA7200'>УРОВЕНЬ I</font> (получает на звании <Ability:RANKNAME1/> [1])<br/><Bullet/> Максимально может запаски энергии <font color='#c451c2'><Ability:PSI_CONDUIT_I_MAX_FOCUS/></font>.<br/><Bullet/> Шанс на отражение атаки <font color='#3ABD23'><Ability:PSI_CONDUIT_I_DEFLECT_CHANCE/>%</font>.<br/><br/><font color='#CA7200'>УРОВЕНЬ II</font> (получает на звании <Ability:RANKNAME3/>[3])<br/><Bullet/> Максимальный запас энергии повышен до <font color='#c451c2'><Ability:PSI_CONDUIT_II_MAX_FOCUS/></font>. Начинает задание с <font color='#c451c2'><Ability:PSI_CONDUIT_II_STARTING_FOCUS/></font> энергии в запасе.<br/><Bullet/> Шанс отразить атаку повышен до <font color='#3ABD23'><Ability:PSI_CONDUIT_II_DEFLECT_CHANCE/>%</font>.<br/><br/><font color='#CA7200'>УРОВЕНЬ III</font> (получает на звании <Ability:RANKNAME6/>[6])<br/><Bullet/> Максимальный запас энергии повышен до <font color='#c451c2'><Ability:PSI_CONDUIT_III_MAX_FOCUS/></font>.<br/><Bullet/> Шанс отразить атаку повышен до <font color='#3ABD23'><Ability:PSI_CONDUIT_III_DEFLECT_CHANCE/>%</font>."
+
+[WOTC_APA_GainFocusOnKill X2AbilityTemplate]
+LocFriendlyName = "Использование энергии..."
+LocFlyOverText = "Использование энергии..."
+
+[WOTC_APA_Empower X2AbilityTemplate]
+LocFriendlyName = "Усиление"
+LocFlyOverText = "Усиление"
+LocHelpText = "Активируйте, что бы следующая способность, использующая энергию, была усилена, стоит <font color='#c451c2'><Ability:EMPOWER_FOCUS_COST_INCREASE/></font> энергии дополнительно, но способность получает дополнительные эффекты."
+LocLongDescription = "Активируйте, что бы следующая способность, использующая энергию, была усилена, стоит <font color='#c451c2'><Ability:EMPOWER_FOCUS_COST_INCREASE/></font> энергии дополнительно, но способность получает дополнительные эффекты."
+LocPromotionPopupText = "Активируйте, что бы следующая способность, использующая энергию, была усилена, стоит <font color='#c451c2'><Ability:EMPOWER_FOCUS_COST_INCREASE/></font> энергии дополнительно, но способность получает дополнительные эффекты.<br/><br/><Bullet/> Использование способности \"Усиление\" свободное действие, можно применять даже если осталось только действие-движение.<br/><Bullet/> \"Усиление\" можно использовать, если в запасе больше 1 энергии.<br/><Bullet/> Только одна способность в ход может быть усилена, и \"Усиление\" не переносится между ходами (вы не можете сделать запас активаций, чтобы обойти перезарядку способности).<br/><Bullet/> Если использована способность с усилением, но энергии не хватает - будет использован обычный вариант способности."
+
+[WOTC_APA_Rend X2AbilityTemplate]
+LocFriendlyName = "Резак"
+LocFlyOverText = "Резак"
+LocHelpText = "Атака в рукопашной которая не может промахнуться. Активирует способность \"Инерция\" и <Ability:ClassName/> при убийстве органической цели повышает концентрацию."
+LocLongDescription = "Атака в рукопашной которая не может промахнуться. Активирует способность \"Инерция\" и <Ability:ClassName/> при убийстве органической цели повышает концентрацию."
+LocPromotionPopupText = "Атака в рукопашной которая не может промахнуться. Активирует способность \"Инерция\" и <Ability:ClassName/> при убийстве органической цели повышает концентрацию.<br/><br/><Bullet/> Энергию можно получить только от разумных, органических врагов. Убийство механических врагов или зомби не дает дополнительной энергии.<br/><Bullet/> При использовании \"Резака\" <Ability:ClassName/> получает эффект \"Инерция\", который дает ему одно перемещение, то есть позволяет вернуться в укрытие после атаки или использовать способность, которую можно активировать за действие-движение.<br/><Bullet/> Пси урон от способности \"Резак\" зависит от технологического уровня перчаток, но может быть усилен с помощью \"Сконцентрированной грани\"."
+
+[WOTC_APA_Brand X2AbilityTemplate]
+LocFriendlyName = "Клеймо"
+LocFlyOverText = "<Ability:EMPOWERED_BRAND_NAME/> Клеймо"
+LocHelpText = "<Ability:DYNAMIC_BRAND_DESCRIPTION/> <font color='#CA7200'><Ability:BRAND_COOLDOWN/></font> перезарядка."
+LocLongDescription = "Ослабьте врага псионическим наговором, усиливая меткость и шанс на нанесение критического урона по нему. <Ability:ClassName/> получает <font color='#3ABD23'><Ability:BRAND_FOCUS_CHANCE/>%</font> шанс на сбор энергии противника, вне зависимости от того, кто его убьет."
+LocPromotionPopupText = "Ослабьте врага псионическим наговором, усиливая атаки против него:<br/><br/><font color='#CA7200'>Базовый эффект:</font> (<font color='#c451c2'><Ability:BRAND_FOCUS_COST/> энергии</font>)<br/><Bullet/> Атаки против отмеченных целей получают <font color='#3ABD23'>+<Ability:BRAND_OFFENSE_STAT_BONUS/>%</font> к меткости, шансу на критический урон.<br/><Bullet/> <Ability:ClassName/> получает <font color='#3ABD23'><Ability:BRAND_FOCUS_CHANCE/>%</font> к шансу получить энергию от убийства отмеченной цели, если в обычных условиях эта энергия не могла быть получена.<br/><br/><font color='#CA7200'>Усиленный эффект:</font> (<font color='#c451c2'><Ability:BRAND_EMPOWERED_FOCUS_COST/> энергии</font>)<br/><Bullet/> Атаки против отмеченных целей получают <font color='#3ABD23'>+<Ability:BRAND_EMPOWERED_BASE_DAMAGE_BONUS/></font> к урону при атаке и дополнительно <font color='#3ABD23'>+<Ability:BRAND_EMPOWERED_CRIT_DAMAGE_BONUS/></font> к урону от критических атак.<br/><br/>ПРИМЕЧАНИЕ:<br/><Bullet/> Эффект от \"Клейма\" длится пока <Ability:ClassName/> остаётся в живых.<br/><Bullet/> \"Клеймо\" не заканчивает ход.<br/><Bullet/> \"Клеймо\" даёт шанс на сбор энергии противника, вне зависимости от того, кто его убьет (в случае если противник не погибнет от \"Резака\")."
+
+[WOTC_APA_Volt X2AbilityTemplate]
+LocFriendlyName = "Вольт"
+LocFlyOverText = "Вольт"
+LocHelpText = "<Ability:DYNAMIC_VOLT_DESCRIPTION/>"
+LocLongDescription = "Пси-атака, электрический заряд которой наносит (на <font color='#3ABD23'>+50%</font>) больше урона роботам."
+LocPromotionPopupText = "Пси-атака, наносящая урон электричеством:<br/><br/><font color='#CA7200'>Базовый эффект:</font> (<font color='#c451c2'><Ability:VOLT_FOCUS_COST/> энергии</font>)<br/><Bullet/> Электрическая атака дальнего боя.<br/><Bullet/> Урон от \"Вольта\" увеличивается с уровнем пси-перчаток и способность наносит на <font color='#3ABD23'>+50%</font> больше урона роботам.<br/><br/><font color='#CA7200'>Усиленный эффект:</font> (<font color='#c451c2'><Ability:VOLT_EMPOWERED_FOCUS_COST/> энергии</font>)<br/><Bullet/> \"Вольт\" наносит примерно <font color='#3ABD23'>+25%</font> дополнительного урона и пробивает броню и щиты.<br/><br/>ПРИМЕЧАНИЕ:<br/><Bullet/> \"Вольт\" не требует перезарядки, но заканчивает ход при использовании.<br/><Bullet/> Дополнительный урон складывается с базовым и увеличенным базовым уроном \"Вольта\" (усиленный эффект).<br/><Bullet/> \"Вольт\" наносит урон одной цели."
+
+[WOTC_APA_Parry X2AbilityTemplate]
+LocFriendlyName = "Парирование"
+LocFlyOverText = "Парирование"
+LocHelpText = "<Ability:DYNAMIC_PARRY_DESCRIPTION/>"
+LocLongDescription = "<Ability:ClassName/> фокусирует энергию в щит, способный отразить <Ability:PARRY_ACTIVATIONS/> атаки, которые в обычных условиях попали бы в оперативника."
+LocPromotionPopupText = "<Ability:ClassName/> фокусирует энергию в щит, способный отразить <Ability:PARRY_ACTIVATIONS/> атаки, которые в обычных условиях попали бы в оперативника.<br/><br/><font color='#CA7200'>Базовый эффект:</font> (<font color='#c451c2'><Ability:PARRY_FOCUS_COST/> энергии</font>)<br/><Bullet/> <Ability:ClassName/> отражает весь урон от попавшей в оперативника атаки.<br/><br/><font color='#CA7200'>Усиленный эффект:</font> (<font color='#c451c2'><Ability:PARRY_EMPOWERED_FOCUS_COST/> энергии</font>)<br/><Bullet/> Парированная атака перенаправляет весь урон в атакующего.<br/><br/>ПРИМЕЧАНИЕ:<br/><Bullet/> \"Парирование\" может быть активировано за действие-движение.<br/><Bullet/> \"Парирование\" также может быть активировано с помощью стандартного действия, если \"Резак\" не активировался или его использование нежелательно.<br/><Bullet/> Некоторые атаки, такие как выстрел Охотника по метке наведения, не могут быть парированы. Промахи не активируют \"Парирование\" и не могут быть отражены в атакующего."
+
+[WOTC_APA_PsiStrike X2AbilityTemplate]
+LocFriendlyName = "Пси-удар"
+LocFlyOverText = "Пси-удар"
+LocHelpText = "<Ability:DYNAMIC_PSI_STRIKE_DESCRIPTION/>"
+LocLongDescription = "Атаковать органического врага шаром псионической энергии, отбрасывая и дезориентируя его, может оглушить. Наносит небольшой урон.."
+LocPromotionPopupText = "Атаковать органического врага шаром псионической энергии, нанеся немного урона, отбрасывая и дезориентируя противника, может оглушить его:<br/><br/><font color='#CA7200'>Базовый эффект:</font> (<font color='#c451c2'><Ability:PSI_STRIKE_FOCUS_COST/> энергии</font>)<br/><Bullet/> Пси-атака на расстоянии, дезориентирующая и отбрасывающая противника. Не может промахнуться.<br/><Bullet/> Урон от способности зависит от технологического уровня перчатки.<br/><br/><font color='#CA7200'>Усиленный эффект:</font> (<font color='#c451c2'><Ability:PSI_STRIKE_EMPOWERED_FOCUS_COST/> энергии</font>)<br/><Bullet/> \"Пси-удар\" получает <font color='#3ABD23'><Ability:PSI_STRIKE_STUN_CHANCE/>%</font> оглушить цель, вместо дезориентации.<br/><Bullet/> \"Пси-удар\" не дает цели использовать способность \"Спасение\".<br/><Bullet/> \"Пси-удар\" наносит повышенный урон псионикам противника и гарантированно оглушает их, если они не обладают иммунитетом к эффекту оглушения.<br/><br/>ПРИМЕЧАНИЕ:<br/><Bullet/> \"Пси-удар\" может быть использован один раз за ход, но <Ability:ClassName/> не заканчивает автоматически ход если у него остались действия.<br/><Bullet/> Способность игнорирует броню и щиты цели.<br/><Bullet/> Способность нельзя использовать против механических врагов."
+
+[WOTC_APA_Soulbind X2AbilityTemplate]
+LocFriendlyName = "Сифон душ"
+LocFlyOverText = "Сифон душ"
+LocHelpText = "Удары \"Резаком\" не убивающие цель получают <font color='#3ABD23'><Ability:SOULBIND_FOCUS_CHANCE/>%</font> шанса пополнить энергию оперативника. Атаки \"Резаком\" убивающие живую цель восстанавливают <font color='#3ABD23'><Ability:SOULBIND_HP_HEALED/>здоровья</font> <Ability:ClassName/>а."
+LocLongDescription = "Удары \"Резаком\" не убивающие цель получают <font color='#3ABD23'><Ability:SOULBIND_FOCUS_CHANCE/>%</font> шанса пополнить энергию <Ability:ClassName/>а. Атаки \"Резаком\" убивающие живую цель восстанавливают <font color='#3ABD23'><Ability:SOULBIND_HP_HEALED/>здоровья</font> оперативника."
+LocPromotionPopupText = "Удары \"Резаком\" не убивающие живую цель получают <font color='#3ABD23'><Ability:SOULBIND_FOCUS_CHANCE/>%</font> шанса пополнить энергию оперативника. Атаки \"Резаком\" убивающие живую цель восстанавливают <font color='#3ABD23'><Ability:SOULBIND_HP_HEALED/>здоровья</font> <Ability:ClassName/>а.<br/><br/><Bullet/> Атаки против зомби и механических врагов не приносят здоровья и энергии."
+
+[WOTC_APA_ConsecratedBlades X2AbilityTemplate]
+LocFriendlyName = "Освященные клинки"
+LocFlyOverText = "Освященные клинки"
+LocHelpText = "<Ability:ClassName/> вливает энергию в пси-клинки, увеличивая урон от \"Резака\" в зависимости от текущего уровня энергии. Дополнительно <font color='#3ABD23'>+<Ability:CONSECRATED_BLADES_DAMAGE_CHANCE/>%</font> к шансу нанести <font color='#3ABD23'>+<Ability:CONSECRATED_BLADES_DAMAGE_BONUS/> урона.</font> Урон от всех атак перчатками увеличивается, но <Ability:ClassName/> может использовать на <font color='#CA7200'><Ability:CONSECRATED_BLADES_MAX_FOCUS_MODIFIER/></font> меньше энергии."
+LocLongDescription = "<Ability:ClassName/> вливает энергию в пси-клинки, увеличивая урон от \"Резака\" в зависимости от текущего уровня энергии. Дополнительно <font color='#3ABD23'>+<Ability:CONSECRATED_BLADES_DAMAGE_CHANCE/>%</font> к шансу нанести <font color='#3ABD23'>+<Ability:CONSECRATED_BLADES_DAMAGE_BONUS/> урона.</font> Урон от всех атак перчатками увеличивается, но <Ability:ClassName/> может использовать на <font color='#CA7200'><Ability:CONSECRATED_BLADES_MAX_FOCUS_MODIFIER/></font> меньше энергии."
+LocPromotionPopupText = "<Ability:ClassName/> вливает энергию в пси-клинки, увеличивая урон от \"Резака\" в зависимости от текущего уровня энергии. Дополнительно <font color='#3ABD23'>+<Ability:CONSECRATED_BLADES_DAMAGE_CHANCE/>%</font> к шансу нанести <font color='#3ABD23'>+<Ability:CONSECRATED_BLADES_DAMAGE_BONUS/> урона.</font> Урон от всех атак перчатками увеличивается, но <Ability:ClassName/> может использовать на <font color='#CA7200'><Ability:CONSECRATED_BLADES_MAX_FOCUS_MODIFIER/></font> меньше энергии.<br/><br/><Bullet/> Шанс на нанесение дополнительного урона складывается: Например, имея 150% к шансу значит, что гарантированно (100%) урон будет увеличен на <font color='#3ABD23'>+<Ability:CONSECRATED_BLADES_DAMAGE_BONUS/></font> и дает 50% к шансу на дополнительные <font color='#3ABD23'>+<Ability:CONSECRATED_BLADES_DAMAGE_BONUS/></font> урона.<br/><Bullet/> Дополнительный урон получают все атаки перчатками: \"Резак\", \"Звездопад\" и атаки от способности \"Мясорубка\".<br/><Bullet/> Дополнительный урон применяется к основной цели атаки, но не задевает дополнительные цели от \"Направленной волны\"."
+
+[WOTC_APA_Castigate X2AbilityTemplate]
+LocFriendlyName = "Бичевание"
+LocFlyOverText = "Бичевание"
+LocHelpText = "Атакующие способности, примененные с помощью энергии, в дополнение к прочим эффектам снижают характеристики цели. Уменьшает волю и пси-атаку цели на <font color='#CA7200'>-<Ability:CASTIGATE_MENTAL_STAT_MODIFIER/>%</font> и меткость и шанс нанесения критического урона на <font color='#CA7200'><Ability:CASTIGATE_OFFENSE_STAT_MODIFIER/>%</font>."
+LocLongDescription = "Атакующие способности, примененные с помощью энергии, в дополнение к прочим эффектам снижают характеристики цели. Уменьшает волю и пси-атаку цели на <font color='#CA7200'>-<Ability:CASTIGATE_MENTAL_STAT_MODIFIER/>%</font> и меткость и шанс нанесения критического урона на <font color='#CA7200'><Ability:CASTIGATE_OFFENSE_STAT_MODIFIER/>%</font>.."
+LocPromotionPopupText = "Атакующие способности, примененные с помощью энергии, в дополнение к прочим эффектам снижают характеристики цели. Уменьшает волю и пси-атаку цели на <font color='#CA7200'>-<Ability:CASTIGATE_MENTAL_STAT_MODIFIER/>%</font> и меткость и шанс нанесения критического урона на <font color='#CA7200'><Ability:CASTIGATE_OFFENSE_STAT_MODIFIER/>%</font>.<br/><br/><Bullet/> Штрафы к характеристикам от \"Бичевания\" будут применяться пока <Ability:ClassName/> остаётся в живых.<br/><Bullet/> Пенальти к характеристиками от способности не складываются."
+
+[WOTC_APA_CastigateApply X2AbilityTemplate]
+LocFriendlyName = "Бичевание"
+LocFlyOverText = "Бичевание"
+LocHelpText = "Боец под действием проклятья, воля и пси-атака снижены на <font color='#CA7200'>-<Ability:CASTIGATE_MENTAL_STAT_MODIFIER/>%</font>, меткость и шанс нанесения критического урона снижены на <font color='#CA7200'><Ability:CASTIGATE_OFFENSE_STAT_MODIFIER/>%</font>."
+
+[WOTC_APA_Fuse X2AbilityTemplate]
+LocFriendlyName = "Запал"
+LocFlyOverText = "Запал"
+LocHelpText = "<Ability:DYNAMIC_FUSE_DESCRIPTION/>. Перезарядка <font color='#CA7200'><Ability:FUSE_COOLDOWN/></font> хода."
+LocLongDescription = "Если у противника есть взрывчатка, можно подорвать её дистанционно. Перезарядка <font color='#CA7200'><Ability:FUSE_COOLDOWN/></font> хода."
+LocPromotionPopupText = "Дистанционно подрывает взрывчатку у противника:<br/><br/><font color='#CA7200'>Базовый эффект:</font> (<font color='#c451c2'><Ability:FUSE_FOCUS_COST/> энергии</font>)<br/><Bullet/> Подрывает экипированную взрывчатку.<br/><br/><font color='#CA7200'>Усиленный эффект:</font> (<font color='#c451c2'><Ability:FUSE_EMPOWERED_FOCUS_COST/> энергии</font>)<br/><Bullet/> Увеличивает область взрыва на <font color='#3ABD23'>+<Ability:FUSE_EMPOWERED_EXPLOSION_RADIUS_BONUS/></font> клетки.<br/><br/>ПРИМЕЧАНИЕ:<br/><Bullet/> \"Запал\" делает взрывчатку противника непригодной для использования.<br/><Bullet/> \"Запал\" можно использовать на любой взрывчатке, в том числе и ракетах."
+
+[WOTC_APA_Harden X2AbilityTemplate]
+LocFriendlyName = "Закалка"
+LocFlyOverText = "Закалка"
+LocHelpText = "<Ability:DYNAMIC_HARDEN_DESCRIPTION/>. Перезарядка <font color='#CA7200'><Ability:HARDEN_COOLDOWN/></font> хода."
+LocLongDescription = "Усилить физическую защиту энергетическим щитом. <Ability:ClassName/> получает энергетические щиты, если способность усилена, щиты получают и союзники неподалёку. Перезарядка <font color='#CA7200'><Ability:HARDEN_COOLDOWN/></font> хода."
+LocPromotionPopupText = "Усилить физическую защиту энергетическим щитом:<br/><br/><font color='#CA7200'>Базовый эффект:</font> (<font color='#c451c2'><Ability:HARDEN_FOCUS_COST/> энергии</font>)<br/><Bullet/> <Ability:ClassName/> получает вплот до <font color='#3ABD23'><Ability:HARDEN_SHIELD_POINTS/></font> энергетических щитов.<br/><br/><font color='#CA7200'>Усиленный эффект:</font> (<font color='#c451c2'><Ability:HARDEN_EMPOWERED_FOCUS_COST/> энергии</font>)<br/><Bullet/> Все союзники в радиусе <font color='#3ABD23'><Ability:HARDEN_AREA_TILE_RADIUS/></font> клеток получают <font color='#3ABD23'>+<Ability:HARDEN_AREA_SHIELD_POINTS/></font> энергетических щитов.<br/><br/>ПРИМЕЧАНИЕ:<br/><Bullet/> \"Закалка\" не заканчивает автоматически ход если у оперативника остались действия.<br/><Bullet/> \"Закалка\" может быть использована за действие-движение от способности \"инерция\".<br/><Bullet/> Использование способности снимает маскировку с отряда."
+
+[WOTC_APA_Meditate X2AbilityTemplate]
+LocFriendlyName = "Медитация"
+LocFlyOverText = "Медитация"
+LocHelpText = "Сделайте паузу в хаосе битвы, чтобы извлечь энергию извне. Уровень энергии будет повышен до <font color='#c451c2'><Ability:MEDITATE_FOCUS_CAP/></font>, если ниже."
+LocLongDescription = "Сделайте паузу в хаосе битвы, чтобы извлечь энергию извне. Уровень энергии будет повышен до <font color='#c451c2'><Ability:MEDITATE_FOCUS_CAP/></font>, если ниже."
+LocPromotionPopupText = "Сделайте паузу в хаосе битвы, чтобы извлечь энергию извне. Уровень энергии будет повышен до <font color='#c451c2'><Ability:MEDITATE_FOCUS_CAP/></font>, если ниже.<br/><br/><Bullet/> \"Медитация\" требует оба очка действия и всегда заканчивает ход."
+
+[WOTC_APA_Solace X2AbilityTemplate]
+LocFriendlyName = "Умиротворение"
+LocFlyOverText = "Умиротворение"
+LocHelpText = "<Ability:ClassName/> окружён аурой, которая немедленно отменяет и блокирует все ментальные воздействия, касающиеся самого оперативника и его ближайших союзников."
+LocLongDescription = "<Ability:ClassName/> окружён аурой, которая немедленно отменяет и блокирует все ментальные воздействия, касающиеся самого оперативника и его ближайших союзников."
+LocPromotionPopupText = "<Ability:ClassName/> окружён аурой, которая немедленно отменяет и блокирует все ментальные воздействия, касающиеся самого оперативника и его ближайших союзников.<br/><br/><Bullet/> Способность \"Умиротворение\" действует в радиусе 4 клеток.<br/><Bullet/> Союзники, попавшие в радиус действия, немедленно избавляются от всех ментальных воздействий."
+
+[WOTC_APA_Reanimate X2AbilityTemplate]
+LocFriendlyName = "Реанимация"
+LocFlyOverText = "Реанимация"
+LocHelpText = "<Ability:DYNAMIC_REANIMATE_DESCRIPTION/>. Перезарядка <font color='#CA7200'><Ability:REANIMATE_COOLDOWN/></font> хода."
+LocLongDescription = "С помощью энергии создайте зомби из гуманоидного трупа."
+LocPromotionPopupText = "С помощью энергии создайте зомби из гуманоидного трупа:<br/><br/><font color='#CA7200'>Базовый эффект:</font> (<font color='#c451c2'><Ability:REANIMATE_FOCUS_COST/> энергии</font>)<br/><Bullet/> Создаёт зомби из гуманоидного трупа, который немедленно получит 1 очко действия.<br/><br/><font color='#CA7200'>Усиленный эффект:</font> (<font color='#c451c2'><Ability:REANIMATE_EMPOWERED_FOCUS_COST/> энергии</font>)<br/><Bullet/> Создает усиленного зомби, обладающего увеличенным здоровьем, мобильностью и уклонением.<br/><Bullet/> Пси-зомби получает оба действия, сразу после воскрешения.<br/><br/>ПРИМЕЧАНИЕ:<br/><Bullet/> Пси зомби обладают атакой ближнего боя, которую можно использовать в движении.<br/><Bullet/> Пси-зомби не пострадают, если воскресивших их оперативник будет ослаблен, но немедленно умрут, если он покинет поле боя (эвакуирован, убит и т.д.).<br/><Bullet/> Оживляемое тело должно быть в пределах <font color='#CA7200'><Ability:REANIMATE_TILE_RANGE/></font> клеток, радиус действия способности показывается при её выборе.<br/><Bullet/> Максимальное количество реанимированных трупов: <font color='#CA7200'><Ability:REANIMATE_ZOMBIE_LIMIT/></font>. <br/><Bullet/> Воскрешение зомби немедленно снимает маскировку с отряда."
+
+[WOTC_APA_ZombieClawSlash X2AbilityTemplate]
+LocFriendlyName = "Удар зомби"
+LocFlyOverText = "Удар зомби"
+LocHelpText = "Атака противника в пределах перемещения когтями зомби."
+LocLongDescription = "Атака противника в пределах перемещения когтями зомби."
+
+[WOTC_APA_ArcWave X2AbilityTemplate]
+LocFriendlyName = "Направленная волна"
+LocFlyOverText = "Направленная волна"
+LocHelpText = "\"Резак\" выпускает волну пси-энергии в направлении атаки. Урон повышается с уровнем концентрации."
+LocLongDescription = "\"Резак\" выпускает волну пси-энергии по направлению атаки."
+LocPromotionPopupText = "\"Резак\" выпускает волну пси-энергии в направлении атаки. Волна может задеть несколько целей. Урон повышается с уровнем концентрации.<br/><br/><Bullet/> \"Направленная волна\" наносит <font color='#3ABD23'><Ability:ARCWAVE_BASE_DAMAGE/></font> урона целям в зоне поражения и дополнительный урон если <Ability:ClassName/> обладает запасами энергии.<br/><Bullet/> Повышение урона от концентрации не затрагивает основную цель атаки, только цели в области поражения волны."
+
+[WOTC_APA_ArcWaveRend X2AbilityTemplate]
+LocFriendlyName = "Резак"
+LocFlyOverText = "Резак"
+LocHelpText = "Атака в рукопашной, позволяющая оглушить или дезориентировать цель. Промах невозможен, активирует способность \"Инерция\". При убийстве органических целей повышает концентрацию."
+LocLongDescription = "Атака в рукопашной, позволяющая оглушить или дезориентировать цель. Промах невозможен, активирует способность \"Инерция\". При убийстве органических целей повышает концентрацию."
+
+[WOTC_APA_Exchange X2AbilityTemplate]
+LocFriendlyName = "Рокировка"
+LocFlyOverText = "Рокировка"
+LocHelpText = "<Ability:DYNAMIC_EXCHANGE_DESCRIPTION/>. Перезарядка <font color='#CA7200'><Ability:EXCHANGE_COOLDOWN/></font> хода."
+LocLongDescription = "Обмен местами с соратником."
+LocPromotionPopupText = "Обмен местами с соратником:<br/><br/><font color='#CA7200'>Базовый эффект:</font> (<font color='#c451c2'><Ability:EXCHANGE_FOCUS_COST/> энергии</font>)<br/><Bullet/> Поменяться местами с видимым союзником.<br/><br/><font color='#CA7200'>Усиленный эффект:</font> (<font color='#c451c2'><Ability:EXCHANGE_EMPOWERED_FOCUS_COST/> энергии</font>)<br/><Bullet/> <Ability:ClassName/> отправится в \"Стазис\", сразу после смены позиции.<br/><br/>ПРИМЕЧАНИЕ:<br/><Bullet/> Перемещение не вызывает активацию наблюдения.<br/><Bullet/> \"Рокировка\" не заканчивает автоматически ход если у оперативника остались действия.<br/><Bullet/> При усиленной \"Рокировке\" все оставшиеся действия будут потеряны, так как <Ability:ClassName/> будет помещён в \"Стазис\!"
+
+[WOTC_APA_VoidConduit X2AbilityTemplate]
+LocFriendlyName = "Холод пустоты"
+LocFlyOverText = "Холод пустоты"
+LocHelpText = "<Ability:DYNAMIC_VOID_CONDUIT_DESCRIPTION/>. Перезарядка <font color='#CA7200'><Ability:VOID_CONDUIT_COOLDOWN/></font> хода."
+LocLongDescription = "Заключает гуманоида в пси-тюрьму, обездвижив его на несколько действий, нанося ему  <font color='#3ABD23'><Ability:VOID_CONDUIT_DAMAGE/></font> урона в начале каждого хода и передавая <font color='#3ABD23'><Ability:VOID_CONDUIT_HEALED/>здоровья</font> от наносимого урона. Если цель погибает во время действия способности, <Ability:ClassName/> получит энергию от его смерти, независимо где и как цель погибла. Перезарядка <font color='#CA7200'><Ability:VOID_CONDUIT_COOLDOWN/></font> хода."
+LocPromotionPopupText = "Заключает гуманоида в пси-тюрьму, обездвижив его на несколько действий, нанося ему <font color='#3ABD23'><Ability:VOID_CONDUIT_DAMAGE/></font> урона в начале каждого хода и передавая <font color='#3ABD23'><Ability:VOID_CONDUIT_HEALED/>здоровья</font> от наносимого урона.<br/><br/><font color='#CA7200'>Базовый эффект:</font> (<font color='#c451c2'><Ability:VOID_CONDUIT_FOCUS_COST/> энергии</font>)<br/><Bullet/> Заключает гуманоидного противника в пси-тюрьму на <font color='#3ABD23'><Ability:VOID_CONDUIT_BASE_DURATION/></font> хода, не позволяя ему предпринимать какие-либо действия.<br/><Bullet/> <Ability:ClassName/> получит энергию от смерти противника, независимо где и как цель погибла, если способность продолжает действовать.<br/><br/><font color='#CA7200'>Усиленный эффект:</font> (<font color='#c451c2'><Ability:VOID_CONDUIT_EMPOWERED_FOCUS_COST/> энергии</font>)<br/><Bullet/> Цель останется в заключении на  добавочных <font color='#3ABD23'>+<Ability:VOID_CONDUIT_BONUS_DURATION/></font> хода.<br/><br/>ПРИМЕЧАНИЕ:<br/><Bullet/> \"Холод пустоты\" не заканчивает автоматически ход если у оперативника остались действия.<br/><Bullet/> После истечения действия способности, эффект будет сохраняться до начала следующего хода игрока, позволяя получить энергию от смерти противника."
+
+[WOTC_APA_Skyfall X2AbilityTemplate]
+LocFriendlyName = "Звездопад"
+LocFlyOverText = "Звездопад"
+LocHelpText = "<Ability:DYNAMIC_SKYFALL_DESCRIPTION/>. Перезарядка <font color='#CA7200'><Ability:SKYFALL_COOLDOWN/></font> хода."
+LocLongDescription = "Появитесь из ледяной пустоты, разрывая врага в любом месте на карте, нанося <font color='#3ABD23'>+<Ability:SKYFALL_DAMAGE_MULTIPLIER/>%</font> урона от \"Резака\" и замораживая цель. <Ability:ClassName/> получит дополнительное очко энергии, если цель будет убита \"Звездопадом\"."
+LocPromotionPopupText = "Появитесь из ледяной пустоты, разрывая и замораживая врага в любом месте на карте.<br/><br/><font color='#CA7200'>Базовый эффект:</font> (<font color='#c451c2'><Ability:SKYFALL_FOCUS_COST/> энергии</font>)<br/><Bullet/> Атака \"Резаком\" наносит <font color='#3ABD23'>+<Ability:SKYFALL_DAMAGE_MULTIPLIER/>%</font> урона.<br/><Bullet/> <Ability:ClassName/> получит дополнительное очко энергии (к основному от \"Резака\"), если цель будет убита \"Звездопадом\".<br/><br/><font color='#CA7200'>Усиленный эффект:</font> (<font color='#c451c2'><Ability:SKYFALL_EMPOWERED_FOCUS_COST/> энергии</font>)<br/><Bullet/> The <Ability:ClassName/> will gain a Momentum action, allowing them to return to the safety of cover.<br/><Bullet/> Все враги в пределах <font color='#3ABD23'><Ability:SKYFALL_TILE_RADIUS/></font> клеток от цели способности будут дезориентированы.<br/><br/>ПРИМЕЧАНИЕ:<br/><Bullet/> \"Звездопад\" не требует, что бы <Ability:ClassName/> видел цель самостоятельно, любая цель в пределах \"общего вида\", может быть атакована, если рядом с ней есть хотябы одна свободная клетка."
+
+[WOTC_APA_SkyfallPassive X2AbilityTemplate]
+LocFriendlyName = "Звездопад"
+
+[WOTC_APA_SkyfallAttack X2AbilityTemplate]
+LocFriendlyName = "Звездопад"
+LocFlyOverText = "Звездопад"
+
+[WOTC_APA_SunderingStorm X2AbilityTemplate]
+LocFriendlyName = "Штормовой раскол"
+LocFlyOverText = "Штормовой раскол"
+LocHelpText = "<Ability:DYNAMIC_SUNDERING_STORM_DESCRIPTION/>. Перезарядка <font color='#CA7200'><Ability:SUNDERING_STORM_COOLDOWN/></font> хода."
+LocLongDescription = "Переместитесь на место, вызывая псионический шторм, который повреждает и разрывает броню всех врагов в области <font color='#3ABD23'><Ability:SUNDERING_STORM_TILE_RADIUS/></font> клеток."
+LocPromotionPopupText = "Переместитесь на место, вызывая псионический шторм, который повреждает и разрывает броню всех врагов в области <font color='#3ABD23'><Ability:SUNDERING_STORM_TILE_RADIUS/></font> клеток:<br/><br/><font color='#CA7200'>Базовый эффект:</font> (<font color='#c451c2'><Ability:SUNDERING_STORM_FOCUS_COST/> энергии</font>)<br/><Bullet/> Урона от \"Штормового раскола\" зависит от технического уровня перчаток и разрывает <font color='#3ABD23'>1</font> очко брони.<br/><br/><font color='#CA7200'>Усиленный эффект:</font> (<font color='#c451c2'><Ability:SUNDERING_STORM_EMPOWERED_FOCUS_COST/> энергии</font>)<br/><Bullet/> Разрывает предметы окружения около каждой из целей и разрывает <font color='#3ABD23'>1</font> дополнительное очко брони.<br/><Bullet/> Оставляет <font color='#3ABD23'><Ability:SUNDERING_STORM_SMOKE_TILE_RADIUS/></font> клеток защитного дыма в области оперативника.<br/><br/>ПРИМЕЧАНИЕ:<br/><Bullet/> Урон от \"Штормового раскола\" проходит сквозь щиты.<br/><Bullet/> \"Штормовой раскол\" активируется в любой клетке в пределах перемещения оперативника.<br/><Bullet/> Способность заканчивает ход оперативника."
+
+
+
+
+
+
+
+
+
+[WOTC_APA_AlchemicalCatalysts X2AbilityTemplate]
+LocFriendlyName = "Алхимические катализаторы"
+LocFlyOverText = "Алхимические катализаторы"
+LocHelpText = "Бросаемые гранаты получают <font color='#3ABD23'>+1</font> к радиусу взрыва."
+LocLongDescription = "Бросаемые гранаты получают <font color='#3ABD23'>+1</font> к радиусу взрыва."
+LocPromotionPopupText = "Бросаемые гранаты получают <font color='#3ABD23'>+1</font> к радиусу взрыва.<br/><br/><Bullet/> Не распространяется на тяжелое оружие или другие специальные взрывные устройства."

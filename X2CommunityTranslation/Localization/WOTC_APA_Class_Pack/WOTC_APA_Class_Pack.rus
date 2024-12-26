@@ -1,0 +1,71 @@
+
+[X2DownloadableContentInfo_WOTC_APA_Class_Pack]
+
+;  -- Localized Strings for New AbilityAvailabilityCodes --
+;  --------------------------------------------------------
+
++NewAbilityAvailabilityStrings[0] = "У юнита исключающий эффект"
++NewAbilityAvailabilityStrings[1] = "У юнита исключающая способность."
++NewAbilityAvailabilityStrings[2] = "Необходимая способность отсутствует."
++NewAbilityAvailabilityStrings[3] = "Солдат должен укрепиться."
++NewAbilityAvailabilityStrings[4] = "Солдат уже укрепился"
+
+
+
+[X2AbilityTag_WOTC_APA_Class_Pack]
+
+;  -- Localized Strings for Ability Tags --
+;  ----------------------------------------
+
+; // Generic Tags
+strGenericClassName="солдат"
+strOnce = "один раз"
+strUpTo = "вплоть до"
+strTimes = "раз"
+strTiles = "клеток"
+
+strNaturalLeaderSpecializationDesc = " и они получат одну дополнительную командную специализацию при выполнении миссий"
+
+
+; // Medic Ability Tags
+strBurstFireName = "Стрельба очередями"
+strSteadiedBurstFireName = "Стрельба с упора" ;Also set in WOTC_APA_Medic.int due to order of compiling
+strStrategyBurstFireDesc = "Стрельба очередью в противника, может нанести два ранения. Требует <font color='#CA7200'><Ability:BURST_FIRE_AMMO_COST/></font> патронов и перезаряжается <font color='#CA7200'><Ability:BURST_FIRE_COOLDOWN/></font> хода."
+strTacticalBurstFireDesc = "Выпустить несколько коротких очередей в противника, с пониженной на <font color='#CA7200'><Ability:BURST_FIRE_AIM_PENALTY/></font> меткостью.<br/>Требует <font color='#CA7200'><Ability:BURST_FIRE_AMMO_COST/></font> патрона и перезаряжается <font color='#CA7200'><Ability:BURST_FIRE_COOLDOWN/></font> хода."
+strTacticalSteadiedBurstFireDesc = "Стрельба очередью в противника, может нанести два ранения. \"Стрельба с упора\" не имеет минусов к меткости.<br/>Требует <font color='#CA7200'><Ability:BURST_FIRE_AMMO_COST/></font> патрона и перезаряжается <font color='#CA7200'><Ability:BURST_FIRE_COOLDOWN/></font> хода."
+
+
+; // Specialist Ability Tags
+strAidProtocolRechargeDesc = "(Перезарядка:  <font color='#CA7200'><Ability:AID_PROTOCOL_RECHARGE_TURNS/></font> ходов)"
+strBlindProtocolRechargeDesc = "(Перезарядка:  <font color='#CA7200'><Ability:BLIND_PROTOCOL_RECHARGE_TURNS/></font> ходов)"
+strCombatProtocolRechargeDesc = "(Перезарядка:  <font color='#CA7200'><Ability:COMBAT_PROTOCOL_RECHARGE_TURNS/></font> ходов)"
+
+strAidProtocolRadiusStrategy = ". Улучшенные \"Гремлины\" способны выпускать дым в более широком радиусе."
+strAidProtocolRadiusTactical = "  радиус <Radius/> клеток"
+
+strBlindProtocolRadiusStrategy = ". Улучшенные \"Гремлины\" способны ослепить врага в более широком радиусе."
+strBlindProtocolRadiusTactical = " радиус <Radius/> клеток"
+
+strCombatProtocolBaseDamageStrategy = "небольшое количество"
+strCombatProtocolDamageDescStrategy = "Наносит <font color='#3ABD23'>+<Ability:COMBAT_PROTOCOL_MECH_DAMAGE_MULTIPLIER/>%</font> урона механическим целям. Улучшенные \"Гремлины\" увеличивают урон."
+strCombatProtocolDamageDesc = "Наносит <font color='#3ABD23'>+<Ability:COMBAT_PROTOCOL_MECH_DAMAGE_MULTIPLIER/>%</font> урона механическим целям"
+strCombatProtocolOverloadDamageDesc = "Наносит <font color='#3ABD23'>+<Ability:OVERLOAD_NON_MECH_DAMAGE_BONUS/></font> дополнительно урона органическим целям и <font color='#3ABD23'>+<Ability:OVERLOAD_MECH_DAMAGE_MULTIPLIER/>%</font> урона механическим целям (улучшено Перегрузкой)"
+
+strBreaksSquadConcealmentWarning = "<br/><br/><font color='#c10f0f'>ВНИМАНИЕ:</font> Снимает маскировку!"
+strRemoteRepairBaseHealthStrategy = "небольшое количество здоровья"
+strRemoteRepairHealthStrategyDesc = "Улучшенные \"Гремлины\" лечат более эффективно."
+
+strFailsafeActionFreeDesc = "Получает <Amount/> свободное использование от \"Электронной войны\""
+strFailsafeActionCostDesc = "Требует 1 действие на использование"
+
+
+; // Assault Ability Tags
+strConcussionGrenadesDisorientAlliesTrue = "Эффект дезориентации от ошеломления ЗАТРАГИВАЕТ союзников (в отличие от свето-шумовых гранат)"
+strConcussionGrenadesDisorientAlliesFalse = "Эффект дезориентации от ошеломления НЕ ЗАТРАГИВАЕТ союзников  (как и у свето-шумовых гранат)"
+
+strSlipIntoPositionDesc = " Радиус обнаружения врагов снижен на"
+
+
+; // Marine Ability Tags
+strFireDisciplineReactionBonusRifle = "все \"ответные выстрелы\" (ружье)"
+strFireDisciplineReactionBonusCannon = "выстрелы \"подавление\" (пулемёт)"

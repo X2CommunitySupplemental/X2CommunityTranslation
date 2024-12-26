@@ -1,0 +1,338 @@
+[Assault X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=штурмовик
+ClassSpecializationSummary="Штурмовик - боевой специалист, способный эффективно прорывать ряды противника, нанося точные и разрушительные удары по целям. Опытный и хладнокровный, он обладает высокой скоростью реакции и отличной стратегической мыслью, что делает его незаменимым в боевых операциях."
+
+[Infantry X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Пехота
+ClassSpecializationSummary="У меня на плече винтовка, а на поясе граната. Пехотинец, возможно, не самый блестящий солдат, но вы можете рассчитывать на то, что он удержит строй."
+
+[Sentinel X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Страж
+ClassSpecializationSummary="Взгляд на горизонт, рука на спусковом крючке. Дозорный всегда следит за действиями противника и готов незамедлительно ударить по уязвимым местам."
+
+[Gunner X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Пулеметчик
+ClassSpecializationSummary="Сошки, магазины большой емкости и дождь из пустых гильз. Если вы хотите, чтобы что-то было подавленно огнем или простреляно десяткам пуль, зовите стрелка.
+
+[Grenadier X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Гренадер
+ClassSpecializationSummary="С тех пор, как человек нашел способ упаковывать взрывчатку в удобный портативный заряд для быстрого использования, Гренадер всегда был готов сделать чей-то день невыносимым."
+
+[Sniper X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Снайпер
+ClassSpecializationSummary="Один выстрел - одно убийство. Если нужно уничтожить человека или тварь, вы всегда можете рассчитывать на снайпера. Дайте ему точку с хорошим обзором и он будет контролировать поле битвы."
+
+[Ranger X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Рейнджер
+ClassSpecializationSummary="Рука держит нож, ноги на ширине плеч, а сам он готов к выпаду. Иногда есть проблемы, которые можно решить только с помощью старомодного ультранасилия. Рейнжер в этом один из лучших."
+
+[Hacker X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Хакер
+ClassSpecializationSummary="В современном мире взаимосвязанных технологий, круглосуточного наблюдения и автоматизированной безопасности вам нужен специалист, который может сделать сложное простым. Позовите хакера, если хотите отключить турель или убрать роботов в тылу."
+
+[Scout X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Разведчик
+ClassSpecializationSummary="Быстрый, тихий и наблюдательный разведчик способен сообщить вам, что находится за следующим поворотом. Когда вам абсолютно точно нужно знать где засел противник, зовите разведчика."
+
+[Medic X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Врач
+ClassSpecializationSummary="Врач - специалист, спасающий жизни на передовой и обеспечивающий медицинскую помощь бойцам в любых условиях."
+
+[Gunslinger X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Стрелок
+ClassSpecializationSummary="В мире современных технологий и автоматизации, стрелок с пистолетом все еще может играть ключевую роль в решении критических ситуаций. Владение триггернометрией и мастерство в стрельбе могут стать решающими факторами в боевых действиях"
+
+[Skirmisher X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Скирмишер
+ClassSpecializationSummary="Нет ничего лучше потрошителя, чтобы испортить день Рентгену. Скирмишер - это специалист в высокооктановых атаках, предпочитающий оружие и когти. Неважно, что противник принесет на бой, Скирмишер всегда будет готов одержать победу."
+
+[Saboteur X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Диверсант
+ClassSpecializationSummary="Иногда недостаточно просто принести ракетницу на поле боя. Нет, вам нужен специалист, который может правильно настроить мины или смешать X4 в подвальной химической лаборатории."
+
+[Spotter X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Корректировщик
+ClassSpecializationSummary="Каждой группе преданных своему делу повстанцев нужен кто-то, кто прикроет их спину. «Ловушки и трюки» — название игры корректировщика."
+
+[RpgRocketeer X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Ракетчик
+ClassSpecializationSummary="Наши ракетчики обучены использовать ракетную установку "Перчаток" с разрушительным эффектом, нанося урон большим группам врагов, уничтожая броню и сравнивая с землей целые здания.."
+
+[RpgPurifier X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Очиститель
+ClassSpecializationSummary="Наши Очистители обучены использовать огнемет перчаток с разрушительным эффектом, поджигая поле битвы и всех врагов, которые подходят слишком близко."
+
+[Enforcer X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Инфорсер
+ClassSpecializationSummary="Инфорсер использует свой дугомет, чтобы вывести из строя врага, либо чтобы дать команде время передохнуть, либо чтобы убедиться, что их цель не шевельнется, пока союзники Инфорсера прицеливаются."
+
+[Marauder X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Мародер
+ClassSpecializationSummary="Мародер - специалист по обрезам. Смертоносен в ближнем бою, где важен каждый выстрел."
+
+
+[UIPersonnel_SoldierListItemDetailed]
+m_strServeredHead="<font color='#bf1e2e'><b>требуется аугментация головы</b></font>"
+m_strServeredTorso="<font color='#bf1e2e'><b>требуется аугментация торса</b></font>"
+m_strServeredArms="<font color='#bf1e2e'><b>требуется аугментация рук</b></font>"
+m_strServeredLegs"<font color='#bf1e2e'><b>требуется аугментация ног</b></font>"
+
+[XGLocalizedData_RPG]
+SelectClassTitle="Название класса"
+SelectClassIcon="Значок класса"
+SelectClassDescription="Описание класса"
+ResetClassInsignia="Reset Специальный знак отличия класса"
+
+SelectClassTitleTooltip="Выберите название пользовательского класса. Это отменит автоматическое назначение на основе специализаций."
+SelectClassIconTooltip="Выберите иконку пользовательского класса. Это отменит автоматическое назначение на основе специализаций."
+SelectClassDescriptionTooltip="Выберите описание пользовательского класса. Это отменит автоматическое назначение на основе специализаций."
+ResetClassInsigniaTooltip="Эта функция приведет к сбросу иконки, названия и описания пользовательского класса. Они снова будут установлены по умолчанию."
+
+AbilityWeaponRestrictions="Совместимо с:"
+
+SpecializationPrimaryShort="P"
+SpecializationSecondaryShort="S"
+SpecializationComplementaryShort="C"
+
+SpecializationPrimary="Основная специализация(и):"
+SpecializationSecondary="Вторичная специализация(и):"
+SpecializationComplementary="Дополнительная специализация(и):"
+
+AllowedWeaponCategoriesPrimary="Категории основного оружия:"
+AllowedWeaponCategoriesSecondary="Категории вторичного оружия:"
+
+UtilityCatPistol="(Авто-) Пистолет"
+UtilityCatSidearm="(Авто-) Пистолет"
+UtilityCatSword="Оружие ближнего боя"
+UtilityCatGremlin="Гремлин"
+UtilityCatPsiamp="Пси-усилитель"
+UtilityCatGrenadeLauncher="Гранатомет"
+UtilityCatClaymore="Клеймор"
+UtilityCatWristblade="потрошитель"
+UtilityCatArcthrower="Дугомет"
+UtilityCatCombatknife="Оружие ближнего боя"
+UtilityCatHolotargeter="Голографический прицел"
+UtilityCatSawedoffshotgun="Обрез"
+UtilityCatLWGauntlet="Перчатка"
+
+m_strCategoryRestricted=ALREADY EQUIPPED A <XGParam:StrValue0/!WeaponCat/>
+m_strAbilityRequired=ABILITY <XGParam:StrValue0/!Ability/> REQUIRED
+
+strSWO_SpecRoulette_Description="[RPGO] Рулетка специализаций: ограниченное количество случайных специализаций для новобранцев"
+strSWO_SpecRoulette_Tooltip="Вместо полного набора всех специализаций солдаты выбирают лишь некоторые из них, случайно выбранные при повышении новобранцев. \n Можно комбинировать с тренировочной рулеткой, Происхождение и Выбором Командира."
+
+strSWO_TrainingRoulette_Description="[RPGO] Тренировочная рулетка: порядок перков в рамках специализаций рандомизирован."
+strSWO_TrainingRoulette_Tooltip="Рандомизирует порядок перков для каждой специализации. Перки, являющиеся необходимыми условиями, остаются в том же слоте. \n Можно комбинировать с рулеткой специализаций, происхождением и выбором командира."
+
+strSWO_CommandersChoice_Description="[RPGO] Выбор командира: выберите ограниченное количество специализаций."
+strSWO_CommandersChoice_Tooltip="При повышении солдат в отряде вы можете выбрать ограниченное количество специализаций. \n Можно комбинировать с рулеткой специализаций, происхождением и рулеткой тренировок."
+
+strSWO_Origins_Description="[RPGO] Происхождение: выберите стартовые способности солдат"
+strSWO_Origins_Tooltip="При повышении новобранца вы можете выбрать ограниченное количество стартовых перков. \n Можно комбинировать с рулеткой специализаций, выбором командира и рулеткой обучения."
+
+strRPGO_SWO_RandomClasses_Description = "[RPGO] Случайные классы: генерируют функциональные случайные классы."
+strRPGO_SWO_RandomClasses_Tooltip = "При повышении в отряд RPGO случайным образом назначает солдату основную, дополнительную и некоторые дополнительные специализации. Это рекомендуется вместо рулетки специализаций, если вы также используете ограничения на оружие, поскольку это гарантирует, что у вашего солдата будут доступны основная и дополнительная категории оружия. Может комбинироваться с любыми другими вариантами второй волны."
+
+strRPGO_SWO_WeaponRestriction_Description = "[RPGO] Ограничения на оружие: характеристики будут определять, какое оружие могут использовать ваши солдаты."
+strRPGO_SWO_WeaponRestriction_Tooltip = "Включите эту опцию, чтобы ограничить солдата RPGO определенными категориями оружия в зависимости от выбранной специализации. Специализации предоставят вам доступ к определенным категориям оружия для первичного и/или вторичного слота оружия. Может быть комбинирована с любой другой опцией второй волны rpgo. При активации случайных классов ваш солдат будет иметь ровно одну определенную первичную и одну вторичную специализацию."
+
+ItemCategoryRifle="Винтовка"
+ItemCategorySniperRifle="Снайперская винтовка"
+ItemCategoryShotgun="Дробовик"
+ItemCategoryCannon="Пушка"
+ItemCategoryVektorRifle="Винтовка Вектор"
+ItemCategoryBullpup="КЛ-7 Буллпап"
+ItemCategoryPistol="Пистолет"
+ItemCategorySidearm="Автопистолет"
+ItemCategorySword="Оружие ближнего боя"
+ItemCategoryGremlin="Гремлин"
+ItemCategoryPsiamp="Пси-усилитель"
+ItemCategoryGrenadeLauncher="Гранатомет"
+ItemCategoryClaymore="Клеймор"
+ItemCategoryWristblade="потрошитель"
+ItemCategoryArcthrower="Дугомет"
+ItemCategoryCombatknife="Боевые ножи"
+ItemCategoryHolotargeter="Голографический прицел"
+ItemCategorySawedoffshotgun="Обрез"
+ItemCategoryLWGauntlet="Перчатка"
+ItemCategoryEmpty="Пустой"
+ItemCategoryUtility="Полезность"
+ItemCategoryTech="Технология"
+ItemCategoryConventional="Общепринятый"
+ItemCategoryPlated="Покрытый"
+ItemCategoryPowered="Работает"
+ItemCategorySparkrifle="Винтовка Искры"
+ItemCategoryGauntlet="Перчатки с осколком"
+ItemCategoryBasic="Базовый"
+ItemCategoryUnknown="Другой"
+ItemCategoryMedium="Средний"
+ItemCategoryLight="Легкий"
+ItemCategoryHeavy="Тяжелый"
+ItemCategoryRocketLauncher="Пусковая установка"
+
+[UIChooseSpecializations]
+m_strTitlePool=Choose Специализации
+m_strInventoryLabelPool=AvailableДоступные специализации: Specializations:
+m_strTitleChosen=Выбор Специализаций
+m_strInventoryLabelChosen=Удаленные специализации:
+m_strChoose=ВЫБРАТЬ
+m_strRemove=УДАЛИТЬ
+m_strItemChosen=Вы уже выбрали эту специализацию
+m_strItemOwned=Случайная специализация
+m_strItemLimitReached=Вы не можете выбрать больше специализаций
+m_strItemNotRemovable=Случайные специализации удалить нельзя.
+m_strComplementarySpecializationInfo=Обязательные дополнительные специализации:
+
+[UIChooseAbilities]
+m_strTitlePool=Выберите стартовые способности
+m_strInventoryLabelPool=Доступные способности:
+m_strTitleChosen=Chosen Способности
+m_strInventoryLabelChosen=Удаленные специализации:
+m_strChoose=ВЫБРАТЬ
+m_strRemove=УДАЛИТЬ
+m_strItemChosen=Вы уже выбрали эту способность
+m_strItemOwned=Случайная специализация
+m_strItemLimitReached=Вы не можете выбрать больше специализаций
+m_strItemNotRemovable=Случайные специализации удалить нельзя.
+
+[UIStartingAbilitiesIconList]
+m_strStartingAbilities=Стартовые Способности
+
+[RPGOVersionTemplate]
+strRPGOVersion="Обновление RPG Overhaul v%MAJOR.%MINOR.%PATCH"
+
+[UISL_UIShell_RPGO]
+strTitleCommunityHighlanderMissing="Отсутствует X2WotCCommunityHighlander"
+strCommunityHighlanderMissing="RPGO requДля работы RPGO требуется X2WotCCommunityHighlander. Прежде чем начинать или загружать кампанию, убедитесь, что мод Highlander включен.ires the X2WotCCommunityHighlander to work. Make sure the highlander mod is enabled before you start or load a campaign."
+strTitleIncompatibleMod="RPGO обнаружил несколько НЕСОВМЕСТИМЫХ модов"
+strIncompatibleModsFound="Пожалуйста, ДЕАТИВИРУЙТЕ следующие моды и перезапустите, иначе RPGO не будет работать должным образом:"
+strTitleSWOInfo="Новости обновлений RPGO"
+strSWOInfo="\n<font color='#1bad62'>Два новых варианта Второй волны!</font>\n<font color='#1bad62'>Random Classes</font> - Генерирует функциональные случайные классы, используя алгоритм вместо чистого генератора специализированной рулетки.\n<font color='#1bad62'>Weapon Restrictions</font> - Специализации будут определять, какое оружие смогут использовать ваши солдаты.\n\nТакже есть изменения в других опциях Второй волны: рулетку специализации и рулетку обучения больше нельзя изменить в ходе проводимых кампаний, поскольку это вызывает проблемы. Это можно отменить в XComGameData.ini на свой страх и риск.\n\n<font color='#1bad62'>Авторам модов плагинов rpgo</font>\nПожалуйста, ознакомьтесь с обсуждением Steam «Создайте специализацию из мода класса», чтобы узнать, как включить эти новые параметры для вашего мода плагина.\n\n<font color='#1bad62'>БЛАГОДАРНОСТЬ И БЛАГОДАРНОСТЬ Иридару, который предоставил новые варианты второй волны!</font>\n\nС уважением, Мусаси
+strRequiredModsMissing="Пожалуйста, АКТИВИРУЙТЕ следующие моды и перезапустите, иначе RPGO не будет работать должным образом:"
+
+[UISL_ShellSplash]
+strRequiredModsTooltip="Отсутствуют необходимые моды:"
+strIncompatibleModsTooltip="Обнаружены несовместимые моды:"
+strRequiredLoadedModsTooltip="Загружены необходимые моды:"
+
+[RPGO_UIArmory_PromotionHero]
+m_strMutuallyExclusive="Несовместимо с:"
+
+[RPGO_MCM_Builder]
+WEAPON_SETTINGS_PAGE_TITLE="Общая настройка RPGO"
+WEAPON_SETTINGS_PAGE_LABEL="Общие настройки RPGO"
+
+WEAPON_SETTINGS_GROUP_LABEL="Изменения оружия"
+
+PATCH_BULLPUPS_LABEL="Изменить КЛ-7 Буллпапы"
+PATCH_BULLPUPS_TOOLTIP="Применить изменения RPGO к КЛ-7 Буллпап"
+
+PATCH_SHOTGUNS_LABEL="Изменить Дробовики"
+PATCH_SHOTGUNS_TOOLTIP="Применить изменения RPGO к дробовикам"
+
+PATCH_CANNONS_LABEL="Изменить Пушки"
+PATCH_CANNONS_TOOLTIP="Применить изменения к пушкам"
+
+PATCH_SNIPER_RIFLES_LABEL="Изменить Снайперские Винтовки"
+PATCH_SNIPER_RIFLES_TOOLTIP="Применить изменения к Снайперским Винтовкам"
+
+PATCH_PISTOLS_LABEL="Изменить Пистолеты"
+PATCH_PISTOLS_TOOLTIP="Применить изменения к пистолетам"
+
+PATCH_AUTO_PISTOLS_LABEL="Изменить автопистолеты"
+PATCH_AUTO_PISTOLS_TOOLTIP="Применить изменения к автопистолетам"
+
+PATCH_SAWEDOFF_SHOTGUN_LABEL="Изменить обрезы"
+PATCH_SAWEDOFF_SHOTGUN_TOOLTIP="Применить изменения к обрезам"
+
+PATCH_VECTOR_RIFLES_LABEL="Изменить Винтовки Вектор"
+PATCH_VECTOR_RIFLES_TOOLTIP="Применить изменения к Винтовкам Вектор"
+
+PATCH_DEFAULTWEAPON_UPGRADESLOTS_LABEL="Изменить слоты улучшений по умолчанию"
+PATCH_DEFAULTWEAPON_UPGRADESLOTS_TOOLTIP="Установите все слоты для улучшений на 3."
+
+PATCH_FULLAUTOFIRE_LABEL="Добавить возможность автоматического огня"
+PATCH_FULLAUTOFIRE_TOOLTIP="Добавьте способности автоматического огня ко всему оружию, соответствующему AutofireWeaponCategories."
+
+ATTACHMENT_SETTINGS_GROUP_LABEL="Изменения Модификаций"
+
+PATCH_HAIR_TRIGGERS_LABEL="Изменить спусковой крючок"
+PATCH_HAIR_TRIGGERS_TOOLTIP="Применить изменения к спусковым крючокам"
+
+PATCH_LASER_SIGHTS_LABEL="Изменить лазерные прицелы"
+PATCH_LASER_SIGHTS_TOOLTIP="Применить изменения к лазерным прицелам"
+
+PATCH_STOCKS_LABEL="Изменить приклады"
+PATCH_STOCKS_TOOLTIP="Применить изменения к прикладам"
+
+PATCH_SCOPES_LABEL="Изменить оптические прицелы"
+PATCH_SCOPES_TOOLTIP="Применить изменения к оптическим прицелам"
+
+PATCH_AUTOLOADERS_LABEL="Изменить автозаряжание"
+PATCH_AUTOLOADERS_TOOLTIP="Применить изменения к автозаряжанию"
+
+SWO_SETTINGS_PAGE_TITLE="RPGO Опционы второй волны"
+SWO_SETTINGS_PAGE_LABEL="RPGO Опционы второй волны"
+
+SWO_COMMANDERS_CHOICE_LABEL="[RPGO] Выбор командира"
+SWO_SPECIALIZATION_ROULETTE_LABEL="[RPGO] Рулетка специализаций /Случайные классы"
+SWO_TRAINING_ROULETTE_LABEL="[RPGO] Тренировочная рулетка"
+SWO_ORIGINS_LABEL="[RPGO] Происхождение"
+SWO_WEAPON_RESTRICTIONS_LABEL="[RPGO] Ограничения на оружие"
+
+SPEC_ROULETTE_RANDOM_SPEC_COUNT_LABEL="Специализации"
+SPEC_ROULETTE_RANDOM_SPEC_COUNT_TOOLTIP="Количество случайно сгенерированных специализаций отряда"
+
+COMMANDERS_CHOICE_SPEC_COUNT_LABEL="Специализации"
+COMMANDERS_CHOICE_SPEC_COUNT_TOOLTIP="Количество специализаций, которые вы можете выбрать для каждого солдата при повышении в отряд."
+
+SPEC_ROULETTE_RANDOM_SPEC_COUNT_COMBI_LABEL="Комбинированный"
+SPEC_ROULETTE_RANDOM_SPEC_COUNT_COMBI_TOOLTIP="Количество случайных специализаций, если одновременно включена рулетка специализаций и выбор командира."
+
+COMMANDERS_CHOICE_SPEC_COUNT_COMBI_LABEL="Комбинированный"
+COMMANDERS_CHOICE_SPEC_COUNT_COMBI_TOOLTIP="Количество выбранных специализаций, если одновременно включена рулетка специализаций и выбор командира"
+
+COMMANDERS_CHOICE_RANDOM_POOL_ENABLED_LABEL="Случайный пул"
+COMMANDERS_CHOICE_RANDOM_POOL_ENABLED_TOOLTIP="Если эта функция включена, вы можете выбирать только из ограниченного случайного набора специализаций, а не из всех доступных специализаций."
+
+COMMANDERS_CHOICE_RANDOM_POOL_COUNT_LABEL="Случайный пул размер"
+COMMANDERS_CHOICE_RANDOM_POOL_COUNT_TOOLTIP="Это определяет размер случайного пула. Оно всегда должно быть больше, чем указано выше в характеристиках выбора командира. Если у вас включена функция случайных классов, ее алгоритм будет использоваться для рандомизации.."
+
+TRAINING_ROULETTE_MIN_RANK_LABEL="Минимальный ранг"
+TRAINING_ROULETTE_MIN_RANK_TOOLTIP="Начните рандомизировать с этого ранга"
+
+TRAINING_ROULETTE_MAX_RANK_LABEL="Максимальный ранг"
+TRAINING_ROULETTE_MAX_RANK_TOOLTIP="Рандомизировать способности до этого ранга включительно"
+
+ORIGINS_CHOICE_ABILITY_COUNT_LABEL="Избранные способности"
+ORIGINS_CHOICE_ABILITY_COUNT_TOOLTIP="Сколько стартовых способностей вы хотите выбрать в отряде?"
+
+ORIGINS_ADDITIONAL_RANDOM_ABILTIES_LABEL="лучайные способности"
+ORIGINS_ADDITIONAL_RANDOM_ABILTIES_TOOLTIP="Добавьте это количество случайных способностей поверх выбранных."
+
+ORIGINS_RANDOM_POOL_ENABLED_LABEL="Случайный пул"
+ORIGINS_RANDOM_POOL_ENABLED_TOOLTIP="Если эта функция включена, вы можете выбирать только из ограниченного случайного набора способностей, а не из всех доступных стартовых способностей."
+
+ORIGINS_RANDOM_POOL_COUNT_LABEL="Случайный пул размер"
+ORIGINS_RANDOM_POOL_COUNT_TOOLTIP="Это определяет размер случайного пула. Оно всегда должно быть больше, чем сумма выбранных и случайных способностей, указанных выше."
+
+WEAPON_RESTRICTIONS_ALWAYS_ALLOW_ASSAULT_RIFLES_LABEL="Всегда разрешайте штурмовые винтовки"
+WEAPON_RESTRICTIONS_ALWAYS_ALLOW_ASSAULT_RIFLES_TOOLTIP="Независимо от индивидуальной специализации, все солдаты будут иметь доступ к категории штурмовых винтовок."
+
+
+
+[X2DownloadableContentInfo_RPGO_PromotionScreen]
+strNoUnitSelected =	":>> ERROR: No Unit Selected - Enter this command from a unit's armory screen."
+strClassNotFound = ":>> ERROR: Soldier Class defined, but '<ClassName/>' does not exist."
+strIncorrectCharacterTemplate = ":>> ERROR: Soldier Class defined, but selected soldier is not a required character template for the '<ClassName/>' class."
+strIncorrectRankValue = ":>> ERROR: Invalid Rank value entered."
+strCantRespecRookie = ":>> ERROR: Cannot Rebuild a Rookie - Level up the unit or specify a class."
+strInvalidCombatInt = ":>> ERROR: Invalid Combat Intelligence value entered."
+strNoValidUnit = ":>> ERROR: No valid unit selected."
+
+strCappingRank = ":>> NOTE: Requested level exceeds the maximum level - capping level at max."
+
+strRankSet = ":>> SUCCESS: Unit Rank successfully set to level <RankLevel/>."
+strClassSet = ":>> SUCCESS: Soldier Class successfully set to '<ClassName/>' class."
+strComIntSet = ":>> SUCCESS: Soldier Combat Intelligence successfully set to '<RankLevel/>'."
+strWeaponReloaded = ":>> SUCCESS: Selected unit's primary weapon reloaded."
