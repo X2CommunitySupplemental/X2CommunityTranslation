@@ -1,0 +1,23 @@
+[X2AbilityTag_WOTC_APA_Reaper]
+
+;  -- Localized Strings for Ability Tags --
+;  ----------------------------------------
+
+; // Generic Tags
+strOnce = "единожды"
+strUpTo = "вплоть до"
+strTimes = "времени"
+strTiles = "клеток"
+
+
+[X2Ability_WOTC_APA_ReaperAbilitySet]
+
+strShadow1Name = "Слияние теней I"
+strShadow1Desc = "<font color='#CA7200'>МЕХАНИКА ФОКУСА:</font><br/><Bullet/> Радиус обнаружения снижается на <font color='#3ABD23'><Ability:SHADOW_STACK_VARIABLE_DETECTION_BONUS/>%</font> за каждое заполненное деление в \"Хранилище теней\".<br/><Bullet/> Шанс на критический урон возрастает на <font color='#3ABD23'>+<Ability:SHADOW_STACK_CRIT_CHANCE_BONUS/>%</font> за каждое заполненное деление в \"Хранилище теней\".<br/><Bullet/> Повышает максимум делений в \"Хранилище теней\" до <font color='#3ABD23'><Ability:SHADOW_STACK_MAX_I/></font>."
+strShadow2Name = "Слияние теней II"
+strShadow2Desc = "<font color='#CA7200'>МЕХАНИКА ФОКУСА:</font><br/><Bullet/> Радиус обнаружения снижается на <font color='#3ABD23'><Ability:SHADOW_STACK_VARIABLE_DETECTION_BONUS/>%</font> за каждое заполненное деление в \"Хранилище теней\".<br/><Bullet/> Шанс на критический урон возрастает на <font color='#3ABD23'>+<Ability:SHADOW_STACK_CRIT_CHANCE_BONUS/>%</font> за каждое заполненное деление в \"Хранилище теней\".<br/><Bullet/> Повышает максимум делений в \"Хранилище теней\" до <font color='#3ABD23'><Ability:SHADOW_STACK_MAX_II/></font>."
+strShadow3Name = "Слияние теней III"
+strShadow3Desc = "<font color='#CA7200'>МЕХАНИКА ФОКУСА:</font><br/><Bullet/> Радиус обнаружения снижается на <font color='#3ABD23'><Ability:SHADOW_STACK_VARIABLE_DETECTION_BONUS/>%</font> за каждое заполненное деление в \"Хранилище теней\".<br/><Bullet/> Шанс на критический урон возрастает на <font color='#3ABD23'>+<Ability:SHADOW_STACK_CRIT_CHANCE_BONUS/>%</font> за каждое заполненное деление в \"Хранилище теней\".<br/><Bullet/> Повышает максимум делений в \"Хранилище теней\" до <font color='#3ABD23'><Ability:SHADOW_STACK_MAX_III/></font>."
+
+strShadowStackName = "Хранилище теней"
+strShadowStackDesc = "Уровень слияния Жнеца с окружающей средой."

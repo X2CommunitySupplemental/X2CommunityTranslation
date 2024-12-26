@@ -1,0 +1,33 @@
+
+[X2Ability_WOTC_APA_AssaultAbilitySet]
+
+;  -- Localized Strings for Assault Infantry Abilities --
+;  ------------------------------------------------------
+
+strCQBDominance1Name = "Штурмовое превосходство I"
+strCQBDominance1Desc = "<font color='#CA7200'>УРОВЕНЬ ПРОФЕССИОНАЛИЗМА I</font><br/><Bullet/> Дает <font color='#3ABD23'>+<Ability:CQB_DOMINANCE_I_STAT_BONUS/>%</font> бонус к защите, защите от критических попаданий и шансу на критический урон против врагов в радиусе действия способности (<font color='#3ABD23'><Ability:CQB_DOMINANCE_I_RADIUS/></font> клеток)."
+
+strCQBDominance2Name = "Штурмовое превосходство II"
+strCQBDominance2Desc = "<font color='#CA7200'>УРОВЕНЬ ПРОФЕССИОНАЛИЗМА II</font><br/><Bullet/> Дает <font color='#3ABD23'>+<Ability:CQB_DOMINANCE_II_STAT_BONUS/>%</font> бонус к защите, защите от критических попаданий и шансу на критический урон против врагов в радиусе действия способности (<font color='#3ABD23'><Ability:CQB_DOMINANCE_II_RADIUS/></font> клеток).
+
+strCQBDominance3Name = "Штурмовое превосходство III"
+strCQBDominance3Desc = "<font color='#CA7200'>УРОВЕНЬ ПРОФЕССИОНАЛИЗМА III</font><br/><Bullet/> Дает <font color='#3ABD23'>+<Ability:CQB_DOMINANCE_III_STAT_BONUS/>%</font> бонус к защите, защите от критических попаданий и шансу на критический урон против врагов в радиусе действия способности (<font color='#3ABD23'><Ability:CQB_DOMINANCE_III_RADIUS/></font> клеток).
+
+strCQBDominanceRadius = "Штурмовое превосходство"
+
+
+strRunAndGunMobilityName = "Глубокий прорыв"
+strRunAndGunMobilityDesc = "Дает <font color='#3ABD23'>+<Ability:DEEP_RESERVES_MOBILITY_BONUS/></font> мобильности до начала вашего следующего хода."
+strRunAndGunMobilityIcon = "img:///UILibrary_WOTC_APA_Class_Pack.perk_DeepReserves"
+
+strRunAndGunArmorName = "Таран"
+strRunAndGunArmorDesc = "Дает <font color='#3ABD23'>+<Ability:BATTERING_RAM_CONDITIONAL_ARMOR_BONUS/></font> брони до начала вашего следующего хода."
+strRunAndGunArmorIcon = "img:///UILibrary_WOTC_APA_Class_Pack.perk_BatteringRam"
+
+strRunAndGunDamageName = "Инстинкты убийцы"
+strRunAndGunDamageDesc = "Дает <font color='#3ABD23'>+<Ability:KILLER_INSTINCT_DAMAGE_BONUS/></font> урона и <font color='#3ABD23'>+<Ability:KILLER_INSTINCT_CRITICAL_DAMAGE_MULTIPLIER/>%</font> урона от критических атак до начала вашего следующего хода."
+strRunAndGunDamageIcon = "img:///UILibrary_WOTC_APA_Class_Pack.perk_KillerInstinct"
+
+strRunAndGunActionName = "Бродячий воин"
+strRunAndGunActionDesc = "Обычные выстрелы больше не заканчивают ход до начала вашего следующего раунда."
+strRunAndGunActionIcon = "img:///UILibrary_WOTC_APA_Class_Pack.perk_RovingWarrior"

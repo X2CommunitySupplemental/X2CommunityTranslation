@@ -1,0 +1,43 @@
+
+;  ////////////////
+;  // Jane Kelly //
+;  ////////////////
+
+[WOTC_APA_DirectorKelly X2EncyclopediaTemplate]
+ListTitle = "Лидер сопротивления: Джейн Келли"
+DescriptionTitle = "Лидер сопротивления: Джейн Келли"
+DescriptionEntry = "Офицеры полевой разведки отлично справляются с проникновением на вражескую территорию и бесшумно уничтожают одиночные цели. Так же весьма полезны в бою, осуществляя огневую поддержку подразделений или устраивая резню в ближнем бою."
+
+[WOTC_APA_DirectorKelly X2SoldierClassTemplate]
+DisplayName = "Лидер сопротивления"
+ClassSummary = "Офицеры полевой разведки отлично справляются с проникновением на вражескую территорию и бесшумно уничтожают одиночные цели. Так же весьма полезны в бою, осуществляя огневую поддержку подразделений или сражаясь холодным оружием.<br/><br/><font color='#CA7200'>Может использовать буллпап и меч или нож.</font>"
+AbilityTreeTitles[0] = "Руководитель"
+AbilityTreeTitles[1] = "Якорь"
+AbilityTreeTitles[2] = "Fénnid"
+AbilityTreeTitles[3] = "XCOM"
+
++RankIcons[0]="UILibrary_Common.rank_rookie"
++RankIcons[1]="UILibrary_WOTC_APA_Skirmisher.ranks_Squaddie_Level1"
++RankIcons[2]="UILibrary_WOTC_APA_Skirmisher.ranks_Corporal_Level1"
++RankIcons[3]="UILibrary_WOTC_APA_Skirmisher.ranks_Sergeant_Level2"
++RankIcons[4]="UILibrary_WOTC_APA_Skirmisher.ranks_Lieutenant_Level2"
++RankIcons[5]="UILibrary_WOTC_APA_Skirmisher.ranks_Captain_Level2"
++RankIcons[6]="UILibrary_WOTC_APA_Skirmisher.ranks_Major_Level3"
++RankIcons[7]="UILibrary_WOTC_APA_Skirmisher.ranks_Colonel_Level3"
+
+
+; - Ability Templates -
+
+[WOTC_APA_IntelligenceOfficer X2AbilityTemplate]
+LocFriendlyName = "Офицер разведки"
+LocHelpText = "Способности офицера разведки лежат в первую очередь в области проникновения, поддержки с помощью разведки и улучшаются с опытом."
+LocLongDescription = "Способности офицера разведки лежат в первую очередь в области проникновения, поддержки с помощью разведки и улучшаются с опытом."
+LocPromotionPopupText = "<font color='#CA7200'>УРОВЕНЬ I</font> (получает на звании <Ability:RANKNAME1/> [1])<br/><Bullet/> Получает способность \"Прирождённый лидер\".<br/><Bullet/> Когда отряд обнаружен, этот боец остается замаскированным.<br/><Bullet/> Снижает радиус обнаружения бойца на <font color='#3ABD23'><Ability:INTEL_OFFICER_DETECTION_MODIFIER_1/>%</font>.<br/><br/><font color='#CA7200'>УРОВЕНЬ II</font> (получает на звании <Ability:RANKNAME3/> [3])<br/><Bullet/> Даёт способность \"Засада\", позволяющую начать стрельбу из \"наблюдения\" во время действия маскировки.<Bullet/> Даёт возможность восстанавливать маскировку с перезарядкой в <font color='#CA7200'><Ability:INTEL_OFFICER_CONCEAL_COOLDOWN/></font> ходов.<br/><Bullet/> Снижает радиус обнаружения бойца всего на <font color='#3ABD23'><Ability:INTEL_OFFICER_DETECTION_MODIFIER_2/>%</font>.<br/><br/><font color='#CA7200'>УРОВЕНЬ III</font> (получает на звании <Ability:RANKNAME6/> [6])<br/><Bullet/> Даёт дополнительный радиус обзора в <font color='#3ABD23'>+<Ability:INTEL_OFFICER_VISION_TILE_BONUS/></font> клеток.<br/><Bullet/> Снижает радиус обнаружения бойца всего на <font color='#3ABD23'><Ability:INTEL_OFFICER_DETECTION_MODIFIER_3/>%</font>.<br/><br/>ПРИМЕЧАНИЕ<br/><Bullet/> Способность восстанавливать маскировку не ограничена в количестве использований, требует одно действие на активацию и<br/> может использоваться как за простое действие так и за действие-движение."
+
+[WOTC_APA_Reconceal X2AbilityTemplate]
+LocFriendlyName="Замаскироваться"
+LocFlyOverText="Замаскироваться"
+LocHelpText="Немедленная активация маскировки. Требует одно действие. Перезаряжается <font color='#CA7200'><Ability:INTEL_OFFICER_CONCEAL_COOLDOWN/></font> ходов."
+LocLongDescription="Немедленная активация маскировки. Требует одно действие. Перезаряжается <font color='#CA7200'><Ability:INTEL_OFFICER_CONCEAL_COOLDOWN/></font> ходов."
+LocPromotionPopupText="Немедленная активация маскировки. Требует одно действие-движение. Перезаряжается <font color='#CA7200'><Ability:INTEL_OFFICER_CONCEAL_COOLDOWN/></font> хода.<br/><br/><Bullet/> Способность можно использовать в любое время и в любом месте, но если <Ability:ClassName/> находится в зоне видимости врага и обойдён по флангу - маскировка будет потеряна.<br/><Bullet/> \"Замаскироваться\" можно даже если осталось только действие-движение и способность не заканчивает ход."
+

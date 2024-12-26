@@ -1,0 +1,267 @@
+[HunterOfVipers X2TraitTemplate]
+TraitFriendlyName="毒蛇猎人"
+TraitDescription="这个单位会对毒舌怪造成额外的伤害."
+
+[HunterOfArchons X2TraitTemplate]
+TraitFriendlyName="执政官猎人"
+TraitDescription="这个单位会造成对变种人队长额外的伤害."
+
+[HunterOfStunLancers X2TraitTemplate]
+TraitFriendlyName="强袭枪兵猎人"
+TraitDescription="这个单位会对强袭枪兵造成额外的伤害."
+
+[HunterOfMutons X2TraitTemplate]
+TraitFriendlyName="异变者猎人"
+TraitDescription="这个单位会对异变者或狂暴者造成额外的伤害."
+
+[HunterOfTheLost X2TraitTemplate]
+TraitFriendlyName="失魂者猎人"
+TraitDescription="这个单位会对失魂者造成额外的伤害."
+
+[HunterOfMecs X2TraitTemplate]
+TraitFriendlyName="MEC猎人"
+TraitDescription="这个单位会对MEC造成额外的伤害."
+
+[HunterOfFaceless X2TraitTemplate]
+TraitFriendlyName="无脸怪猎人"
+TraitDescription="这个单位会对无脸怪造成额外的伤害."
+
+[HunterOfSectoids X2TraitTemplate]
+TraitFriendlyName="灰人猎人"
+TraitDescription="这个单位对灰人会造成额外的伤害."
+
+[HunterOfChosen X2TraitTemplate]
+TraitFriendlyName="天选者猎人"
+TraitDescription="这个单位会对天选者造成额外的伤害."
+
+[HunterOfSectoidsPassive X2AbilityTemplate]
+LocFriendlyName=" 灰人猎人"
+LocLongDescription="这个单位对灰人会造成额外的伤害."
+
+[HunterOfChosenPassive X2AbilityTemplate]
+LocFriendlyName="天选者猎人"
+LocLongDescription="这个单位会对天选者造成额外的伤害."
+
+
+[FearOfVertigo X2TraitTemplate]
+TraitFriendlyName="恐高症"
+TraitScientificName="恐高症"
+TraitDescription="在高处行动时有可能惊慌失措."
+TraitQuotes[0]="\"每次我往下看，我就想这我会掉下去.\""
+TraitQuotes[1]="\"这么高?你想吓死我吗?\""
+TraitQuotes[2]="\"没有撤退可言.\""
+TraitQuotes[3]="\"人家好怕怕.\""
+TraitQuotes[4]="\"我必须克服困难，我不能让我们被杀死在外面.\""
+
+[FearOfSquadmateMissedShots X2TraitTemplate]
+TraitFriendlyName="夕阳红恐惧症"
+TraitScientificName="失敗恐懼症"
+TraitDescription="当一个小队枪法马了的时候，有几率惊慌失措."
+TraitQuotes[0]="\"一枪不中，我们就完了!\""
+TraitQuotes[1]="\"在这上面有很多东西...一枪马了我们就都会死.\""
+TraitQuotes[2]="\"已经没有犯错的余地了.\""
+TraitQuotes[3]="\"一枪没中，你就死了…就这样.\""
+TraitQuotes[4]="\"机会对我们不利！机会总是对我们不利的!\""
+
+[Trait_Critic X2TraitTemplate]
+TraitFriendlyName ="完美主义者"
+TraitScientificName="神经质"
+TraitDescription ="当小队成员失误时，有几率在小队中引起恐慌"
+TraitQuotes[0]="\"那是什么鬼东西？他们会杀了我们的!\""
+TraitQuotes[1]="\"也许我们需要提高我们的训练标准...\""
+TraitQuotes[2]="\"除了你自己没人可以责怪.\""
+TraitQuotes[3]="\"我们不能有太多新兵可供选择.\""
+TraitQuotes[4]="\"我们都应该坚持更高的标准.\""
+
+[Trait_Insubordinate X2TraitTemplate]
+TraitFriendlyName ="胆小如鼠"
+TraitScientificName="反抗倾向"
+TraitDescription ="当遇到致命的危险时，有机会在小队中引起恐慌."
+TraitQuotes[0]="\"我们不该进去…都是个大错误.\""
+TraitQuotes[1]="\"这有什么意义？！它给了我们什么?\""
+TraitQuotes[2]="\"一切都开始这么快地变遭.\""
+TraitQuotes[3]="\"当然指挥官不称职，他们让我开溜!\""
+TraitQuotes[4]="\"我们都会死或者更糟.\""
+
+[BadWilderness X2TraitTemplate]
+TraitFriendlyName="荒野小白"
+TraitScientificName="缺乏训练"
+TraitDescription="在荒野地形-2移动力."
+TraitQuotes[0]="\"谁会想住在这里?\""
+TraitQuotes[1]="\"这里的掩护太少了.\""
+TraitQuotes[2]="\"这种环境非常适合被伏击.\""
+
+[BadUrban X2TraitTemplate]
+TraitFriendlyName="城市小白"
+TraitScientificName="缺乏训练"
+TraitDescription="在城市地形-2移动力."
+TraitQuotes[0]="\"谁会想住在这里?\""
+TraitQuotes[1]="\"路上有太多潜在的伏击点.\""
+TraitQuotes[2]="\"这种环境非常适合被伏击.\""
+
+[TraitAbility_BadWilderness X2AbilityTemplate]
+LocFriendlyName="荒野小白"
+LocLongDescription="在荒野地形-2移动力."
+
+[TraitAbility_BadUrban X2AbilityTemplate]
+LocFriendlyName="城市小白"
+LocLongDescription="在城市地形-2移动力."
+
+
+[GoodWilderness X2TraitTemplate]
+TraitFriendlyName="野外生存训练"
+TraitDescription="这个单位将在荒野地形+2移动力."
+
+[GoodUrban X2TraitTemplate]
+TraitFriendlyName="城市作战训练"
+TraitDescription="这个单位将在城市地形+2移动力."
+
+[TraitAbility_GoodWilderness X2AbilityTemplate]
+LocFriendlyName="野外生存训练"
+LocLongDescription="这个单位将在荒野地形+2移动力."
+
+[TraitAbility_GoodUrban X2AbilityTemplate]
+LocFriendlyName="城市作战训练"
+LocLongDescription="这个单位将在城市地形+2移动力."
+
+
+
+[NeedSafety X2TraitTemplate]
+TraitFriendlyName="全掩体痴迷"
+TraitScientificName="Ekthesiphobia"
+TraitDescription="当在全掩体中时,-5命中 "
+TraitQuotes[0]="\"我需要我的一切否则等离子将会杀死我.\""
+TraitQuotes[1]="\"对不起，我只是不想死.\""
+
+[RiskTaker X2TraitTemplate]
+TraitFriendlyName="风险承担者"
+TraitScientificName="Optimism Bias"
+TraitDescription="当在半掩体外时,-5命中"
+TraitQuotes[0]="\"全掩体是给基佬的\""
+TraitQuotes[1]="\"嘿，我需要点空间看敌人，让开点.\""
+TraitQuotes[2]="\"我只是厌倦了一直靠在两边.\""
+
+[TraitAbility_NeedSafety X2AbilityTemplate]
+LocFriendlyName="全掩体痴迷"
+LocLongDescription="当在全掩体外时-5命中."
+
+[TraitAbility_RiskTaker X2AbilityTemplate]
+LocFriendlyName="风险承担者"
+LocLongDescription="当被半掩体外时-5命中."
+
+
+[GoodProfile X2TraitTemplate]
+TraitFriendlyName="良好形象"
+TraitDescription="这个单位在掩体中将会+10防御力."
+
+[SteadiedAim X2TraitTemplate]
+TraitFriendlyName="稳定瞄准"
+TraitDescription="这个单位在掩体中将+5命中."
+
+
+[TraitAbility_GoodProfile X2AbilityTemplate]
+LocFriendlyName="良好形象"
+LocLongDescription="这个单位在掩体中将会+10防御力."
+
+[TraitAbility_SteadiedAim X2AbilityTemplate]
+LocFriendlyName="稳定瞄准"
+LocLongDescription=""这个单位在掩体中将+5命中."
+
+
+[BornKiller X2TraitTemplate]
+TraitFriendlyName="嗜杀成性"
+TraitDescription="这个单位从杀死敌人中恢复意志."
+
+[BornKiller X2AbilityTemplate]
+LocFriendlyName="嗜杀成性"
+LocLongDescription="这个单位从杀死敌人中恢复意志."
+
+
+; start of second wave of traits and abilities
+[Unshakable X2TraitTemplate]
+TraitFriendlyName="坚如磐石"
+TraitDescription="这个单位有着钢铁般的意志，不会因为在任务中的经历而动摇."
+
+[TraitAbility_Unshakable X2AbilityTemplate]
+LocFriendlyName="坚如磐石"
+LocLongDescription="这个单位有着钢铁般的意志，不会因为在任务中的经历而动摇."
+
+[Pounce X2TraitTemplate]
+TraitFriendlyName="闪电突袭"
+TraitDescription="这个单位是一个顶级伏击者，当一个敌人群在一个回合中第一次被发现时，他将对他们进行自由射击."
+
+[TraitAbility_Pounce X2AbilityTemplate]
+LocFriendlyName="闪电突袭"
+LocLongDescription="当一个敌人群在一个回合中第一次被发现时，他将对他们进行自由射击."
+
+[Firefighter X2TraitTemplate]
+TraitFriendlyName="消防队员"
+TraitDescription="这个单位有在充满火焰的环境中工作的经验，并且知道如何迅速地把自己熄灭."
+
+[TraitAbility_Firefighter X2AbilityTemplate]
+LocFriendlyName="消防队员"
+LocLongDescription="在XCOM回合结束, 这个如果处于燃烧状态将会自动灭火."
+
+
+[Poisonmaster X2TraitTemplate]
+TraitFriendlyName="百毒不侵"
+TraitDescription="这个单位对毒素产生了抵抗力，毒素中毒时不会受到伤害."
+
+[TraitAbility_Poisonmaster X2AbilityTemplate]
+LocFriendlyName="百毒不侵"
+LocLongDescription="这个单位对毒素产生了抵抗力，毒素中毒时不会受到伤害."
+
+[Pitcher X2TraitTemplate]
+TraitFriendlyName="联赛投手"
+TraitDescription="这个单位有一个强大的投掷武器，使他们能够进一步投掷手榴弹."
+
+[TraitAbility_Pitcher X2AbilityTemplate]
+LocFriendlyName="联赛投手"
+LocLongDescription="这个单位有一个强大的投掷武器，使他们能够投掷手榴弹<Ability:PitcherRange/>% 更多的区域."
+
+[Bakarina X2TraitTemplate]
+TraitFriendlyName="铁头娃"
+TraitDescription="这个单位对精神攻击有很强的抵抗力，当他们成功地使用精神控制时，会导致他们失去意识。在任何情况下他们都会从被击倒中醒来."
+
+[TraitAbility_Bakarina X2AbilityTemplate]
+LocFriendlyName="铁头娃"
+LocLongDescription="当意识受到控制时就失去知觉。也能自动从昏迷中醒来，如果被击倒的源头来自精神控制."
+
+[ComebackKid X2TraitTemplate]
+TraitFriendlyName="王者归来"
+TraitDescription="当一切都变得不乐观的时候，这个单位可以让它发挥作用。如果他们在前一回合中被击中或闪避了高几率的攻击，那么他们的下一次攻击将会获得更高的命中."
+
+[TraitAbility_ComebackKid X2AbilityTemplate]
+LocFriendlyName="王者归来"
+LocLongDescription="当一切都变得不乐观的时候，这个单位可以让它发挥作用。如果他们在前一回合中被击中或闪避了高几率的攻击，那么他们的下一次攻击将会获得更高的命中.."
+
+[Inspirational X2TraitTemplate]
+TraitFriendlyName="灵感启发"
+TraitDescription="这个单位可以感悟突然闪现的战术灵感，在战场上随机给他们一个能力点."
+
+[Inspirational_Passive X2AbilityTemplate]
+LocFriendlyName="灵感启发"
+LocLongDescription="这个单位可以感悟突然闪现的战术灵感，在战场上随机给他们一个能力点."
+
+[MoreTraits_Inspirational X2AbilityPointTemplate]
+ActionFriendlyName="因为他们的灵感启发的特质!"
+
+[Overseer X2TraitTemplate]
+TraitFriendlyName="守望者"
+TraitDescription="这个单位最擅长监视他人，当任何一个队友进行监视射击时自动进入监视."
+
+[Overseer_Passive X2AbilityTemplate]
+LocFriendlyName="守望者"
+LocLongDescription="这个单位最擅长监视他人，当任何一个队友进行监视射击时自动进入监视."
+
+[Ferocious X2TraitTemplate]
+TraitFriendlyName="致死狂暴"
+TraitDescription="这个单位对死亡非常愤怒。在任务中遭受致命一击后，他们将在接下来的回合中幸存下来，变得狂暴，并且对来袭的伤害免疫."
+
+[TraitAbility_Ferocious X2AbilityTemplate]
+LocFriendlyName="致死狂暴"
+LocLongDescription="这个单位对死亡非常愤怒。在任务中遭受致命一击后，他们将在接下来的回合中幸存下来，变得狂暴，并且对来袭的伤害免疫."
+
+[FerociousTriggeredAbility X2AbilityTemplate]
+LocFriendlyName="致死狂暴"
+LocLongDescription="这个单位对死亡非常愤怒。在任务中遭受致命一击后，他们将在接下来的回合中幸存下来，变得狂暴，并且对来袭的伤害免疫."
