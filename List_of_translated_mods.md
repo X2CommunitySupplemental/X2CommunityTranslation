@@ -2,6 +2,7 @@
 https://steamcommunity.com/sharedfiles/filedetails/?id=1280477867
 
 * Russian
+* German
 
 # [WOTC] Proficiency Class Pack
 https://steamcommunity.com/sharedfiles/filedetails/?id=1265143828

@@ -1,0 +1,214 @@
+;--------------------------------------------------
+;---------------- Upgrade Templates ---------------
+;--------------------------------------------------
+[FreeFireUpgrade_Bsc_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Stecher"
+FriendlyNamePlural="Stecher"
+BriefSummary="Beim Schießen hat der Soldat eine Chance von 15%, einen zweiten Schuss auszulösen, wenn der erste Schuss verfehlt hat."
+TinySummary="Chance auf den 2. Schuss, wenn der 1. Schuss verfehlt."
+LootTooltip="Dieses Waffen-Upgrade bietet, wenn es installiert ist, eine 15%ige Chance, dass beim Schießen ein zweiter Schuss ausgeführt wird, wenn der erste verfehlt hat."
+
+[FreeFireUpgrade_Adv_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Fortgeschrittener Stecher"
+FriendlyNamePlural="Fortgeschrittene Stecher"
+BriefSummary="Beim Schießen hat der Soldat eine Chance von 30%, einen zweiten Schuss auszulösen, wenn der erste Schuss verfehlt hat."
+TinySummary="Chance auf den 2. Schuss, wenn der 1. Schuss verfehlt."
+LootTooltip="Dieses Waffen-Upgrade bietet, wenn es installiert ist, eine 30%ige Chance, dass beim Schießen ein zweiter Schuss ausgeführt wird, wenn der erste verfehlt hat."
+
+[FreeFireUpgrade_Sup_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Überragender Stecher"
+FriendlyNamePlural="Überragende Stecher"
+BriefSummary="Beim Schießen hat der Soldat eine Chance von 45%, einen zweiten Schuss auszulösen, wenn der erste Schuss verfehlt hat."
+TinySummary="Chance auf den 2. Schuss, wenn der 1. Schuss verfehlt."
+LootTooltip="ieses Waffen-Upgrade bietet, wenn es installiert ist, eine 45%ige Chance, dass beim Schießen ein zweiter Schuss ausgeführt wird, wenn der erste verfehlt hat."
+
+[CritUpgrade_Bsc_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Laservisier"
+FriendlyNamePlural="Laservisiere"
+BriefSummary="Erhöht die Chance auf kritische Treffer um +<Ability:CRITINCREASE/>% und verbessert sich durch die Nähe zum Ziel noch weiter. Diese Upgrade hat den Nachteil von Abzügen auf Zielsicherheit auf mittel- bis weit entfernte Ziele"
+TinySummary="Erhöhte Kritische Chance, aber Abzüge auf Zielsicherheit bei mittlerer bis großer Reichweite"
+LootTooltip="Dieses Waffen-Upgrade erhöht die kritische Trefferchance jeder Waffe, an der es befestigt ist."
+
+[CritUpgrade_Adv_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Fortgeschrittenes Laservisier"
+FriendlyNamePlural="Fortgeschrittene Laservisiere"
+BriefSummary="Erhöht die Chance auf kritische Treffer um +<Ability:CRITINCREASE/>% und verbessert sich durch die Nähe zum Ziel noch weiter. Diese Upgrade hat den Nachteil von Abzügen auf Zielsicherheit auf mittel- bis weit entfernte Ziele"
+TinySummary="Erhöhte Kritische Chance, aber Abzüge auf Zielsicherheit bei mittlerer bis großer Reichweite"
+LootTooltip="Dieses Waffen-Upgrade erhöht die kritische Trefferchance jeder Waffe, an der es befestigt ist."
+
+[CritUpgrade_Sup_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Überragendes Laservisier"
+FriendlyNamePlural="Überragende Laservisiere"
+BriefSummary="Erhöht die Chance auf kritische Treffer um +<Ability:CRITINCREASE/>% und verbessert sich durch die Nähe zum Ziel noch weiter. Diese Upgrade hat den Nachteil von Abzügen auf Zielsicherheit auf mittel- bis weit entfernte Ziele"
+TinySummary="Erhöhte Kritische Chance, aber Abzüge auf Zielsicherheit bei mittlerer bis großer Reichweite"
+LootTooltip="Dieses Waffen-Upgrade erhöht die kritische Trefferchance jeder Waffe, an der sie befestigt ist."
+
+[MissDamageUpgrade_Bsc_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Schaft"
+FriendlyNamePlural="Schäfte"
+BriefSummary="Erhöht die Trefferchance von Reaktionsschüssen um +10."
+TinySummary="Erhöht die Trefferchance von Reaktionsschüssen um +10."
+LootTooltip="Dieses Waffen-Upgrade erhöht, wenn es installiert ist, die Trefferchance bei Reaktionsfeuerschüssen um +10."
+
+[MissDamageUpgrade_Adv_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Fortgeschrittener Schaft"
+FriendlyNamePlural="Fortgeschrittene Schäfte"
+BriefSummary="Erhöht die Trefferchance von Reaktionsschüssen um +15."
+TinySummary="Erhöht die Trefferchance von Reaktionsschüssen um +15."
+LootTooltip="Dieses Waffen-Upgrade erhöht, wenn es installiert ist, die Trefferchance bei Reaktionsfeuerschüssen um +15."
+
+[MissDamageUpgrade_Sup_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Überragender Schaft"
+FriendlyNamePlural="Überragende Schäfte"
+BriefSummary="Erhöht die Trefferchance von Reaktionsschüssen um +20."
+TinySummary="Erhöht die Trefferchance von Reaktionsschüssen um +20."
+LootTooltip="Dieses Waffen-Upgrade erhöht, wenn es installiert ist, die Trefferchance bei Reaktionsfeuerschüssen um +20."
+
+[AimUpgrade_Bsc_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Zielfernrohr"
+FriendlyNamePlural="Zielfernrohre"
+BriefSummary="Ändert die Entfernungsmessung, die einen Trefferbonus bei Langstreckenziele bietet, dafür die Zielsicherheit bei Kurzstreckenzielen reduziert."
+TinySummary="Erhöhte Zielsicherheit bei großen Entfernungen"
+LootTooltip="Dieses Waffen-Upgrade fügt jeder Waffe, an der es befestigt ist, einen Zielbonus hinzu."
+
+[AimUpgrade_Adv_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Fortgeschrittenes Zielfernrohr"
+FriendlyNamePlural="Fortgeschrittene Zielfernrohre"
+BriefSummary="Ändert die Entfernungsmessung, die einen Trefferbonus bei Langstreckenziele bietet, dafür die Zielsicherheit bei Kurzstreckenzielen reduziert."
+TinySummary="Erhöhte Zielsicherheit bei großen Entfernungen"
+LootTooltip="Dieses Waffen-Upgrade fügt jeder Waffe, an der es befestigt ist, einen Zielbonus hinzu."
+
+[AimUpgrade_Sup_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Überragendes Zielfernrohr"
+FriendlyNamePlural="Überragende Zielfernrohre"
+BriefSummary="Ändert die Entfernungsmessung, die einen Trefferbonus bei Langstreckenziele bietet, dafür die Zielsicherheit bei Kurzstreckenzielen reduziert."
+TinySummary="Erhöhte Zielsicherheit bei großen Entfernungen"
+LootTooltip="Dieses Waffen-Upgrade fügt jeder Waffe, an der es befestigt ist, einen Zielbonus hinzu."
+
+[ReloadUpgrade_Bsc_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Automatiklader"
+FriendlyNamePlural="Automatiklader"
+BriefSummary="Automatisches Nachladen von 1 Munition pro Runde bis maximal 4."
+TinySummary="Automatisches Nachladen von 1 Munition pro Runde bis maximal 4."
+LootTooltip="Dieses Waffen-Upgrade ermöglicht das automatische Nachladen von 1 Munition pro Runde bis zu maximal 4."
+
+[ReloadUpgrade_Adv_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Fortgeschrittener Automatiklader"
+FriendlyNamePlural="Fortgeschrittene Automatiklader"
+BriefSummary="Automatisches Nachladen von 1 Munition pro Runde bis maximal 6."
+TinySummary="Automatisches Nachladen von 1 Munition pro Runde bis maximal 6."
+LootTooltip="Dieses Waffen-Upgrade ermöglicht das automatische Nachladen von 1 Munition pro Runde bis zu maximal 6."
+
+[ReloadUpgrade_Sup_OVERIDE X2WeaponUpgradeTemplate]
+FriendlyName="Überragender Automatiklader"
+FriendlyNamePlural="Überragende Automatiklader"
+BriefSummary="Automatisches Nachladen von 1 Munition pro Runde bis maximal 8."
+TinySummary="Automatisches Nachladen von 1 Munition pro Runde bis maximal 8."
+LootTooltip="Dieses Waffen-Upgrade ermöglicht das automatische Nachladen von 1 Munition pro Runde bis zu maximal 8."
+
+[EleriumCoating_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="Elerium-Beschichtung"
+FriendlyNamePlural="Elerium-Beschichtungen"
+BriefSummary="Erhöht die Chance auf kritische Treffer um +<Ability:CRITINCREASE/>%."
+TinySummary="Erhöht kritische Trefferchance"
+LootTooltip="Dieses Waffen-Upgrade erhöht die kritische Trefferchance jeder Waffe, an der es befestigt ist."
+
+[EleriumCoating_Adv X2WeaponUpgradeTemplate]
+FriendlyName="Fortgeschrittene Elerium-Beschichtung"
+FriendlyNamePlural="Fortgeschrittene Elerium-Beschichtungen"
+BriefSummary="Erhöht die Chance auf kritische Treffer um +<Ability:CRITINCREASE/>%."
+TinySummary="Erhöht kritische Trefferchance"
+LootTooltip="Dieses Waffen-Upgrade erhöht die kritische Trefferchance jeder Waffe, an der es befestigt ist."
+
+[EleriumCoating_Sup X2WeaponUpgradeTemplate]
+FriendlyName="Überragende Elerium-Beschichtung"
+FriendlyNamePlural="Überragende Elerium-Beschichtungen"
+BriefSummary="Erhöht die Chance auf kritische Treffer um +<Ability:CRITINCREASE/>%."
+TinySummary="Erhöht kritische Trefferchance"
+LootTooltip="Dieses Waffen-Upgrade erhöht die kritische Trefferchance jeder Waffe, an der es befestigt ist."
+
+[AlloyBlade_Bsc X2WeaponUpgradeTemplate]
+FriendlyName="Ausgewogene Legierungsklinge"
+FriendlyNamePlural="Ausgewogene Legierungsklingen"
+BriefSummary="Erhöht Zielsicherheit um +<Ability:SCOPEAIMINCREASE/>%."
+TinySummary="Erhöht Zielsicherheit"
+LootTooltip="Dieses Waffen-Upgrade fügt jeder Waffe, an der es befestigt ist, einen Zielbonus hinzu."
+
+[AlloyBlade_Adv X2WeaponUpgradeTemplate]
+FriendlyName="Fortgeschrittene ausgewogene Legierungsklinge"
+FriendlyNamePlural="Fortgeschrittene ausgewogene Legierungsklingen"
+BriefSummary="Erhöht Zielsicherheit um +<Ability:SCOPEAIMINCREASE/>%."
+TinySummary="Erhöht Zielsicherheit"
+LootTooltip="Dieses Waffen-Upgrade fügt jeder Waffe, an der es befestigt ist, einen Zielbonus hinzu
+
+[AlloyBlade_Sup X2WeaponUpgradeTemplate]
+FriendlyName="Überragende ausgewogene Legierungsklinge"
+FriendlyNamePlural="Überragende ausgewogene Legierungsklingen"
+BriefSummary="Erhöht Zielsicherheit um +<Ability:SCOPEAIMINCREASE/>%."
+TinySummary="Erhöht Zielsicherheit"
+LootTooltip="Dieses Waffen-Upgrade fügt jeder Waffe, an der es befestigt ist, einen Zielbonus hinzu
+;--------------------------------------------------
+;-------------------- Fähigkeiten -------------------
+;--------------------------------------------------
+
+[OpticScopeRangeModifier X2AbilityTemplate]
+LocFriendlyName="Optisches Zielfernrohr"
+LocHelpText="Verbessert die Reichweite um eine Kategorie."
+
+[Scope_EU_Bsc_Ability X2AbilityTemplate]
+LocFriendlyName="Sucher"
+LocLongDescription="Erhöht die Trefferchance von Nichtreaktionsschüssen mit der Primärwaffe um +5. Verbessert auch die Waffenreichweite um eine Kategorie."
+LocHelpText="Scope: Trefferbonus bei Nichtreaktionsschüssen. Verbessert auch die Waffenreichweite um eine Kategorie."
+LocFlyOverText="Sucher"
+
+[Scope_EU_Adv_Ability X2AbilityTemplate]
+LocFriendlyName="Fortgeschrittener Sucher"
+LocLongDescription="Erhöht die Trefferchance von Nichtreaktionsschüssen mit der Primärwaffe um +10. Verbessert auch die Waffenreichweite um eine Kategorie."
+LocHelpText="Scope: Trefferbonus bei Nichtreaktionsschüssen. Verbessert auch die Waffenreichweite um eine Kategorie."
+LocFlyOverText="Fortgeschrittener Sucher"
+
+[Scope_EU_Sup_Ability X2AbilityTemplate]
+LocFriendlyName="Überragender Sucher"
+LocLongDescription="Erhöht die Trefferchance von Nichtreaktionsschüssen mit der Primärwaffe um +15. Verbessert auch die Waffenreichweite um eine Kategorie."
+LocHelpText="Scope: Trefferbonus bei Nichtreaktionsschüssen. Verbessert auch die Waffenreichweite um eine Kategorie."
+LocFlyOverText="Überragender Sucher"
+
+[AutoLoader_EU_Bsc_Ability X2AbilityTemplate]
+LocFriendlyName="Automatiklader: Freies Nachladen"
+LocLongDescription="20% Chance, dass das Nachladen einen Aktionspunkt zurückerstattet."
+LocHelpText="Automatiklader: 20% Chance, dass das Nachladen einen Aktionspunkt zurückerstattet."
+LocFlyOverText="Automatiklader"
+
+[AutoLoader_EU_Adv_Ability X2AbilityTemplate]
+LocFriendlyName="Fortgeschrittener Automatiklader: Freies Nachladen"
+LocLongDescription="40% Chance, dass das Nachladen einen Aktionspunkt zurückerstattet."
+LocHelpText="Automatiklader: 40% Chance, dass das Nachladen einen Aktionspunkt zurückerstattet."
+LocFlyOverText="Fortgeschrittener Automatiklader"
+
+[AutoLoader_EU_Sup_Ability X2AbilityTemplate]
+LocFriendlyName="Überragender Automatiklader: Freies Nachladen"
+LocLongDescription="60% Chance, dass das Nachladen einen Aktionspunkt zurückerstattet."
+LocHelpText="Automatiklader: 60% Chance, dass das Nachladen einen Aktionspunkt zurückerstattet.
+LocFlyOverText="Überragender Automatiklader"
+
+[Hair_Trigger_EU_Bsc_Ability X2AbilityTemplate]
+LocFriendlyName="Haarscharfer Schuss"
+LocHelpText="Wenn ein Schuss verfehlt, besteht eine 50%ige Chance, dass ein zweiter Schuss abgegeben wird. Der zweite Schuss hat eine 10% bessere Trefferchance."
+
+[Hair_Trigger_EU_Adv_Ability X2AbilityTemplate]
+LocFriendlyName="Haarscharfer Schuss""
+LocHelpText="Wenn ein Schuss verfehlt, besteht eine 70%ige Chance, dass ein zweiter Schuss abgegeben wird. Der zweite Schuss hat eine 15% bessere Trefferchance."
+
+[Hair_Trigger_EU_Sup_Ability X2AbilityTemplate]
+LocFriendlyName="Haarscharfer Schuss""
+LocHelpText="Wenn ein Schuss verfehlt, besteht eine 90%ige Chance, dass ein zweiter Schuss abgegeben wird. Der zweite Schuss hat eine 20% bessere Trefferchance."
+
+[LaserSight_EU_Bsc_Ability X2AbilityTemplate]
+LocFriendlyName="Laservisier"
+
+[LaserSight_EU_Adv_Ability X2AbilityTemplate]
+LocFriendlyName="Fortgeschrittenes Laservisier"
+
+[LaserSight_EU_Sup_Ability X2AbilityTemplate]
+LocFriendlyName="Überragendes Laservisier"
+
