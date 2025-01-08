@@ -1,0 +1,339 @@
+[Assault X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Angriffsspezialist
+ClassSpecializationSummary="Die ersten und letzten Einheiten im Gefecht. Diese Truppen sind engagiert, entschlossen und tödlich. Wenn die Angriffsspezialisten ins Spiel kommen, ist mit einer hohen Einsatzeffizienz und mit ausgezeichneten Resultaten zu rechnen."
+
+[Infantry X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Infanterist
+ClassSpecializationSummary="Ein Gewehr auf der Schulter und eine Granate am Gürtel. Der Infanterist ist vielleicht nicht der schillerndste Soldat, aber man kann sich darauf verlassen, dass er die Linie hält."
+
+[Sentinel X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Wächter
+ClassSpecializationSummary="Auge auf den Horizont, Finger am Abzug. Der Wächter ist stets wachsam gegenüber feindlichen Aktivitäten und bereit mit wohlüberlegten Feuerschutztaktiken zuzuschlagen."
+
+[Gunner X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Schütze
+ClassSpecializationSummary="Dreibeinstative, Magazine mit hoher Kapazität und ein Regen leerer Patronenhülsen. Wenn es gilt aus etwas oder jemanden einen Sieb zu machen, ist der Schütze der richtige Ansprechpartner."
+
+[Grenadier X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Grenadier
+ClassSpecializationSummary="Seitdem der Mensch einen Weg gefunden hat, Sprengstoffe einsatzfähig zu transportieren, ist der Grenadier zu Stelle um den Gegnern das Leben zur Hölle zu machen. Ob Blackpowder oder Hi-Ex, das Ergebnis ist immer gleich."
+
+[Sniper X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Scharfschütze
+ClassSpecializationSummary="Ein Schuss, ein Toter. Gilt es ein Ziel aus hoher Entfernung effektiv auszuschalten, ist der Scharfschütze die erste Wahl. In der richtigen Position beherrscht der Scharfschütze das Schlachtfeld."
+
+[Ranger X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Ranger
+ClassSpecializationSummary="Die Hand am Schwertschaft, Füße fest auf dem Boden. Manche Probleme können nur mit altmodischer Brutalität gelöst werden. Was könnte altmodischer sein als die Klinge eines Schwertes im Rücken des Gegners?"
+
+[Hacker X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Hacker
+ClassSpecializationSummary="In der modernen Welt der vernetzten Technologie, der 24/7-Überwachung und der automatisierten Sicherheit bedarf es eines Spezialisten, der diese  Komplexität beherrscht. Wenn es darum geht Geschütztürme abzuschalten oder Roboter abzuwehren, ist der Hacker die erste Wahl."
+
+[Scout X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Aufklärer
+ClassSpecializationSummary="Schnell, leise und wachsam - der Späher kann Gebiete auskundschaften ohne gesehen zu werden. Ist ein Kampfgebiet unwegsam und nicht einsehbar, kommt der Späher ins Spiel."
+
+[Medic X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Heiltaktiker
+ClassSpecializationSummary="Vergiftet, gelähmt, erschossen, erstochen? Der Heiltaktiker hat zu allem eine passende Lösung parat und leistet obendrein ausgezeichnete Unterstützungsarbeit auf dem Schlachtfeld."
+
+[Gunslinger X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Pistolenexperte
+ClassSpecializationSummary="Pistolen werden im Zeitalter der Observationsdrohnen und automatisierten Antimaterie-Gewehre leicht vergessen. Aber der Griff eines Revolverhelden nach seiner Pistole kann helfen, das Blatt zu wenden."
+
+[Skirmisher X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Scharmützler
+ClassSpecializationSummary="Beim Scharmützler dreht sich alles um offensive und mobile Angriffe mit hoher Intensität. Egal was der Feind zum Kampf mitbringt, er wird bereit sein müssen die Konsequenzen zu tragen."
+
+[Saboteur X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Sprengstoffexperte
+ClassSpecializationSummary="Manchmal reicht es nicht aus, nur einen Raketenwerfer auf das Feld zu bringen. Wenn es darum geht eine Näherungs-Mine richtig zu kalibrieren oder X4 in einem Chemielabor im Keller zu vermischen, bedarf es einen Spezialisten. Der Sprengstoffexperte ist zur Stelle, wenn eine Granate zweckentfremded werden muss."
+
+[Spotter X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Spotter
+ClassSpecializationSummary="Finden, markieren und sicherstellen! Jede Gruppe von entschlossenen Widerstandskämpfern braucht jemanden, der ihnen den Rücken freihält und eine Operation zum Erfolg führt. Fallen, Tricks und heimtückische überraschungen sind die Werkzeuge eines jeden Spotters."
+
+[RpgRocketeer X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Raketentechniker
+ClassSpecializationSummary="Unsere Raketentechniker sind darauf trainiert, den Raketenwerfer mit verheerender Wirkung einzusetzen. Der Raketentechniker ist großartig darin, Feindgruppen vernichtende Treffer zuzufügen, Rüstungen zu zerstören und ganze Gebäude zu nivellieren."
+
+[RpgPurifier X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Pyrotechniker
+ClassSpecializationSummary="Unsere Pyrotechniker sind darauf trainiert, den Flammenwerfer mit verheerender Wirkung einzusetzen. Alle Feinde, die dem Pyrotechniker auf dem Schlachtfeld zu nahe kommen, legen sich nur einmal mit dieser wandelnden Feuerwalze an."
+
+[Enforcer X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Gefechtsstörer
+ClassSpecializationSummary="Der Gefechtsstörer benutzt seinen Pulsbogen, um den Feind zu deaktivieren oder zu lähmen. Entweder um dem Team Zeit mehr Zeit zu verschaffen oder um sicherzustellen, dass sein Ziel so festgesetzt wird, das es ein leichtes Ziel für die Verbündeten des Gefechtsstörers ist."
+
+[Marauder X2UniversalSoldierClassInfo]
+ClassSpecializationTitle=Plünderer
+ClassSpecializationSummary="Ungezügelt, instabil und entfesselt! Der Plünderer ist ein Spezialist im Umgang mit der abgesägten Schrotflinte. Tödlich auf engstem Raum, wo jeder Schuss zählt."
+
+[UIPersonnel_SoldierListItemDetailed]
+m_strServeredHead="<font color='#bf1e2e'><b>Benötigt Kopf-Augmentation</b></font>"
+m_strServeredTorso="<font color='#bf1e2e'><b>Benötigt Torso-Augmentation</b></font>"
+m_strServeredArms="<font color='#bf1e2e'><b>Benötigt Arm-Augmentation</b></font>"
+m_strServeredLegs"<font color='#bf1e2e'><b>Benötigt Bein-Augmentation</b></font>"
+
+[XGLocalizedData_RPG]
+SelectClassTitle="Klassentitel"
+SelectClassIcon="Klassensymbol"
+SelectClassDescription="Klassenbeschreibung"
+ResetClassInsignia="Klasseninsignien zurücksetzen"
+
+SelectClassTitleTooltip="Wähle einen benutzerdefinierten Klassentitel aus. Dadurch wird die automatische Zuordnung auf der Grundlage von Spezialisierungen außer Kraft gesetzt."
+SelectClassIconTooltip="Wähle ein benutzerdefiniertes Klassensymbol aus. Dadurch wird die automatische Zuordnung auf der Grundlage von Spezialisierungen außer Kraft gesetzt"
+SelectClassDescriptionTooltip="Wähle eine benutzerdefinierte Klassenbeschreibung aus. Dadurch wird die automatische Zuordnung auf der Grundlage von Spezialisierungen außer Kraft gesetzt"
+ResetClassInsigniaTooltip="Dadurch werden das benutzerdefinierte Klassensymbol, der Titel und die Beschreibung zurückgesetzt. Diese werden wieder auf das Standardformat eingestellt."
+
+AbilityWeaponRestrictions="Verwendbar mit:"
+
+SpecializationPrimaryShort="P"
+SpecializationSecondaryShort="S"
+SpecializationComplementaryShort="C"
+
+SpecializationPrimary="Primäre Spezialisierung(en):"
+SpecializationSecondary="Sekundäre Spezialisierung(en):"
+SpecializationComplementary="Komplementäre Spezialisierung(en)(s):"
+
+AllowedWeaponCategoriesPrimary="Primäre Waffenkategorien:"
+AllowedWeaponCategoriesSecondary="Sekundäre Waffenkategorien:"
+
+UtilityCatPistol="(Auto-)Pistole"
+UtilityCatSidearm="(Auto-)Pistole"
+UtilityCatSword="Nahkampfwaffe"
+UtilityCatGremlin="Gremlin"
+UtilityCatPsiamp="PsiAmp"
+UtilityCatGrenadeLauncher="Granatwerfer"
+UtilityCatClaymore="Claymore"
+UtilityCatWristblade="Klaue"
+UtilityCatArcthrower="Pulsbogen"
+UtilityCatCombatknife="Nahkampfwaffe"
+UtilityCatHolotargeter="Holotargeter"
+UtilityCatSawedoffshotgun="Abgesägte Schrotflinte"
+UtilityCatLWGauntlet="XCOM Handschuh"
+
+m_strCategoryRestricted=BEREITS AUSGESTATTET MIT <XGParam:StrValue0/!WeaponCat/>
+m_strAbilityRequired=FAEHIGKEIT <XGParam:StrValue0/!Ability/> ERFORDERLICH
+
+strSWO_SpecRoulette_Description="[RPGO] Spezialisierung Roulette: Soldaten beginnen mit einer begrenzten Anzahl von zufälligen Spezialisierungen als Rekrut."
+strSWO_SpecRoulette_Tooltip="Anstatt den vollen Satz aller Spezialisierungen zur Verfügung zu haben, werden den Soldaten nur einige zufällige Spezialisierungen bei der Beförderung zum Rekruten gewährt. \n Kann mit der Spezialisierung Roulette, Von Klein auf und Auswahl des Kommanders kombiniert werden."
+
+strSWO_TrainingRoulette_Description="[RPGO] Trainings-Roulette: Die Reihenfolge der Fähigkeiten innerhalb der Spezialisierungen wird zufällig festgelegt."
+strSWO_TrainingRoulette_Tooltip="Zufällige Reihenfolge der Fähigkeiten pro Spezialisierung. Fähigkeiten, die Voraussetzung sind, bleiben im gleichen Slot. \n Kann mit "Spezialisierungs-Roulette", "Von Klein" auf und "Auswahl des Kommanders" kombiniert werden."
+
+strSWO_CommandersChoice_Description="[RPGO] Auswahl des Kommanders: Wähle selbst eine begrenzte Anzahl von Spezialisierungen"
+strSWO_CommandersChoice_Tooltip="Bei der Beförderung zum Rekrut können eine begrenzte Anzahl von Spezialisierungen gewählt werden. \n Kann mit "Spezialisierungs-Roulette", Von "Klein auf" und "Trainings-Roulette" kombiniert werden."
+
+strSWO_Origins_Description="[RPGO] Von Klein auf: Wähle selbst die Startfähigkeiten der Soldaten"
+strSWO_Origins_Tooltip="Bei der Beförderung zum Rekruten können eine begrenzte Anzahl von Startfähigkeiten gewählt werden. \n Kann mit "Spezialisierungs-Roulette", Von "Klein auf" und "Trainings-Roulette" kombiniert werden.
+
+strRPGO_SWO_RandomClasses_Description = "[RPGO] Zufallsklassen: Erzeugt funktionale Zufallsklassen"
+strRPGO_SWO_RandomClasses_Tooltip = "Bei der Beförderung zum Rekruten weist RPGO dem Soldaten nach dem Zufallsprinzip eine primäre, eine sekundäre und einige komplementäre Spezialisierungen zu. Dies wird zusätzlich zum Spezialisierungs-Roulette empfohlen, wenn du auch Waffenbeschränkungen verwendest, weil dadurch sichergestellt wird, dass dein Soldat eine primäre und eine sekundäre Waffenkategorie zur Verfügung hat. Kann mit "Von Klein auf" und "Trainings-Roulette" kombiniert werden, aber nicht mit "Auswahl des Kommanders".
+
+strRPGO_SWO_WeaponRestriction_Description = "[RPGO] Waffenbeschränkungen: Die Spezifikationen werden bestimmen, welche Waffen deine Soldaten benutzen können."
+strRPGO_SWO_WeaponRestriction_Tooltip = "Mit dieser Option können RPGO-Soldaten auf der Grundlage ihrer gewählten Spezialisierung auf bestimmte Waffenkategorien reduziert werden. Spezialisierungen gewähren Ihnen Zugang zu bestimmten Waffenkategorien für den primären und/oder sekundären Waffenplatz. Kann mit jeder der anderen RPGO-Optionen der zweiten Phase kombiniert werden. Wenn Zufallsklassen aktiv sind, hat Ihr Soldat nur genau eine bestimmte primäre und eine sekundäre Spezialisierung."
+
+ItemCategoryRifle="Gewehr"
+ItemCategorySniperRifle="Scharfschützengewehr"
+ItemCategoryShotgun="Schrotflinte"
+ItemCategoryCannon="Kanone"
+ItemCategoryVektorRifle="Vektorgewehr"
+ItemCategoryBullpup="Kurzgewehr"
+ItemCategoryPistol="Pistole"
+ItemCategorySidearm="Autopistole"
+ItemCategorySword="Nahkampfwaffe"
+ItemCategoryGremlin="Gremlin"
+ItemCategoryPsiamp="PsiAmp"
+ItemCategoryGrenadeLauncher="Granatwerfer"
+ItemCategoryClaymore="Claymore"
+ItemCategoryWristblade="Klaue"
+ItemCategoryArcthrower="Pulsbogen"
+ItemCategoryCombatknife="Kampfmesser"
+ItemCategoryHolotargeter="Holotargeter"
+ItemCategorySawedoffshotgun="Abgesägte Schrotflinte"
+ItemCategoryLWGauntlet="XCOM Handschuh"
+ItemCategoryEmpty="Leer"
+ItemCategoryUtility="Hilfsmittel"
+ItemCategoryTech="Tech"
+ItemCategoryConventional="Konventionell"
+ItemCategoryPlated="Beschichtet"
+ItemCategoryPowered="Angetrieben"
+ItemCategorySparkrifle="Spark Gewehr"
+ItemCategoryGauntlet="Handschuh"
+ItemCategoryBasic="Basis"
+ItemCategoryUnknown="Andere"
+ItemCategoryMedium="Mittel"
+ItemCategoryLight="Leicht"
+ItemCategoryHeavy="Schwer"
+ItemCategoryRocketLauncher="Raketenwerfer"
+
+[UIChooseSpecializations]
+m_strTitlePool=Spezialisierungen auswählen
+m_strInventoryLabelPool=Verfügbare Spezialisierungen:
+m_strTitleChosen=Ausgewählte Spezialisierungen
+m_strInventoryLabelChosen=Entfernbare Spezialisierungen:
+m_strChoose=WAEHLEN
+m_strRemove=ENTFERNEN
+m_strItemChosen=Du hast diese Spezialisierung bereits gewählt.
+m_strItemOwned=Zufällige Spezialisierung
+m_strItemLimitReached=Es können keine weitere Spezialisierung gewählt werden.
+m_strItemNotRemovable=Zufällige Spezialisierungen können nicht entfernt werden.
+m_strComplementarySpecializationInfo=Erzwungene zusätzliche Spezialisierungen:
+
+[UIChooseAbilities]
+m_strTitlePool=Startfähigkeiten auswählen
+m_strInventoryLabelPool=Verfügbare Fähigkeiten:
+m_strTitleChosen=Ausgewählte Fähigkeiten
+m_strInventoryLabelChosen=Entfernbare Fähigkeiten:
+m_strChoose=WAEHLEN
+m_strRemove=ENTFERNEN
+m_strItemChosen=Diese Fähigkeit wurde bereits gewählt.
+m_strItemOwned=Zufallsfähigkeit
+m_strItemLimitReached=Es können keine weiteren Fähigkeiten gewählt werden.
+m_strItemNotRemovable=Zufällige Fähigkeiten können nicht entfernt werden.
+
+[UIStartingAbilitiesIconList]
+m_strStartingAbilities=Fähigkeiten:
+
+[RPGOVersionTemplate]
+strRPGOVersion="Musasis RPG Overhaul v%MAJOR.%MINOR.%PATCH"
+
+[UISL_UIShell_RPGO]
+strTitleCommunityHighlanderMissing="Missing X2WotCCommunityHighlander"
+strCommunityHighlanderMissing="RPGO erfordert, dass der X2WotCCommunityHighlander funktioniert. Stelle sicher, dass die Highlander-Mod aktiviert ist, bevor eine Kampagne gestartet oder geladen wird."
+strTitleIncompatibleMod="RPGO hat einige INKOMPATIBLE Mods erkannt"
+strIncompatibleModsFound="Bitte die folgenden Mods DEATIVIEREN und neu starten oder RPGO funktioniert nicht einwandfrei:"
+strTitleSWOInfo="RPGO Update-Neugigkeiten"
+strSWOInfo="\nEntschuldigung, dass ich dich unterbreche. Ich wollte dir nur mitteilen, dass <font color='#1bad62'>RPGO jetzt Second Wave (auch bekannt als Advanced) als Optionen hat!</font>\n Du hast 4 neue Optionen\n\nSpezialisierungs-Roulette\nAuswahl des Kommanders\nTrainings-Roulette\nVon Klein auf\n\nUm ihnen die Mid-Kampagne zu ermöglichen, benötigst du den Mod <font color='#1bad62'>Better Second Wave Mod Support</font>\nDu kannst diese Option separat oder in jeder Kombination der vier verwenden. Der Konsolenbefehl RPGO_RebuildSelectedSoldierClass unterstützt auch diese SWO und deren Speicherung, um sie jederzeit zu aktivieren oder zu deaktivieren. \nEinstellungen wie die Anzahl der zufälligen Spezifikationen können geändert werden in <font color='#1bad62'>XComSecondWaveOptions.ini</font>\n\nDanke für deine Aufmerksamkeit\n\nMusashi".
+strTitleRequiredMod="RPGO hat einige fehlende erforderliche Mods erkannt"
+strRequiredModsMissing="Bitte aktiviere die folgenden Mods und starte sie neu oder RPGO wird nicht richtig funktionieren:"
+
+[UISL_ShellSplash]
+strRequiredModsTooltip="Fehlende erforderliche Mods:"
+strIncompatibleModsTooltip="Erkannte inkompatible Mods:"
+strRequiredLoadedModsTooltip="Geladene benötigte Mods:"
+
+[RPGO_UIArmory_PromotionHero]
+m_strMutuallyExclusive="Schließen sich gegenseitig aus:"
+
+[RPGO_MCM_Builder]
+WEAPON_SETTINGS_PAGE_TITLE="RPGO Allgemeine Einstellung"
+WEAPON_SETTINGS_PAGE_LABEL="RPGO Allgemeine Einstellungen"
+
+WEAPON_SETTINGS_GROUP_LABEL="Waffenänderungen"
+
+PATCH_BULLPUPS_LABEL="Kurzgewehr ändern"
+PATCH_BULLPUPS_TOOLTIP="RPGO-Änderungen auf Kurzgewehr anwenden"
+
+PATCH_SHOTGUNS_LABEL="Schrotflinten ändern"
+PATCH_SHOTGUNS_TOOLTIP="RPGO-Änderungen auf Schrotflinten anwenden"
+
+PATCH_CANNONS_LABEL="Kanonen ändern"
+PATCH_CANNONS_TOOLTIP="RPGO-Änderungen auf Kanonen anwenden"
+
+PATCH_SNIPER_RIFLES_LABEL="Scharfschützengewehre ändern"
+PATCH_SNIPER_RIFLES_TOOLTIP="RPGO-Änderungen auf Scharfschützengewehre anwenden"
+
+PATCH_PISTOLS_LABEL="Pistolen ändern"
+PATCH_PISTOLS_TOOLTIP="RPGO-Änderungen auf Pistolen anwenden"
+
+PATCH_AUTO_PISTOLS_LABEL="Auto-Pistolen ändern"
+PATCH_AUTO_PISTOLS_TOOLTIP="RPGO-änderungen auf Auto-Pistolen anwenden"
+
+PATCH_SAWEDOFF_SHOTGUN_LABEL="Abgesägte Schrotflinten ändern"
+PATCH_SAWEDOFF_SHOTGUN_TOOLTIP="RPGO-änderungen auf abgesägte Schrotflinten anwenden"
+
+PATCH_VECTOR_RIFLES_LABEL="Vektorgewehre ändern"
+PATCH_VECTOR_RIFLES_TOOLTIP="RPGO-änderungen auf Vektorgewehre anwenden"
+
+PATCH_DEFAULTWEAPON_UPGRADESLOTS_LABEL="Standard-Upgrade-Slots ändern"
+PATCH_DEFAULTWEAPON_UPGRADESLOTS_TOOLTIP="Alle Upgrade-Slots auf 3 setzen"
+
+PATCH_FULLAUTOFIRE_LABEL="Autofeuer-Fähigkeit hinzufügen"
+PATCH_FULLAUTOFIRE_TOOLTIP="Hinzufügen von Autofeuer-Fähigkeiten zu allen Waffen, die den AutofireWeaponCategories entsprechen"
+
+ATTACHMENT_SETTINGS_GROUP_LABEL="Änderungen in der Anlage"
+
+PATCH_HAIR_TRIGGERS_LABEL="Stecher ändern"
+PATCH_HAIR_TRIGGERS_TOOLTIP="RPGO-Änderungen auf Stecher anwenden"
+
+PATCH_LASER_SIGHTS_LABEL="Laservisiere ändern"
+PATCH_LASER_SIGHTS_TOOLTIP="RPGO-Änderungen auf Laservisiere anwenden"
+
+PATCH_STOCKS_LABEL="Schäfte ändern"
+PATCH_STOCKS_TOOLTIP="RPGO-Änderungen auf Schäfte anwenden"
+
+PATCH_SCOPES_LABEL="Zielfernrohre ändern"
+PATCH_SCOPES_TOOLTIP="RPGO-Änderungen auf Zielfernrohre anwenden"								  
+
+PATCH_AUTOLOADERS_LABEL="Autolader ändern"
+PATCH_AUTOLOADERS_TOOLTIP="RPGO-Änderungen auf Autoloader anwenden"
+
+SWO_SETTINGS_PAGE_TITLE="RPGO Second Wave Optionen"
+SWO_SETTINGS_PAGE_LABEL="RPGO Second Wave Optionen"
+
+SWO_COMMANDERS_CHOICE_LABEL="[RPGO] Auswahl des Kommanders"
+SWO_SPECIALIZATION_ROULETTE_LABEL="[RPGO] Spezialisierungs-Roulette"
+SWO_TRAINING_ROULETTE_LABEL="[RPGO] Trainings-Roulette"
+SWO_ORIGINS_LABEL="[RPGO] Von Klein auf"
+SWO_WEAPON_RESTRICTIONS_LABEL="[RPGO] Waffenbeschränkungen"
+
+SPEC_ROULETTE_RANDOM_SPEC_COUNT_LABEL="Spezialisierung"
+SPEC_ROULETTE_RANDOM_SPEC_COUNT_TOOLTIP="Anzahl der zufällig generierten Spezialisierungen auf Rang Rekrut"
+
+COMMANDERS_CHOICE_SPEC_COUNT_LABEL="Spezialisierungen"
+COMMANDERS_CHOICE_SPEC_COUNT_TOOLTIP="Anzahl der Spezialisierungen, die für jeden Soldaten bei der Beförderung zum Rang Rekrut ausgewählt werden können."
+
+SPEC_ROULETTE_RANDOM_SPEC_COUNT_COMBI_LABEL="Kombiniert"
+SPEC_ROULETTE_RANDOM_SPEC_COUNT_COMBI_TOOLTIP="Anzahl der zufälligen Spezialisierungen, wenn Spez. Roulette und Auswahl des Kommanders gleichzeitig aktiviert sind"
+
+COMMANDERS_CHOICE_SPEC_COUNT_COMBI_LABEL="Kombiniert"
+COMMANDERS_CHOICE_SPEC_COUNT_COMBI_TOOLTIP="Anzahl der zufälligen Spezialisierungen, wenn Spez. Roulette und Auswahl des Kommanders gleichzeitig aktiviert sind"
+
+COMMANDERS_CHOICE_RANDOM_POOL_ENABLED_LABEL="Zufällige Anzahl"
+COMMANDERS_CHOICE_RANDOM_POOL_ENABLED_TOOLTIP="Wenn diese Option aktiviert ist, kann man statt aller verfügbaren Spezialisierungen nur aus einem begrenzten zufälligen Bestand an Spezialisierungen wählen."
+
+COMMANDERS_CHOICE_RANDOM_POOL_COUNT_LABEL="Zufällige Größe der Anzahl"
+COMMANDERS_CHOICE_RANDOM_POOL_COUNT_TOOLTIP="Dies bestimmt die Größe der zufälligen Anzahl. Er sollte immer größer sein als die oben angegebene Anzahl von Auswahl des Kommanders. Wenn die Zufallsklassen aktiviert sind, wird ihr Algorithmus zur Zufallsbildung verwendet."
+
+TRAINING_ROULETTE_MIN_RANK_LABEL="Min. Rang"
+TRAINING_ROULETTE_MIN_RANK_TOOLTIP="Ab diesem Rang mit der Zufallsgenerierung beginnen."
+
+TRAINING_ROULETTE_MAX_RANK_LABEL="Max. Rang"
+TRAINING_ROULETTE_MAX_RANK_TOOLTIP="Zufällige Fähigkeiten bis einschließlich dieses Ranges"
+
+ORIGINS_CHOICE_ABILITY_COUNT_LABEL="Ausgewählte Fähigkeiten"
+ORIGINS_CHOICE_ABILITY_COUNT_TOOLTIP=" Wie viele Startfähigkeiten im Rang Rekrut gewählt werden"
+
+ORIGINS_ADDITIONAL_RANDOM_ABILTIES_LABEL="Zufällige Fähigkeiten"
+ORIGINS_ADDITIONAL_RANDOM_ABILTIES_TOOLTIP="Füge diese Anzahl von zufälligen Fähigkeiten zusätzlich zu den ausgewählten Fähigkeiten hinzu"
+
+ORIGINS_RANDOM_POOL_ENABLED_LABEL="Zufällige Anzahl"
+ORIGINS_RANDOM_POOL_ENABLED_TOOLTIP="Wenn aktiviert, können statt aller verfügbaren Startfähigkeiten nur eine begrenzte Anzahl an zufälligen Fähigkeiten gewählt werden."
+
+ORIGINS_RANDOM_POOL_COUNT_LABEL="Zufällige Größe der Anzahl"
+ORIGINS_RANDOM_POOL_COUNT_TOOLTIP="Dies bestimmt die Größe der zufälligen Anzahl an Fähigkeiten. Er sollte immer größer sein als die Summe der gewählten und zufälligen Fähigkeiten oben."
+
+WEAPON_RESTRICTIONS_ALWAYS_ALLOW_ASSAULT_RIFLES_LABEL="Einsatz von Sturmgewehren immer erlauben"
+WEAPON_RESTRICTIONS_ALWAYS_ALLOW_ASSAULT_RIFLES_TOOLTIP="Unabhängig von den individuellen Spezialisierungen werden alle Soldaten Zugang zur Waffenkategorie Sturmgewehr haben."
+
+
+
+
+[X2DownloadableContentInfo_RPGO_PromotionScreen]
+strNoUnitSelected =	":>> FEHLER: Keine Einheit ausgewählt - Geben Sie diesen Befehl vom Bildschirm der Waffenkammer aus ein."
+strClassNotFound = ":>> FEHLER: Soldatenklasse wurde definiert, aber '<ClassName/>' existiert nicht."
+strIncorrectCharacterTemplate = ":>> FEHLER: Soldatenklasse wurde definiert, der ausgewählte Soldat entspricht aber nicht der erforderlichen Vorlage für die Klasse '<ClassName/>'."
+strIncorrectRankValue = ":>> FEHLER: Ungültiger Rangwert eingegeben."
+strCantRespecRookie = ":>> FEHLER: Kann keinen Rekrut erstellen - Einheit hochstufen oder eine Klasse angeben."
+strInvalidCombatInt = ":>> FEHLER: Ungültiger Kampfintelligenz-Wert eingegeben."
+strNoValidUnit = ":>> FEHLER: Keine gültige Einheit ausgewählt."
+
+strCappingRank = ":>> ANMERKUNG: Angeforderte Stufe überschreitet die maximale Stufe. Obergrenze bei Maximum."
+
+strRankSet = ":>> ERFOLG: Einheitenrang erfolgreich auf Stufe <RankLevel/> gesetzt."
+strClassSet = ":>> ERFOLG: Soldatenklasse erfolgreich auf Klasse des Typs '<ClassName/>' gesetzt."
+strComIntSet = ":>> ERFOLG: Soldaten-Kampfintelligenz erfolgreich auf '<RankLevel/>' gesetzt."
+strWeaponReloaded = ":>> ERFOLG: Primärwaffe der ausgewählten Einheit nachgeladen."

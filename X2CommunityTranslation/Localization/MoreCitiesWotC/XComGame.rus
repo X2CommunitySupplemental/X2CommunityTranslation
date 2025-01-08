@@ -541,20 +541,20 @@ PoiText=""
 
 ;Nigerian cities
 
-[Abuja X2CityTemplate]  
-DisplayName="Абуджа"  
+[Abuja X2CityTemplate]
+DisplayName="Абуджа"
 PoiText=""
 
-[Aba X2CityTemplate]  
-DisplayName="Аба"  
+[Aba X2CityTemplate]
+DisplayName="Аба"
 PoiText=""
 
-[Maiduguri X2CityTemplate]  
-DisplayName="Майдугури"  
+[Maiduguri X2CityTemplate]
+DisplayName="Майдугури"
 PoiText=""
 
-[Ogbomosho X2CityTemplate]  
-DisplayName="Огбомошо"  
+[Ogbomosho X2CityTemplate]
+DisplayName="Огбомошо"
 PoiText=""
 
 ;South African cities
