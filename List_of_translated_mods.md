@@ -363,6 +363,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2435857055
 
 * Russian
 
+# [WOTC] Sectoid Abductor
+https://steamcommunity.com/sharedfiles/filedetails/?id=1386027774
+
+* Russian
+* Simplified Chinese
+
 # [WOTC] Choose My Class
 https://steamcommunity.com/sharedfiles/filedetails/?id=1467643380
 
