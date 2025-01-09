@@ -1,0 +1,58 @@
+[Abduction X2AbilityTemplate]
+LocFriendlyName="Похищение"
+LocFlyOverText="Похищение"
+LocHelpText="Похитить оглушенную или дезориентированную цель."
+LocLongDescription="Сектоид Похититель попытается взять в плен любую оглушенную им или кем-то еще цель в пределах досягаемости. Если таких целей нет, он попытается похитить дезориентированного солдата."
+
+[AbductionMove X2AbilityTemplate]
+LocFriendlyName="Похищение"
+LocFlyOverText="Похищение"
+LocHelpText="Похитить оглушенную или дезориентированную цель."
+LocLongDescription="Сектоид Похититель попытается взять в плен любую оглушенную им или кем-то еще цель в пределах досягаемости. Если таких целей нет, он попытается похитить дезориентированного солдата."
+
+
+[AbductorStunShot X2AbilityTemplate]
+LocFriendlyName="Оглушающий выстрел"
+LocFlyOverText="Оглушающий выстрел"
+LocHelpText="Особый выстрел из оружия, закрепленного на запястье Похитителя, оглушает цель."
+LocLongDescription="Это умение имеет шанс оглушить цель."
+
+
+[SectoidAbductor X2CharacterTemplate]
+strCharacterName="Сектоид Похититель"
+
+[SectoidAbductorM2 X2CharacterTemplate]
+strCharacterName="Сектоид Похититель"
+
+[SectoidAbductor_WPN X2WeaponTemplate]
+FriendlyName="Лучевой пистолет Похитителя"
+
+[SectoidAbductorM2_WPN X2WeaponTemplate]
+FriendlyName="Лучевой пистолет Похитителя"
+
+[SectoidAbduction X2SitRepTemplate]
+FriendlyName="Сектоиды Похитители"
+Description="Адвент похищает гражданских и бойцов Сопротивления в зоне."
+
+[SectoidAbductionEffect X2SitRepEffect_ModifyDefaultEncounterLists]
+FriendlyName="Сектоиды Похитители"
+Description="Похоже Адвент отправил большую группу Сектоидов и групп Адвента схватить как можно больше гражданских и бойцов Сопротивления в зоне. Возможно, некоторые уже схвачены. Будьте на чеку."
+
+
+[SecureUFOAbductors X2MissionTemplate]
+DisplayName="Зачистка НЛО сектойдов"
+Briefing="Участники Сопротивления сообщили, что Сектойды орудуют в этой зоне. Зачистите зону НЛО и соберите добычу."
+PostMissionType="Зачистка НЛО сектойдов"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Нейтрализовать всех врагов"
+ObjectiveTextPools[1]="Зачистка НЛО Сектойдов ради добычи"
+PreMissionNarratives[0]="X2NarrativeMoments.TACTICAL.SecureUFO.T_Secure_UFO_Narrative_Wrappers_01"
+PreMissionNarratives[1]="X2NarrativeMoments.TACTICAL.SecureUFO.T_Secure_UFO_Narrative_Wrappers_02"
+PreMissionNarratives[2]="X2NarrativeMoments.TACTICAL.SecureUFO.T_Secure_UFO_Narrative_Wrappers_03"
+PreMissionNarratives[3]="X2NarrativeMoments.TACTICAL.SecureUFO.T_Secure_UFO_Narrative_Wrappers_04"
+PreMissionNarratives[4]="X2NarrativeMoments.TACTICAL.SecureUFO.T_Secure_UFO_Narrative_Wrappers_05"
+
+[SecureUFOAbductors X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Нейтрализовать всех врагов в зоне НЛО"
+ObjectiveTextPools[1]="Отключить вражеский аварийный маячок"
+ObjectiveTextPools[2]="Эвакуировать всех бойцов XCOM"
