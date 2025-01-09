@@ -1,0 +1,69 @@
+[ArmoredViper X2CharacterTemplate]
+strCharacterName="装甲毒蛇怪"
+
+[ArmoredPsiViper X2CharacterTemplate]
+strCharacterName="灵能装甲毒蛇怪"
+
+[VorpalBlade X2WeaponTemplate]
+FriendlyName="毒蛇斩首刃"
+
+[ArmoredViper_WPN X2WeaponTemplate]
+FriendlyName="毒蛇加特林步枪"
+
+[ArmoredPsiViper_WPN X2WeaponTemplate]
+FriendlyName="毒蛇灵能加特林步枪"
+
+[CorpseArmoredViper X2ItemTemplate]
+FriendlyName="装甲毒蛇怪尸体"
+FriendlyNamePlural="装甲毒蛇怪尸体"
+BriefSummary="装甲毒蛇怪非常强壮，很难被击败。装甲给它提供了额外的火焰免疫，以及对爆炸伤害的减免。"
+
+[AutopsyArmoredViper X2TechTemplate]
+DisplayName="解剖装甲毒蛇怪"
+Summary="装甲毒蛇怪已经被证实是一种致命的敌人，对我们士兵的威胁比普通毒蛇怪大得多。"
+CodeName="Armor Hide"
+LongDescription="这种新型毒蛇怪比我们所面临的其他毒蛇更具威胁性。隐藏在盔甲下的那具躯体更像是雄性的，这与其他毒蛇怪均为雌性有所区别。这个发现对我们来说是个坏消息。长老们是不是只有在极端情况下才会释放这些雄性毒蛇怪？希望这些东西不会像雌性那样大量出现吧。 R. Tygan."
+
+[CorpseArmoredPsiViper X2ItemTemplate]
+FriendlyName="灵能装甲毒蛇怪尸体"
+FriendlyNamePlural="灵能装甲毒蛇怪尸体"
+BriefSummary="灵能装甲毒蛇怪跟装甲毒蛇怪很相似。装甲给了它对火的免疫力，以及对爆炸物的防护。但是这种毒蛇的灵能能力也很有限。"
+
+[AutopsyArmoredPsiViper X2TechTemplate]
+DisplayName="解剖灵能装甲毒蛇怪"
+Summary="灵能装甲毒蛇怪具有有限的灵能能力，但是比非灵能敌人更具威胁。"
+CodeName="Iron Hide"
+LongDescription="这些灵能装甲毒蛇怪和装甲毒蛇怪一样是雄性。他们使用的盔甲使其免疫火焰，对爆炸伤害有额外减免，同时也赋予他们一些抵抗精神攻击的能力。 他们携带的灵能武器使得这些毒蛇很难以应付，遭遇时应把它们列为首要攻击目标。R. Tygan."
+
+[PsiSpit X2AbilityTemplate]
+LocFriendlyName="灵能喷吐"
+LocLongDescription="灵能喷吐攻击单个目标，会导致目标混乱、恐慌或遭受心灵控制。"
+LocHelpText="灵能喷吐攻击单个目标"
+LocFlyOverText="灵能喷吐"
+
+[VorpalSlash X2AbilityTemplate]
+LocFriendlyName="致命斩击"
+LocLongDescription="斩击一个目标，该攻击无视目标护甲护盾，并且不消耗行动点。"
+LocHelpText="斩击单个目标"
+LocFlyOverText="斩击目标"
+
+[XCOM_VorpalBlade X2WeaponTemplate]
+FriendlyName="斩首之刃"
+FriendlyNamePlural="斩首之刃"
+BriefSummary="斩首之刃的伤害输出与T3融合之刃相近。 它还具有特殊的致命斩击技能，该技能忽略目标所有护甲护盾以对目标造成完全伤害，并能使目标着火。"
+TacticalText="<bullet/> 致命斩击有3回合冷却时间"
+AbilityDescName="斩首之刃"
+
+[GatlingRifle_XC X2WeaponTemplate]
+FriendlyName="加特林电浆步枪"
+FriendlyNamePlural="加特林电浆步枪"
+BriefSummary="我们现在可以研发加特林电浆步枪了。一种重型的外星电浆步枪，具有较高的伤害输出并能破甲。"
+TacticalText="<Bullet/> 加特林电浆步枪是一种威力巨大的武器。\n<Bullet/> 缺乏特殊训练的情况下，用主武器射击将会结束该士兵的回合。\n<Bullet/> 用加特林电浆步枪摧毁护甲。"
+AbilityDescName="加特林步枪"
+
+[GatlingVorpalRifle_XC X2WeaponTemplate]
+FriendlyName="加特林处刑步枪"
+FriendlyNamePlural="加特林处刑步枪"
+BriefSummary="我们现在可以研发加特林处刑步枪了。一种重型的外星电浆步枪，具有较高的伤害输出。配备特殊的电浆技术，可以无视护甲造成伤害。"
+TacticalText="<Bullet/> 加特林处刑步枪是一种威力巨大的武器。\n<Bullet/> 缺乏特殊训练的情况下，用主武器射击将会结束该士兵的回合。\n<Bullet/> 特殊电浆科技使其无视敌人护甲。"
+AbilityDescName="加特林处刑步枪"
