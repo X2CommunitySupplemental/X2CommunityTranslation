@@ -448,3 +448,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1122837889
 https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
 
 * Russian
+
+# Shadow Ops Classes For LWOTC
+https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
+
+* Russian 
