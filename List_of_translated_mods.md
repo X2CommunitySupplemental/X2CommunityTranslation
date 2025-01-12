@@ -1,13 +1,3 @@
-# Musashis RPG Overhaul
-https://steamcommunity.com/sharedfiles/filedetails/?id=1280477867
-
-* Russian
-
-# [WOTC] Proficiency Class Pack
-https://steamcommunity.com/sharedfiles/filedetails/?id=1265143828
-
-* Russian
-
 # Commander's Choice [WOTC & Vanilla]
 https://steamcommunity.com/sharedfiles/filedetails/?id=688405905
 
@@ -453,26 +443,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1122837889
 * Russian
 * Chinese
 * Simplified Chinese
-
-# [WOTC] Proficiency Class Plugin: Reaper
-https://steamcommunity.com/sharedfiles/filedetails/?id=1864618184
-
-* Russian
-
-# [WOTC] Proficiency Class Plugin: Skirmisher
-https://steamcommunity.com/sharedfiles/filedetails/?id=1990637687
-
-* Russian
-
-# [WOTC] Proficiency Class Plugin: Templar
-https://steamcommunity.com/sharedfiles/filedetails/?id=2496297018
-
-* Russian
-
-# [WOTC] Proficiency Class Plugin: Jane Kelly
-https://steamcommunity.com/sharedfiles/filedetails/?id=2352681017
-
-* Russian
 
 # Suit Upgrading
 https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
