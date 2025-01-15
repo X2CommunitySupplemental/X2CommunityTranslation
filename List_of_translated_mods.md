@@ -1,13 +1,3 @@
-# Musashis RPG Overhaul
-https://steamcommunity.com/sharedfiles/filedetails/?id=1280477867
-
-* Russian
-
-# [WOTC] Proficiency Class Pack
-https://steamcommunity.com/sharedfiles/filedetails/?id=1265143828
-
-* Russian
-
 # Commander's Choice [WOTC & Vanilla]
 https://steamcommunity.com/sharedfiles/filedetails/?id=688405905
 
@@ -369,6 +359,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1505294997
 * Russian
 * Simplified Chinese
 
+# [WOTC] Sectoid Abductor
+https://steamcommunity.com/sharedfiles/filedetails/?id=1386027774
+
+* Russian
+* Simplified Chinese
+
 # [WOTC] Choose My Class
 https://steamcommunity.com/sharedfiles/filedetails/?id=1467643380
 
@@ -454,27 +450,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1122837889
 * Chinese
 * Simplified Chinese
 
-# [WOTC] Proficiency Class Plugin: Reaper
-https://steamcommunity.com/sharedfiles/filedetails/?id=1864618184
-
-* Russian
-
-# [WOTC] Proficiency Class Plugin: Skirmisher
-https://steamcommunity.com/sharedfiles/filedetails/?id=1990637687
-
-* Russian
-
-# [WOTC] Proficiency Class Plugin: Templar
-https://steamcommunity.com/sharedfiles/filedetails/?id=2496297018
-
-* Russian
-
-# [WOTC] Proficiency Class Plugin: Jane Kelly
-https://steamcommunity.com/sharedfiles/filedetails/?id=2352681017
-
-* Russian
-
 # Suit Upgrading
 https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
 
 * Russian
+
+# Shadow Ops Classes For LWOTC
+https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
+
+* Russian 
