@@ -359,6 +359,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1386027774
 * Russian
 * Simplified Chinese
 
+# [WOTC] Armored Viper
+https://steamcommunity.com/sharedfiles/filedetails/?id=1505294997
+
+* Russian
+* Simplified Chinese
+
 # [WOTC] Choose My Class
 https://steamcommunity.com/sharedfiles/filedetails/?id=1467643380
 
