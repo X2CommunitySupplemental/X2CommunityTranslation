@@ -1,0 +1,8 @@
+; LWOTC Needs Translation
+[X2Ability_ThrowingKnifeAbilitySet]
+RendTheMarkedEffectName="Разорвать отмеченное"
+RendTheMarkedEffectDesc="Метательные ножи дают накопительный бонус к шансу критической атаки +<Ability:REND_THE_MARKED_CRIT/> против цели от всех источников до конца хода."
+; End Translation
+
+IcyWindsReserveActionName="TestLW"
+IcyWindsMarkEffectName="TestLW"
