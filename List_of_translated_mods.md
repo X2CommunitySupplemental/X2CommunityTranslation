@@ -459,3 +459,18 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
 https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
 * Russian 
+
+# A Harder War: The Ethereal Restoration
+https://steamcommunity.com/sharedfiles/filedetails/?id=2726953893
+
+* Russian
+
+# [WoTC] Muton Hunter
+https://steamcommunity.com/sharedfiles/filedetails/?id=2182049731
+
+* Russian
+
+* # [WOTC] Stukov's War Gene Mods
+https://steamcommunity.com/sharedfiles/filedetails/?id=2728408174
+
+* Russian
