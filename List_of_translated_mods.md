@@ -479,3 +479,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2728408174
 https://steamcommunity.com/sharedfiles/filedetails/?id=1335226018
 
 * Russian
+
+# [WOTC] LWOTC Shadow Ops and LWOTC Classes Ported Back
+https://steamcommunity.com/sharedfiles/filedetails/?id=3234301247
+
+* Russian
