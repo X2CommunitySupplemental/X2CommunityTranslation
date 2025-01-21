@@ -35,43 +35,6 @@ AbilityTreeTitles[2]="XCOM"
 ;ALPHABETICAL ORDER
 RandomNickNames[0]="Bandit"
 RandomNickNames[1]="Blitz"
-RandomNickNames[2]="Brick"[FirstLW X2SoldierClassTemplate]
-DisplayName="FirstLW"
-ClassSummary="The Ranger serves as our primary reconnaissance unit, capable of moving independently in concealment while engaging enemies at close range."
-LeftAbilityTreeTitle="Scout"
-RightAbilityTreeTitle="Assault"
-AbilityTreeTitles[0]="Scout"
-AbilityTreeTitles[1]="Assault"
-AbilityTreeTitles[2]="XCOM"
-;ALPHABETICAL ORDER
-RandomNickNames[0]="Bandit"
-RandomNickNames[1]="Blitz"
-RandomNickNames[2]="Brick"
-
-[SecondLW X2SoldierClassTemplate]
-DisplayName="SecondLW"
-ClassSummary="The Ranger serves as our primary reconnaissance unit, capable of moving independently in concealment while engaging enemies at close range."
-LeftAbilityTreeTitle="Scout"
-RightAbilityTreeTitle="Assault"
-AbilityTreeTitles[0]="Scout"
-AbilityTreeTitles[1]="Assault"
-AbilityTreeTitles[2]="XCOM"
-;ALPHABETICAL ORDER
-RandomNickNames[0]="Bandit"
-RandomNickNames[1]="Blitz"
-RandomNickNames[2]="Brick"
-
-[ThirdLW X2SoldierClassTemplate]
-DisplayName="ThirdLW"
-ClassSummary="The Ranger serves as our primary reconnaissance unit, capable of moving independently in concealment while engaging enemies at close range."
-LeftAbilityTreeTitle="Scout"
-RightAbilityTreeTitle="Assault"
-AbilityTreeTitles[0]="Scout"
-AbilityTreeTitles[1]="Assault"
-AbilityTreeTitles[2]="XCOM"
-;ALPHABETICAL ORDER
-RandomNickNames[0]="Bandit"
-RandomNickNames[1]="Blitz"
 RandomNickNames[2]="Brick"
 
 [FourthLW X2SoldierClassTemplate]
@@ -1245,10 +1208,10 @@ LocFlyOverText="Защитник"
 LocPromotionPopupText="<Bullet/> Все не наносящие урон гранаты, кроме призрачных, подходят для Защитника..<br/>"
 
 [LW2WotC_HEATWarheads X2AbilityTemplate]
-LocFriendlyName="кумулятивные боеголовки"
+LocFriendlyName="Кумулятивные боеголовки"
 LocLongDescription="Ваши гранаты теперь пробивают до <Ability:HEAT_WARHEADS_PIERCE> очков брони и разрывают <Ability:HEAT_WARHEADS_SHRED> дополнительных очков брони."
 LocHelpText="Ваши гранаты теперь пробивают до <Ability:HEAT_WARHEADS_PIERCE> очков брони и разрывают <Ability:HEAT_WARHEADS_SHRED> дополнительных очков брони."
-LocFlyOverText="кумулятивные боеголовки"
+LocFlyOverText="Кумулятивные боеголовки"
 LocPromotionPopupText="<Bullet/> Ваши гранаты теперь пробивают (игнорируют) до <Ability:HEAT_WARHEADS_PIERCE> очков брони и разрывают <Ability:HEAT_WARHEADS_SHRED> дополнительных очков брони.<br/>"
 
 [LW2WotC_AreaSuppression X2AbilityTemplate]
