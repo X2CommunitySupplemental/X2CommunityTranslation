@@ -1,0 +1,11 @@
+[PR_HighGround X2AbilityTemplate]
+LocFriendlyName="Высота"
+LocHelpText=""Предоставляет перки «Дальний прицел» и «Отличная позиция»."
+LocLongDescription=""Предоставляет перки «Дальний прицел» и «Отличная позиция»."
+LocPromotionPopupText="<Bullet/> "Предоставляет перки «Дальний прицел» и «Отличная позиция»."
+
+[PR_RangeFinder X2AbilityTemplate]
+LocFriendlyName="Дальномер"
+LocHelpText="Предоставляет перки «Дальний прицел» и «Долгое наблюдение»."
+LocLongDescription="Предоставляет перки «Дальний прицел» и «Долгое наблюдение»."
+LocPromotionPopupText="<Bullet/> Предоставляет перки «Дальний прицел» и «Долгое наблюдение»."

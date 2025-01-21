@@ -1,0 +1,353 @@
+[PRFreeBitterfrostGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная граната Лютого мороза"
+LocHelpText="Бесплатная граната Лютого мороза"
+LocLongDescription="Бесплатная граната Лютого мороза"
+LocPromotionPopupText="<Bullet/> Бесплатная граната Лютого мороза"
+
+[PRFreeBitterfrostGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная граната Лютого мороза"
+LocHelpText="Дополнительная бесплатная граната Лютого мороза"
+LocLongDescription="Дополнительная бесплатная граната Лютого мороза"
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная граната Лютого мороза"
+
+[ImprovisePRFreeBitterfrostGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная граната Лютого мороза"
+LocHelpText="Самодельная граната Лютого мороза. Перезарядка: 2 хода"
+LocLongDescription="Самодельная граната Лютого мороза. Перезарядка: 2 хода. 6 зарядов"
+LocPromotionPopupText="<Bullet/> Самодельная граната Лютого мороза. Перезарядка: 2 хода. 6 зарядов"
+
+[PRFreeSmokeGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная дымовая граната"
+LocHelpText="Бесплатная дымовая граната. Улучшается до дымовой бомбы после исследования."
+LocLongDescription="Бесплатная дымовая граната. Улучшается до дымовой бомбы после исследования."
+LocPromotionPopupText="<Bullet/> Бесплатная дымовая граната. Улучшается до дымовой бомбы после исследования."
+
+[PRFreeSmokeGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная дымовая граната"
+LocHelpText="Дополнительная бесплатная дымовая граната. Улучшается до дымовой бомбы после исследования."
+LocLongDescription="Дополнительная бесплатная дымовая граната. Улучшается до дымовой бомбы после исследования."
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная дымовая граната. Улучшается до дымовой бомбы после исследования."
+
+[ImprovisePRFreeSmokeGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная дымовая граната"
+LocHelpText="Самодельная дымовая граната. Перезарядка: 1 ход. Улучшается до дымовой бомбы после исследования. 8 зарядов."
+LocLongDescription="Самодельная дымовая граната. Перезарядка: 1 ход. Улучшается до дымовой бомбы после исследования. 8 зарядов"
+LocPromotionPopupText="<Bullet/> Самодельная дымовая граната. Перезарядка: 1 ход. Улучшается до дымовой бомбы после исследования. 8 зарядов"
+
+[PRFreeFragGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная осколочная граната"
+LocHelpText="Бесплатная осколочная граната. Улучшается до плазменной гранаты после исследования."
+LocLongDescription="Бесплатная осколочная граната. Улучшается до плазменной гранаты после исследования."
+LocPromotionPopupText="<Bullet/> Бесплатная осколочная граната. Улучшается до плазменной гранаты после исследования."
+
+[PRFreeFragGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная осколочная граната"
+LocHelpText="Дополнительная бесплатная осколочная граната. Улучшается до плазменной гранаты после исследования."
+LocLongDescription="Дополнительная бесплатная осколочная граната. Улучшается до плазменной гранаты после исследования."
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная осколочная граната. Улучшается до плазменной гранаты после исследования."
+
+[ImprovisePRFreeFragGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная осколочная граната"
+LocHelpText="Самодельная осколочная граната. Перезарядка: 2 хода. Улучшается до плазменной гранаты после исследования. 6 зарядов."
+LocLongDescription="Самодельная осколочная граната. Перезарядка: 2 хода. Улучшается до плазменной гранаты после исследования. 6 зарядов."
+LocPromotionPopupText="<Bullet/> Самодельная осколочная граната. Перезарядка: 2 хода. Улучшается до плазменной гранаты после исследования. 6 зарядов."
+
+[PRFreeAcidGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная кислотная граната"
+LocHelpText="Бесплатная кислотная граната. Улучшается до кислотной бомбы после исследования."
+LocLongDescription="Бесплатная кислотная граната. Улучшается до кислотной бомбы после исследования."
+LocPromotionPopupText="<Bullet/> Бесплатная кислотная граната. Улучшается до кислотной бомбы после исследования."
+
+[PRFreeAcidGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная кислотная граната"
+LocHelpText="Дополнительная бесплатная кислотная граната. Улучшается до кислотной бомбы после исследования."
+LocLongDescription="Дополнительная бесплатная кислотная граната. Улучшается до кислотной бомбы после исследования."
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная кислотная граната. Улучшается до кислотной бомбы после исследования."
+
+[ImprovisePRFreeAcidGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная кислотная граната"
+LocHelpText="Самодельная кислотная граната. Перезарядка: 4 хода. Улучшается до кислотной бомбы после исследования. 6 зарядов."
+LocLongDescription="Самодельная кислотная граната. Перезарядка: 4 хода. Улучшается до кислотной бомбы после исследования. 6 зарядов."
+LocPromotionPopupText="<Bullet/> Самодельная кислотная граната. Перезарядка: 4 хода. Улучшается до кислотной бомбы после исследования. 6 зарядов."
+
+[PRFreeEMPGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная ЭМИ-граната"
+LocHelpText="Бесплатная ЭМИ-граната"
+LocLongDescription="Бесплатная ЭМИ-граната"
+LocPromotionPopupText="<Bullet/> Бесплатная ЭМИ-граната"
+
+[PRFreeEMPGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная ЭМИ-граната"
+LocHelpText="Дополнительная бесплатная ЭМИ-граната"
+LocLongDescription="Дополнительная бесплатная ЭМИ-граната"
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная ЭМИ-граната"
+
+[ImprovisePRFreeEMPGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная ЭМИ-граната"
+LocHelpText="Самодельная ЭМИ-граната. Перезарядка: 3 хода. 6 зарядов"
+LocLongDescription="Самодельная ЭМИ-граната. Перезарядка: 3 хода. 6 зарядов"
+LocPromotionPopupText="<Bullet/> Самодельная ЭМИ-граната. Перезарядка: 3 хода. 6 зарядов"
+
+[PRFreeFirebomb X2AbilityTemplate]
+LocFriendlyName="Бесплатная зажигательная граната"
+LocHelpText="Бесплатная зажигательная граната. Улучшается до зажигательной бомбы после исследования."
+LocLongDescription="Бесплатная зажигательная граната. Улучшается до зажигательной бомбы после исследования."
+LocPromotionPopupText="<Bullet/> Бесплатная зажигательная граната. Улучшается до зажигательной бомбы после исследования."
+
+[PRFreeFirebomb2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная зажигательная граната"
+LocHelpText="Дополнительная бесплатная зажигательная граната. Улучшается до зажигательной бомбы после исследования."
+LocLongDescription="Дополнительная бесплатная зажигательная граната. Улучшается до зажигательной бомбы после исследования."
+LocPromotionPopupText="<Bullet/>Дополнительная бесплатная зажигательная граната. Улучшается до зажигательной бомбы после исследования."
+
+[ImprovisePRFreeFirebomb X2AbilityTemplate]
+LocFriendlyName="Самодельная зажигательная граната"
+LocHelpText="Самодельная зажигательная граната. Перезарядка: 4 хода. Улучшается до зажигательной бомбы после исследования. 4 заряда."
+LocLongDescription="Самодельная зажигательная граната. Перезарядка: 4 хода. Улучшается до зажигательной бомбы после исследования. 4 заряда"
+LocPromotionPopupText="<Bullet/> Самодельная зажигательная граната. Перезарядка: 4 хода. Улучшается до зажигательной бомбы после исследования. 4 заряда"
+
+[PRFreeNeurotoxinGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная нейротоксиновая граната"
+LocHelpText="Бесплатная нейротоксиновая граната"
+LocLongDescription="Бесплатная нейротоксиновая граната"
+LocPromotionPopupText="<Bullet/>Бесплатная нейротоксиновая граната"
+
+[PRFreeNeurotoxin2Grenade X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная нейротоксиновая граната"
+LocHelpText="Дополнительная бесплатная нейротоксиновая граната"
+LocLongDescription="Дополнительная бесплатная нейротоксиновая граната"
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная нейротоксиновая граната"
+
+[ImprovisePRFreeNeurotoxinGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная нейротоксиновая граната"
+LocHelpText="Самодельная нейротоксиновая граната. Перезарядка: 3 хода. 6 зарядов"
+LocLongDescription="Самодельная нейротоксиновая граната. Перезарядка: 3 хода. 6 зарядов."
+LocPromotionPopupText="<Bullet/> Самодельная нейротоксиновая граната. Перезарядка: 3 хода. 6 зарядов."
+
+[PRFreeGasGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная газовая граната"
+LocHelpText="Бесплатная газовая граната. Улучшается до газовой бомбы после исследования."
+LocLongDescription="Бесплатная газовая граната. Улучшается до газовой бомбы после исследования."
+LocPromotionPopupText="<Bullet/> Бесплатная газовая граната. Улучшается до газовой бомбы после исследования."
+
+[PRFreeGasGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная газовая граната"
+LocHelpText="Дополнительная бесплатная газовая граната. Улучшается до газовой бомбы после исследования."
+LocLongDescription="Дополнительная бесплатная газовая граната. Улучшается до газовой бомбы после исследования."
+LocPromotionPopupText="<Bullet/>Дополнительная бесплатная газовая граната. Улучшается до газовой бомбы после исследования."
+
+[ImprovisePRFreeGasGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная газовая граната"
+LocHelpText="Самодельная газовая граната. Перезарядка 3 хода. Улучшается до газовой бомбы после исследования. 6 зарядов."
+LocLongDescription="Самодельная газовая граната. Перезарядка 3 хода. Улучшается до газовой бомбы после исследования. 6 зарядов."
+LocPromotionPopupText="<Bullet/> Самодельная газовая граната. Перезарядка 3 хода. Улучшается до газовой бомбы после исследования. 6 зарядов."
+
+[PRFreeFlashbangGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная светошумовая граната"
+LocHelpText="Бесплатная светошумовая граната"
+LocLongDescription="Бесплатная светошумовая граната"
+LocPromotionPopupText="<Bullet/> Бесплатная светошумовая граната"
+
+[PRFreeFlashbangGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная светошумовая граната"
+LocHelpText="Дополнительная бесплатная светошумовая граната"
+LocLongDescription="Дополнительная бесплатная светошумовая граната"
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная светошумовая граната"
+
+[ImprovisePRFreeFlashbangGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная светошумовая граната"
+LocHelpText="Самодельная светошумовая граната. Перезарядка 1 ход. 8 зарядов"
+LocLongDescription="Самодельная светошумовая граната. Перезарядка 1 ход. 8 зарядов"
+LocPromotionPopupText="<Bullet/> Самодельная светошумовая граната. Перезарядка 1 ход. 8 зарядов"
+
+[PRFreeRadGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная радиационная граната"
+LocHelpText="Бесплатная радиационная граната"
+LocLongDescription="Бесплатная радиационная граната"
+LocPromotionPopupText="<Bullet/> Бесплатная радиационная граната"
+
+[PRFreeRadGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная радиационная граната"
+LocHelpText="Дополнительная бесплатная радиационная граната"
+LocLongDescription="Дополнительная бесплатная радиационная граната"
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная радиационная граната"
+
+[ImprovisePRFreeRadGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная радиационная граната"
+LocHelpText="Самодельная радиационная граната. Перезарядка 4 хода. 4 заряда"
+LocLongDescription="Самодельная радиационная граната. Перезарядка 4 хода. 4 заряда"
+LocPromotionPopupText="<Bullet/> Самодельная радиационная граната. Перезарядка 4 хода. 4 заряда"
+
+[PRFreeMagGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная магнитная граната"
+LocHelpText="Бесплатная магнитная граната"
+LocLongDescription="Бесплатная магнитная граната"
+LocPromotionPopupText="<Bullet/> Бесплатная магнитная граната"
+
+[PRFreeMagGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная магнитная граната"
+LocHelpText="Дополнительная бесплатная магнитная граната"
+LocLongDescription="Дополнительная бесплатная магнитная граната"
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная магнитная граната"
+
+[ImprovisePRFreeMagGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная магнитная граната"
+LocHelpText="Самодельная магнитная граната. Перезарядка 3 хода. 6 зарядов"
+LocLongDescription="Самодельная магнитная граната. Перезарядка 3 хода. 6 зарядов"
+LocPromotionPopupText="<Bullet/> Самодельная магнитная граната. Перезарядка 3 хода. 6 зарядов"
+
+[PRFreeLaserGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная лазерная граната"
+LocHelpText="Бесплатная лазерная граната"
+LocLongDescription="Бесплатная лазерная граната"
+LocPromotionPopupText="<Bullet/> Бесплатная лазерная граната"
+
+[PRFreeLaserGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная лазерная граната"
+LocHelpText="Дополнительная бесплатная лазерная граната"
+LocLongDescription="Дополнительная бесплатная лазерная граната"
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная лазерная граната"
+
+[ImprovisePRFreeLaserGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная лазерная граната"
+LocHelpText="Самодельная лазерная граната. Перезарядка 4 хода. 4 заряда"
+LocLongDescription="Самодельная лазерная граната. Перезарядка 4 хода. 4 заряда"
+LocPromotionPopupText="<Bullet/> Самодельная лазерная граната. Перезарядка 4 хода. 4 заряда."
+
+[PRFreeVortexGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная вихревая граната"
+LocHelpText="Бесплатная вихревая граната"
+LocLongDescription="Бесплатная вихревая граната"
+LocPromotionPopupText="<Bullet/> Бесплатная вихревая граната"
+
+[PRFreeVortexGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная вихревая граната"
+LocHelpText="Дополнительная бесплатная вихревая граната"
+LocLongDescription="Дополнительная бесплатная вихревая граната"
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная вихревая граната"
+
+[ImprovisePRFreeVortexGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная вихревая граната"
+LocHelpText="Самодельная вихревая граната. Перезарядка 4 хода. 4 заряда"
+LocLongDescription="Самодельная вихревая граната. Перезарядка 4 хода. 4 заряда"
+LocPromotionPopupText="<Bullet/> Самодельная вихревая граната. Перезарядка 4 хода. 4 заряда"
+
+[PRFreeXCOMConcussionGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная контузионная граната XCOM"
+LocHelpText="Бесплатная контузионная граната XCOM"
+LocLongDescription="Бесплатная контузионная граната XCOM"
+LocPromotionPopupText="<Bullet/> Бесплатная контузионная граната XCOM"
+
+[PRFreeXCOMConcussionGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная контузионная граната XCOM"
+LocHelpText="Дополнительная бесплатная контузионная граната XCOM"
+LocLongDescription="Дополнительная бесплатная контузионная граната XCOM"
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная контузионная граната XCOM"
+
+[ImprovisePRFreeXCOMConcussionGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная контузионная граната XCOM"
+LocHelpText="Самодельная контузионная граната XCOM. Перезарядка 3 хода. 6 зарядов"
+LocLongDescription="Самодельная контузионная граната XCOM. Перезарядка 3 хода. 6 зарядов"
+LocPromotionPopupText="<Bullet/> Самодельная контузионная граната XCOM. Перезарядка 3 хода. 6 зарядов"
+
+[PRFreeBlackFlameGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная граната "Черное Пламя""
+LocHelpText="Бесплатная граната "Черное Пламя""
+LocLongDescription="Бесплатная граната "Черное Пламя""
+LocPromotionPopupText="<Bullet/> Бесплатная граната "Черное Пламя""
+
+[PRFreeBlackFlameGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная граната "Черное Пламя""
+LocHelpText="Дополнительная бесплатная граната "Черное Пламя""
+LocLongDescription="Дополнительная бесплатная граната "Черное Пламя""
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная граната "Черное Пламя""
+
+[ImprovisePRFreeBlackFlameGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная граната "Черное Пламя""
+LocHelpText="Самодельная граната "Черное Пламя". Перезарядка 4 хода. 2 заряда"
+LocLongDescription="Самодельная граната "Черное Пламя". Перезарядка 4 хода. 2 заряда"
+LocPromotionPopupText="<Bullet/> Самодельная граната "Черное Пламя". Перезарядка 4 хода. 2 заряда"
+
+[PRFreeXCOMControlGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная граната контроля XCOM"
+LocHelpText="Бесплатная граната контроля XCOM"
+LocLongDescription="Бесплатная граната контроля XCOM"
+LocPromotionPopupText="<Bullet/> Бесплатная граната контроля XCOM"
+
+[PRFreeXCOMControlGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная граната контроля XCOM"
+LocHelpText="Дополнительная бесплатная граната контроля XCOM"
+LocLongDescription="Дополнительная бесплатная граната контроля XCOM"
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная граната контроля XCOM"
+
+[ImprovisePRFreeXCOMControlGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная граната контроля XCOM"
+LocHelpText="Самодельная граната контроля XCOM. Перезарядка 4 хода. 6 зарядов"
+LocLongDescription="Самодельная граната контроля XCOM. Перезарядка 4 хода. 6 зарядов"
+LocPromotionPopupText="<Bullet/> Самодельная граната контроля XCOM. Перезарядка 4 хода. 6 зарядов"
+
+[PRFreeFrostBomb X2AbilityTemplate]
+LocFriendlyName="Бесплатная граната Морозной бомбы"
+LocHelpText="Бесплатная граната Морозной бомбы"
+LocLongDescription="Бесплатная граната Морозной бомбы"
+LocPromotionPopupText="<Bullet/> Бесплатная граната Морозной бомбы"
+
+[PRFreeFrostBombGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная граната Морозной бомбы"
+LocHelpText="Дополнительная бесплатная граната Морозной бомбы"
+LocLongDescription="Дополнительная бесплатная граната Морозной бомбы"
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная граната Морозной бомбы"
+
+[ImprovisePRFreeFrostBomb X2AbilityTemplate]
+LocFriendlyName="Самодельная граната Морозной бомбы"
+LocHelpText="Самодельная граната Морозной бомбы. Перезарядка 4 хода. 2 заряда"
+LocLongDescription="Самодельная граната Морозной бомбы. Перезарядка 4 хода. 2 заряда"
+LocPromotionPopupText="<Bullet/> Самодельная граната Морозной бомбы. Перезарядка 4 хода. 2 заряда"
+
+[PRFreeAPGrenade X2AbilityTemplate]
+LocFriendlyName="Бесплатная граната действий"
+LocHelpText="Бесплатная граната действий"
+LocLongDescription="Бесплатная граната действий"
+LocPromotionPopupText="<Bullet/> Бесплатная граната действий"
+
+[PRFreeAPGrenade2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная граната действий"
+LocHelpText="Дополнительная бесплатная граната действий"
+LocLongDescription="Дополнительная бесплатная граната действий"
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная граната действий"
+
+[ImprovisePRFreeAPGrenade X2AbilityTemplate]
+LocFriendlyName="Самодельная граната действий"
+LocHelpText="Самодельная граната действий. Перезарядка 2 хода. 6 зарядов"
+LocLongDescription="Самодельная граната действий. Перезарядка 2 хода. 6 зарядов"
+LocPromotionPopupText="<Bullet/> Самодельная граната действий. Перезарядка 2 хода. 6 зарядов"
+
+[PRPA_StunMineMk1 X2AbilityTemplate]
+LocFriendlyName="Бесплатная оглушающая мина для разведчика"
+LocHelpText="Бесплатная оглушающая мина для разведчика."
+LocLongDescription="Бесплатная оглушающая мина для разведчика"
+LocPromotionPopupText="<Bullet/> Бесплатная оглушающая мина для разведчика"
+
+[PRPA_StunMineMk2 X2AbilityTemplate]
+LocFriendlyName="Дополнительная бесплатная оглушающая мина для разведчика"
+LocHelpText="Дополнительная бесплатная оглушающая мина для разведчика"
+LocLongDescription="Дополнительная бесплатная оглушающая мина для разведчика"
+LocPromotionPopupText="<Bullet/> Дополнительная бесплатная оглушающая мина для разведчика"
+
+[PRPA_StunMineMk3 X2AbilityTemplate]
+LocFriendlyName="Еще одна бесплатная оглушающая мина для разведчика"
+LocHelpText="Еще одна бесплатная оглушающая мина для разведчика"
+LocLongDescription="Еще одна бесплатная оглушающая мина для разведчика"
+LocPromotionPopupText="<Bullet/> Еще одна бесплатная оглушающая мина для разведчика"
+
+[PR_MasterEngineer X2AbilityTemplate]
+LocFriendlyName="Мастер-инженер"
+LocHelpText="Один раз за ход, навыки самодельных гранат возвращают использованное действие."
+LocLongDescription="Один раз за ход, навыки самодельных гранат возвращают использованное действие."
+LocPromotionPopupText="<Bullet/> Один раз за ход, навыки самодельных гранат возвращают использованное действие."
+
+[PR_FireRocketLauncher X2AbilityTemplate]
+LocFriendlyName="PR_Огненный залп"
+LocHelpText="PR_Огненный залп"
+LocLongDescription="PR_Огненный залп"
+LocPromotionPopupText="<Bullet/> PR_Огненный залп"
