@@ -35,6 +35,43 @@ AbilityTreeTitles[2]="XCOM"
 ;ALPHABETICAL ORDER
 RandomNickNames[0]="Bandit"
 RandomNickNames[1]="Blitz"
+RandomNickNames[2]="Brick"[FirstLW X2SoldierClassTemplate]
+DisplayName="FirstLW"
+ClassSummary="The Ranger serves as our primary reconnaissance unit, capable of moving independently in concealment while engaging enemies at close range."
+LeftAbilityTreeTitle="Scout"
+RightAbilityTreeTitle="Assault"
+AbilityTreeTitles[0]="Scout"
+AbilityTreeTitles[1]="Assault"
+AbilityTreeTitles[2]="XCOM"
+;ALPHABETICAL ORDER
+RandomNickNames[0]="Bandit"
+RandomNickNames[1]="Blitz"
+RandomNickNames[2]="Brick"
+
+[SecondLW X2SoldierClassTemplate]
+DisplayName="SecondLW"
+ClassSummary="The Ranger serves as our primary reconnaissance unit, capable of moving independently in concealment while engaging enemies at close range."
+LeftAbilityTreeTitle="Scout"
+RightAbilityTreeTitle="Assault"
+AbilityTreeTitles[0]="Scout"
+AbilityTreeTitles[1]="Assault"
+AbilityTreeTitles[2]="XCOM"
+;ALPHABETICAL ORDER
+RandomNickNames[0]="Bandit"
+RandomNickNames[1]="Blitz"
+RandomNickNames[2]="Brick"
+
+[ThirdLW X2SoldierClassTemplate]
+DisplayName="ThirdLW"
+ClassSummary="The Ranger serves as our primary reconnaissance unit, capable of moving independently in concealment while engaging enemies at close range."
+LeftAbilityTreeTitle="Scout"
+RightAbilityTreeTitle="Assault"
+AbilityTreeTitles[0]="Scout"
+AbilityTreeTitles[1]="Assault"
+AbilityTreeTitles[2]="XCOM"
+;ALPHABETICAL ORDER
+RandomNickNames[0]="Bandit"
+RandomNickNames[1]="Blitz"
 RandomNickNames[2]="Brick"
 
 [FourthLW X2SoldierClassTemplate]
@@ -848,9 +885,9 @@ LocPromotionPopupText="<Bullet/> Получите бонусное действ�
 [LW2WotC_LoneWolf X2AbilityTemplate]
 LocFriendlyName="Одинокий волк"
 LocFlyOverText="Одинокий волк"
-LocLongDescription="Дает +<Ability:LONEWOLF_AIM_BONUS/> точности, +<Ability:LONEWOLF_CRIT_BONUS/> крита, и +<Ability:LONEWOLF_DEF_BONUS/> защиты когда <Ability:LONEWOLF_MIN_DIST_TILES/> или более плиток, удаленных от любого союзника."
-LocHelpText="Дает +<Ability:LONEWOLF_AIM_BONUS/> точности, +<Ability:LONEWOLF_CRIT_BONUS/> крита, и +<Ability:LONEWOLF_DEF_BONUS/> защиты когда <Ability:LONEWOLF_MIN_DIST_TILES/> или более плиток, удаленных от любого союзника."
-LocPromotionPopupText="<Bullet/> Дает +<Ability:LONEWOLF_AIM_BONUS/> точности, +<Ability:LONEWOLF_CRIT_BONUS/> крита, и +<Ability:LONEWOLF_DEF_BONUS/> защиты когда <Ability:LONEWOLF_MIN_DIST_TILES/> или более плиток, удаленных от любого союзника.<br/><Bullet/> Эта способность не дает защитных бонусов, если юнит дезориентирован, оглушен, паникует, горит или иным образом ослаблен."
+LocLongDescription="Дает +<Ability:LONEWOLF_AIM_BONUS/> точности, +<Ability:LONEWOLF_CRIT_BONUS/> крита, и +<Ability:LONEWOLF_DEF_BONUS/> защиты когда <Ability:LONEWOLF_MIN_DIST_TILES/> или более клеток, удаленных от любого союзника."
+LocHelpText="Дает +<Ability:LONEWOLF_AIM_BONUS/> точности, +<Ability:LONEWOLF_CRIT_BONUS/> крита, и +<Ability:LONEWOLF_DEF_BONUS/> защиты когда <Ability:LONEWOLF_MIN_DIST_TILES/> или более клеток, удаленных от любого союзника."
+LocPromotionPopupText="<Bullet/> Дает +<Ability:LONEWOLF_AIM_BONUS/> точности, +<Ability:LONEWOLF_CRIT_BONUS/> крита, и +<Ability:LONEWOLF_DEF_BONUS/> защиты когда <Ability:LONEWOLF_MIN_DIST_TILES/> или более клеток, удаленных от любого союзника.<br/><Bullet/> Эта способность не дает защитных бонусов, если юнит дезориентирован, оглушен, паникует, горит или иным образом ослаблен."
 
 [LW2WotC_LowProfile X2AbilityTemplate]
 LocFriendlyName="Низкий профиль"
@@ -1217,16 +1254,16 @@ LocPromotionPopupText="<Bullet/> Ваши гранаты теперь проби
 [LW2WotC_AreaSuppression X2AbilityTemplate]
 LocFriendlyName="Подавление зоны"
 LocFlyOverText="Подавление зоны"
-LocLongDescription="Открывайте заградительный огонь, который поражает множество целей в радиусе 4 плиток, открывая ответный огонь по любому, кто движется, и накладывая <Ability:SUPPRESSIONPENALTY/> штраф на прицеливание всех целей до тех пор, пока не будет снято подавление. Не может использоваться в скрытом виде."
+LocLongDescription="Открывайте заградительный огонь, который поражает множество целей в радиусе 4 клеток, открывая ответный огонь по любому, кто движется, и накладывая <Ability:SUPPRESSIONPENALTY/> штраф на прицеливание всех целей до тех пор, пока не будет снято подавление. Не может использоваться в скрытом виде."
 LocHelpText="Подавляйте несколько целей в пределах зоны поражения."
 LocPromotionPopupText="<Bullet/> Зональное подавление не может быть использовано, когда солдат находится в укрытии.<br/><Bullet/> Любой юнит, который попытается переместиться, столкнется с ответным огнем до тех пор, пока у подавляющего подразделения останутся боеприпасы.<br/><Bullet/> Не работает с дробовиками или снайперскими винтовками.<br/><Bullet/> Подавление зоны требует <Ability:SelfAmmoCost/> боекомплекта, которые можно использовать, плюс один дополнительный патрон за каждый ответный выстрел. У него нет времени восстановления.<br/><Bullet/> Подавление зоны будет отменено, если подавляющего ранили.<br/><Bullet/> Если несколько юнитов подавляют цель, штраф на попадание в цель будет суммироваться.<br/><Bullet/> Подавление ограничивает многие возможности цели, включая использование ракет и гранат."
 
 [LW2WotC_DangerZone X2AbilityTemplate]
 LocFriendlyName="Опасная зона"
 LocFlyOverText="Опасная зона"
-LocLongDescription="Подавление зоны подавляет врагов в радиусе 5 плиток."
+LocLongDescription="Подавление зоны подавляет врагов в радиусе 5 клеток."
 LocHelpText="Подавление более широкой области."
-LocPromotionPopupText="<Bullet/> Подавление зоны подавляет врагов в радиусе 5 плиток.<br/>
+LocPromotionPopupText="<Bullet/> Подавление зоны подавляет врагов в радиусе 5 клеток.<br/>
 
 [LW2WotC_Lockdown X2AbilityTemplate]
 LocFriendlyName="Блокировка"
