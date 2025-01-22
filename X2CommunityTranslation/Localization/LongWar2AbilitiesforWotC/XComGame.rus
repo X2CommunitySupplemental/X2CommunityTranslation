@@ -904,9 +904,9 @@ LocPromotionPopupText="<Bullet/> Ваши атаки в ближнем бою п
 [LW2WotC_WalkFire X2AbilityTemplate]
 LocFriendlyName="Ходячий огонь"
 LocFlyOverText="Ходячий огонь"
-LocLongDescription="Сделайте высокоточный выстрел с помощью +<Ability:WALK_FIRE_AIM_BONUS> бонус к попаданию, но для <Ability:WALK_FIRE_DAMAGE_PERCENT_MALUS>% урона и -<Ability:WALK_FIRE_CRIT_MALUS> крита. использует <Ability:WALK_FIRE_AMMO_COST> патрон. <Ability:WALK_FIRE_COOLDOWN> раундов перезарядки."
-LocHelpText="Специальный выстрел: +<Ability:WALK_FIRE_AIM_BONUS> точности, -<Ability:WALK_FIRE_CRIT_MALUS> крита, <Ability:WALK_FIRE_DAMAGE_PERCENT_MALUS>% урона, использует <Ability:SelfAmmoCost/> патрон."
-LocPromotionPopupText="<Bullet/> Это специальный выстрел, при котором солдат корректирует прицел в середине очереди из автоматического оружия, добавляя +<Ability:WALK_FIRE_AIM_BONUS> точность -<Ability:WALK_FIRE_CRIT_MALUS> крит и наносит <Ability:WALK_FIRE_DAMAGE_PERCENT_MALUS>% урона.<br/><Bullet/> Использует <Ability:SelfAmmoCost/> патрон.<br/><Bullet/> <Ability:WALK_FIRE_COOLDOWN> время перезарядки.<br/><Bullet/> Требуется оружие для стрельбы очередями; способность недоступна, если в качестве основного оружия используется дробовик или снайперская винтовка."
+LocLongDescription="Сделайте высокоточный выстрел с помощью +<Ability:WALK_FIRE_AIM_BONUS> бонус к попаданию, но для <Ability:WALK_FIRE_DAMAGE_PERCENT_MALUS>% урона и -<Ability:WALK_FIRE_CRIT_MALUS> крита. использует <Ability:WALK_FIRE_AMMO_COST> боеприпаса. <Ability:WALK_FIRE_COOLDOWN> раундов перезарядки."
+LocHelpText="Специальный выстрел: +<Ability:WALK_FIRE_AIM_BONUS> точности, -<Ability:WALK_FIRE_CRIT_MALUS> крита, <Ability:WALK_FIRE_DAMAGE_PERCENT_MALUS>% урона, использует <Ability:SelfAmmoCost/> боеприпаса."
+LocPromotionPopupText="<Bullet/> Это специальный выстрел, при котором солдат корректирует прицел в середине очереди из автоматического оружия, добавляя +<Ability:WALK_FIRE_AIM_BONUS> точность -<Ability:WALK_FIRE_CRIT_MALUS> крит и наносит <Ability:WALK_FIRE_DAMAGE_PERCENT_MALUS>% урона.<br/><Bullet/> Использует <Ability:SelfAmmoCost/> боеприпаса.<br/><Bullet/> <Ability:WALK_FIRE_COOLDOWN> время перезарядки.<br/><Bullet/> Требуется оружие для стрельбы очередями; способность недоступна, если в качестве основного оружия используется дробовик или снайперская винтовка."
 
 [LW2WotC_PrecisionShot X2AbilityTemplate]
 LocFriendlyName="Точный выстрел"
@@ -1035,8 +1035,8 @@ LocHelpText="Время бега и перезарядки оружия умен
 LocPromotionPopupText="<Bullet/> Время бега и перезарядки оружия уменьшается на <Ability:EXTRA_CONDITIONING_COOLDOWN_REDUCTION> ходов.<br/>"
 
 [LW2WotC_Smoker X2AbilityTemplate]
-LocFriendlyName="Дымарь"
-LocFlyOverText="Дымарь"
+LocFriendlyName="Дымовик"
+LocFlyOverText="Дымовик"
 LocLongDescription="Добавляет в ваш инвентарь одну бесплатную дымовую гранату."
 LocHelpText="Добавляет в ваш инвентарь одну бесплатную дымовую гранату."
 LocPromotionPopupText="<Bullet/> Добавляет в ваш инвентарь одну бесплатную дымовую гранату.<br/>"
