@@ -1,0 +1,21 @@
+[XGLocalizedData_BallisticShields]
+m_strCategoryRestricted="ОРУЖИЕ НЕ МОЖЕТ ИСПОЛЬЗОВАТЬСЯ ВМЕСТЕ СО ЩИТОМ"
+m_strAimPenalty="ШТРАФ К МЕТКОСТИ"
+
+m_strShieldCategory = "БАЛИСТИЧЕСКИЙ ЩИТ"
+m_strSparkShieldCategory = "БАШЕННЫЙ ЩИТ ИСКРЫ"
+
+[X2DownloadableContentInfo_WotCBallisticShields]
++m_arrAnimationPoses=(AnimationDisplayName="ЩИТ Строго по уставу")
++m_arrAnimationPoses=(AnimationDisplayName="ЩИТ Укрепление")
++m_arrAnimationPoses=(AnimationDisplayName="ЩИТ Страж")
++m_arrAnimationPoses=(AnimationDisplayName="ЩИТ Устрашение")
++m_arrAnimationPoses=(AnimationDisplayName="ЩИТ Расслабленный")
++m_arrAnimationPoses=(AnimationDisplayName="ЩИТ Оружие опущено")
++m_arrAnimationPoses=(AnimationDisplayName="ЩИТ Стена")
++m_arrAnimationPoses=(AnimationDisplayName="ЩИТ Оружие поднято")
++m_arrAnimationPoses=(AnimationDisplayName="ЩИТ Настороженный")
++m_arrAnimationPoses=(AnimationDisplayName="ЩИТ С мечом 1")
++m_arrAnimationPoses=(AnimationDisplayName="ЩИТ С мечом 2")
++m_arrAnimationPoses=(AnimationDisplayName="ЩИТ С винтовкой 1")
++m_arrAnimationPoses=(AnimationDisplayName="ЩИТ С винтовкой 2")
