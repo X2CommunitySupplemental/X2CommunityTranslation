@@ -459,3 +459,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
 https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
 * Russian 
+
+# WotC Vest Slot
+https://steamcommunity.com/workshop/filedetails/?id=1293714688
+
+* Russian 
