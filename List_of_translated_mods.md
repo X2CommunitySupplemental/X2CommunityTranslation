@@ -459,3 +459,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
 https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
 * Russian 
+
+# WotC Ballistic Shields
+https://steamcommunity.com/sharedfiles/filedetails/?id=1416242202
+
+* Russian 
