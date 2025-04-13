@@ -459,3 +459,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
 https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
 * Russian 
+
+# LWOTC Fuller Override
+https://steamcommunity.com/sharedfiles/filedetails/?id=2824110051
+
+* Russian 
