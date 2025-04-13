@@ -1,0 +1,1296 @@
+; === AWC abilities ===
+
+[ShadowOps_HipFire X2AbilityTemplate]
+LocFriendlyName="Выстрел от бедра"
+LocLongDescription="Выстрел из оружия: <Ability:WeaponName/> по цели. Свободное действие. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Выстрел из оружия: <Ability:WeaponName/> по цели. Свободное действие."
+LocFlyOverText="Выстрел от бедра"
+LocPromotionPopupText="<Bullet/> Способность \"Выстрел от бедра\" перезаряжается <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_Scrounger X2AbilityTemplate]
+LocFriendlyName="Барахольщик"
+LocLongDescription="Получите шанс на выпадение дополнительной добычи, когда этот солдат участвует на задании."
+LocHelpText="Получите шанс на выпадение дополнительной добычи, когда этот солдат участвует на задании."
+
+[ShadowOps_Weaponmaster X2AbilityTemplate]
+LocFriendlyName="Оружейный мастер"
+LocLongDescription="Ваше оружие: <Ability:WeaponName/> дополнительно получает <Ability:+Damage/> ед. к урону."
+LocHelpText="Ваше оружие: <Ability:WeaponName/> дополнительно получает <Ability:+Damage/> ед. к урону."
+
+[ShadowOps_AbsolutelyCritical X2AbilityTemplate]
+LocFriendlyName="Абсолютный крит"
+LocLongDescription="Получите <Ability:+Crit> к шансу критического попадания для атак с фланга или по целям без укрытий."
+LocHelpText="Получите <Ability:+Crit> к шансу критического попадания для атак с фланга или по целям без укрытий."
+LocPromotionPopupText="<Bullet/> Работает для атак с фланга, а также против целей которые не могут пользоваться укрытиями.<br/>"
+
+[ShadowOps_SnakeBlood X2AbilityTemplate]
+LocFriendlyName="Змеиная кровь"
+LocLongDescription="Получите <Ability:Dodge/> к уклонению и иммунитет к яду."
+LocHelpText="Получите <Ability:Dodge/> к уклонению и иммунитет к яду."
+LocFlyOverText="Змеиная кровь"
+
+[ShadowOps_Rage X2AbilityTemplate]
+LocFriendlyName="Ярость"
+LocLongDescription="Получите способности \"Безжалостность\", \"Неуязвимость\" и \"Серия\" на 3 хода, но вы не можете использовать другие действия."
+LocHelpText="Получите способности \"Безжалостность\", \"Неуязвимость\" и \"Серия\" на 3 хода, но вы не можете использовать другие действия."
+LocFlyOverText="Ярость"
+
+; === GTS ability templates ===
+
+; === Gameplay tips ===
+
+; Changing gameplay tips doesn't actually work for some reason
+[XGLocalizedData]
++GameplayTips_Tactical="Способность Боевого инженера \"Брешь\" наносит гарантированный урон. Она отлично подходит для добивания смертельно раненых врагов."
++GameplayTips_Tactical="Драгун со способностью \"Танк\" способен выдерживать большое количество урона, в сочетании с экзоскелетом или боевым костюмом."
++GameplayTips_Tactical="Иногда лучше сохранить заряды Протокола \"Щит\", для солдат попавших в беду."
++GameplayTips_Tactical="Пехотинец наносит много урона, но быстро расходует боеприпасы. Снарядите их расширенным магазином или авто-заряжанием."
++GameplayTips_Tactical="Не позволяйте Охотникам сильно отставать от остальной части отряда, они хорошо себя чувствуют и на близких дистанциях."
++GameplayTips_Tactical="Многие способности Боевого инженера лучше работают с дробовиком, нежели со штурмовой винтовкой."
+
+; === Engineer abilities ===
+
+[ShadowOps_DenseSmoke X2AbilityTemplate]
+LocFriendlyName="Расширенная дымовая завеса"
+LocLongDescription="Радиус действия дымовых гранат увеличивается на <Ability:ExpandedSmokeBonusRadius> клеток."
+LocHelpText="Радиус действия дымовых гранат увеличивается на <Ability:ExpandedSmokeBonusRadius> клеток"
+LocFlyOverText="Расширенная дымовая завеса"
+LocPromotionPopupText="<Bullet/> Действует как на дымовые гранаты, так и на дымовые бомбы.<br/>"
+
+[ShadowOps_SmokeAndMirrors X2AbilityTemplate]
+LocFriendlyName="Дым и зеркала"
+LocLongDescription="Вы получаете бесплатную дымовую гранату на каждом задании. Запуск или бросок дымовой гранаты первым действием не заканчивает ход."
+LocHelpText="Вы получаете бесплатную дымовую гранату на каждом задании. Запуск или бросок дымовой гранаты первым действием не заканчивает ход."
+LocFlyOverText="Дым и зеркала"
+LocPromotionPopupText="<Bullet/> Дымовые гранаты дают +20 к защите всем юнитам в радиусе действия и действуют 2 хода. Каждая дымовая граната имеет 2 заряда.<br/><Bullet/> Перед началом боя, переместите Боевого инженера на удобную позицию, чтобы он первым же действием защитил солдат дымом.<br/><Bullet/> Дымовые гранаты будут экипированы, даже если у вас есть другие гранаты.<br/>"
+
+[ShadowOps_Breach X2AbilityTemplate]
+LocFriendlyName="Брешь"
+LocLongDescription="Сделайте выстрел который разрушает укрытие и разрывает <Ability:Shred/> ед. брони в небольшой зоне, но наносит слабый урон и не может наносить критические удары. Только дробовик. Требует <Ability:SelfAmmoCost/> ед. боеприпасов. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Сделайте выстрел который разрушает укрытие и разрывает <Ability:Shred/> ед. брони в небольшой зоне, но наносит слабый урон и не может наносить критические удары."
+LocFlyOverText="Брешь"
+LocPromotionPopupText="<Bullet/> Чем выше уровень оружия, тем больше будет нанесено урона и разорвано брони.<br/><Bullet/> Способность \"Брешь\" отлично разрушает укрытия, но наносит меньше урона и имеет меньший радиус чем запуск гранаты.<br/><Bullet/> Гарантированный урон, отлично подходит для добивания смертельно раненых врагов.<br/><Bullet/> Не может наносить критический урон.<br/><Bullet/> Требует <Ability:SelfAmmoCost/> ед. боеприпасов и перезаряжается <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_Fastball X2AbilityTemplate]
+LocFriendlyName="Быстрый бросок"
+LocLongDescription="Следующий бросок или запуск гранаты не требует очков действий. Время восстановления <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Следующий бросок или запуск гранаты не требует очков действий."
+LocFlyOverText="Быстрый бросок"
+LocPromotionPopupText="<Bullet/> Лучше использовать способность \"Быстрый бросок\" как только появится возможность. Если вы будете ждать подходящий момент, у вас могут закончится гранаты, когда представиться идеальная возможность.<br/><Bullet/> Бросок или запуск гранаты со способностью \"Быстрый бросок\" не завершает ход.<br/><Bullet/> Перезарядка <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_Fracture X2AbilityTemplate]
+LocFriendlyName="Пролом"
+LocLongDescription="Сделайте выстрел с дополнительным <Ability:+Crit:ShadowOps_FractureDamage/> шансом критического попадания, наносящий двойной критический урон. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Сделайте выстрел с дополнительным <Ability:+Crit:ShadowOps_FractureDamage/> шансом критического попадания, наносящий двойной критический урон."
+LocFlyOverText="Пролом"
+LocPromotionPopupText="<Bullet/> Способность \"Пролом\" лучше сочетается с дробовиком, т.к. они имеют повышенный шанс критического попадания и повышенный критический урон.<br/><Bullet/> Перезарядка <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_FractureDamage X2AbilityTemplate]
+LocFriendlyName="Пролом"
+LocLongDescription="Выстрел с дополнительным <Ability:+Crit:ShadowOps_FractureDamage/> шансом критического попадания, наносящий двойной критический урон."
+LocHelpText="Выстрел с дополнительным <Ability:+Crit:ShadowOps_FractureDamage/> шансом критического попадания, наносящий двойной критический урон."
+LocFlyOverText="Пролом"
+
+[ShadowOps_Packmaster X2AbilityTemplate]
+LocFriendlyName="Запасливый"
+LocLongDescription="Предметы с ограниченным использованием во вспомогательных слотах получают еще один заряд. Не включает гранаты в специальном слоте для гранат."
+LocHelpText="Предметы с ограниченным использованием во вспомогательных слотах получают еще один заряд. Не включает гранаты в специальном слоте для гранат."
+LocFlyOverText="Запасливый"
+LocPromotionPopupText="<Bullet/> Также работает с предметами которые не являются гранатами, такие как аптечка и маяк-имитатор.<br/>"
+
+[ShadowOps_Entrench X2AbilityTemplate]
+LocFriendlyName="Окоп"
+LocLongDescription="Увеличивает защиту на <Ability:Defense/> и уклонение на <Ability:Dodge/> пока вы не сдвинетесь с места. Работает только в укрытии."
+LocHelpText="Увеличивает защиту на <Ability:Defense/> и уклонение на <Ability:Dodge/> пока вы не сдвинетесь с места. Работает только в укрытии."
+LocFlyOverText="Окоп"
+LocPromotionPopupText="<Bullet/> Часто, лучше остаться в худшем укрытии со способностью \"Окоп\", чем бежать в более лучшее без этой способности.<br/>"
+
+[ShadowOps_Aggression X2AbilityTemplate]
+LocFriendlyName="Агрессия"
+LocLongDescription="Все ваши атаки имеют <Ability:+Crit/> к шансу критического попадания за каждого видимого врага, максимально: <Ability:+MaxCrit/>."
+LocHelpText="Все ваши атаки имеют <Ability:+Crit/> к шансу критического попадания за каждого видимого врага, максимально: <Ability:+MaxCrit/>."
+LocFlyOverText="Агрессия"
+LocPromotionPopupText="<Bullet/> Способность \"Агрессия\" влияет даже на атаки, которые обычно не имеют шанса критического попадания, такие как броски гранат или способность \"Брешь\". <br/>"
+
+[ShadowOps_CombatDrugs X2AbilityTemplate]
+LocFriendlyName="Боевые наркотики"
+LocLongDescription="Быстродействующий стимулятор, содержащийся в дыму гранат даёт солдатам в области действия +20 к меткости и +20 к воле на 2 хода."
+LocHelpText="Ваши дымовые гранаты дают юнитам в области действия +20 к меткости и +20 к воле."
+LocFlyOverText="Боевые наркотики"
+LocPromotionPopupText="<Bullet/> Бонус действует на всех юнитов в дыму. Тем не менее, следите за вражескими гранатами.<br/>"
+
+[ShadowOps_SlamFire X2AbilityTemplate]
+LocFriendlyName="Сокрушительный натиск"
+LocLongDescription="До конца хода, когда солдат наносит критический удар из следующего оружия: <Ability:WeaponName/>, действие возвращается. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="До конца хода, когда солдат наносит критический удар из следующего оружия: <Ability:WeaponName/>, действие возвращается."
+LocFlyOverText="Сокрушительный натиск"
+LocPromotionPopupText="<Bullet/> При правильной подготовке, вы можете использовать \"Сокрушительный натиск\" несколько раз за ход. Попробуйте использовать \"Быстрый бросок\" чтобы разрушить укрытие, или бросьте дымовую гранату с \"Боевыми наркотиками\" для улучшения меткости.<br/><Bullet/> Если вы активируете \"Сокрушительный натиск\" в начале хода, вы сможете переместиться или перезарядиться перед выстрелом (один раз). <br/><Bullet/> Оборудуйте свое оружие лазерным прицелом и расширенным магазином, либо авто-заряжанием для максимального раскрытия потенциала.<br/>"
+
+[ShadowOps_DangerZone X2AbilityTemplate]
+LocFriendlyName="Опустошение"
+LocLongDescription="Радиус поражения ваших гранат и ракет увеличен на 2, а для способности \"Брешь\" на 1."
+LocHelpText="Радиус поражения ваших гранат и ракет увеличен на 2, а для способности \"Брешь\" на 1."
+LocFlyOverText="Опустошение"
+LocPromotionPopupText="<Bullet/> Способность \"Опустошение\" обеспечивает значительное увеличение радиуса поражения гранат и ракет, что позволяет легко поразить несколько врагов и разрушить их укрытие.<br/>"
+
+[ShadowOps_ChainReaction X2AbilityTemplate]
+LocFriendlyName="Цепная реакция"
+LocLongDescription="Когда вы убиваете врага с помощью взрыва, взрывчатка, которую нес противник, взрывается."
+LocHelpText="Когда вы убиваете врага с помощью взрыва, взрывчатка, которую нес противник, взрывается."
+LocFlyOverText="Цепная реакция"
+LocPromotionPopupText="<Bullet/> Способность \"Цепная реакция\" может нанести огромный урон плотно скопившимся противникам.<br/><Bullet/> Будьте осторожны при использовании взрывчатки рядом с товарищами по команде: последующие взрывы могут поразить юнитов которых вы не ожидали.<br/><Bullet/> Только враги убитые вами непосредственно вызывают детонацию. Последующие взрывы не вызывают такой реакции.<br/>"
+
+[ShadowOps_ChainReactionFuse X2AbilityTemplate]
+LocFriendlyName="Цепная реакция"
+LocFlyOverText="Цепная реакция"
+
+[ShadowOps_HeatAmmo X2AbilityTemplate]
+LocFriendlyName="Тепловые боеприпасы"
+LocLongDescription="Дополнительно усиливает на +50% урон против механических врагов."
+LocHelpText="Дополнительно усиливает на +50% урон против механических врагов."
+LocFlyOverText="Тепловые боеприпасы"
+LocPromotionPopupText="<Bullet/> Способность \"Тепловые боеприпасы\" значительно увеличивает урон против механических врагов, таких как МЭК и сектопод. <br/><Bullet/> Увеличение урона происходит до того, как урон будет уменьшен броней. <br/><Bullet/> Комбинация \"Тепловых боеприпасов\" и патронов \"Синий экран\" наносит колоссальный урон механическим врагам.<br/><Bullet/> Способность \"Тепловые боеприпасы\" влияет на все виды урона, включая взрывчатку.<br/>"
+
+[ShadowOps_MovingTarget X2AbilityTemplate]
+LocFriendlyName="Движущаяся цель"
+LocLongDescription="Получите дополнительно <Ability:+Defense/> защиты и <Ability:+Dodge/> уклонения против ответного огня."
+LocHelpText="Получите дополнительно <Ability:+Defense/> защиты и <Ability:+Dodge/> уклонения против ответного огня."
+LocFlyOverText="Движущаяся цель"
+LocPromotionPopupText="<Bullet/> Если вам нужно сорвать \"наблюдение\" врага - солдат со способностью \"Движущаяся цель\" хороший выбор. <br/>"
+
+[ShadowOps_FocusedDefense X2AbilityTemplate]
+LocFriendlyName="Сфокусированная защита"
+LocLongDescription="Получите дополнительно <Ability:+Defense/> защиты и <Ability:+Dodge/> уклонения против атак ближайшего видимого врага, находящегося не с фланга."
+LocHelpText="Получите дополнительно <Ability:+Defense/> защиты и <Ability:+Dodge/> уклонения против атак ближайшего видимого врага, находящегося не с фланга."
+LocFlyOverText="Сфокусированная защита"
+LocPromotionPopupText="<Bullet/> Способность не работает против атак ближнего боя.<br/><Bullet/> Если несколько врагов находятся на одинаковом расстоянии от солдата, вы получаете бонусы против них всех.<br/>"
+
+[ShadowOps_LineEmUp X2AbilityTemplate]
+LocFriendlyName="Приоритетная цель"
+LocLongDescription="Получите дополнительно <Ability:+ToHit/> к меткости и <Ability:+Crit/> к шансу критического попадания против ближайшего видимого врага."
+LocHelpText="Получите дополнительно <Ability:+ToHit/> к меткости и <Ability:+Crit/> к шансу критического попадания против ближайшего видимого врага."
+LocFlyOverText="Приоритетная цель"
+LocPromotionPopupText="<Bullet/> Если несколько врагов находятся на одинаковом расстоянии от солдата, вы получаете бонусы против них всех.<br/><Bullet/> Способность не влияет на атаки ближнего боя.<br/>"
+
+[ShadowOps_ControlledDetonation X2AbilityTemplate]
+LocFriendlyName="Направленный взрыв"
+LocLongDescription="Ваши атакующие гранаты не наносят урон союзникам."
+LocHelpText="Ваши атакующие гранаты не наносят урон союзникам."
+LocFlyOverText="Направленный взрыв"
+LocPromotionPopupText="<Bullet/> Также, включает самого бойца.<br/><Bullet/> Огонь, яд и кислота, оставленные после взрыва гранаты, все еще могут нанести урон союзникам.<br/>"
+
+[ShadowOps_Pyromaniac X2AbilityTemplate]
+LocFriendlyName="Пироманьяк"
+LocLongDescription="Предоставляет 1 бесплатную зажигательную гранату в ваш инвентарь."
+LocHelpText="Предоставляет 1 бесплатную зажигательную гранату в ваш инвентарь."
+LocFlyOverText="Пироманьяк"
+LocPromotionPopupText="<Bullet/> На бесплатную гранату не действует способность \"Запасливый\".<br/>"
+
+[ShadowOps_HitAndRun X2AbilityTemplate]
+LocFriendlyName="Тактика заступника"
+LocLongDescription="При использовании способности первым действием которые обычно заканчивают ход, получите действие движения."
+LocHelpText="При использовании способности первым действием которые обычно заканчивают ход, получите действие движения."
+LocFlyOverText="Тактика заступника"
+LocPromotionPopupText="<Bullet/> Не влияет на способности которые требуют два очка действия.<br/><Bullet/> Вы можете сменить позицию, но не сможете использовать другие действия, такие как перезарядка оружия.<br/>"
+
+[ShadowOps_SurvivalInstinct X2AbilityTemplate]
+LocFriendlyName="Инстинкт выживания"
+LocLongDescription="Получите дополнительно <Ability:+Defense/> к защите и <Ability:+Crit/> к шансу критического попадания при ранении."
+LocHelpText="Получите дополнительно <Ability:+Defense/> к защите и <Ability:+Crit/> к шансу критического попадания при ранении."
+LocFlyOverText="Инстинкт выживания"
+LocPromotionPopupText="<Bullet/> Бонусы теряются, если вы полностью восстановите здоровье.<br/>"
+
+[ShadowOps_DevilsLuck X2AbilityTemplate]
+LocFriendlyName="Дьявольская удача"
+LocLongDescription="Получите иммунитет к первому попаданию, в каждой миссии."
+LocHelpText="Получите иммунитет к первому попаданию, в каждой миссии."
+LocFlyOverText="Дьявольская удача"
+LocPromotionPopupText="<Bullet/> Также включает критический урон и царапины.<br/>"
+
+[ShadowOps_Mayhem X2AbilityTemplate]
+LocFriendlyName="Погром"
+LocLongDescription="Ваши гранаты и специальные атаки дополнительно наносят <Ability:+Damage> ед. урона."
+LocHelpText="Ваши гранаты и специальные атаки дополнительно наносят <Ability:+Damage> ед. урона."
+LocFlyOverText="Погром"
+LocPromotionPopupText="<Bullet/> Специальные атаки включают способности \"Брешь\", \"Пролом\" и тяжелое оружие."
+
+[ShadowOps_Mayhem_LW2 X2AbilityTemplate]
+LocFriendlyName="Удары хаоса"
+LocLongDescription="Все ваши атаки дополнительно наносят <Ability:+Damage> ед. урона."
+LocHelpText="Все ваши атаки дополнительно наносят <Ability:+Damage> ед. урона."
+LocFlyOverText="Удары хаоса"
+LocPromotionPopupText="<Bullet/> Способность \"Удары хаоса\" также увеличивает урон на <Ability:+DamageOverTime> от горения, отравления, и кислотного ожога.<br/>"
+
+[ShadowOps_Saboteur X2AbilityTemplate]
+LocFriendlyName="Саботажник"
+LocLongDescription="Ваши стандартные выстрелы из оружия: <Ability:WeaponName/>, наносят на <Ability:Damage>% больше урона взрывоопасным объектам, таким как бензобаки."
+LocHelpText="Ваши стандартные выстрелы из оружия: <Ability:WeaponName/>, наносят на <Ability:Damage>% больше урона взрывоопасным объектам, таким как бензобаки."
+LocFlyOverText="Саботажник"
+LocPromotionPopupText="<Bullet/> Способность \"Саботажник\" не увеличивает урон для гранат и способностей.<br/>"
+
+[ShadowOps_Anatomist X2AbilityTemplate]
+LocFriendlyName="Знаток анатомии"
+LocLongDescription="Вы наносите <Ability:+CritDamage> ед. дополнительного критического урона против тех врагов, которых вы уже убивали, максимум <Ability:+MaxCritDamage>."
+LocHelpText="Вы наносите <Ability:+CritDamage> ед. дополнительного критического урона против тех врагов, которых вы уже убивали, максимум <Ability:+MaxCritDamage>."
+LocPromotionPopupText="<Bullet/> Вы получаете дополнительный урон за каждого убитого вами врага одного и того же типа. Например солдат \"Адвента\" и продвинутый солдат \"Адвента\" - один и тот же тип.<br/><Bullet/> Убийства учитываются за все проведенные солдатом миссии.<br/>"
+
+[ShadowOps_ExtraMunitions X2AbilityTemplate]
+LocFriendlyName="Дополнительный боезапас"
+LocLongDescription="Предоставляет 1 бесплатную боевую гранату в ваш инвентарь."
+LocHelpText="Предоставляет 1 бесплатную боевую гранату в ваш инвентарь."
+LocFlyOverText="Дополнительный боезапас"
+LocPromotionPopupText="<Bullet/> На бесплатную гранату не действует способность \"Запасливый\".<br/><Bullet/> В зависимости от вашего тех.уровня способность будет добавлять разные гранаты: осколочная граната, плазменная граната и т.д.<br/>"
+
+[ShadowOps_ExtraMunitions_LW2 X2AbilityTemplate]
+LocFriendlyName="Разгрузка для гранат"
+LocLongDescription="Все боевые гранаты получают + 1 заряд."
+LocHelpText="Все боевые гранаты получают + 1 заряд."
+LocFlyOverText="Разгрузка для гранат"
+LocPromotionPopupText="<Bullet/> Касается только осколочных и плазменных гранат.<br/>"
+
+[ShadowOps_BullRush X2AbilityTemplate]
+LocFriendlyName="Бычий натиск"
+LocLongDescription="Проведите специальную атаку ближнего боя, против любого врага в диапазоне передвижения, которая наносит небольшой урон но оглушает цель на 1 ход."
+LocHelpText="Проведите специальную атаку ближнего боя, против любого врага в диапазоне передвижения, которая наносит небольшой урон но оглушает цель на 1 ход."
+LocPromotionPopupText="<Bullet/> Способность \"Бычий натиск\" также работает против механических целей.<br/>"
+
+[ShadowOps_SmokeAndMirrors_LW2 X2AbilityTemplate]
+LocFriendlyName="Дым и зеркала"
+LocLongDescription="Получите +1 заряд к каждой экипированной дымовой гранате. Запуск или бросок дымовой гранаты первым действием не заканчивает ход."
+LocHelpText="Получите +1 заряд к каждой экипированной дымовой гранате. Запуск или бросок дымовой гранаты первым действием не заканчивает ход."
+LocFlyOverText="Дым и зеркала"
+LocPromotionPopupText="<Bullet/> Способность \"Дым и зеркала\" также, немного сокращает время проникновения солдата.<br/>"
+
+[ShadowOps_BareKnuckle X2AbilityTemplate]
+LocFriendlyName="Голыми руками"
+LocLongDescription="Ваши рукопашные атаки получают <Ability:+CurDamage/> ед. к урону. Бонус к урону увеличивается с рангом солдата."
+LocHelpText="Ваши рукопашные атаки получают <Ability:+CurDamage/> ед. к урону."
+LocFlyOverText="Голыми руками"
+LocPromotionPopupText="<Bullet/> Атаки ближнего боя включают \"Бычий бросок\" и атаки ножом или щитом.<br/><Bullet/> Бонус к урону увеличивается на +1 за каждые 2 ранга солдата."
+
+[ShadowOps_DemoGrenades X2AbilityTemplate]
+LocFriendlyName="Разрушительные гранаты"
+LocLongDescription="Ваши боевые гранаты уничтожают большинство укрытий."
+LocHelpText="Ваши боевые гранаты уничтожают большинство укрытий."
+LocFlyOverText="Разрушительные гранаты"
+LocPromotionPopupText="<Bullet/> Гранаты всегда разрушают небольшие укрытия, такие как заборы и могут наносить урон укрепленным укрытиям.<br/>"
+
+[ShadowOps_Elusive X2AbilityTemplate]
+LocFriendlyName="Неуловимый"
+LocLongDescription="Получите +<Ability:Dodge/> к уклонению за каждого видимого врага в пределах 4 клеток."
+LocHelpText="Получите +<Ability:Dodge/> к уклонению за каждого видимого врага в пределах 4 клеток."
+LocFlyOverText="Неуловимый"
+LocPromotionPopupText="<Bullet/> Уклонение применяется ко всем атакам.<br/>"
+
+[ShadowOps_MadBomber X2AbilityTemplate]
+LocFriendlyName="Безумный подрывник"
+LocLongDescription="Предоставляет 2 случайные бесплатные гранаты в ваш инвентарь."
+LocHelpText="Предоставляет 2 случайные бесплатные гранаты в ваш инвентарь."
+LocFlyOverText="Безумный подрывник"
+LocPromotionPopupText="<Bullet/> Бесплатные гранаты выбираются случайно для каждой миссии.<br/>"
+
+[ShadowOps_Fracture_LW2 X2AbilityTemplate]
+LocFriendlyName="Трещина"
+LocLongDescription="Атаки оружием: <Ability:WeaponName/>, против механических врагов получают <Ability:+ToHit/> к меткости и разрывают <Ability:Shred/> ед. брони."
+LocHelpText="Атаки оружием: <Ability:WeaponName/>, против механических врагов получают <Ability:+ToHit/> к меткости и разрывают <Ability:Shred/> ед. брони."
+LocFlyOverText="Трещина"
+LocPromotionPopupText="<Bullet/> Не влияет на атаки против органических врагов.<br/>"
+
+; === Dragoon abilities ===
+
+[ShadowOps_ShieldProtocol X2AbilityTemplate]
+LocFriendlyName="Протокол \"Щит\""
+LocLongDescription="Предоставляет союзнику энергетический щит, поглощающий <Ability:Shield/> ед. урона. Также, предоставляет иммунитет к яду, пока активен щит."
+LocHelpText="Предоставляет союзнику энергетический щит, поглощающий <Ability:Shield/> ед. урона."
+LocFlyOverText="Протокол \"Щит\""
+LocPromotionPopupText="<Bullet/> Чем выше уровень \"Гремлина\", тем сильнее будет щит.<br/><Bullet/> Урон нанесенный щиту, не увеличивает время восстановления солдата при ранении, так что старайтесь защищать солдат до того, как они получат урон.<br/><Bullet/> Иногда стоит сохранить заряды щита для солдат, которые попали в беду.<br/><Bullet/> Щит действует пока не будет разрушен, солдат не умрет или эвакуируется с миссии.<br/><Bullet/> Также предоставляет иммунитет к яду, пока активен.<br/><Bullet/> Протокол \"Щит\" имеет 2 заряда на миссию.<br/>"
+
+[ShadowOps_AdvancedShieldProtocol X2AbilityTemplate]
+LocFriendlyName="Быстрое экранирование"
+LocLongDescription="Протокол \"Щит\" теперь используется как свободное действие."
+LocHelpText="Предоставляет союзнику энергетический щит, поглощающий <Ability:Shield/> ед. урона. Свободное действие."
+LocFlyOverText="Быстрое экранирование"
+LocPromotionPopupText="<Bullet/> Чем выше уровень \"Гремлина\", тем сильнее будет щит.<br/><Bullet/> Урон нанесенный щиту, не увеличивает время восстановления солдата при ранении, так что старайтесь защищать солдат до того, как они получат урон. <br/><Bullet/> Иногда стоит сохранить заряды щита для солдат, которые попали в беду.<br/><Bullet/> Щит действует пока не будет разрушен, солдат не умрет или эвакуируется с миссии.<br/><Bullet/> Также предоставляет иммунитет к яду, пока активен. br/><Bullet/> Протокол \"Щит\" имеет 2 заряда на миссию.<br/>"
+
+[ShadowOps_HeavyArmor X2AbilityTemplate]
+LocFriendlyName="Танк"
+LocLongDescription="Вы получаете дополнительные очки брони, в зависимости от экипированной брони."
+LocHelpText="Вы получаете дополнительные очки брони, в зависимости от экипированной брони."
+LocFlyOverText="Танк"
+LocPromotionPopupText="<Bullet/> Солдат со способностью \"Танк\" и экзоскелетом или боевой броней, способен поглотить колоссальное количество урона, особенно в сочетании с тактическим жилетом или усиленным жилетом.<br/><Bullet/> Легкая и средняя броня добавляет 1 ед. брони, а тяжелая 2 ед. брони.<br/>"
+
+[ShadowOps_StealthProtocol X2AbilityTemplate]
+LocFriendlyName="Протокол \"Маскировка\""
+LocLongDescription="Предоставляет союзному юниту маскировку."
+LocHelpText="Предоставляет союзному юниту маскировку."
+LocFlyOverText="Протокол \"Маскировка\""
+LocPromotionPopupText="<Bullet/> Протокол \"Маскировка\" может быть использован на любом солдате, поэтому подумайте, кого вы будете брать в команду.<br/><Bullet/> Протокол \"Маскировка\" можно использовать чтобы вытащить солдата из сложной ситуации. Однако его нельзя использовать на солдате, которого атакуют с фланга.<br/><Bullet/> Способность требует одно действие.<br/><Bullet/> Эффект способности пропадает, если солдат будет убит или эвакуируется с миссии.<br/><Bullet/> Протокол \"Маскировка\" имеет 1 заряд на миссию.<br/>"
+
+[ShadowOps_BurstFire X2AbilityTemplate]
+LocFriendlyName="Заградительный огонь"
+LocLongDescription="Атака всех врагов по прямой линии, сильно повреждающая и уничтожающая слабые укрытия. Требует <Ability:SelfAmmoCost/> ед. боеприпасов. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Атака всех врагов по прямой линии, сильно повреждающая и уничтожающая слабые укрытия."
+LocFlyOverText="Заградительный огонь"
+LocPromotionPopupText="<Bullet/> Способность получает 70% шанс нанести урон врагам и 100% шанс повредить или уничтожить укрытие.<br/><Bullet/> Способность \"Заградительный огонь\" может поразить несколько врагов при правильном расположении, но может хорошо сработать и против одного врага.<br/><Bullet/> Прежде чем стрелять знайте, что \"Заградительный огонь\" уничтожит практически все укрытия, даже позади цели.<br/><Bullet/> Будьте осторожны при использовании \"Заградительного огня\" из-за высокого укрытия. Солдат может \"ВЫЙТИ\" из-за укрытия не стой стороны с которой вы ожидали. В результате \"Заградительный огонь\" ударит по другой линии.<br/><Bullet/> Требует <Ability:SelfAmmoCost/> ед. боеприпасов и перезаряжается <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_ShieldsUp X2AbilityTemplate]
+LocFriendlyName="Поднять щиты"
+LocLongDescription="Все члены отряда получают энергетический щит, поглощающий <Ability:Shield/> ед. урона."
+LocHelpText="Все члены отряда получают энергетический щит, поглощающий <Ability:Shield/> ед. урона."
+LocFlyOverText="Поднять щиты"
+LocPromotionPopupText="<Bullet/> Чем выше уровень \"Гремлина\", тем сильнее будет щит.<br/><Bullet/> Щит предоставляемый способностью \"Поднять щиты\" небольшой, но он может помочь спасти солдата в критической ситуации или просто сократить время восстановления от ран.<br/><Bullet/> В отличии от протокола \"Щит\", не дает иммунитет к яду.<br/><Bullet/> Щиты пропадают, если солдат будет убит или эвакуируется с миссии.<br/>"
+
+[ShadowOps_ECM X2AbilityTemplate]
+LocFriendlyName="Электронный контрольный модуль"
+LocLongDescription="Радиус обнаружения у врагов, снижен на <Ability:ECMDetectionModifier/>%."
+LocHelpText="Радиус обнаружения у врагов, снижен на <Ability:ECMDetectionModifier/>%."
+LocFlyOverText="Электронный контрольный модуль"
+LocPromotionPopupText="<Bullet/> Эффект пропадает если Драгун будет убит или эвакуируется с миссии.<br/>"
+
+[ShadowOps_Rocketeer X2AbilityTemplate]
+LocFriendlyName="Ракетчик"
+LocLongDescription="Ваша ракетная установка или другое тяжёлое оружие получает дополнительный заряд."
+LocHelpText="Ваша ракетная установка или другое тяжёлое оружие получает дополнительный заряд."
+LocFlyOverText="Ракетчик"
+LocPromotionPopupText="<Bullet/> Тяжелое оружие - это то, которое устанавливается в экзоскелет или боевую броню, такое как осколочная пушка.<br/>"
+
+[ShadowOps_Vanish X2AbilityTemplate]
+LocFriendlyName="Исчезновение"
+LocLongDescription="Если в начале вашего хода ни один враг вас не видит вы получаете маскировку. Этот эффект срабатывает с перезарядкой в 2 хода."
+LocHelpText="Если в начале вашего хода ни один враг вас не видит вы получаете маскировку."
+LocFlyOverText="Исчезновение"
+LocPromotionPopupText="<Bullet/> Бойцы с этой способностью - хорошие разведчики. Если вас раскроют - отступите и снова замаскируйтесь.<br/><Bullet/> Способность не имеет ограничений в использовании - только время перезарядки.<br/><Bullet/> Способность \"Исчезновение\" перезаряжается 2 хода. <br/>"
+
+[ShadowOps_VanishTrigger X2AbilityTemplate]
+LocFriendlyName="Исчезновение"
+LocLongDescription="Если в начале вашего хода ни один враг вас не видит вы получаете маскировку. Этот эффект срабатывает с перезарядкой в 2 хода."
+LocHelpText="Если в начале вашего хода ни один враг вас не видит вы получаете маскировку."
+LocFlyOverText="Исчезновение"
+
+[ShadowOps_RestorationProtocol X2AbilityTemplate]
+LocFriendlyName="Протокол \"Обновление\""
+LocLongDescription="Предоставляет юниту регенерацию по <Ability:Heal/> ОЗ за ход, до максимума в <Ability:MaxHeal/>. Также, стабилизирует и поднимает истекающих кровью или бессознательных солдат и снимает некоторые негативные эффекты."
+LocHelpText="Предоставляет регенерацию очков здоровья каждый ход, а также стабилизирует и восстанавливает истекающих кровью или бессознательных солдат."
+LocFlyOverText="Протокол \"Обновление\""
+LocPromotionPopupText="<Bullet/> Протокол \"Обновление\" позволяет вернуть в строй смертельно раненого или истекающего кровью солдата. Постарайтесь приберечь его для того бойца, кому он действительно понадобиться.<br/><Bullet/> Протокол \"Обновление\" восстанавливает 2 ОЗ за ход, до максимума 8 ОЗ. Первое восстановление происходит сразу при применении способности.<br/><Bullet/> Проект зоны испытаний \"Полевая медицина\", увеличит количество восстанавливаемых очков здоровья до 3 ед. за ход. <br/><Bullet/> Чем выше уровень \"Гремлина\", тем больше порог восстанавливаемых очков здоровья.<br/><Bullet/> Протокол \"Обновление\" имеет 1 заряд на миссию.<br/>"
+
+[ShadowOps_StasisField X2AbilityTemplate]
+LocFriendlyName="Стазисное поле"
+LocLongDescription="Помещает Драгуна и всех ближайших юнитов в стазис на один ход. Юниты в стазисе не могут действовать и невосприимчивы к урону. Можно использовать один раз за миссию."
+LocHelpText="Помещает Драгуна и всех ближайших юнитов в стазис на один ход. Юниты в стазисе не могут действовать и невосприимчивы к урону."
+LocFlyOverText="Стазисное поле"
+LocPromotionPopupText="<Bullet/> Способность \"Стазисное поле\" работает как на союзников, так и на врагов.<br/><Bullet/> Способность \"Стазисное поле\" имеет 1 заряд на миссию.<br/>"
+
+[ShadowOps_PuppetProtocol X2AbilityTemplate]
+LocFriendlyName="Протокол \"Марионетка\""
+LocLongDescription="Получите перманентный контроль механического врага. Вы можете контролировать только одного врага за миссию. Использование способности не нарушает индивидуальную маскировку, если взлом был успешным."
+LocHelpText="Получите перманентный контроль механического врага. Вы можете контролировать только одного врага за миссию."
+LocFlyOverText="Протокол \"Марионетка\""
+LocPromotionPopupText="<Bullet/> Протокол \"Марионетка\" нарушит маскировку если вы провалите взлом.<br/><Bullet/> Неудачная попытка взлома, не имеет штрафов. <br/><Bullet/> Протокол \"Марионетка\" имеет перезарядку в <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_TacticalSense X2AbilityTemplate]
+LocFriendlyName="Грация"
+LocLongDescription="Получите <Ability:+Dodge/> к уклонению за каждого видимого врага, максимально: <Ability:+MaxDodge/>."
+LocHelpText="Получите <Ability:+Dodge/> к уклонению за каждого видимого врага, максимально: <Ability:+MaxDodge/>."
+LocFlyOverText="Грация"
+LocPromotionPopupText="<Bullet> Уклонение увеличивает шанс превратить попадание по вам в \"царапину\".<br/><Bullet/> Враги видимые благодаря \"общему виду\" не учитываются.<br/>"
+
+[ShadowOps_Aegis X2AbilityTemplate]
+LocFriendlyName="Улучшенный щит \"Эгида\""
+LocLongDescription="Протокол \"Щит\" теперь снижает весь входящий урон на 33%."
+LocHelpText="Протокол \"Щит\" теперь снижает весь входящий урон на 33%."
+LocFlyOverText="Улучшенный щит \"Эгида\""
+LocPromotionPopupText="<Bullet/> Уменьшает весь входящий урон при активном щите, а не только урон который поглощает щит.<br/>"
+
+[ShadowOps_IronWill X2AbilityTemplate]
+LocFriendlyName="Железная воля"
+LocLongDescription="Увеличивает волю на <Ability:Will> и гарантирует что солдат будет истекать кровью вместо того чтобы умереть. Срабатывает 1 раз за миссию."
+LocHelpText="Увеличивает волю на <Ability:Will> и гарантирует что солдат будет истекать кровью вместо того чтобы умереть."
+LocFlyOverText="Железная воля"
+LocPromotionPopupText="<Bullet/> Воля увеличивает сопротивление дезориентации, панике, оглушению и потери сознания.<br/>"
+
+[ShadowOps_SensorOverlays X2AbilityTemplate]
+LocFriendlyName="Сенсоры"
+LocLongDescription="Все солдаты в отряде получают <Ability:+Crit> к шансу критического попадания против врагов, которых вы видите."
+LocHelpText="Все солдаты в отряде получают <Ability:+Crit> к шансу критического попадания против врагов, которых вы видите."
+LocFlyOverText="Сенсоры"
+LocPromotionPopupText="<Bullet/> Враги видимые благодаря \"общему виду\" не учитываются.<br/>"
+
+[ShadowOps_Supercharge X2AbilityTemplate]
+LocFriendlyName="Перегрузка"
+LocLongDescription="Все способности \"Гремлина\" получают бонусный заряд."
+LocHelpText="Все способности \"Гремлина\" получают бонусный заряд."
+LocFlyOverText="Перегрузка"
+LocPromotionPopupText="<Bullet/> Способности \"Гремлина\" включают: протокол \"Обновление\", протокол \"Маскировка\" и протокол \"Щит\".<br/>"
+
+[ShadowOps_Scout X2AbilityTemplate]
+LocFriendlyName="Скаут"
+LocLongDescription="Предоставляет 1 бесплатный боевой сканер в ваш инвентарь."
+LocHelpText="Предоставляет 1 бесплатный боевой сканер в ваш инвентарь."
+LocFlyOverText="Скаут"
+LocPromotionPopupText="<Bullet/> Складывается с боевыми сканерами переносимыми в инвентаре.<br/>"
+
+[ShadowOps_Lightfoot X2AbilityTemplate]
+LocFriendlyName="Легкая поступь"
+LocLongDescription="Получите <Ability:+Mobility/> к мобильности. Вас на 20% сложнее обнаружить при маскировке."
+LocHelpText="Получите <Ability:+Mobility/> к мобильности. Вас на 20% сложнее обнаружить при маскировке."
+LocFlyOverText="Легкая поступь"
+LocPromotionPopupText="<Bullet/> Дополнительная мобильность от способности \"Легкая поступь\", может помочь вам обойти врага с фланга, но будьте осторожны чтобы сильно не отделяться от остальной части отряда.<br/><Bullet/> Улучшенная маскировка складывается с другими способностями, такими как \"Электронный контрольный модуль\".<br/>"
+
+[ShadowOps_Charge X2AbilityTemplate]
+LocFriendlyName="Заряжай!"
+LocLongDescription="Получите стандартное очко действия после рывка."
+LocHelpText="Получите стандартное очко действия после рывка."
+LocFlyOverText="Заряжай!"
+LocPromotionPopupText="<Bullet/> Способность \"Заряжай!\" используется только 1 раз за миссию.<br/>"
+
+[ShadowOps_EatThis X2AbilityTemplate]
+LocFriendlyName="Съешь это!"
+LocLongDescription="Получите <Ability:+ToHit> к меткости и <Ability:+Crit> к шансу критического попадания при атаках против соседних целей. Бонус падает с увеличением расстояния до максимума в <Ability:EatThisMaxTiles/> клеток."
+LocHelpText="Получите <Ability:+ToHit> к меткости и <Ability:+Crit> к шансу критического попадания при атаках против соседних целей. Бонус падает с увеличением расстояния."
+LocFlyOverText="Съешь это!"
+LocPromotionPopupText="<Bullet/> Бонус не влияет на атаки ближнего боя.<br/>"
+
+[ShadowOps_Inspiration X2AbilityTemplate]
+LocFriendlyName="Воодушевление"
+LocLongDescription="Вы и союзники в пределах <Ability:InspirationMaxTiles/> клеток получаете <Ability:+Dodge/> к уклонению и <Ability:+Will/> к воле."
+LocHelpText="Вы и союзники в пределах <Ability:InspirationMaxTiles/> клеток получаете <Ability:+Dodge/> к уклонению и <Ability:+Will/> к воле."
+LocFlyOverText="Воодушевление"
+LocPromotionPopupText="<Bullet/> Солдат также получает бонус.<br/><Bullet/> Уклонение увеличивает шанс превратить попадание по вам в \"царапину\".<br/><Bullet/> Воля увеличивает сопротивление дезориентации, панике, оглушению и потери сознания.<br/>"
+
+[ShadowOps_ShieldSurge X2AbilityTemplate]
+LocFriendlyName="Протокол \"Вспышка\""
+LocLongDescription="Протокол \"Щит\" также предоставляет цели <Ability:ArmorMitigation:ShadowOps_ShieldProtocol/> ед. брони на 1 ход."
+LocHelpText="Протокол \"Щит\" также предоставляет цели <Ability:ArmorMitigation:ShadowOps_ShieldProtocol/> ед. брони на 1 ход."
+LocFlyOverText="Протокол \"Вспышка\""
+LocPromotionPopupText="<Bullet/> Протокол \"Щит\" предоставляет броню до начала вашего следующего хода.<br/>"
+
+[ShadowOps_PhalanxProtocol X2AbilityTemplate]
+LocFriendlyName="Протокол \"Фаланга\""
+LocLongDescription="Отправьте \"Гремлина\" на помощь союзникам в отряде, предоставляя каждому бонус к защите до начала вашего следующего хода." 
+LocHelpText="Отправьте \"Гремлина\" к каждому союзнику чтобы дать им +<Ability:AidProtocolDefenseBonus/> бонус к защите на 1 ход." 
+LocFlyOverText="Протокол \"Фаланга\""
+LocPromotionPopupText="<Bullet/> Фактически, протокол \"Фаланга\" предоставляет всем союзникам протокол \"Помощи\".<br/>"
+
+[ShadowOps_Puppeteer X2AbilityTemplate]
+LocFriendlyName="Протокол \"Кукловод\""
+LocLongDescription="Теперь \"Протокол блокировки\" не требует перезарядки и не заканчивает ход." 
+LocHelpText="Теперь \"Протокол блокировки\" не требует перезарядки и не заканчивает ход." 
+LocFlyOverText="Протокол \"Кукловод\""
+LocPromotionPopupText="<Bullet/> Вы по прежнему можете использовать \"Протокол блокировки\" только 1 раз против каждого врага.<br/>"
+
+[ShadowOps_ShieldBattery X2AbilityTemplate]
+LocFriendlyName="Батарея щита"
+LocLongDescription="Получите <Ability:ShieldBatteryBonusCharges/> дополнительных заряда для протокола \"Щит\"." 
+LocHelpText="Получите <Ability:ShieldBatteryBonusCharges/> дополнительных заряда для протокола \"Щит\"." 
+LocFlyOverText="Батарея щита"
+LocPromotionPopupText="<Bullet/> Предоставляет дополнительные использования для протокола \"Щит\".<br/>"
+
+[ShadowOps_Overkill X2AbilityTemplate]
+LocFriendlyName="Перебор"
+LocLongDescription="Ваши атаки дополнительно наносят <Ability:+Damage/> ед. урона врагам, с половиной очков здоровья или меньше." 
+LocHelpText="Ваши атаки дополнительно наносят <Ability:+Damage/> ед. урона врагам, с половиной очков здоровья или меньше." 
+LocFlyOverText="Перебор"
+LocPromotionPopupText="<Bullet/> Бонусный урон применяется ко всем атакам, включая атаки перчаткой.<br/><Bullet/> Способность \"Перебор\" не влияет на урон статусных эффектов, таких как горение, отравление или кислотный ожог, вызванных вашими способностями.<br/>"
+
+[ShadowOps_ShotgunFinesse X2AbilityTemplate]
+LocFriendlyName="Ловкость"
+LocLongDescription="Получите <Ability:+Crit/> к шансу критического попадания и <Ability:+Mobility/> к мобильности при использовании дробовика."
+LocHelpText="Получите <Ability:+Crit/> к шансу критического попадания и <Ability:+Mobility/> к мобильности при использовании дробовика."
+LocFlyOverText="Ловкость"
+LocPromotionPopupText="<Bullet/> Дополнительная мобильность от способности \"Ловкость\", может помочь вам обойти врага с фланга, но будьте осторожны чтобы сильно не отделяться от остальной части отряда.<br/>"
+
+; === Hunter abilities ===
+
+[ShadowOps_SnapShot X2AbilityTemplate]
+LocFriendlyName="Выстрел навскидку"
+LocLongDescription="Стрельба или режим \"наблюдения\" из следующего оружия: <Ability:WeaponName/> стоит одно действие, при этом получая штраф <Ability:ToHit:ShadowOps_SnapShotShot/> к меткости."
+LocHelpText="Стрельба из оружия: <Ability:WeaponName/> стоит одно действие и получает небольшой штраф к меткости."
+LocFlyOverText="Выстрел навскидку"
+LocPromotionPopupText="<Bullet/> Способность \"Выстрел навскидку\" наиболее подходит тем солдатам, которые перемещаются с остальной частью отряда, а не сидят на одном месте.<br/><Bullet/> Снайперская винтовка имеет штраф к меткости на близком расстоянии.<br/>"
+
+[ShadowOps_SnapShotShot X2AbilityTemplate]
+LocFriendlyName="Выстрел навскидку"
+LocLongDescription="Стрельба или режим \"наблюдения\" из следующего оружия: <Ability:WeaponName/> стоит одно действие, при этом получая штраф <Ability:ToHit/> к меткости."
+LocHelpText="Стрельба из оружия: <Ability:WeaponName/> стоит одно действие и получает небольшой штраф к меткости."
+LocFlyOverText="Выстрел навскидку"
+
+[ShadowOps_SnapShotOverwatch X2AbilityTemplate]
+LocFriendlyName="Наблюдение"
+LocFriendlyNameWhenConcealed="Наблюдение (Замаскирован)"
+LocLongDescription="Режим \"наблюдения\" из следующего оружия: <Ability:WeaponName/> стоит одно действие, при этом получая штраф <Ability:ToHit:ShadowOps_SnapShotShot/> к меткости."
+LocHelpText="Выстрел в первого врага, который движется в поле вашего зрения, со штрафом к меткости."
+LocLongDescriptionWhenConcealed="Выстрел в первого врага, который движется в поле вашего зрения, но только при потере маскировки."
+LocFlyOverText="Наблюдение: \"Выстрел навскидку\""
+
+[ShadowOps_HunterMark X2AbilityTemplate]
+LocFriendlyName="Метка"
+LocLongDescription="Пометьте цель, предоставляя всем членам отряда <Ability:+ToHit/> к меткости при стрельбе по ней. Бонус не пропадает, но вы можете пометить только одну цель одновременно. Использование способности не нарушает маскировку. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Пометьте цель, предоставляя всем членам отряда <Ability:+ToHit/> к меткости при стрельбе по ней."
+LocFlyOverText="Метка"
+LocPromotionPopupText="<Bullet/> Способность \"Метка\" будет хорошим решением для второго действия, если вам вдруг нужно переместиться или перезарядить винтовку.<br/><Bullet/> Используйте способность на опасных врагах, прежде чем устраивать засаду.<br/><Bullet/> Выстрел по помеченной цели, будет куда точнее чем обычный выстрел из снайперской винтовки, а также помогает остальным членам отряда вести огонь по ней.<br/><Bullet/> Способность можно применить с помощью \"общего вида\".<br/><Bullet/> Не нарушает маскировку.<br/><Bullet/> Эффект пропадает, если Охотник умирает, эвакуируется с миссии, или помечает другую цель.<br/><Bullet/> Перезарядка <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_VitalPoint X2AbilityTemplate]
+LocFriendlyName="Острая кромка"
+LocLongDescription="Атаки оружием ближнего боя дополнительно наносят <Ability:+Damage/> ед. урона и пробивают <Ability:ArmorPiercing> ед. брони."
+LocHelpText="Атаки оружием ближнего боя дополнительно наносят <Ability:+Damage/> ед. урона и пробивают <Ability:ArmorPiercing> ед. брони."
+LocFlyOverText="Острая кромка"
+LocPromotionPopupText="<Bullet/> Более продвинутое оружие ближнего боя пробивает больше брони и наносит больше дополнительного урона.<br/><Bullet/> Ваши атаки в ближнем бою помогут добить врага и переместиться в лучшую позицию, для последующей стрельбы.<br/>"
+
+[ShadowOps_Precision X2AbilityTemplate]
+LocFriendlyName="Точность"
+LocLongDescription="Вы получаете <Ability:+ToHit/> к меткости против врагов в полном укрытии."
+LocHelpText="Вы получаете <Ability:+ToHit/> к меткости против врагов в полном укрытии."
+LocFlyOverText="Точность"
+LocPromotionPopupText="<Bullet/> Способность работает только с атаками дальнего боя.<br/>"
+
+[ShadowOps_LowProfile X2AbilityTemplate]
+LocFriendlyName="Низкий профиль"
+LocLongDescription="Вы получаете <Ability:+Defense/> защиты в частичном укрытии."
+LocHelpText="Вы получаете <Ability:+Defense/> защиты в частичном укрытии."
+LocFlyOverText="Низкий профиль"
+LocPromotionPopupText="<Bullet/> Бонус теряется, если враг атакует с фланга.<br/>"
+
+[ShadowOps_Sprint X2AbilityTemplate]
+LocFriendlyName="Ускоренный марш"
+LocLongDescription="Вы получаете дополнительное действие перемещения на этот ход. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Вы получаете дополнительное действие перемещения на этот ход."
+LocFlyOverText="Ускоренный марш"
+LocPromotionPopupText="<Bullet/> Способность \"Ускоренный марш\" можно использовать для перемещения на большие расстояния, или чтобы переместиться во фланг с выстрелить из снайперской винтовки.<br/><Bullet/> Дополнительное перемещение от способности \"Ускоренный марш\" тратится впустую, если вы используете способность которая заканчивает ваш ход, например стрельбу из оружия перед тем как переместиться.<br/><Bullet/> Перезарядка <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_Assassin X2AbilityTemplate]
+LocFriendlyName="Убийца"
+LocLongDescription="При убийстве с фланга или врага без укрытия, с помощью оружия: <Ability:WeaponName/>, вы получаете маскировку."
+LocHelpText="При убийстве с фланга или врага без укрытия, с помощью оружия: <Ability:WeaponName/>, вы получаете маскировку."
+LocFlyOverText="Убийца"
+LocPromotionPopupText="<Bullet/> Способность \"Убийца\" не сработает, если вас атакуют с фланга.<br/>"
+
+[ShadowOps_Fade X2AbilityTemplate]
+LocFriendlyName="Хамелеон"
+LocLongDescription="Слейтесь с местностью. Получите маскировку которая пропадет, если вы двинетесь с места. Работает только в полном укрытии. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Получите маскировку которая пропадет, если вы двинетесь с места. Работает только в полном укрытии."
+LocFlyOverText="Хамелеон"
+LocPromotionPopupText="<Bullet/> Способность \"Хамелеон\" позволит вам использовать бонус \"Первого удара\" несколько раз во время боя.<br/><Bullet/> Также, маскировка может быть потерянна по всем правилам.<br/><Bullet/> Способность \"Хамелеон\" требует одно действие и перезаряжается <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_SliceAndDice X2AbilityTemplate]
+LocFriendlyName="Шинковка"
+LocLongDescription="Атака врага в ближнем бою, в радиусе действия перемещения. Если вы попали, нанесите вторую бесплатную атаку. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Атака врага в ближнем бою, в радиусе действия перемещения. Если вы попали, нанесите вторую бесплатную атаку."
+LocFlyOverText="Шинковка"
+LocPromotionPopupText="<Bullet/> Перезарядка <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_Tracking X2AbilityTemplate]
+LocFriendlyName="Слежка"
+LocLongDescription="Вы обнаруживаете ближайших врагов даже без прямой видимости."
+LocHelpText="Вы обнаруживаете ближайших врагов даже без прямой видимости."
+LocFlyOverText="Слежка"
+LocPromotionPopupText="<Bullet/> Солдаты со способностью \"Слежка\" - отличные разведчики, особенно если вы дадите им маскировку с помощью протокола или других способностей.<br/><Bullet/> Способность \"Слежка\" имеет меньшую дальность обнаружения чем прямая видимость.<br/><Bullet/> Обнаруживает скрытых и закопанных врагов, таких как криссалиды.<br/>"
+
+[ShadowOps_TrackingTrigger X2AbilityTemplate]
+LocFriendlyName="Слежка"
+LocFlyOverText="Слежка"
+
+[ShadowOps_Bullseye X2AbilityTemplate]
+LocFriendlyName="В яблочко!"
+LocLongDescription="Выстрел, наносящий критический урон и понижающий меткость защиту и волю врага. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Выстрел, наносящий критический урон и понижающий меткость защиту и волю врага."
+LocFlyOverText="В яблочко"
+LocPromotionPopupText="<Bullet/> Способность \"В яблочко!\" хорошо ослабляет сильных врагов, а также наносит дополнительный урон.<br/><Bullet/> Способность \"В яблочко!\" накладывает штраф -20 к меткости, защите и воле до конца боя.<br/><Bullet/> Перезарядка <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_FirstStrike X2AbilityTemplate]
+LocFriendlyName="Первый удар"
+LocLongDescription="Атаки из скрытности или с фланга с помощью оружия: <Ability:WeaponName/>, дополнительно наносят <Ability:+Damage/> ед. урона и не получают штрафов от \"общего вида\"."
+LocHelpText="Атаки из скрытности или с фланга с помощью оружия: <Ability:WeaponName/>, дополнительно наносят <Ability:+Damage/> ед. урона и не получают штрафов от \"общего вида\"."
+LocFlyOverText="Первый удар"
+LocPromotionPopupText="<Bullet/> Способность \"Первый удар\" может быть решающей в засаде, убив сильного врага одним выстрелом.<br/><Bullet/> Солдат со способностью \"Первый удар\" должен инициировать засаду, чтобы получить бонус.<br/><Bullet/> Не влияет на \"наблюдение\" из скрытности.<br/>"
+
+[ShadowOps_DamnGoodGround X2AbilityTemplate]
+LocFriendlyName="Господствующая высота"
+LocLongDescription="Вы получаете <Ability:+ToHit/> к меткости и <Ability:+Defense/> защиты от целей, которые находятся ниже вас."
+LocHelpText="Вы получаете <Ability:+ToHit/> к меткости и <Ability:+Defense/> защиты от целей, которые находятся ниже вас."
+LocFlyOverText="Господствующая высота"
+LocPromotionPopupText="<Bullet/> Бонус к меткости складывается с обычным бонусом, которую предоставляет возвышенность.<br/>"
+
+[ShadowOps_PointBlank X2AbilityTemplate]
+LocFriendlyName="В упор"
+LocLongDescription="Снижает штраф к меткости на близких дистанциях для оружия: <Ability:WeaponName/> на 67%."
+LocHelpText="Снижает штраф к меткости на близких дистанциях для оружия: <Ability:WeaponName/> на 67%."
+LocFlyOverText="В упор"
+LocPromotionPopupText="<Bullet/> Способность \"В упор\", не влияет на штрафы к меткости для способности \"Выстрел навскидку\".<br/>"
+
+[ShadowOps_Butcher X2AbilityTemplate]
+LocFriendlyName="Мясник"
+LocLongDescription="Увеличивает урон по органическим целям на 30%."
+LocHelpText="Увеличивает урон по органическим целям на 30%."
+LocFlyOverText="Мясник"
+LocPromotionPopupText="<Bullet/> Органические цели означает все цели кроме механических.<br/>"
+
+[ShadowOps_Reposition X2AbilityTemplate]
+LocFriendlyName="Смена позиции"
+LocLongDescription="Вы получаете одно очко движения после стандартного выстрела из оружия: <Ability:WeaponName/>."
+LocHelpText="Атаки с помощью оружия: <Ability:WeaponName/>, дают действие движения."
+LocFlyOverText="Смена позиции"
+LocPromotionPopupText="<Bullet/> Способность \"Смена позиции\" позволяет передвигаться, но не использовать другие действия, такие как перезарядка.<br/>"
+
+[ShadowOps_Evasive X2AbilityTemplate]
+LocFriendlyName="Шестое чувство"
+LocLongDescription="Вы получаете иммунитет к атакам против нескольких целей и атак по площади."
+LocHelpText="Вы получаете иммунитет к атакам против нескольких целей и атак по площади."
+LocFlyOverText="Шестое чувство"
+LocPromotionPopupText="<Bullet/> Атаки по площади включают гранаты и другую взрывчатку.<br/>"
+
+[ShadowOps_Stalker X2AbilityTemplate]
+LocFriendlyName="Сталкер"
+LocLongDescription="Получите <Ability:+Mobility/> к мобильности и <Ability:+ToHit/> к меткости, пока вы замаскированны."
+LocHelpText="Получите <Ability:+Mobility/> к мобильности и <Ability:+ToHit/> к меткости, пока вы замаскированны."
+LocFlyOverText="Сталкер"
+LocPromotionPopupText="<Bullet/> Бонусы пропадают после потери маскировки.<br/>"
+
+[ShadowOps_LastStand X2AbilityTemplate]
+LocFriendlyName="Последний бой"
+LocLongDescription="Один раз за миссию, получите иммунитет к смерти или недееспособности. До конца вашего следующего хода."
+LocHelpText="Один раз за миссию, получите иммунитет к смерти или недееспособности. До конца вашего следующего хода."
+LocFlyOverText="Последний бой"
+LocPromotionPopupText="<Bullet/> Вы все еще можете получать урон, но ваше здоровье не опуститься ниже 1 ед.<br/><Bullet/> Вы не можете потерять сознание, быть дезориентированным или выведенным из стоя другим образом.<br/>"
+
+[ShadowOps_DisablingShot X2AbilityTemplate]
+LocFriendlyName="Ошеломляющий выстрел"
+LocLongDescription="Выстрел который наносит половину урона и ошеломляет цель на 1 ход. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Выстрел который наносит половину урона и ошеломляет цель цель на 1 ход."
+LocFlyOverText="Ошеломляющий выстрел"
+LocPromotionPopupText="<Bullet/> Ошеломленные цели могут только двигаться, перезаряжаться, прятаться в укрытия и атаковать в ближнем бою.<br/>"
+
+[ShadowOps_ThisOnesMine X2AbilityTemplate]
+LocFriendlyName="Этот мой!"
+LocLongDescription="Отметьте цель, получив <Ability:+Crit:ShadowOps_ThisOnesMine_Passive/> к шансу критического попадания и <Ability:+Defense:ShadowOps_ThisOnesMine_Passive/> защиты против нее на 3 хода. Свободное действие. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Отметьте цель, получив <Ability:+Crit:ShadowOps_ThisOnesMine_Passive/> к шансу критического попадания и <Ability:+Defense:ShadowOps_ThisOnesMine_Passive/> защиты против нее на 3 хода."
+LocFlyOverText="Этот мой!"
+LocPromotionPopupText="<Bullet/> Только солдат поставивший метку получает бонусы.<br/>"
+
+[ShadowOps_WatchfulEye X2AbilityTemplate]
+LocFriendlyName="Зоркий глаз"
+LocLongDescription="Один раз за ход, сделайте бесплатный выстрел из режима \"наблюдения\", когда цель способности \"Этот мой!\" двигается или атакует."
+LocHelpText="Один раз за ход, сделайте бесплатный выстрел из режима \"наблюдения\", когда цель способности \"Этот мой!\" двигается или атакует."
+LocFlyOverText="Зоркий глаз"
+LocPromotionPopupText="<Bullet/> Бесплатный выстрел из \"наблюдения\" происходит даже тогда, когда цель способности \"Этот мой!\" видна через \"общий вид\" отряда.<br/>"
+
+[ShadowOps_Hipfire_LW2 X2AbilityTemplate]
+LocFriendlyName="Выстрел от бедра"
+LocLongDescription="Первый выстрел в ход из обреза не требует действия."
+LocHelpText="Первый выстрел в ход из обреза не требует действия."
+LocFlyOverText="Выстрел от бедра"
+LocPromotionPopupText="<Bullet/> Вам по прежнему нужно одно действие, чтобы сделать выстрел.<br/>"
+
+[ShadowOps_Fearsome X2AbilityTemplate]
+LocFriendlyName="Пугало"
+LocLongDescription="Когда вы наносите критический урон, ваша цель и все враги в радиусе 6 клеток, могут запаниковать."
+LocHelpText="Когда вы наносите критический урон, ваша цель и все враги в радиусе 6 клеток, могут запаниковать."
+LocFlyOverText="Пугало"
+LocPromotionPopupText="<Bullet/> Критические попадания из любого вашего оружия, могут вызвать панику.<br/>"
+
+[ShadowOps_CoverMe X2AbilityTemplate]
+LocFriendlyName="Прикрой меня!"
+LocLongDescription="Предоставляет союзнику бонусный выстрел из режима \"наблюдения\" и способность \"Абсолютное спокойствие\". Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Предоставляет союзнику бонусный выстрел из режима \"наблюдения\" и способность \"Абсолютное спокойствие\"."
+LocFlyOverText="Прикрой меня!"
+LocPromotionPopupText="<Bullet/> Время работы способности, длиться до начала вашего следующего хода.<br/><Bullet/> Способность \"Абсолютное спокойствие\" дает +<Ability:COOLUNDERPRESSUREBONUS/> к меткости в режиме \"наблюдения\" и ко всем ответным выстрелам, а также позволяет им наносить критический урон.<br/>"
+
+; === Infantry abilities ===
+
+[ShadowOps_BulletSwarm X2AbilityTemplate]
+LocFriendlyName="Рой пуль"
+LocLongDescription="Стрельба из оружия: <Ability:WeaponName/> первым действием, больше не завершают ваш ход."
+LocHelpText="Стрельба из оружия: <Ability:WeaponName/> первым действием, больше не завершают ваш ход."
+LocFlyOverText="Рой пуль"
+LocPromotionPopupText="<Bullet/> Способность \"Рой пуль\" может нанести большой урон, но быстро расходует боезапас. Снарядите солдата расширенным магазином или авто-заряжанием.<br/><Bullet/> Правильный выбор позиции для стрельбы, поможет вам получить максимальный эффект от обоих выстрелом.<br/><Bullet/> Стрельба из пистолета по-прежнему завершает ход.<br/>"
+
+[ShadowOps_Bandolier X2AbilityTemplate]
+LocFriendlyName="Патронташ"
+LocLongDescription="Предоставляет слот для боеприпасов."
+LocHelpText="Предоставляет слот для боеприпасов."
+LocFlyOverText="Патронташ"
+LocPromotionPopupText="<Bullet/> Предоставляет дополнительный слот в инвентаре только для боеприпасов.<br/>"
+
+[ShadowOps_Magnum X2AbilityTemplate]
+LocFriendlyName="Крупный калибр"
+LocLongDescription="Атаки из пистолета получают <Ability:+ToHit/> к меткости и наносят <Ability:+Damage/> ед. урона."
+LocHelpText="Атаки из пистолета получают <Ability:+ToHit/> к меткости и наносят <Ability:+Damage/> ед. урона."
+LocFlyOverText="Крупный калибр"
+LocPromotionPopupText="<Bullet/> Даже без способности \"Крупный калибр\", ваш пистолет более точен на близких дистанциях, чем винтовка.<br/><Bullet/> Сочетание способности \"Крупный калибр\" с патронами увеличивающие урон, будет уничтожать солдат \"Адвента\" с одного выстрела."
+
+[ShadowOps_GoodEye X2AbilityTemplate]
+LocFriendlyName="Хороший стрелок"
+LocLongDescription="От ваших выстрелов, невозможно уклониться."
+LocHelpText="От ваших выстрелов, невозможно уклониться."
+LocFlyOverText="Хороший стрелок"
+LocPromotionPopupText="<Bullet/> Способность проявляет себя более сильно в поздней игре, когда у большинства врагов есть шанс на уклонение.<br/>"
+
+[ShadowOps_FullAuto X2AbilityTemplate]
+LocFriendlyName="Автоматический огонь"
+LocLongDescription="Выстрел по цели с <Ability:ToHit/> штрафом к меткости. Если вы попали, автоматически сделайте еще один выстрел. Вы продолжаете стрелять пока не промахнетесь или не кончатся боеприпасы. Меткость падает с каждым выстрелом. Требует два очка действия. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Стреляйте по цели пока не промахнетесь или не кончатся боеприпасы. Каждый последующий выстрел снижает меткость на <Ability:ToHit/>. Требует два очка действия."
+LocFlyOverText="Автоматический огонь"
+LocPromotionPopupText="<Bullet/> Способность \"Автоматический огонь\" может нанести колоссальный урон с большим магазином и правильно подобранным боеприпасом.<br/><Bullet/> Требует два очка действия. <br/><Bullet/> Перезарядка <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_FullAuto2 X2AbilityTemplate]
+LocFriendlyName="Автоматический огонь"
+LocFlyOverText="Автоматический огонь"
+LocPromotionPopupText=""
+
+[ShadowOps_ZoneOfControl X2AbilityTemplate]
+LocFriendlyName="Зона наблюдения"
+LocLongDescription="Сделайте ответный выстрел по врагу, который движется или атакует в пределах вашей видимости. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Улучшенный режим \"наблюдения\", в котором можно стрелять несколько раз за ход."
+LocFlyOverText="Зона наблюдения"
+LocPromotionPopupText="<Bullet/> Во время действия способности, солдат переключится на пистолет, если кончатся патроны в основном оружии.<br/><Bullet/> Нет ограничений на количество выстрелов, которые солдат может сделать за ход.<br/><Bullet/> Перезарядка <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_ZoneOfControlShot X2AbilityTemplate]
+LocFriendlyName="Выстрел \"Зоны наблюдения\""
+
+[ShadowOps_ZoneOfControlPistolShot X2AbilityTemplate]
+LocFriendlyName="Пистолетный выстрел \"Зоны наблюдения\""
+
+[ShadowOps_ZoneOfControl_LW2 X2AbilityTemplate]
+LocFriendlyName="Зона наблюдения"
+LocLongDescription="Войдите в специальный режим \"наблюдения\", который предоставляет до <Ability:ZoneOfControlLW2Shots/> ответных выстрелов и способность \"Огневая поддержка\". Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Улучшенный режим \"наблюдения\", в котором можно стрелять несколько раз за ход."
+LocFlyOverText="Зона наблюдения"
+LocPromotionPopupText="<Bullet/> Перезарядка <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_ZeroIn X2AbilityTemplate]
+LocFriendlyName="Сосредоточенность"
+LocLongDescription="При промахе, вы получаете <Ability:+ToHit/> к меткости для следующей атаки."
+LocHelpText="При промахе, вы получаете <Ability:+ToHit/> к меткости для следующей атаки."
+LocFlyOverText="Сосредоточенность"
+LocPromotionPopupText="<Bullet/> Способность не работает при ответных выстрелах.<br/>"
+
+[ShadowOps_Flush X2AbilityTemplate]
+LocFriendlyName="Спугнуть"
+LocLongDescription="Выстрел из пистолета, который всегда попадает и заставляет цель сменить укрытие. Перезарядка <Ability:SelfCooldown/> ход(а)."
+LocHelpText="Выстрел из пистолета, который всегда попадает и заставляет цель сменить укрытие."
+LocFlyOverText="Спугнуть"
+LocPromotionPopupText="<Bullet/> Способность \"Спугнуть\" может заставить врага вызвать ответный огонь ваших солдат.<br/><Bullet/> Перезарядка <Ability:SelfCooldown/> ход(а).<br/>"
+
+[ShadowOps_RifleSuppression X2AbilityTemplate]
+LocFriendlyName="Подавление с винтовкой"
+LocLongDescription="Подавляет цель плотным огнем, накладывая штраф <Ability:SUPPRESSIONPENALTY/> к меткости и позволяет выстрелить ответным огнем, если цель начнет движение."
+LocHelpText="Подавление цели и выстрел, если она начнет движение."
+LocFlyOverText="Подавление с винтовкой"
+LocPromotionPopupText="<Bullet/> Подавленные цели получают штраф к меткости и не могут использовать гранаты.<br/><Bullet/> Ответный выстрел для \"Подавления с винтовкой\" имеет бонус <Ability:+ToHit:SuppressionShot/> к меткости.<br/><Bullet/> Способность \"Подавление\" не получает бонусов от способности \"Огневая поддержка\".<br/><Bullet/> Требует <Ability:SelfAmmoCost/> ед. боеприпаса и не имеет время перезарядки.<br/><Bullet/> Подавление будет прекращено, если солдат получит урон.<br/><Bullet/> Если несколько солдат подавляют одну цель, штрафы к меткости складываются.<br/>"
+
+[ShadowOps_Focus X2AbilityTemplate]
+LocFriendlyName="Фокус"
+LocLongDescription="Ваш первый ответный выстрел на каждом ходу, всегда попадает."
+LocHelpText="Ваш первый ответный выстрел на каждом ходу, всегда попадает."
+LocFlyOverText="Фокус"
+LocPromotionPopupText="<Bullet/> Эта способность хорошо сочетается с другими способностями, которые улучшают ваше \"наблюдение\", например \"Укрепление\".<br/><Bullet/> От ваших ответных выстрелов все еще можно увернуться.<br/>"
+
+[ShadowOps_Resilience X2AbilityTemplate]
+LocFriendlyName="Устойчивость"
+LocLongDescription="Вы получаете иммунитет к критическому урону."
+LocHelpText="Вы получаете иммунитет к критическому урону."
+LocFlyOverText="Устойчивость"
+LocPromotionPopupText="<Bullet/> Способность \"Устойчивость\" хорошо помогает сократить урон, если вас обойдут с фланга.<br/><Bullet/> То, что вы неуязвимы к критическому урону, не означает что вы не умрете, если перестанете пользоваться укрытиями.<br/>"
+
+[ShadowOps_AdrenalineSurge X2AbilityTemplate]
+LocFriendlyName="Всплеск адреналина"
+LocLongDescription="При убийстве, вы и ваши ближайшие союзники получают <Ability:+Crit:ShadowOps_AdrenalineSurgeTrigger/> к шансу критического попадания и <Ability:+Mobility:ShadowOps_AdrenalineSurgeTrigger/> к мобильности до конца вашего хода."
+LocHelpText="<Ability:+Crit:ShadowOps_AdrenalineSurgeTrigger/> к шансу критического попадания и <Ability:+Mobility:ShadowOps_AdrenalineSurgeTrigger/> к мобильности до конца вашего хода."
+LocFlyOverText="Всплеск адреналина"
+LocPromotionPopupText="<Bullet/> Если убийство произошло во время хода врага, бонусы длятся до конца вашего следующего хода.<br/><Bullet/> Способность имеет радиус действия в 8 клеток.<br/>"
+
+[ShadowOps_AdrenalineSurgeTrigger X2AbilityTemplate]
+LocFriendlyName="Всплеск адреналина"
+LocLongDescription="При убийстве, вы и ваши ближайшие союзники получают <Ability:+Crit/> к шансу критического попадания и <Ability:+Mobility/> к мобильности до конца вашего хода."
+LocHelpText="<Ability:+Crit/> к шансу критического попадания и <Ability:+Mobility/> к мобильности до конца вашего хода."
+LocFlyOverText="Всплеск адреналина"
+
+[ShadowOps_Fortify X2AbilityTemplate]
+LocFriendlyName="Укрепление"
+LocLongDescription="Каждый раз, находясь в режиме \"наблюдения\" или подавляя цель, вы получаете <Ability:+Defense:ShadowOps_FortifyTrigger/> защиты до начала вашего следующего хода."
+LocHelpText="Каждый раз, находясь в режиме \"наблюдения\" или подавляя цель, вы получаете <Ability:+Defense:ShadowOps_FortifyTrigger/> защиты до начала вашего следующего хода."
+LocFlyOverText="Укрепление"
+LocPromotionPopupText="<Bullet/> Способность \"Укрепление\" будет работать с любой способностью, которая предоставляет вам ответные выстрелы, включая \"Зону наблюдения\".<br/>"
+
+[ShadowOps_FortifyTrigger X2AbilityTemplate]
+LocFriendlyName="Укрепление"
+LocLongDescription="<Ability:+Defense/> защиты до начала вашего следующего хода."
+LocHelpText="<Ability:+Defense/> защиты до начала вашего следующего хода."
+LocFlyOverText="Укрепление"
+
+[ShadowOps_FirstAid X2AbilityTemplate]
+LocFriendlyName="Первая помощь"
+LocLongDescription="Предоставляет одну бесплатную аптечку в ваш инвентарь. Каждая аптечка в вашем инвентаре получает +2 заряда."
+LocHelpText="Предоставляет одну бесплатную аптечку в ваш инвентарь. Каждая аптечка в вашем инвентаре получает +2 заряда."
+LocFlyOverText="Первая помощь"
+LocPromotionPopupText="<Bullet/> Бесплатная аптечка также предоставляет иммунитет к яду.</br>"
+
+[ShadowOps_SecondWind X2AbilityTemplate]
+LocFriendlyName="Второе дыхание"
+LocLongDescription="Использование аптечки на раненом союзнике, предоставляет ему 1 очко действия."
+LocHelpText="Использование аптечки на раненом союзнике, предоставляет ему 1 очко действия."
+LocFlyOverText="Второе дыхание"
+LocPromotionPopupText="<Bullet/> Если вы сами воспользуетесь аптечкой, вы также получите 1 очко действие.<br/><Bullet/> Аптечки все еще можно использовать только на раненых, или страдающих от статусных эффектов союзниках.<br/>"
+
+[ShadowOps_SecondWindTrigger X2AbilityTemplate]
+LocFriendlyName="Второе дыхание"
+LocLongDescription="Использование аптечки на раненом союзнике, предоставляет ему 1 очко действия."
+LocHelpText="Использование аптечки на раненом союзнике, предоставляет ему 1 очко действия."
+LocFlyOverText="Второе дыхание"
+LocHitMessage="Второе дыхание"
+
+[ShadowOps_Tactician X2AbilityTemplate]
+LocFriendlyName="Тактик"
+LocLongDescription="Промахи из основного оружия, наносят <Ability:MissDamage/> ед. урона. Только винтовки и пистолеты-пулеметы."
+LocHelpText="Промахи из основного оружия, наносят <Ability:MissDamage/> ед. урона."
+LocFlyOverText="Тактик"
+LocPromotionPopupText="<Bullet/> Способности увеличивающие урон от оружия, не работают со способностью \"Тактик\".<br/>"
+
+[ShadowOps_ReadyForAnything X2AbilityTemplate]
+LocFriendlyName="Готов ко всему"
+LocLongDescription="Когда вы совершаете стандартную атаку с помощью оружия: <Ability:WeaponName/>, вы автоматически переходите в режим \"наблюдения\"."
+LocHelpText="Сделайте выстрел, затем перейдите в режим \"наблюдения\"."
+LocFlyOverText="Готов ко всему"
+LocPromotionPopupText="<Bullet/> Вы не войдете в режим \"наблюдения\", если у вас кончились боеприпасы.<br/><Bullet/> Если выстрел не завершает ход, вы не войдете в режим \"наблюдения\". Это может произойти если у вас есть настройка спуска, способность \"Рой пуль\", или вы убили странника.<br/>"
+
+[ShadowOps_ReadyForAnythingOverwatch X2AbilityTemplate]
+LocFriendlyName="Готов ко всему"
+LocLongDescription="Когда вы совершаете стандартную атаку с помощью оружия: <Ability:WeaponName/> вы автоматически переходите в режим \"наблюдения\"."
+LocHelpText="Сделайте выстрел, затем перейдите в режим \"наблюдения\"."
+LocFlyOverText="Готов ко всему"
+LocPromotionPopupText="<Bullet/> Вы не войдете в режим \"наблюдения\", если у вас кончились боеприпасы.<br/><Bullet/> Если выстрел не завершает ход, вы не войдете в режим \"наблюдения\". Это может произойти если у вас есть настройка спуска, способность \"Рой пуль\", или вы убили странника.<br/>"
+
+[ShadowOps_ImprovedSuppression X2AbilityTemplate]
+LocFriendlyName="Улучшенное подавление"
+LocLongDescription="Способности \"Подавление\" и \"Широкое подавление\", также дезориентируют основную цель."
+LocHelpText="Способности \"Подавление\" и \"Широкое подавление\", также дезориентируют основную цель."
+LocFlyOverText="Улучшенное подавление"
+LocPromotionPopupText="<Bullet/> У дезориентируемых врагов снижена меткость и мобильность, а также, они не могут использовать большинство способностей.<br/><Bullet/> Дезориентация применяется, когда вы активируете \"подавление\".<br/><Bullet/> Если \"подавление\" нарушено - дезориентация не снимается.<br/>"
+
+[ShadowOps_CoupDeGrace X2AbilityTemplate]
+LocFriendlyName="Ликвидатор"
+LocLongDescription="Убийство врага из пистолета, не тратит очков действий."
+LocHelpText="Убийство врага из пистолета, не тратит  очков действий."
+LocFlyOverText="Ликвидатор"
+LocPromotionPopupText="<Bullet/> Влияет на все атаки из пистолета, а не только на стандартные выстрелы.<br/>"
+
+[ShadowOps_Airstrike X2AbilityTemplate]
+LocFriendlyName="Авиаудар"
+LocLongDescription="Вызовите авиаудар, нанося 8-12 ед. урона по большой площади. Требует два очка действия. Одно применение за задание"
+LocHelpText="Вызовите авиаудар, нанося 8-12 ед. урона по большой площади. Требует два очка действия."
+LocFlyOverText="Авиаудар"
+LocPromotionPopupText="<Bullet/> Способность \"Авиаудар\" уничтожает практически любые укрытия, в зоне поражения.<br/>"
+
+[ShadowOps_AgainstTheOdds X2AbilityTemplate]
+LocFriendlyName="Несмотря ни на что"
+LocLongDescription="Получите <Ability:+ToHit/> к меткости, за каждого видимого отрядом врага. Максимум <Ability:+MaxToHit/>."
+LocHelpText="Получите <Ability:+ToHit/> к меткости, за каждого видимого отрядом врага. Максимум <Ability:+MaxToHit/>."
+LocFlyOverText="Несмотря ни на что"
+LocPromotionPopupText="<Bullet/> Если вы достигли максимального бонуса в <Ability:+MaxToHit/>, БЕГИТЕ!.<br/>"
+
+[ShadowOps_Paragon X2AbilityTemplate]
+LocFriendlyName="Элита"
+LocLongDescription="Получите <Ability:+HP/> ОЗ, <Ability:+ToHit/> к меткости и <Ability:+Will/> к воле."
+LocHelpText="Получите <Ability:+HP/> ОЗ, <Ability:+ToHit/> к меткости и <Ability:+Will/> к воле."
+LocFlyOverText="Элита"
+LocPromotionPopupText="<Bullet/> Эти бонусы, дополняют стандартные бонусы при повышении уровня.<br/>"
+
+[ShadowOps_SonicBeacon X2AbilityTemplate]
+LocFriendlyName="Звуковой маяк"
+LocLongDescription="Предоставляет специальный маячок, который привлекает внимание врагов, если те еще не обнаружили солдат XCOM."
+LocHelpText="Предоставляет специальный маячок, который привлекает внимание врагов, если те еще не обнаружили солдат XCOM."
+LocFlyOverText="Звуковой маяк"
+LocPromotionPopupText="<Bullet/> Маяк может быть брошен на расстояние до 18-ти клеток, а враги начинают слышать его на расстоянии 16-ти клеток.<br/><Bullet/> Услышав маячок, враги перейдут в состоянии желтой тревоги.<br/><Bullet/> Способность можно использовать только в режиме маскировки.<br/>"
+
+[ShadowOps_ThrowSonicBeacon X2AbilityTemplate]
+LocFriendlyName="Бросок звукового маяка"
+LocLongDescription="Бросок звукового маяка. который не наносит урона, но привлекает внимание ближайших врагов. Может использоваться только в режиме маскировки."
+LocHelpText="Бросок звукового маяка. который не наносит урона, но привлекает внимание ближайших врагов. Может использоваться только в режиме маскировки."
+LocFlyOverText="Бросок звукового маяка"
+
+[ShadowOps_NoiseMaker X2AbilityTemplate]
+LocFriendlyName="Шумогенератор"
+LocLongDescription="Предоставляет <Ability:NoiseMakerCharges/> бесплатные ультразвуковые приманки в ваш инвентарь."
+LocHelpText="Предоставляет <Ability:NoiseMakerCharges/> бесплатные ультразвуковые приманки в ваш инвентарь."
+LocFlyOverText="Шумогенератор"
+LocPromotionPopupText="<Bullet/> Складывается с ультразвуковыми приманками в вашем инвентаре.<br/>"
+
+; === Other abilities ===
+
+[ShadowOps_SwapAmmo X2AbilityTemplate]
+LocFriendlyName="Смена боеприпасов"
+LocLongDescription="Заменить патроны в магазине на <Ability:AssociatedWeapon/>."
+LocHelpText="Заменить патроны в магазине на <Ability:AssociatedWeapon/>."
+
+; === Items ===
+
+[SonicBeacon X2GrenadeTemplate]
+FriendlyName="Звуковой маяк"
+FriendlyNamePlural="звуковые маяки"
+
+; === Item-granted abilities ===
+
+[FlechetteRounds X2AbilityTemplate]
+LocFriendlyName="Стреловидные патроны"
+
+[HollowPointRounds X2AbilityTemplate]
+LocFriendlyName="Экспансивные патроны"
+
+[ReinforcedVestBonus X2AbilityTemplate]
+LocFriendlyName="Усиленный жилет"
+
+; === Item templates ===
+
+[FlechetteRounds X2AmmoTemplate]
+FriendlyName="Стреловидные патроны"
+FriendlyNamePlural="Стреловидные патроны "
+BriefSummary="Стреловидные патроны наносят дополнительный урон, но с увеличением расстояния до цели теряют точность."
+TacticalText="<Bullet/> Стреловидные патроны наносят дополнительный урон, но с увеличением расстояния до цели теряют точность.<br/><Bullet/> Стреловидные патроны - это по сути, маленькие дротики. Они пробивают броню и плоть более эффективно, чем стандартные патроны.<br/><Bullet/> Несмотря на добавление стабилизаторов, эти патроны менее точные чем обычные, особенно на больших дистанциях.<br/><Bullet/> Стреловидные снаряды особенно эффективны против бронированных целей, таких как МЭК.<br/>"
+
+[HollowPointRounds X2AmmoTemplate]
+FriendlyName="Экспансивные патроны"
+FriendlyNamePlural="Экспансивные патроны"
+BriefSummary="Эти пустотелые пули наносят существенный урон при критических попаданиях."
+TacticalText="<Bullet/> Экспансивные пули при попадании деформируются и расширяются, нанося большой урон мягким тканям и хрупким электронным компонентам.<br/>"
+
+[ShadowOps_TigerRounds X2AmmoTemplate]
+FriendlyName="Патроны \"Тигр\""
+FriendlyNamePlural="Патроны \"Тигр\""
+BriefSummary="Изучение брони \"Адвента\" в полевых условиях, привело нас к идее создания боеприпасов, способных разрушать броню из сплавов."
+TacticalText="<Bullet/> Патроны \"Тигр\" содержат внутри миниатюрный, кумулятивный заряд, способный разрушать броню.<br/><Bullet/> Эти патроны, в принципе бесполезны, против не бронированных целей.<br/>"
+
+[ShadowOps_DepletedEleriumRounds X2AmmoTemplate]
+FriendlyName="Обедненные элериевые патроны"
+FriendlyNamePlural="Обедненные элериевые патроны"
+BriefSummary="Добавление небольшого количества элерия к нашим боеприпасам, привело как к увеличению урона, так и к измельчающей силе."
+TacticalText="<Bullet/> Обедненные элериевые патроны сочетают в себе высокую плотность и взрывную силу, способную разорвать даже самую крепкую броню.<br/>"
+
+[ReinforcedVest X2EquipmentTemplate]
+FriendlyName="Усиленный жилет"
+FriendlyNamePlural="Усиленные жилеты"
+BriefSummary="Этот жилет значительно усилен бронеплитами, что значительно повысило броню солдата."
+TacticalText="<Bullet/> Предоставляет броню.<br/>"
+
+[PlatedVest X2EquipmentTemplate]
+FriendlyName="Тактический жилет"
+FriendlyNamePlural="Листовой жилет"
+!BriefSummary
+BriefSummary="Шэнь оснастила обычный жилет из нановолокна бронированными пластинами. Это повысило здоровье и обеспечило дополнительную защиту от вражеских атак."
+!TacticalText
+TacticalText="<Bullet/> Повышает здоровье бойца.<br/><Bullet/> Предоставляет броню."
+
+; === Class templates ===
+
+[ShadowOps_CombatEngineer_LW2 X2SoldierClassTemplate]
+DisplayName="Боевой инженер"
+ClassSummary="Боевые инженеры эксперты в использовании гранат как в атаке, так и в обороне. Если вы хотите, чтобы что-то взорвалось, было снесено или спрятано в дыму, приведите боевого инженера."
+LeftAbilityTreeTitle="Пионер"
+RightAbilityTreeTitle="Сапер"
++AbilityTreeTitles[0]="Пионер"
++AbilityTreeTitles[1]="Защитник"
++AbilityTreeTitles[2]="Сапер"
+RandomNickNames[0]="Поджигатель"
+RandomNickNames[1]="Болт"
+RandomNickNames[2]="Бум!"
+RandomNickNames[3]="Жвачка"
+RandomNickNames[4]="Кабель"
+RandomNickNames[5]="Уголек"
+RandomNickNames[6]="Стейк"
+RandomNickNames[7]="Д-р. Бум"
+RandomNickNames[8]="Водила"
+RandomNickNames[9]="Шестеренка"
+RandomNickNames[10]="Очи"
+RandomNickNames[11]="Хватка"
+RandomNickNames[12]="Гироскоп"
+RandomNickNames[13]="Высокое напряжения"
+RandomNickNames[14]="Лобзик"
+RandomNickNames[15]="Картошка"
+RandomNickNames[16]="Без рук"
+RandomNickNames[17]="Порох"
+RandomNickNames[18]="Помпа"
+RandomNickNames[19]="Трещотка"
+RandomNickNames[20]="Курильщик"
+RandomNickNames[21]="Система"
+RandomNickNames[22]="Шторм"
+RandomNickNames[23]="Факел"
+RandomNickNames[24]="Гаечный ключ"
+
+[ShadowOps_Dragoon_LW2 X2SoldierClassTemplate]
+DisplayName="Драгун"
+ClassSummary="Драгун - универсальный солдат, который может доставлять тяжёлое оружие на поле боя, или быстро и легко выполнять тайные операции. Они превосходны в защите и поддержке остальной команды."
+LeftAbilityTreeTitle="Паладин"
+RightAbilityTreeTitle="Призрак"
++AbilityTreeTitles[0]="Паладин"
++AbilityTreeTitles[1]="Страж"
++AbilityTreeTitles[2]="Призрак"							 
+RandomNickNames[0]="Взломщик"
+RandomNickNames[1]="Сеть"
+RandomNickNames[2]="Дамп памяти"
+RandomNickNames[3]="Кибер"
+RandomNickNames[4]="Киборг"
+RandomNickNames[5]="Грифон"
+RandomNickNames[6]="Молот"
+RandomNickNames[7]="Коршун"
+RandomNickNames[8]="Гидра"
+RandomNickNames[9]="Железо"
+RandomNickNames[10]="Мантикора"
+RandomNickNames[11]="Минотавр"
+RandomNickNames[12]="Лабиринт"
+RandomNickNames[13]="Еще одна попытка"
+RandomNickNames[14]="Феникс"
+RandomNickNames[15]="Крысолов"
+RandomNickNames[16]="Красный экран"
+RandomNickNames[17]="Ракета"
+RandomNickNames[18]="Сабля"
+RandomNickNames[19]="Сфинкс"
+RandomNickNames[20]="Сталь"
+RandomNickNames[21]="Бухгалтер"
+RandomNickNames[22]="Единорог"
+RandomNickNames_Male[0]="Орк"
+RandomNickNames_Female[0]="Сирена"
+
+[ShadowOps_Hunter_LW2 X2SoldierClassTemplate]
+DisplayName="Охотник"
+ClassSummary="Охотник комфортно чувствует себя на дальних дистанциях, отстреливая врагов из снайперской винтовки, либо на передовой сражаясь мечом. Противник никогда не узнает, что его поразило."
+LeftAbilityTreeTitle="Стрелок"
+RightAbilityTreeTitle="Следопыт"
++AbilityTreeTitles[0]="Стрелок"
++AbilityTreeTitles[1]="Браконьер"
++AbilityTreeTitles[2]="Следопыт"						   
+RandomNickNames[0]="Лучник"
+RandomNickNames[1]="Медведь"
+RandomNickNames[2]="Гепард"
+RandomNickNames[3]="Химера"
+RandomNickNames[4]="Койот"
+RandomNickNames[5]="Остряк"
+RandomNickNames[6]="Гиена"
+RandomNickNames[7]="Кролик"
+RandomNickNames[8]="Ледоруб"
+RandomNickNames[9]="Леопард"
+RandomNickNames[10]="Молния"
+RandomNickNames[11]="Динозавр"
+RandomNickNames[12]="Ворон"
+RandomNickNames[13]="Соня"
+RandomNickNames[14]="Скала"
+RandomNickNames[15]="Тигр"
+RandomNickNames[16]="Птичка"
+RandomNickNames[17]="Вуду"
+RandomNickNames[18]="Ласка"
+RandomNickNames[19]="Волк"
+RandomNickNames[20]="Росомаха"
+RandomNickNames[21]="Йети"
+RandomNickNames_Female[0]="Черная вдова"
+RandomNickNames_Female[1]="Дриада"
+RandomNickNames_Female[2]="Львица"
+RandomNickNames_Male[0]="Кугуар"
+RandomNickNames_Male[1]="Зеленый"
+RandomNickNames_Male[2]="Лев"
+RandomNickNames_Male[3]="Песочный человек"
+
+[ShadowOps_Infantry_LW2 X2SoldierClassTemplate]
+DisplayName="Пехотинец"
+ClassSummary="Наши пехотинцы обеспечивают огневую мощь на коротких и средних дистанциях. Они являются ключевыми членами любого отряда."
+LeftAbilityTreeTitle="Автоматчик"
+RightAbilityTreeTitle="Поддержка"
++AbilityTreeTitles[0]="Автоматчик"
++AbilityTreeTitles[1]="Тактик"
++AbilityTreeTitles[2]="Поддержка"						   
+RandomNickNames[0]="Ас"
+RandomNickNames[1]="Ствол"
+RandomNickNames[2]="Медяк"
+RandomNickNames[3]="Борт"
+RandomNickNames[4]="Циклоп"
+RandomNickNames[5]="Орел"
+RandomNickNames[6]="Сокол"
+RandomNickNames[7]="Горгона"
+RandomNickNames[8]="Ливень"
+RandomNickNames[9]="Ястреб"
+RandomNickNames[10]="Лед"
+RandomNickNames[11]="Джокер"
+RandomNickNames[12]="Свинец"
+RandomNickNames[13]="Только не это"
+RandomNickNames[14]="Флешь-рояль"
+RandomNickNames[15]="Подарок"
+RandomNickNames[16]="Шторм"
+RandomNickNames[17]="Трассирующий снаряд"
+RandomNickNames[18]="Тройка"
+RandomNickNames[19]="Две руки"
+RandomNickNames[20]="Вампир"
+RandomNickNames[21]="Воевода"
+RandomNickNames[22]="Ноль"
+RandomNickNames_Female[0]="Баронесса"
+RandomNickNames_Female[1]="Кошечка"
+RandomNickNames_Female[2]="Королева"
+RandomNickNames_Male[0]="Барон"
+RandomNickNames_Male[1]="Король"
+RandomNickNames_Male[2]="Снеговик"
+
+[ShadowOps_Scrapper_LW2 X2SoldierClassTemplate]
+DisplayName="Задира"
+ClassSummary="Задиры интенсивно обучаются безоружному и ножевому бою в дополнение к огнестрельному оружию. В ближнем бою они не имеют себе равных."
+LeftAbilityTreeTitle="Разбойник"
+RightAbilityTreeTitle="Драчун"
++AbilityTreeTitles[0]="Разбойник"
++AbilityTreeTitles[1]="Специалист"
++AbilityTreeTitles[2]="Драчун"							   
+RandomNicknames[0]="Бизон"
+RandomNicknames[1]="Разбитое стекло"
+RandomNicknames[2]="Рождество"
+RandomNicknames[3]="Клешня"
+RandomNicknames[4]="Дубина"
+RandomNicknames[5]="Динамо"
+RandomNicknames[6]="Самосвал"
+RandomNicknames[7]="Лезвие"
+RandomNicknames[8]="Лапа"
+RandomNicknames[9]="Фрукт"
+RandomNicknames[10]="Конфета"
+RandomNicknames[11]="Молодой"
+RandomNicknames[12]="Кастет"
+RandomNicknames[13]="Малыш"
+RandomNicknames[14]="Проныра"
+RandomNicknames[15]="Одиночка"
+RandomNicknames[16]="Ох"
+RandomNicknames[17]="Арахис"
+RandomNicknames[18]="Шрам"
+RandomNicknames[19]="Шкура"
+RandomNicknames[20]="Стилет"
+RandomNicknames[21]="Зуб"
+RandomNicknames[22]="Жестокий"
+RandomNicknames[23]="Тринадцатый"
+RandomNickNames_Male[0]="Кот"
+RandomNickNames_Male[1]="Болван"
+RandomNickNames_Male[2]="Старик"
+RandomNickNames_Female[0]="Киса"
+RandomNickNames_Female[1]="Мисс мяу"
+RandomNickNames_Female[3]="Бабуля"
+
+[ShadowOps_Juggernaut_LW2 X2SoldierClassTemplate]
+DisplayName="Джагернаут"
+ClassSummary="Как и имя, которое носит, Джагернаут пользуется самым тяжелым оружием и броней. То, что нельзя сделать хитростью - можно сделать огневой мощью."
+LeftAbilityTreeTitle="Удар"
+RightAbilityTreeTitle="Осада"
++AbilityTreeTitles[0]="Удар"
++AbilityTreeTitles[1]="Штурм"
++AbilityTreeTitles[2]="Осада"							 
+RandomNicknames[0]="Спортсмен"
+RandomNicknames[1]="Камень"
+RandomNicknames[2]="Кирпич"
+RandomNicknames[3]="Пожар"
+RandomNicknames[4]="Бабочка"
+RandomNicknames[5]="Шапка"
+RandomNicknames[6]="Картишки"
+RandomNicknames[7]="Куб"
+RandomNicknames[8]="Град"
+RandomNicknames[9]="Большой"
+RandomNicknames[10]="Герой"
+RandomNicknames[11]="Лемур"
+RandomNicknames[12]="Малыш"
+RandomNicknames[13]="Мамонт"
+RandomNicknames[14]="Спичка"
+RandomNicknames[15]="Гора"
+RandomNicknames[16]="Без тормозов"
+RandomNicknames[17]="Топливо"
+RandomNicknames[18]="Радиоактивный"
+RandomNicknames[19]="Масло"
+RandomNicknames[20]="Глупыш"
+RandomNicknames[21]="Плита"
+RandomNicknames[22]="Подтяжки"
+RandomNicknames[23]="Террор"
+RandomNicknames[24]="Башня"
+RandomNicknames[25]="Поезд"
+RandomNickNames_Male[0]="Безбашенный"
+RandomNickNames_Female[0]="Ненормальная"
+
+[ShadowOps_Survivalist_LW2 X2SoldierClassTemplate]
+DisplayName="Выживальщик"
+ClassSummary="Выживальщики - убежденные снайперы, могут быстро нейтрализовать несколько целей. Они также используют обрез если враг решил подойти слишком близко."
+LeftAbilityTreeTitle="Часовой"
+RightAbilityTreeTitle="Рейдер"
++AbilityTreeTitles[0]="Часовой"
++AbilityTreeTitles[1]="Выживший"
++AbilityTreeTitles[2]="Рейдер"							  
+RandomNicknames[0]="Осина"
+RandomNicknames[1]="Береза"
+RandomNicknames[2]="Кедр"
+RandomNicknames[3]="Чупакабра"
+RandomNicknames[4]="Тень"
+RandomNicknames[5]="Флинт"
+RandomNicknames[6]="Отброс"
+RandomNicknames[7]="Кудзи"
+RandomNicknames[8]="Длинный"
+RandomNicknames[9]="Дуб"
+RandomNicknames[10]="Мох"
+RandomNicknames[11]="Мускат"
+RandomNicknames[12]="Сосна"
+RandomNicknames[13]="Пруд"
+RandomNicknames[14]="Бомба"
+RandomNicknames[15]="Кольцо"
+RandomNicknames[16]="Грабитель"
+RandomNicknames[17]="Бутерброд"
+RandomNicknames[18]="Саквояж"
+RandomNicknames[19]="Аспид"
+RandomNicknames[20]="Западня"
+RandomNicknames[21]="Кол"
+RandomNicknames[22]="Скунс"
+RandomNicknames[23]="Дубильщик"
+RandomNicknames[24]="Шина"
+RandomNicknames[25]="Путник"
+RandomNicknames[26]="Оборотень"
+RandomNicknames[27]="Огненная вода"
+RandomNicknames[28]="Йети"
+RandomNickNames_Male[0]="Бычок"
+RandomNickNames_Male[1]="Туман"
+RandomNickNames_Female[0]="Рассвет"
+RandomNickNames_Female[1]="Жемчужина"
+
+[ShadowOps_Recon_LW2 X2SoldierClassTemplate]
+DisplayName="Разведчик"
+ClassSummary="Разведчик - наш основной класс разведки, обученный оставаться незамеченным и помогать другим членам отряда с помощью целеуказателя. Благодаря высокой мобильности, они также хорошо подходят для фланговых атак."
+LeftAbilityTreeTitle="Авангард"
+RightAbilityTreeTitle="Корректировщик"
++AbilityTreeTitles[0]="Авангард"
++AbilityTreeTitles[1]="Поисковик"
++AbilityTreeTitles[2]="Корректировщик"						   
+RandomNicknames[0]="Балкон"
+RandomNicknames[1]="Епископ"
+RandomNicknames[2]="Спинолом"
+RandomNicknames[3]="Кола"
+RandomNicknames[4]="Стекло"
+RandomNicknames[5]="Глушилка"
+RandomNicknames[6]="Колдовство"
+RandomNicknames[7]="Мрамор"
+RandomNicknames[8]="Мастер"
+RandomNicknames[9]="Одиночка"
+RandomNicknames[10]="Радар"
+RandomNicknames[11]="Вор"
+RandomNicknames[12]="Печалька"
+RandomNicknames[13]="Коллектор"
+RandomNicknames[14]="Картежник"
+RandomNicknames[15]="Серебро"
+RandomNicknames[16]="Ловкач"
+RandomNicknames[17]="Соник"
+RandomNicknames[18]="Лестница"
+RandomNicknames[19]="Солома"
+RandomNicknames[20]="Тушканчик"
+RandomNicknames[21]="Впередсмотрящий"
+RandomNicknames[22]="Оса"
+RandomNicknames[23]="Шорох"
+RandomNickNames_Male[0]="Ватман"
+RandomNickNames_Male[1]="Безумный Шляпник"
+RandomNickNames_Female[0]="Алиса"
+RandomNickNames_Female[1]="Женщина-кошка"
+
+; === GTS ability templates ===
+
+[PackmasterUnlock X2SoldierAbilityUnlockTemplate]
+DisplayName="Боевой инженер: Запасливый"
+Summary="Предметы с ограниченным использованием во вспомогательных слотах получают еще один заряд."
+
+[PackmasterUnlock_LW X2SoldierAbilityUnlockTemplate]
+DisplayName="Боевой инженер: Запасливый"
+Summary="Предметы с ограниченным использованием во вспомогательных слотах получают еще один заряд."
+
+[ExtraMunitionsUnlock_LW X2SoldierAbilityUnlockTemplate]
+DisplayName="Дополнительные боеприпасы"
+Summary="Все солдаты получают бесплатную стандартную гранату на каждой миссии."
+
