@@ -1,0 +1,5 @@
+[UIScreen_Fuller_Override_ResistanceManagementScreen]
+m_strMecManagmentTitle = "Менеджмент МЭКов сопротивления"
+m_strNoMecsStr = "В этом аванпосте нет МЭКов!"
+m_strResistanceMecNumber = "МЭКи сопротивления: <XGParam:IntValue0/>"
+m_strResistanceMecname = "Тип МЭКа:"
