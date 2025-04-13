@@ -459,3 +459,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
 https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
 * Russian 
+
+# Additional Ammo Types
+https://steamcommunity.com/sharedfiles/filedetails/?id=1757248681
+
+* Russian 
