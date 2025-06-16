@@ -1,0 +1,101 @@
+[Social_Loner X2AbilityTemplate]
+LocFriendlyName="独行者"
+LocLongDescription="倾向与友军保持距离，离队友越远获得额外命中加成"
+LocHelpText="距离小队越远获得越高命中加成。5格距离起效，10格达到最大加成（5倍）"
+LocFlyOverText="独行者"
+
+[Social_Tenacious X2AbilityTemplate]
+LocFriendlyName="坚韧"
+LocLongDescription="战斗中坚定不移，受伤时提升防御力"
+LocHelpText="受击后提升防御"
+LocFlyOverText="坚韧"
+
+[Social_TenaciousDummy X2AbilityTemplate]
+LocFriendlyName="坚韧"
+LocLongDescription="战斗中坚定不移，首次受伤时提升防御力"
+LocHelpText="首次受击后提升防御"
+LocFlyOverText="坚韧"
+
+[Social_Energetic X2AbilityTemplate]
+LocFriendlyName="精力充沛"
+LocLongDescription="任务初始的能量爆发提升其移动力"
+LocHelpText="任务开始后数回合内获得额外移动力"
+LocFlyOverText="精力充沛"
+
+[Social_EnergeticDummy X2AbilityTemplate]
+LocFriendlyName="精力充沛"
+LocLongDescription="任务初始的能量爆发提升其移动力"
+LocHelpText="任务开始后数回合内获得额外移动力"
+LocFlyOverText="精力充沛"
+
+[Social_Courageous X2AbilityTemplate]
+LocFriendlyName="英勇无畏"
+LocLongDescription="压力下毫不动摇，半血以下获得额外闪避"
+LocHelpText="受伤时提升闪避"
+LocFlyOverText="英勇无畏"
+
+[Social_CourageousDummy X2AbilityTemplate]
+LocFriendlyName="英勇无畏"
+LocLongDescription="压力下毫不动摇，半血以下获得额外闪避"
+LocHelpText="受伤时提升闪避"
+LocFlyOverText="英勇无畏"
+
+[Social_Reserved X2AbilityTemplate]
+LocFriendlyName="矜持"
+LocLongDescription="异常谨慎的士兵，免疫暴击伤害"
+LocHelpText="防止遭受暴击"
+LocFlyOverText="矜持"
+
+[Social_Petulant X2AbilityTemplate]
+LocFriendlyName="易怒"
+LocLongDescription="对最后伤害自己的敌人获得巨额命中加成"
+LocHelpText="对最近伤害过自己的敌人获得高额命中加成"
+LocFlyOverText="易怒"
+
+[Social_PetulantDummy X2AbilityTemplate]
+LocFriendlyName="易怒"
+LocLongDescription="对最后击中自己的敌人获得巨额命中加成"
+LocHelpText="必定对攻击者发动反击"
+LocFlyOverText="易怒"
+
+[Social_Jokester X2AbilityTemplate]
+LocFriendlyName="活宝"
+LocLongDescription="可解除队友的负面精神状态（如眩晕和心灵控制）"
+LocHelpText="通过玩笑解除盟友的负面状态"
+LocFlyOverText="活宝"
+
+[Social_Intelligent X2AbilityTemplate]
+LocFriendlyName="机智过人"
+LocLongDescription="有时能通过机敏将失败的黑客入侵转为成功"
+LocHelpText="几率逆转失败的黑客入侵"
+LocFlyOverText="智能覆写"
+
+[Social_IntelligentDummy X2AbilityTemplate]
+LocFriendlyName="机智过人"
+LocLongDescription="有时能通过机敏将失败的黑客入侵转为成功"
+LocHelpText="几率逆转失败的黑客入侵"
+LocFlyOverText="智能覆写"
+
+[Social_Charming X2AbilityTemplate]
+LocFriendlyName="魅力非凡"
+LocLongDescription="使用主武器攻击时可能击晕敌人"
+LocHelpText="主武器命中时有几率击晕目标"
+LocFlyOverText="魅力非凡"
+
+[Social_CharmingDummy X2AbilityTemplate]
+LocFriendlyName="魅力非凡"
+LocLongDescription="使用主武器攻击时可能击晕敌人"
+LocHelpText="主武器命中时有几率击晕目标"
+LocFlyOverText="魅力非凡"
+
+[Social_Supportive X2AbilityTemplate]
+LocFriendlyName="支援型"
+LocLongDescription="每回合开始时治疗相邻友军"
+LocHelpText="为附近队友恢复生命值"
+LocFlyOverText="支援型"
+
+[Social_SupportiveDummy X2AbilityTemplate]
+LocFriendlyName="支援型"
+LocLongDescription="每回合开始时治疗相邻友军"
+LocHelpText="为附近队友恢复生命值"
+LocFlyOverText="支援型"
