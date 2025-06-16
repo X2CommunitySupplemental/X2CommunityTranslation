@@ -459,3 +459,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
 https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
 * Russian 
+
+# [WoTC] Displays Of Affection - Tactical Dating Sim
+https://steamcommunity.com/sharedfiles/filedetails/?id=3496713479
+
+* Simplified Chinese
