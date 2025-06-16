@@ -1,0 +1,12 @@
+[UIScreenListener_ALS]
+;нужно уложиться в 16 символов иначе перекроет соседняя кнопка strLockLoadout
+strSaveLoadout="Запомнить"
+strLockLoadout="Закрепить комплект"
+strUnlockLoadout="Разблокировать комплект"
+
+strSaveSquadLoadout="Запомнить комплекты"
+strLockSquadLoadout="Закрепить комплекты"
+strUnlockSquadLoadout="Разблокировать комплекты"
+strSaveSquadLoadoutTooltip="Запомнить комплекты снаряжения для солдат текущего отряда."
+strLockSquadLoadoutTooltip="Заблокировать изменения комплектов снаряжения для солдат текущего отряда."
+strUnlockSquadLoadoutTooltip="Разблокировать изменения комплектов снаряжения для солдат текущего отряда."

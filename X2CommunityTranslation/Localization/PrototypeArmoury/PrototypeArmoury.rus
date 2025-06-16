@@ -1,0 +1,18 @@
+[PrototypeArmoury_MCMScreen]
+ModName="Prototype Armoury"
+PageTitle="Prototype Armoury"
+
+CanBeChangedInSaveTitle="Может быть изменено в ходе игры"
+REMOVE_NICKNAMED_UPGRADES_Label="Снимать улучшения с именованных оружий"
+REMOVE_NICKNAMED_UPGRADES_Tip="Если отключено, НЕ будет снимать улучшения с именованных оружий при выборе \"Снять улучшения\" на экране выбора отряда"
+
+CanNotBeChangedInSaveTitle="Не может быть изменено в ходе игры"
+FORCE_LOCK_AND_LOAD_Label="Включить повторное использование улучшений оружия"
+FORCE_LOCK_AND_LOAD_Tip="Позволяет всегда заменять улучшения оружия, не уничтожая предыдущее. Для применения требуется перезапуск игры"
+
+[UIUtilities_PA]
+strDropUpgrade="Снять улучшение"
+strStripUpgrades="Снять улучшения"
+strStripUpgradesTooltip="Снять все улучшения с оружий, НЕ экипированных солдатами текущего отряда"
+strStripUpgradesConfirm="Подтвердить снятие улучшений"
+strStripUpgradesConfirmDesc="Подтвердите снятие всех улучшений со всех оружий, НЕ экипированных солдатами текущего отряда. Эти улучшения станут доступны немедленно. (Улучшения именованных оружий будут <XGParam:StrValue0>. Это можно изменить в MCM.)"

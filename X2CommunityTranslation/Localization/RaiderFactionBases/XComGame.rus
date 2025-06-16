@@ -1,0 +1,107 @@
+[UICovertActions]
+CovertActions_WarningAmbush=ВНИМАНИЕ!\nНа этом задании можно угодить в засаду. Надо убедиться, что наши солдаты как следует подготовились к бою.
+
+[MissionTimers]
+DataRetrievalTitle="Эвакуировать"
+DataRetrievalSubtitle="Ходов до прибытия вражеского подкрепления"
+
+
+[Reward_RaiderBaseAction X2RewardTemplate]
+DisplayName="Уничтожить штаб-квартиру \"Налетчиков\""
+RewardDetails="Рейд по уничтожению штаб-квартиры \"Налетчиков\" в данном регионе, это заметно снизит их активность во время наших заданий."
+
+[Reward_DiscoverRaiderBase X2RewardTemplate]
+DisplayName="Найти штаб-квартиру \"Налетчиков\""
+RewardDetails="Как можно скорее мы должны обнаружить штаб-квартиру \"Налетчиков\" в данном регионе, это позволит нанести по ним удар, и покончить с их вмешательством в наши дела."
+
+[CovertActionNarrative_FindRaiderBase X2CovertActionNarrativeTemplate]
+ActionName="Поиск \"Налетчиков\""
+ActionPreNarrative="Разведка сообщила об обнаружении штаб-квартиры \"Налетчиков\" в <XGParam:StrValue3/!ContinentName/>. Их присутствие несомненно доставит нам немало хлопот, пока мы не решим эту проблему кардинально, именно поэтому нам необходимо обнаружить координаты их штаб-квартиры."
+ActionPostNarrative="Нам удалось обнаружить их штаб-квартиру: осталось дело за малым, спланировать и осуществить операцию по их нейтрализации."
+
+[CovertActionNarrative_RaiderDataRetrieval X2CovertActionNarrativeTemplate]
+ActionName="Захватить данные"
+ActionPreNarrative="По нашим данным, \"Налетчики\" проявляют активность в <XGParam:StrValue3/!ContinentName/> с целью завладеть важными разведданными \"Адвента\": если мы отправим в этот регион нашего оперативника, то мы можем перехватить эти данные."
+ActionPostNarrative="Операция прошла успешно: Теперь нам стали более понятны цели и мотивы \"Адвента\"."
+
+[CovertActionNarrative_RaiderBaseAction X2CovertActionNarrativeTemplate]
+ActionName="Саботаж \"Налетчиков\""
+ActionPreNarrative="Непонятно зачем, но \"Адвент\" всячески защищает \"Налетчиков\" в <XGParam:StrValue3/!ContinentName/> от любого нашего вмешательства. Возможно это наш единственный шанс помешать им раз и навсегда."
+ActionPostNarrative="Конечно со временем они найдут новых добровольцев, но до этого они будут гораздо меньше болтаться у нас под ногами."
+
+
+; rewards
+
+[CovertAction_FindRaiderBase X2CovertActionTemplate]
+ActionObjective="Поиск штаб-квартиры \"Налетчиков\""
+
+[CovertAction_RaiderBaseAction X2CovertActionTemplate]
+ActionObjective="Уничтожение штаб-квартиры \"Налетчиков\""
+
+[CovertAction_RaiderDataRetrieval X2CovertActionTemplate]
+ActionObjective="Захватить данные"
+
+
+[CovertActionRisk_RaiderAmbush X2CovertActionRiskTemplate]
+RiskName="Засада \"Налетчиков\""
+
+[RaiderAmbush_Recap X2MissionFlavorTextTemplate]
+FlavorText="MISSING FLAVOR TEXT"
+CouncilSpokesmanSuccessText="Несмотря на все усилия противника, в попытке сорвать операцию, ваши умелые действия обеспечили безопасное возвращение на базу всех верных Сопротивлению оперативников."
+CouncilSpokesmanFailureText="Судя по всему, противник был хорошо осведомлен, и успел подготовиться к засаде, в которую угодили ваши бойцы. Мы должны сделать все необходимое, что бы их жертва не оказалась напрасной."
+
+[RaiderBaseTakedown_Recap X2MissionFlavorTextTemplate]
+CouncilSpokesmanSuccessText="После разрушения  основной базы \"Налетчиков\", XCOM в своих регионах могут лучше сосредоточиться на \"Адвенте\" и их инопланетных хозяевах."
+CouncilSpokesmanFailureText="Эта атака была неудачной, Командир. Может пройти много времени, прежде чем мы получим еще один шанс нанести удар по этим противникам."
+
+[MissionSource_RaiderAmbush X2MissionSourceTemplate]
+MissionPinLabel="Засада \"Налетчиков\""
+MissionExpiredText="Шеф, мы не можем позволить себе терять солдат."
+
+; missions
+
+[RM_CovertOp_DataRetrieval X2MissionTemplate]
+DisplayName="Перехватить разведданные \"Налетчиков\""
+Briefing="Перехватить разведданные - \"Налетчики\""
+PostMissionType="Получено данных"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Побег с тайным оперативником и отрядом ХСОМ"
+ObjectiveTextPools[1]="Вытащить <XGParam:StrValue0/!QuestItemName/> с территории \"Налетчиков\""
+PreMissionNarratives[0]="X2NarrativeMoments.TACTICAL.Recover.Central_Guerilla_Ops_Recover_Item_Vehicle_04"
+
+[RM_CovertOp_BaseTakedown X2MissionTemplate]
+DisplayName="Уничтожить основную базу \"Налетчиков\""
+Briefing="Уничтожить базу \"Налетчиков\""
+PostMissionType="Уничтожить базу"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Уничтожьте всех врагов в АО "
+
+
+[RM_DataRetrieval X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Оперативники должны выжить"
+ObjectiveTextPools[1]="Добудьте - %QUESTITEM%"
+ObjectiveTextPools[2]="Эвакуируйте - %QUESTITEM%"
+ObjectiveTextPools[3]="Эвакуируйте всех бойцов XCOM"
+
+[RM_RaiderBaseTakedown X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="Уничтожьте всех врагов в АО"
+ObjectiveTextPools[1]="Эвакуируйте всех выживших солдат XCOM"
+
+; abilities and sitreps
+[RM_CovertPhantom X2AbilityTemplate]
+LocFriendlyName="Тайный наблюдатель"
+LocLongDescription="Если оперативник начинает задание в режиме маскировки, то его невозможно обнаружить на протяжении первых двух ходов."
+LocHelpText="Если оперативник начинает задание в режиме маскировки, то его невозможно обнаружить на протяжении первых двух ходов."
+LocFlyOverText="Тайный наблюдатель"
+
+[RM_CovertPhantom X2SitRepTemplate]
+FriendlyName="Тайный наблюдатель"
+Description="На данном задании оперативники не теряют маскировку."
+
+[RM_CovertPhantomEffect X2SitRepEffect_GrantAbilities]
+FriendlyName="Тайный наблюдатель"
+Description="На данном задании оперативники не теряют маскировку."
+
+[Hack_CovertObjectiveChest X2AbilityTemplate]
+LocFriendlyName="Взломать сундук"
+LocHelpText="Взломать указанный сундук."

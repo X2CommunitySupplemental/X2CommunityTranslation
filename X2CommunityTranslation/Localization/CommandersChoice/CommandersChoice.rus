@@ -1,0 +1,9 @@
+[UIScreenListener_CommandersChoice]
+strCCMenuOption="Повысить бойца"
+strCCTooltip="Выбрав класс бойца"
+strCCDescription="Повысить бойца и выбрать класс для него."
+
+[UIChooseClass_CommandersChoice]
+m_strTitle="Классы"
+m_strInventoryLabel="Выбрать"
+m_strBuy="ОБУЧИТЬ"

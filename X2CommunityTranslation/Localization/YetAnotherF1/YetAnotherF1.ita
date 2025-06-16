@@ -1,0 +1,10 @@
+[YAF1_UIUnitInfo]
+m_strEnemyInfo="Informazioni sul nemico"
+m_strSoldierInfo="Informazioni del soldato"
+m_strNotAUnit="Non è un'unità"
+m_strNoInfoAvailable="Nessuna informazione disponibile"
+
+m_strPassives="Passive"
+
+[YAF1_UIWeaponPanel]
+m_strInfinitySymbol=∞

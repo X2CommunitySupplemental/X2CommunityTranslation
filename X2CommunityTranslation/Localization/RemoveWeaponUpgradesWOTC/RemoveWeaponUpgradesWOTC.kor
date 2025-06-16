@@ -1,0 +1,14 @@
+[UISL_WeaponUpgradeListener]
+m_strStripUpgrades=업그레이드를 사용 가능하게 변경
+m_strStripUpgradesTooltip=현재 임무에 선택되지 않은 병사가 장비한 모든 주무기에서 무기 업그레이드를 제거합니다.
+m_strStripUpgradesConfirm=무기 업그레이드 가능 여부 확인
+m_strStripUpgradesConfirmDesc=현재 임무에 선택되지 않은 모든 주무기에서 모든 무기 업그레이드를 제거합니다. 제거된 무기 업그레이드는 즉시 사용할 수 있게 됩니다.
+
+[NewWeapUpgradeItem]
+m_strDropUpgrade=업그레이드 제거
+m_strCannotDropUpgrade=무기 업그레이드를 제거하는 데 필요한 상호 교환 가능한 업그레이드 연구 필요.
+m_strError=에러
+
+[UISL_ImplantsRemoval]
+mStr_RemoveImplantLabel=전투 시뮬레이션 제거
+mStr_NeedBreakthrough=교체 가능한 전투 시뮬레이션 연구 필요.

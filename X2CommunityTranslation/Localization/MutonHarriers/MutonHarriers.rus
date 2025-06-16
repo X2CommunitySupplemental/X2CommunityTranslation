@@ -1,0 +1,16 @@
+[X2Ability_LancingGun]
+LancingGunMarkEffectName="Метка копья"
+LancingGunMarkEffectDesc="Отмеченные цели получают больше урона"
+
+[X2Effect_LancingGun]
+LancingGunRemoved="Метка копья снята"
+
+[UIEventNoticesTactical_Ripple]
+PsiRippleTitle="Псионический резонанс"
+
+[X2StatusEffects_RipplingRifle]
+PsiRippleFriendlyName="Псионический резонанс"
+PsiRippleFriendlyDesc="Псионический резонанс заставляет цель получать урон каждый ход и может распространиться на соседние цели"
+PsiRippleEffectAcquiredString="<XGParam:StrValue0/!UnitName/> пси-резонирует."
+PsiRippleEffectTickedString="<XGParam:StrValue0/!UnitName/> всё ещё под воздействием псионического резонанса."
+PsiRippleEffectLostString="<XGParam:StrValue0/!UnitName/> больше не под воздействием псионического резонанса."

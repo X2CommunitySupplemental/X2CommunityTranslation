@@ -2,6 +2,7 @@
 https://steamcommunity.com/sharedfiles/filedetails/?id=688405905
 
 * Simplified Chinese
+* Russian
   
 # [Vanilla/WotC] Black Market Soldier Stats
 https://steamcommunity.com/sharedfiles/filedetails/?id=3004108595
@@ -14,11 +15,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3002469584
 * Simplified Chinese
 * Russian
 
-# [WOTC] Don't Pull That Trigger 
-https://steamcommunity.com/sharedfiles/filedetails/?id=2012323571
-
-* Simplified Chinese
-
 # [WotC] Bronzeman Mode
 https://steamcommunity.com/sharedfiles/filedetails/?id=1125184617
 
@@ -28,13 +24,13 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1125184617
 https://steamcommunity.com/sharedfiles/filedetails/?id=2303836344
 
 * Simplified Chinese
-
 * Russian
 
 # [WOTC] Iridar's Loadout Manager 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2810261755
 
 * Simplified Chinese
+* Russian
 
 # Fulton Rewards 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1148245942
@@ -52,11 +48,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2664422411
 
 * Simplified Chinese
 * Russian
-* 
+  
 # [WOTC] Spectral Zombie Warning Signs
 https://steamcommunity.com/sharedfiles/filedetails/?id=2743416893
 
 * Chinese
+* Russian
 
 # [WOTC] Rename And Reorganize Campaign
 https://steamcommunity.com/sharedfiles/filedetails/?id=1157270927
@@ -72,16 +69,19 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1544760525
 https://steamcommunity.com/sharedfiles/filedetails/?id=2782908294
 
 * Chinese
+* Russian
 
 # Narrative Control
 https://steamcommunity.com/sharedfiles/filedetails/?id=1334298434
 
 * Chinese
+* Russian
 
 # [WOTC] Automatic Reload by Iridar
 https://steamcommunity.com/sharedfiles/filedetails/?id=2595660540
 
 * Chinese
+* Russian
 
 # [WOTC] Faction Anchor
 https://steamcommunity.com/sharedfiles/filedetails/?id=2387956032
@@ -102,18 +102,21 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1124794449
 https://steamcommunity.com/sharedfiles/filedetails/?id=2012323571
 
 * Chinese
+* Simplified Chinese
 
 # Show More Buff Details
 https://steamcommunity.com/sharedfiles/filedetails/?id=709499969
 
 * Chinese
+* Russian
 
 # Yet Another F1
 https://steamcommunity.com/sharedfiles/filedetails/?id=934236622
 
 * Chinese
-
 * Russian
+* Italian
+* Spanish
 
 # [WOTC] Soldier Info Redux
 https://steamcommunity.com/sharedfiles/filedetails/?id=2415446578
@@ -124,11 +127,14 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2415446578
 https://steamcommunity.com/sharedfiles/filedetails/?id=1134266810
 
 * Chinese
+* Russian
 
 # WOTC - Extended Information!
 https://steamcommunity.com/sharedfiles/filedetails/?id=1183444470
 
 * Chinese
+* Russian
+* Spanish
 
 # [WOTC] YAF1 Profile Extension
 https://steamcommunity.com/sharedfiles/filedetails/?id=2368109302
@@ -149,6 +155,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2832773856
 https://steamcommunity.com/sharedfiles/filedetails/?id=1123163799
 
 * Chinese
+* Russian
 
 # [WOTC] Force Level Display
 https://steamcommunity.com/sharedfiles/filedetails/?id=1916761361
@@ -164,6 +171,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2405013108
 https://steamcommunity.com/sharedfiles/filedetails/?id=2347354900
 
 * Chinese
+* Russian
+* Korean
+* Spanish
 
 # [WOTC] Extended Personnel Info Redux
 https://steamcommunity.com/sharedfiles/filedetails/?id=2965980985
@@ -180,6 +190,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1207741138
 https://steamcommunity.com/sharedfiles/filedetails/?id=2995251401
 
 * Chinese
+* Russian
 
 # [WOTC] Musashi's Mods Fixes
 https://steamcommunity.com/sharedfiles/filedetails/?id=2569592723
@@ -200,6 +211,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1149493976
 https://steamcommunity.com/sharedfiles/filedetails/?id=667104300
 
 * Chinese
+* Russian
+* Spanish
+* German
+* Korean
 
 # [WOTC] Cosmo Dragoon
 https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
@@ -211,92 +226,236 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2025780967
 
 * Russian
 
-# [WOTC] Automatic Reload by Iridar
-https://steamcommunity.com/sharedfiles/filedetails/?id=2595660540
-
-* Russian
-
-
 # WotC: robojumper's Squad Select
+https://steamcommunity.com/sharedfiles/filedetails/?id=1122974240
 
 Note: This may work for the vanilla/LW2 mod as well.
-
-https://steamcommunity.com/sharedfiles/filedetails/?id=1122974240
 
 * Russian
 * French
 * Korean
+* Chinese
+* Spanish
 
 # [WOTC] Covert Infiltration
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=2567230730
 
 * french
 
 # [WOTC] Iridar's ADVENT Arsenal - Ghost Templates
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=2438647615
 
 * Simplified Chinese
 
 # [WoTC]ADVENT Sniper
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=1126501968
 
 * Chinese
 
 # [WOTC] Advent Field Training
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=1658110374
 
 * Chinese
 
 # [WOTC] Dynamic Deployment by Iridar
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=2950736651
 
 * Chinese
 
 # [WoTC] Purge Priests
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=1927497195
 
 * Chinese
 
 # [WOTC] Squad Manager
-
 https://steamcommunity.com/workshop/filedetails/?id=2542543519
 
 * Chinese
 
 # Jedi Class Revised
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=2031929512
 
 * Chinese
 
 # [WoTC] Mark Zero Augments
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=1294744824
 
 * Chinese
 
 # [WOTC] Shadow Ops Perk Pack
-
 https://steamcommunity.com/workshop/filedetails/?id=1519841231
 
 * Chinese
 
-
 # [WOTC] YAF1 Autopsy Required Extension
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=2377251739
 
 * Chinese
 
 # Asari Adepts
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=1316359865
 
 * Chinese
 
+# [WoTC] ADVENT Military Assault MEC
+https://steamcommunity.com/sharedfiles/filedetails/?id=2755570022
+
+* Simplified Chinese
+* Russian
+
+# [WOTC] Advent Psi Ops
+https://steamcommunity.com/sharedfiles/filedetails/?id=1309465679
+
+* Chinese
+
+# Raider Faction: Bandits
+https://steamcommunity.com/sharedfiles/filedetails/?id=1368613369
+
+* Russian
+
+# Raider Faction Bases
+https://steamcommunity.com/sharedfiles/filedetails/?id=1601260788
+
+* Russian
+
+# Raider Faction: Phantoms
+https://steamcommunity.com/sharedfiles/filedetails/?id=1368589567
+
+* Russian
+
+# Raider Faction: Marauders
+https://steamcommunity.com/sharedfiles/filedetails/?id=1368608233
+
+* Russian
+
+# Raider Faction: Cult of Jariah
+https://steamcommunity.com/sharedfiles/filedetails/?id=1368626625
+
+* Russian
+
+# Raider Faction: Rogue XCOM Operatives
+https://steamcommunity.com/sharedfiles/filedetails/?id=1434693497
+
+* Russian
+
+# [WoTC] Custodian Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2094672450
+
+* Russian
+
+# [WOTC] The Hive
+https://steamcommunity.com/sharedfiles/filedetails/?id=1918499687
+
+* Russian
+
+# [WoTC] Muton Harriers
+https://steamcommunity.com/sharedfiles/filedetails/?id=2435857055
+
+* Russian
+
+# [WOTC] Sectoid Abductor
+https://steamcommunity.com/sharedfiles/filedetails/?id=1386027774
+
+* Russian
+* Simplified Chinese
+
+# [WOTC] Armored Viper
+https://steamcommunity.com/sharedfiles/filedetails/?id=1505294997
+
+* Russian
+* Simplified Chinese
+
+# [WOTC] Choose My Class
+https://steamcommunity.com/sharedfiles/filedetails/?id=1467643380
+
+* Russian
+
+# Rookie's Choice (WotC)
+https://steamcommunity.com/sharedfiles/filedetails/?id=1942730184
+
+* Russian
+
+# [WOTC] Open Squad Select at any time
+https://steamcommunity.com/sharedfiles/filedetails/?id=1529472981
+
+* Russian
+
+# [WOTC] Show Current PCS
+https://steamcommunity.com/sharedfiles/filedetails/?id=2989400002
+
+* Russian
+
+# Remove Weapon Upgrades
+https://steamcommunity.com/sharedfiles/filedetails/?id=1162274976
+
+* Russian
+* Korean
+
+# [WOTC] Prototype Armoury
+https://steamcommunity.com/sharedfiles/filedetails/?id=2567230602
+
+* Russian
+* Spanish
+
+# [WOTC] Show All Class Counts
+https://steamcommunity.com/sharedfiles/filedetails/?id=2167235854
+
+* Russian
+
+# More Cities WotC
+https://steamcommunity.com/sharedfiles/filedetails/?id=1131405167
+
+* Russian
+
+# More Nations and Names WotC
+https://steamcommunity.com/sharedfiles/filedetails/?id=1124284135
+
+* Russian
+
+# [WOTC] Automated Loadout Manager
+https://steamcommunity.com/sharedfiles/filedetails/?id=1882809714
+
+* Russian
+
+# Phantom Evac
+https://steamcommunity.com/sharedfiles/filedetails/?id=1748331160
+
+* Russian
+
+# [WOTC] Purifier Grenades Fix
+https://steamcommunity.com/sharedfiles/filedetails/?id=1371195713
+
+* International English
+* Russian
+
+# [WOTC] Stabilize Me
+https://steamcommunity.com/sharedfiles/filedetails/?id=1380625450
+
+* Russian
+
+# Everyone Gets Hunker Down WOTC
+https://steamcommunity.com/sharedfiles/filedetails/?id=1541012085
+
+* Russian
+
+# [WOTC] Yellow Alert Gameplay V2.0
+https://steamcommunity.com/sharedfiles/filedetails/?id=1964595004
+
+* Russian
+
+# More Traits
+https://steamcommunity.com/sharedfiles/filedetails/?id=1122837889
+
+* Russian
+* Chinese
+* Simplified Chinese
+
+# Suit Upgrading
+https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
+
+* Russian
+
+# Shadow Ops Classes For LWOTC
+https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
+
+* Russian 

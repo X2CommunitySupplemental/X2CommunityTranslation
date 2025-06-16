@@ -1,0 +1,58 @@
+[Abduction X2AbilityTemplate]
+LocFriendlyName="劫持"
+LocFlyOverText="劫持"
+LocHelpText="劫持被眩晕或者混乱的目标。"
+LocLongDescription="灰人劫持者会试图劫持移动范围内眩晕或以任何方式眩晕的目标。如果没有眩晕的目标，它将尝试劫持混乱的目标。"
+
+[AbductionMove X2AbilityTemplate]
+LocFriendlyName="劫持"
+LocFlyOverText="劫持"
+LocHelpText="劫持被眩晕或者混乱的目标."
+LocLongDescription="灰人劫持者会试图劫持移动范围内眩晕或以任何方式眩晕的目标。如果没有眩晕的目标，它将尝试劫持混乱的目标。"
+
+
+[AbductorStunShot X2AbilityTemplate]
+LocFriendlyName="眩晕射击"
+LocFlyOverText="眩晕射击"
+LocHelpText="灰人劫持者使用腕部武器进行特殊射击，可以使目标眩晕。"
+LocLongDescription="使被此能力击中的目标眩晕。"
+
+
+[SectoidAbductor X2CharacterTemplate]
+strCharacterName="灰人劫持者"
+
+[SectoidAbductorM2 X2CharacterTemplate]
+strCharacterName="灰人劫持者"
+
+[SectoidAbductor_WPN X2WeaponTemplate]
+FriendlyName="劫持者光束手枪"
+
+[SectoidAbductorM2_WPN X2WeaponTemplate]
+FriendlyName="劫持者光束手枪"
+
+[SectoidAbduction X2SitRepTemplate]
+FriendlyName="灰人劫持"
+Description="外星人在该地区劫持平民和抵抗组织成员。"
+
+[SectoidAbductionEffect X2SitRepEffect_ModifyDefaultEncounterLists]
+FriendlyName="灰人劫持"
+Description="似乎外星人派遣了大量的灰人和变种人支援部队来抓捕该地区的平民和抵抗组织成员。他们可能已经绑架了预定目标。高度戒备，指挥官。"
+
+
+[SecureUFOAbductors X2MissionTemplate]
+DisplayName="镇压着陆的外星UFO"
+Briefing="我们的抵抗组织报告发现灰人劫持者正在组织变种人部队. 镇压UFO,并尽你所能夺取所有东西."
+PostMissionType="镇压着陆的外星UFO"
+BriefingImage="img:///UILibrary_Common.Xcom_default"
+ObjectiveTextPools[0]="Neutralize all enemy targets"
+ObjectiveTextPools[1]="Secure Sectoid UFO for supplies"
+PreMissionNarratives[0]="X2NarrativeMoments.TACTICAL.SecureUFO.T_Secure_UFO_Narrative_Wrappers_01"
+PreMissionNarratives[1]="X2NarrativeMoments.TACTICAL.SecureUFO.T_Secure_UFO_Narrative_Wrappers_02"
+PreMissionNarratives[2]="X2NarrativeMoments.TACTICAL.SecureUFO.T_Secure_UFO_Narrative_Wrappers_03"
+PreMissionNarratives[3]="X2NarrativeMoments.TACTICAL.SecureUFO.T_Secure_UFO_Narrative_Wrappers_04"
+PreMissionNarratives[4]="X2NarrativeMoments.TACTICAL.SecureUFO.T_Secure_UFO_Narrative_Wrappers_05"
+
+[SecureUFOAbductors X2MissionNarrativeTemplate]
+ObjectiveTextPools[0]="消灭所有守卫UFO的敌人"
+ObjectiveTextPools[1]="解决敌方支援信标"
+ObjectiveTextPools[2]="释放所有XCOM士兵"

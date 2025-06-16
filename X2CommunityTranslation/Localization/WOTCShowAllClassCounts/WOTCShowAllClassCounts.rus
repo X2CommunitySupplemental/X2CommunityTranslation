@@ -1,0 +1,35 @@
+[X2EventListener_ClassCountsHook]
+ClassDelimLeft = ""
+ClassDelimMiddle = " / "
+ClassDelimRight = ""
+
+[WOTCShowAllClassCounts_MCMScreen]
+ModName = "Show All Class Counts"
+PageTitle = "Show All Class Counts by Iridar"
+
+GroupHeader = "Общие сведения"
+GroupHeader2 = "Параметры сортировки"
+
+DisplayClassName_Label = "Отображение имени класса"
+DisplayClassName_Tip = "Если включено, мод будет отображать имя класса солдата."
+
+DisplayClassIcon_Label = "Отображение значка класса"
+DisplayClassIcon_Tip = "Если включено, мод будет отображать иконку класса солдата."
+
+UseUltraCompactMode_Label = "Ультракомпактный режим"
+UseUltraCompactMode_Tip = "Экспериментально. Если включено, мод будет отображать иконку класса солдата и количество доступных солдат каждого класса в двух рядах. Выглядит не очень хорошо, но подойдет, если вам действительно нужно больше места для размещения большего количества классов."
+
+AlwaysShowGTSTrainableClasses_Label = "Всегда показывать обучаемые классы GTS"
+AlwaysShowGTSTrainableClasses_Tip = "Если мод включен, он всегда будет отображать классы солдат, которые можно обучить у новичков в школе партизанской тактики, даже если у вас нет солдат этого класса."
+
+ShowAvaliableCounts_Label = "Показать доступных солдат"
+ShowAvaliableCounts_Tip = "Если мод включен, он также отображает количество готовых к миссии солдат каждого класса."
+
+ShowRookiesFirst_Label = "Покажите новичков первыми"
+ShowRookiesFirst_Tip = "Если эта опция включена, мод будет группировать новичков отдельно в начале списка."
+
+ShowHeroUnitLast_Label = "Показать Героев в конце"
+ShowHeroUnitLast_Tip = "Если включить эту опцию, мод будет группировать отряды героев, например жнецов и скирмишеров, отдельно в конце списка."
+
+;LabelEnd = "Создано Иридаром | www.patreon.com/Iridar"
+;LabelEndTooltip = "Спасибо за использование моих модов, надеюсь, вам понравится! Пожалуйста, поддержите меня на Patreon, чтобы я мог позволить себе тратить время на создание новых потрясающих модов <3")

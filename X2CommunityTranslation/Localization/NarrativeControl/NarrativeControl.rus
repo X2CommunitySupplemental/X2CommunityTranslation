@@ -1,0 +1,13 @@
+[NarrativeControl_Settings]
+; Strings displayed in the MCM menu
+
+strBradfordNarratives="Реплики Брэдфорда"
+strBradfordNarrativesTooltip="Все: все реплики воспроизводятся. Только окружающая среда: воспроизводятся только реплики окружения. Нет: нет контроля реплик, все реплики воспроизводятся. Эти настройки не влияют на синематики"
+strNoGreetingsWhenNarrativePlaying="Нет приветствий при воспроизведении реплик"
+strNoGreetingsWhenNarrativePlayingTooltip="Пропустить приветствия Шеня и Тайгана, когда воспроизводится другие реплики"
+strNoNarrativesInGeoscape="Нет реплики о геоландшафте"
+strNoNarrativesInGeoscapeTooltip="Отключает реплики о геоландшафте. Тактические реплики, кинематографические реплики и реплики \"Мстителя\" не затронуты"
+strNoNarrativesAtAll="Нет реплик вообще"
+strNoNarrativesAtAllTooltip="Удалить все реплики на миссиях"
+strLogNarrativeInfo="Записывать информацию в .log файл"
+strLogNarrativeInfoTooltip="Отправлять информацию о репликих в файл игры: Launch.log. Используется для создания пользовательских правил реплик. Не влияет на функциональность игры"

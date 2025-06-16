@@ -1,0 +1,3 @@
+[X2WeaponTemplate_SpectralZombieSelfDestructPatcher]
+PsiSelfDestructFriendlyName = "Псионическая нестабильность"
+PsiSelfDestructFriendlyDesc = "Этот юнит излучает нестабильную псионическую энергию и взорвется, если его убить."

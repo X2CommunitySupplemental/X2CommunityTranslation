@@ -1,0 +1,177 @@
+[HunterOfVipers X2TraitTemplate]
+TraitFriendlyName="毒蛇獵人"
+TraitDescription="這個單位會對敵方毒蛇造成額外傷害。"
+
+[HunterOfArchons X2TraitTemplate]
+TraitFriendlyName="執政官獵人"
+TraitDescription="這個單位會對敵方執政官造成額外傷害。"
+
+[HunterOfStunLancers X2TraitTemplate]
+TraitFriendlyName="強襲槍兵獵人"
+TraitDescription="這個單位會對敵方強襲槍兵造成額外傷害。"
+
+[HunterOfMutons X2TraitTemplate]
+TraitFriendlyName="異變者獵人"
+TraitDescription="這個單位會對敵方異變者或狂戰士造成額外傷害。"
+
+[HunterOfTheLost X2TraitTemplate]
+TraitFriendlyName="失魂者獵人"
+TraitDescription="這個單位會對失魂者造成額外傷害。"
+
+[HunterOfMecs X2TraitTemplate]
+TraitFriendlyName="MEC獵人"
+TraitDescription="這個單位會對敵方MEC造成額外傷害。"
+
+[HunterOfFaceless X2TraitTemplate]
+TraitFriendlyName="無面者獵人"
+TraitDescription="這個單位會對敵方無面者造成額外傷害。"
+
+[HunterOfSectoids X2TraitTemplate]
+TraitFriendlyName="灰人獵人"
+TraitDescription="這個單位會對敵方灰人造成額外傷害。"
+
+[HunterOfChosen X2TraitTemplate]
+TraitFriendlyName="天選者獵人"
+TraitDescription="這個單位會對敵方天選者造成額外傷害。"
+
+[HunterOfSectoidsPassive X2AbilityTemplate]
+LocFriendlyName="灰人獵人"
+LocLongDescription="這個單位會對敵方灰人造成額外傷害。"
+
+[HunterOfChosenPassive X2AbilityTemplate]
+LocFriendlyName="天選者獵人"
+LocLongDescription="這個單位會對敵方天選者造成額外傷害。"
+
+
+[FearOfVertigo X2TraitTemplate]
+TraitFriendlyName="害怕高處"
+TraitScientificName="懼高症"
+TraitDescription="回合開始時若處在高地有機會陷入恐慌。"
+TraitQuotes[0]="「每當我往下看，我所能想到的只有墜落。」"
+TraitQuotes[1]="「你曾有過折斷身上一半的骨頭，只因為一次未命中的射擊嗎？」"
+TraitQuotes[2]="「再也沒有犯錯的空間了。」"
+TraitQuotes[3]="「我看過從那個地方射擊未命中的傢伙後來發生了什麼事。」"
+TraitQuotes[4]="「我必須戰勝機率，我不能成為害我們死在那裡的人。」"
+
+[FearOfSquadmateMissedShots X2TraitTemplate]
+TraitFriendlyName="害怕其他人射擊未命中"
+TraitScientificName="失敗恐懼症"
+TraitDescription="當一個隊友射擊未命中時有機會陷入恐慌。"
+TraitQuotes[0]="「一次沒中的的射擊可能會賠上我們所有！」"
+TraitQuotes[1]="「壓注太多在這把上了... 一次失誤的射擊我們都得死。」"
+TraitQuotes[2]="「再也沒有犯錯的空間了。」"
+TraitQuotes[3]="「一次射擊未命中你就會死... 事情就是這樣。」"
+TraitQuotes[4]="「機率在整我們！ 機率總是在整我們！」"
+
+[Trait_Critic X2TraitTemplate]
+TraitFriendlyName ="完美主義者"
+TraitScientificName="神經質"
+TraitDescription ="當小隊射擊未命中時有機會在小隊間造成恐慌。"
+TraitQuotes[0]="「剛那是什麼鬼？ 他們會把我們全部殺死！」"
+TraitQuotes[1]="「也許我們該加強我們的訓練標準...」"
+TraitQuotes[2]="「除了你還能怪誰。」"
+TraitQuotes[3]="「我們不該選這麼多新兵的。」"
+TraitQuotes[4]="「我們應該維持自己更高的標準。」"
+
+[Trait_Insubordinate X2TraitTemplate]
+TraitFriendlyName ="以下犯上"
+TraitScientificName="反抗傾向"
+TraitDescription ="當遇到致命的機率時有機會在小隊間造成恐慌。"
+TraitQuotes[0]="「我們根本就不該去那的... 這整個就是個大錯誤。」"
+TraitQuotes[1]="「所以這意義在哪裡？！ 這對我們有什麼用？」"
+TraitQuotes[2]="「這一切下滑的如此之快。」"
+TraitQuotes[3]="「當然都是指揮官的無能，他 們 說 我 們 自 己 正 被 側 襲 ！」"
+TraitQuotes[4]="「我們都將死去甚至更糟。」"
+
+[BadWilderness X2TraitTemplate]
+TraitFriendlyName="缺乏荒地經驗"
+TraitScientificName="缺乏訓練"
+TraitDescription="在郊區 -2 機動性。"
+TraitQuotes[0]="「誰會想住在這？」"
+TraitQuotes[1]="「這裡掩體實在太少了。」"
+TraitQuotes[2]="「這裡真是被伏擊的絕佳環境。」"
+
+[BadUrban X2TraitTemplate]
+TraitFriendlyName="缺乏都市經驗"
+TraitScientificName="缺乏訓練"
+TraitDescription="在都市 -2 機動性。"
+TraitQuotes[0]="「誰會想住在這？」"
+TraitQuotes[1]="「這裡有太多潛在的交戰點了。」"
+TraitQuotes[2]="「這裡真是被伏擊的絕佳環境。」"
+
+[TraitAbility_BadWilderness X2AbilityTemplate]
+LocFriendlyName="缺乏荒地經驗"
+LocLongDescription="這個單位在郊區 -2 機動性。"
+
+[TraitAbility_BadUrban X2AbilityTemplate]
+LocFriendlyName="缺乏都市經驗"
+LocLongDescription="這個單位在都市 -2 機動性。"
+
+
+[GoodWilderness X2TraitTemplate]
+TraitFriendlyName="荒地生存訓練"
+TraitDescription="這個單位在郊區 +2 機動性。"
+
+[GoodUrban X2TraitTemplate]
+TraitFriendlyName="都市戰鬥訓練"
+TraitDescription="這個單位在都市 +2 機動性。"
+
+[TraitAbility_GoodWilderness X2AbilityTemplate]
+LocFriendlyName="荒地生存訓練"
+LocLongDescription="這個單位在郊區 +2 機動性。"
+
+[TraitAbility_GoodUrban X2AbilityTemplate]
+LocFriendlyName="都市戰鬥訓練"
+LocLongDescription="這個單位在都市 +2 機動性。"
+
+
+
+[NeedSafety X2TraitTemplate]
+TraitFriendlyName="迷戀全身掩體"
+TraitScientificName="暴露恐懼症"
+TraitDescription="當不處在全身掩體時 -5 瞄準。"
+TraitQuotes[0]="「我需要任何能擋在我和想殺死我的電漿中間的東西。」"
+TraitQuotes[1]="「我很抱歉，我只是『不』想死。」"
+
+[RiskTaker X2TraitTemplate]
+TraitFriendlyName="無視風險"
+TraitScientificName="過度樂觀"
+TraitDescription="當不處在半身掩體時 -5 瞄準。"
+TraitQuotes[0]="「全身掩體是給孬種的。」"
+TraitQuotes[1]="「嘿，總之我需要一點空間來看到敵人。」"
+TraitQuotes[2]="「我只是真的厭倦不斷往旁邊探頭了。」"
+
+[TraitAbility_NeedSafety X2AbilityTemplate]
+LocFriendlyName="迷戀全身掩體"
+LocLongDescription="當不處在全身掩體時 -5 瞄準。"
+
+[TraitAbility_RiskTaker X2AbilityTemplate]
+LocFriendlyName="無視風險"
+LocLongDescription="當不處在半身掩體時 -5 瞄準。"
+
+
+[GoodProfile X2TraitTemplate]
+TraitFriendlyName="良好姿態"
+TraitDescription="當處在掩體時這個單位 +10 防禦。"
+
+[SteadiedAim X2TraitTemplate]
+TraitFriendlyName="穩定瞄準"
+TraitDescription="當處在掩體時這個單位 +5 瞄準。"
+
+
+[TraitAbility_GoodProfile X2AbilityTemplate]
+LocFriendlyName="良好姿態"
+LocLongDescription="當處在掩體時這個單位 +10 防禦。"
+
+[TraitAbility_SteadiedAim X2AbilityTemplate]
+LocFriendlyName="穩定瞄準"
+LocLongDescription="當處在掩體時這個單位 +5 瞄準。"
+
+
+[BornKiller X2TraitTemplate]
+TraitFriendlyName="為殺而生"
+TraitDescription="這個單位擊殺敵人時會回復意志。"
+
+[TraitAbility_BornKiller X2AbilityTemplate]
+LocFriendlyName="為殺而生"
+LocLongDescription="這個單位擊殺敵人時會回復意志。"
