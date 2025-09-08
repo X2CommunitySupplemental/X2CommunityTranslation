@@ -1,0 +1,13 @@
+[MCM_OptionsMenuListener]
+m_strModMenuButton="OPTIONS DE MODS"
+
+[MCM_OptionsScreen]
+m_strSaveAndExit="Sauv. Et Quitter
+m_strCancel="Annuler"
+m_strTitle="Options de Mods"
+m_strSubtitle=""
+
+[MCM_SettingsPanel]
+m_strResetButton="Par défaut"
+m_strRevertButton="Annuler"
+m_strApplyButton="Sauvegarder"
