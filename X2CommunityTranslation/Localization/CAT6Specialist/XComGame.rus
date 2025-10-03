@@ -1,0 +1,29 @@
+[CAT6SpecialistM1 X2CharacterTemplate]
+strCharacterName="Специалист CAT6"
+[CAT6SpecialistM2 X2CharacterTemplate]
+strCharacterName="Специалист CAT6"
+[CAT6SpecialistM3 X2CharacterTemplate]
+strCharacterName="Специалист CAT6"
+
+[AutopsyCAT6Specialist X2TechTemplate]
+DisplayName="Вскрытие специалиста CAT6"
+Summary="Давайте выясним, что мы можем узнать об этом новом враге."
+CodeName="CAT6 Mk. 1"
+LongDescription="CAT6 — это частная военная корпорация, получившая свое название от 'Категории 6' — термина, используемого для солдат, уволенных с позором из Альянса Систем. Известно, что члены CAT6 имеют обширные криминальные досье и истории злоупотреблений."
+
+[CorpseCAT6Specialist X2ItemTemplate]
+FriendlyName="Труп специалиста CAT6"
+FriendlyNamePlural="Трупы специалистов CAT6"
+BriefSummary="Вскрытие этого образца может привести к дальнейшим усовершенствованиям."
+
+[ProvingGroundsProject_CAT6SpecialistArmor X2TechTemplate]
+DisplayName="Броня специалиста CAT6"
+Summary="Броня, используемая специалистами CAT6"
+CodeName="CAT6 Mk. 1"
+LongDescription="Броня, используемая специалистами CAT6"
+
+[CAT6SpecialistArmorSoldier X2ArmorTemplate]
+FriendlyName="Броня специалиста CAT6"
+FriendlyNamePlural="Брони специалистов CAT6"
+BriefSummary="Броня, используемая специалистами CAT6"
+TacticalText="<Bullet/>Броня, используемая специалистами CAT6"
