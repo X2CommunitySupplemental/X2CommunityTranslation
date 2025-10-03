@@ -1,0 +1,29 @@
+[CerberusCenturionM1 X2CharacterTemplate]
+strCharacterName="Центурион Цербера"
+[CerberusCenturionM2 X2CharacterTemplate]
+strCharacterName="Центурион Цербера"
+[CerberusCenturionM3 X2CharacterTemplate]
+strCharacterName="Центурион Цербера"
+
+[AutopsyCerberusCenturion X2TechTemplate]
+DisplayName="<font color='#00cc99'>Вскрытие Центуриона Цербера</font>"
+Summary="Центурионы - передовые тактики Цербера. Они предназначены для реализации стратегических целей своего руководства, хотя очевидно, что у них есть свобода действий, чтобы адаптироваться по мере развития столкновения."
+CodeName="Hydra Mk.2"
+LongDescription="Центурионы - передовые тактики Цербера. Они предназначены для реализации стратегических целей своего руководства, хотя очевидно, что у них есть свобода действий, чтобы адаптироваться по мере развития столкновения."
+
+[CorpseCerberusCenturion X2ItemTemplate]
+FriendlyName="Труп Центуриона Цербера"
+FriendlyNamePlural="Трупы Центурионов Цербера"
+BriefSummary="Вскрытие этого тела может дать нам идеи по улучшению нашего вооружения."
+
+[ProvingGroundsProject_CerberusCenturionArmor X2TechTemplate]
+DisplayName="Броня Центуриона Цербера"
+Summary="Броня Центуриона Цербера похожа на штурмовую броню цербера, она выдается офицерам, возглавляющим боевые действия."
+CodeName="Hydra's Scales Mk. 2"
+LongDescription="Броня Центуриона Цербера похожа на штурмовую броню цербера, она выдается офицерам, возглавляющим боевые действия."
+
+[CerberusCenturionArmorSoldier X2ArmorTemplate]
+FriendlyName="Броня Центуриона Цербера"
+FriendlyNamePlural="Броня Центурионов Цербера"
+BriefSummary="Броня Центуриона Цербера похожа на штурмовую броню цербера, она выдается офицерам, возглавляющим боевые действия."
+TacticalText="<Bullet/>Броня Центуриона Цербера похожа на штурмовую броню цербера, она выдается офицерам, возглавляющим боевые действия."
