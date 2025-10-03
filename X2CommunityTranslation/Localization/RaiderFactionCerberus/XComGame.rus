@@ -1,0 +1,7 @@
+[CerberusIncursion X2SitRepTemplate]
+FriendlyName="Вторжение Цербера"
+Description="По данным разведки, в зоне проведения операции действует Цербер: соблюдайте осторожность."
+
+[CerberusIncursionEffect X2SitRepEffect_AddTeam]
+FriendlyName="Вторжение Цербера"
+Description="Патруль Цербера, враждебный ко всем сторонам, действует в зоне проведения операции."
