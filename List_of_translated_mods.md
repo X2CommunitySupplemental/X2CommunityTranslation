@@ -458,4 +458,74 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
 # Shadow Ops Classes For LWOTC
 https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
-* Russian 
+* Russian
+
+# [WOTC] Cerberus Trooper
+https://steamcommunity.com/sharedfiles/filedetails/?id=1926276981
+
+* Russian
+
+# [WOTC] Cerberus Centurion
+https://steamcommunity.com/workshop/filedetails/?id=1943937457
+
+* Russian
+
+# [WOTC] Cerberus Phantom
+https://steamcommunity.com/workshop/filedetails/?id=1959737464
+
+* Russian
+
+# [WOTC] Cerberus Engineer
+https://steamcommunity.com/workshop/filedetails/?id=1967389797
+
+* Russian
+
+# [WOTC] Cerberus Guardian
+https://steamcommunity.com/workshop/filedetails/?id=2026440664
+
+* Russian
+
+# [WOTC] Cerberus Nemesis
+https://steamcommunity.com/workshop/filedetails/?id=1967418231
+
+* Russian
+
+# [WOTC] Cerberus Dragoon
+https://steamcommunity.com/workshop/filedetails/?id=2330499487
+
+* Russian
+
+# [WOTC] Raider Faction: Cerberus
+https://steamcommunity.com/sharedfiles/filedetails/?id=1962940506
+
+* Russian
+
+# [WOTC] CAT6 Sniper
+https://steamcommunity.com/sharedfiles/filedetails/?id=2018468672
+
+* Russian
+
+# [WOTC] CAT6 Heavy
+https://steamcommunity.com/sharedfiles/filedetails/?id=2064902900
+
+* Russian
+
+# [WOTC] CAT6 Specialist
+https://steamcommunity.com/sharedfiles/filedetails/?id=1989784318
+
+* Russian
+
+# [WOTC] Raider Faction: Terminus Mercenaries
+https://steamcommunity.com/sharedfiles/filedetails/?id=2023889178
+
+* Russian
+
+# [WOTC] Vorcha Stryker
+https://steamcommunity.com/sharedfiles/filedetails/?id=2432012804
+
+* Russian
+
+# [WOTC] Vorcha Pyro
+https://steamcommunity.com/sharedfiles/filedetails/?id=2538116351
+
+* Russian
