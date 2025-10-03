@@ -1,0 +1,43 @@
+[CerberusDragoonM1 X2CharacterTemplate]
+strCharacterName="Драгун Цербера"
+
+[CerberusDragoonM2 X2CharacterTemplate]
+strCharacterName="Ветеран-драгун Цербера"
+
+[CerberusDragoonM3 X2CharacterTemplate]
+strCharacterName="Элитный драгун Цербера"
+
+[CorpseCerberusDragoon X2ItemTemplate]
+FriendlyName="Труп драгуна"
+FriendlyNamePlural="Трупы драгунов"
+BriefSummary="Драгуны — тяжелобронированные солдаты, способные с большой скоростью бросаться на врагов и наносить дуговые удары"
+
+[EnemyCerberusDragoonPrimaryM1 X2WeaponTemplate]
+FriendlyName="Дуговые перчатки Цербера"
+BriefSummary=""
+TacticalText="<Bullet/>"
+
+[EnemyCerberusDragoonPrimaryM2 X2WeaponTemplate]
+FriendlyName="Дуговые перчатки Цербера"
+BriefSummary=""
+TacticalText="<Bullet/>"
+
+[EnemyCerberusDragoonPrimaryM3 X2WeaponTemplate]
+FriendlyName="Дуговые перчатки Цербера"
+BriefSummary=""
+TacticalText="<Bullet/>"
+
+[EnemyCerberusDragoonSecondaryM1 X2WeaponTemplate]
+FriendlyName="Пистолет M358 Коготь"
+BriefSummary=""
+TacticalText="<Bullet/>"
+
+[EnemyCerberusDragoonSecondaryM2 X2WeaponTemplate]
+FriendlyName="Пистолет M358 Коготь"
+BriefSummary=""
+TacticalText="<Bullet/>"
+
+[EnemyCerberusDragoonSecondaryM3 X2WeaponTemplate]
+FriendlyName="Пистолет M358 Коготь"
+BriefSummary=""
+TacticalText="<Bullet/>"
