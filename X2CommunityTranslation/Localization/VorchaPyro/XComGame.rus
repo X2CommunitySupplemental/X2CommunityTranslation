@@ -1,0 +1,13 @@
+[VorchaPyroM1 X2CharacterTemplate]
+strCharacterName="Ворка-пиротехник"
+
+[VorchaPyroM2 X2CharacterTemplate]
+strCharacterName="Ветеран ворка-пиротехник"
+
+[VorchaPyroM3 X2CharacterTemplate]
+strCharacterName="Элитный ворка-пиротехник"
+
+[CorpseVorchaPyro X2ItemTemplate]
+FriendlyName="Труп ворка-пиротехника"
+FriendlyNamePlural="Трупы ворка-пиротехников"
+BriefSummary=""
