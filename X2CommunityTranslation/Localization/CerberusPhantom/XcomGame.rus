@@ -1,0 +1,29 @@
+[CerberusPhantomM1 X2CharacterTemplate]
+strCharacterName="Фантом Цербера"
+[CerberusPhantomM2 X2CharacterTemplate]
+strCharacterName="Фантом Цербера"
+[CerberusPhantomM3 X2CharacterTemplate]
+strCharacterName="Фантом Цербера"
+
+[AutopsyCerberusPhantom X2TechTemplate]
+DisplayName="<font color='#00cc99'>Вскрытие Фантома Цербера</font>"
+Summary="Фантомы - быстрые агенты Цербера с широким спектром наступательных и оборонительных возможностей, включая особую специализацию на маневрах уклонения и стрельбе из укрытия."
+CodeName="Hydra Mk.3"
+LongDescription="Фантомы - быстрые агенты Цербера с широким спектром наступательных и оборонительных возможностей, включая особую специализацию на маневрах уклонения и стрельбе из укрытия."
+
+[CorpseCerberusPhantom X2ItemTemplate]
+FriendlyName="Труп Фантома Цербера"
+FriendlyNamePlural="Трупы Фантомов Цербера"
+BriefSummary="Вскрытие этого тела может привести к улучшению нашего вооружения."
+
+[ProvingGroundsProject_CerberusPhantomArmor X2TechTemplate]
+DisplayName="Броня Фантома Цербера"
+Summary="Доспехи Фантома легче, чем доспехи других бойцов Цербера, чтобы уклоняться от вражеского огня Фантомы полагаются на свою ловкость."
+CodeName="Hydra's Scales Mk.3"
+LongDescription="Доспехи Фантома легче, чем доспехи других бойцов Цербера, чтобы уклоняться от вражеского огня Фантомы полагаются на свою ловкость."
+
+[CerberusPhantomArmorSoldier X2ArmorTemplate]
+FriendlyName="Броня Фантома Цербера"
+FriendlyNamePlural="Броня Фантома Цербера"
+BriefSummary="Доспехи Фантома легче, чем доспехи других бойцов Цербера, чтобы уклоняться от вражеского огня Фантомы полагаются на свою ловкость."
+TacticalText="<Bullet/>Доспехи Фантома легче, чем доспехи других бойцов Цербера, чтобы уклоняться от вражеского огня Фантомы полагаются на свою ловкость."
