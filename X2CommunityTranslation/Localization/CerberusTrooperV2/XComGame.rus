@@ -1,0 +1,29 @@
+[CerberusTrooperM1 X2CharacterTemplate]
+strCharacterName="Штурмовик Цербера"
+[CerberusTrooperM2 X2CharacterTemplate]
+strCharacterName="Штурмовик Цербера"
+[CerberusTrooperM3 X2CharacterTemplate]
+strCharacterName="Штурмовик Цербера"
+
+[AutopsyCerberusTrooper X2TechTemplate]
+DisplayName="<font color='#00cc99'>Вскрытие Штурмовика Цербера</font>"
+Summary="Штурмовики, похоже, составляют основу сил Цербера. Давайте посмотрим, что мы можем узнать об этом новом противнике."
+CodeName="Hydra Mk.1"
+LongDescription="Кандидаты в Цербер, прошедшие изнурительную базовую подготовку, проходят интенсивную психологическую программу, которая делает их бесстрашными, дисциплинированными и неумолимыми. Оснащенные специально разработанной экипировкой, эти солдаты действуют с определенной точностью и отработанным взаимодействием. Штурмовики первыми бросаются в бой и часто работают в тандеме с более мощными союзниками. Они отвлекают на себя противников, прикрывая наступление объединенных сил Цербера."
+
+[CorpseCerberusTrooper X2ItemTemplate]
+FriendlyName="Труп Штурмовика Цербера"
+FriendlyNamePlural="Трупы Штурмовиков Цербера"
+BriefSummary="Вскрытие этого тела может дать нам идеи по улучшению нашего вооружения."
+
+[ProvingGroundsProject_CerberusTrooperArmor X2TechTemplate]
+DisplayName="Штурмовая броня Цербера"
+Summary="Штурмовая броня Цербера - легкая защита улучшающая мобильность и подвижность бойцов на поле боя. "
+CodeName="Hydra's Scales Mk.1"
+LongDescription="Штурмовая броня Цербера - легкая защита, улучшающая мобильность и подвижность бойцов на поле боя. "
+
+[CerberusTrooperArmorSoldier X2ArmorTemplate]
+FriendlyName="Штурмовая броня Цербера"
+FriendlyNamePlural="Штурмовая броня Цербера"
+BriefSummary="Штурмовая броня Цербера - легкая защита улучшающая мобильность и подвижность бойцов на поле боя."
+TacticalText="<Bullet/>Штурмовая броня Цербера - легкая защита улучшающая мобильность и подвижность бойцов на поле боя."
