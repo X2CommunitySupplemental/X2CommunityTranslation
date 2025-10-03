@@ -1,0 +1,31 @@
+[CerberusGuardianM1 X2CharacterTemplate]
+strCharacterName="Страж Цербера"
+
+[CerberusGuardianM2 X2CharacterTemplate]
+strCharacterName="Страж Цербера"
+
+[CerberusGuardianM3 X2CharacterTemplate]
+strCharacterName="Страж Цербера"
+
+[AutopsyCerberusGuardian X2TechTemplate]
+DisplayName="<font color='#00cc99'>Вскрытие Стража Цербера</font>"
+Summary="Стражи - человеческий аналог танков «Цербера», это медлительные солдаты, обладающие особенной способностью защиты, их бронированные доспехи могут обеспечить защитными щитами своих ближайших союзников."
+CodeName="Hydra Mk.6"
+LongDescription="Стражи - человеческий аналог танков «Цербера», это медлительные солдаты, обладающие особенной способностью защиты, их бронированные доспехи могут обеспечить защитными щитами своих ближайших союзников."
+
+[CorpseCerberusGuardian X2ItemTemplate]
+FriendlyName="Труп Стража Цербера"
+FriendlyNamePlural="Трупы Стражей Цербера"
+BriefSummary="Вскрытие этого тела может привести к улучшению нашего вооружения."
+
+[ProvingGroundsProject_CerberusGuardianArmor X2TechTemplate]
+DisplayName="Броня Стража Цербера"
+Summary="Усиленная броня Стража Цербера - самая тяжелая в своем классе."
+CodeName="Hydra's Scales Mk.2"
+LongDescription="Усиленная броня Стража Цербера - самая тяжелая в своем классе."
+
+[CerberusGuardianArmorSoldier X2ArmorTemplate]
+FriendlyName="Броня Стража Цербера"
+FriendlyNamePlural="Броня Стража Цербера"
+BriefSummary="Усиленная броня Стража Цербера - самая тяжелая в своем классе."
+TacticalText="<Bullet/>Усиленная броня Стража Цербера - самая тяжелая в своем классе."
