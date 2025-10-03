@@ -1,0 +1,27 @@
+[CAT6HeavyM2 X2CharacterTemplate]
+strCharacterName="Тяжеловес CAT6"
+[CAT6HeavyM3 X2CharacterTemplate]
+strCharacterName="Улучшенный тяжеловес CAT6"
+
+[AutopsyCAT6Heavy X2TechTemplate]
+DisplayName="Вскрытие тяжеловеса CAT6"
+Summary="Давайте выясним, что мы можем узнать об этом новом враге."
+CodeName="CAT6 Mk. 3"
+LongDescription="CAT6 — это частная военная корпорация, получившая свое название от 'Категории 6' — термина, используемого для солдат, уволенных с позором из Альянса Систем. Известно, что члены CAT6 имеют обширные криминальные досье и истории злоупотреблений."
+
+[CorpseCAT6Heavy X2ItemTemplate]
+FriendlyName="Труп тяжеловеса CAT6"
+FriendlyNamePlural="Трупы тяжеловесов CAT6"
+BriefSummary="Вскрытие этого образца может привести к дальнейшим усовершенствованиям."
+
+[ProvingGroundsProject_CAT6HeavyArmor X2TechTemplate]
+DisplayName="Тяжелая броня CAT6"
+Summary="Броня, используемая тяжеловесами CAT6"
+CodeName="CAT6 Mk. 3"
+LongDescription="Броня, используемая тяжеловесами CAT6"
+
+[CAT6HeavyArmorSoldier X2ArmorTemplate]
+FriendlyName="Тяжелая броня CAT6"
+FriendlyNamePlural="Тяжелые брони CAT6"
+BriefSummary="Броня, используемая тяжеловесами CAT6"
+TacticalText="<Bullet/>Броня, используемая тяжеловесами CAT6"
