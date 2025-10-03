@@ -1,0 +1,29 @@
+[CerberusEngineerM1 X2CharacterTemplate]
+strCharacterName="Инженер Цербера"
+[CerberusEngineerM2 X2CharacterTemplate]
+strCharacterName="Инженер Цербера"
+[CerberusEngineerM3 X2CharacterTemplate]
+strCharacterName="Инженер Цербера"
+
+[AutopsyCerberusEngineer X2TechTemplate]
+DisplayName="<font color='#00cc99'>Вскрытие Инженера Цербера</font>"
+Summary="Боевые инженеры Цербера - специализированные подразделения поддержки основных сил Адвента, вооруженные огнеметами."
+CodeName="Hydra Mk.4"
+LongDescription="Боевые инженеры Цербера - специализированные подразделения поддержки основных сил Адвента, вооруженные огнеметами."
+
+[CorpseCerberusEngineer X2ItemTemplate]
+FriendlyName="Труп Инженера Цербера"
+FriendlyNamePlural="Трупы Инженеров Цербера"
+BriefSummary="Вскрытие этого тела может дать нам идеи по улучшению нашего вооружения."
+
+[ProvingGroundsProject_CerberusEngineerArmor X2TechTemplate]
+DisplayName="Броня Инженера Цербера"
+Summary="Броня Инженера Цербера легче других доспехов и оснащена слотом для тяжелого оружия."
+CodeName="Hydra's Scales Mk.2"
+LongDescription="Броня Инженера Цербера легче других доспехов и оснащена слотом для тяжелого оружия."
+
+[CerberusEngineerArmorSoldier X2ArmorTemplate]
+FriendlyName="Броня Инженера Цербера"
+FriendlyNamePlural="Броня Инженера Цербера"
+BriefSummary="Броня Инженера Цербера легче других доспехов и оснащена слотом для тяжелого оружия."
+TacticalText="<Bullet/>Броня Инженера Цербера легче других доспехов и оснащена слотом для тяжелого оружия."
