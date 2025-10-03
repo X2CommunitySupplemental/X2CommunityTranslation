@@ -1,0 +1,43 @@
+[VorchaStrykerM1 X2CharacterTemplate]
+strCharacterName="Ворка-штурмовик"
+
+[VorchaStrykerM2 X2CharacterTemplate]
+strCharacterName="Ветеран ворка-штурмовик"
+
+[VorchaStrykerM3 X2CharacterTemplate]
+strCharacterName="Элитный ворка-штурмовик"
+
+[CorpseVorchaStryker X2ItemTemplate]
+FriendlyName="Труп ворка-штурмовика"
+FriendlyNamePlural="Трупы ворка-штурмовиков"
+BriefSummary="Ворка-штурмовики — это легкобронированные штурмовые отряды."
+
+[EnemyVorchaStrykerPrimaryM1 X2WeaponTemplate]
+FriendlyName="Дуговые перчатки Цербера"
+BriefSummary=""
+TacticalText="<Bullet/>" 
+
+[EnemyVorchaStrykerPrimaryM2 X2WeaponTemplate]
+FriendlyName="Дуговые перчатки Цербера"
+BriefSummary=""
+TacticalText="<Bullet/>" 
+
+[EnemyVorchaStrykerPrimaryM3 X2WeaponTemplate]
+FriendlyName="Дуговые перчатки Цербера"
+BriefSummary=""
+TacticalText="<Bullet/>" 
+
+[EnemyVorchaStrykerSecondaryM1 X2WeaponTemplate]
+FriendlyName="Коготь штурмовика"
+BriefSummary=""
+TacticalText="<Bullet/>" 
+
+[EnemyVorchaStrykerSecondaryM2 X2WeaponTemplate]
+FriendlyName="Коготь штурмовика"
+BriefSummary=""
+TacticalText="<Bullet/>" 
+
+[EnemyVorchaStrykerSecondaryM3 X2WeaponTemplate]
+FriendlyName="Коготь штурмовика"
+BriefSummary=""
+TacticalText="<Bullet/>"
