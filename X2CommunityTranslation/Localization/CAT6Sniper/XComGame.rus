@@ -1,0 +1,31 @@
+[CAT6SniperM1 X2CharacterTemplate]
+strCharacterName="Снайпер CAT6"
+
+[CAT6SniperM2 X2CharacterTemplate]
+strCharacterName="Снайпер CAT6"
+
+[CAT6SniperM3 X2CharacterTemplate]
+strCharacterName="Снайпер CAT6"
+
+[AutopsyCAT6Sniper X2TechTemplate]
+DisplayName="<font color='#00cc99'>Вскрытие Снайпера CAT6</font>"
+Summary="Давайте узнаем все что сможем об этом новом противнике."
+CodeName="CAT6 Mk.2"
+LongDescription="CAT6 - частная военная корпорация, получившая свое название от термина 'Category-6', обозначающего солдат, с позором уволенных из Системного Альянса. Известно, что члены CAT6 имеют обширное уголовное прошлое и грязные истории злоупотреблений."
+
+[CorpseCAT6Sniper X2ItemTemplate]
+FriendlyName="Труп Снайпера CAT6"
+FriendlyNamePlural="Трупы Снайперов CAT6"
+BriefSummary="Вскрытие этого субъекта может привести к улучшению нашего вооружения."
+
+[ProvingGroundsProject_CAT6SniperArmor X2TechTemplate]
+DisplayName="Броня Снайпера CAT6"
+Summary="Броня, используемая снайперами CAT6"
+CodeName="CAT6 Mk.2"
+LongDescription="Броня, используемая снайперами CAT6"
+
+[CAT6SniperArmorSoldier X2ArmorTemplate]
+FriendlyName="Броня Снайпер CAT6а"
+FriendlyNamePlural="Броня Снайпер CAT6а"
+BriefSummary="Броня, используемая снайперами CAT6"
+TacticalText="<Bullet/>Броня, используемая снайперами CAT6"
