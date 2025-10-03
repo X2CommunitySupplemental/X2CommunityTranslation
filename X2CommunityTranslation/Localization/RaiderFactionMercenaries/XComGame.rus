@@ -1,0 +1,7 @@
+[MercenariesIncursion X2SitRepTemplate]
+FriendlyName="Вторжение наёмников из систем Терминус"
+Description="По данным разведки, в зоне операции действует группа наёмников из систем Терминус: соблюдайте осторожность."
+
+[MercenariesIncursionEffect X2SitRepEffect_AddTeam]
+FriendlyName="Вторжение наёмников из систем Терминус"
+Description="Группа наёмников из систем Терминус, враждебная ко всем сторонам, действует в зоне операции."
