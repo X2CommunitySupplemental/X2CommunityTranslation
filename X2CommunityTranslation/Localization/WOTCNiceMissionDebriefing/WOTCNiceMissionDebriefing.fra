@@ -1,0 +1,57 @@
+[NMD_MissionInfo]
+;Awards
+m_strMostAssists=SAPEUR
+m_strMostAssistsDesc=A infligé le plus de dégâts ne résultant pas en une élimination
+m_strSoloSlayer=TUEUR SOLITAIRE
+m_strSoloSlayerDesc=A infligé le plus de dégâts sur des éliminations sans assistance
+m_strKillStealer=PROFITEUR
+m_strKillStealerDesc=A achevé le plus d'ennemis déjà affaiblis par ses alliés
+m_strNotBadKid=JEUNE PRODIGE
+m_strNotBadKidDesc=Soldat de rang le plus bas ayant infligé plus de dégâts que les soldats plus expérimentés
+m_strCloseRange=AU CONTACT
+m_strCloseRangeDesc=A infligé le plus de dégâts à un ennemi sur une case adjacente
+m_strMostHigh=AIGLE
+m_strMostHighDesc=A tiré depuis un terrain élevé le plus fréquemment
+m_strHeavyHitter=LÉTAL
+m_strHeavyHitterDesc=A infligé le plus de dégâts critiques
+m_strSneakiest=DISCRET
+m_strSneakiestDesc=A réalisé le plus de déplacements en étant camouflé
+m_strTimeToBleed=ENDURANT
+m_strTimeToBleedDesc=A infligé le plus de dégâts en étant blessé
+m_strTimeToBleedRobot=RÉSISTANT
+m_strRunningOverwatch=PASSIF
+m_strRunningOverwatchDesc=A été le plus souvent en Vigilance
+m_strMostExposed=SUBMERGÉ
+m_strMostExposedDesc=A terminé ses tours avec le plus d'ennemis en vue
+m_strWantonDestruction=DÉVASTATEUR
+m_strWantonDestructionDesc=A causé le plus de destruction environnementale
+m_strPartingGift=CADEAU D'ADIEU
+m_strPartingGiftDesc=A infligé le plus de dégâts en étant sur la zone d'évacuation
+m_strTooOld=TROP VIEUX POUR CES C*NNERIES
+m_strTooOldDesc=Soldat le plus haut gradé, et ayant subit plus de dégâts qu'un soldat moins expérimenté
+m_strOverqualified=SURQUALIFIÉ
+m_strOverqualifiedDesc=A réalisé le plus d'éliminations par rapport à leur rang
+
+;Stats
+m_strKills=ÉLIMINATIONS
+m_strDamageDealt=DÉGÂTS INFLIGÉS
+m_strShots=PRÉCISION
+m_strOverwatchAccuracy=PRÉCISION (VIGILANCE)
+m_strTilesMoved=DISTANCE PARCOURUES (CASES)
+m_strHeadshots=TIRS EN PLEINE TÊTE
+m_strLootPickedUp=BUTINS RAMASSÉS
+m_strMostHatedUnit=NÉMÉSIS
+
+[NMD_UIMissionDebriefingScreen]
+m_strAwards=RÉCOMPENSES
+m_strStats=STATISTIQUES
+m_strCreatePhoto=Créer une Photo
+m_strSelectPhoto=Choisir Photo
+m_strPrevious=Précédent
+m_strNext=Suivant
+m_strMVP=MVP
+
+[NMD_UIMissionSummaryListener]
+m_strViewStatsButton=Voir le débriefing
+m_strWarningTitle=ATTENTION
+m_strWarningBody=Vous ne pourrez plus accéder au débriefing de la mission. Continuer ?
