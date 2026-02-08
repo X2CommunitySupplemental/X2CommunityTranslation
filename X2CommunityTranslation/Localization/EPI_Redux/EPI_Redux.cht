@@ -1,0 +1,14 @@
+[EPI_Section]
+SubHeader_Traits = "特質"
+SubHeader_Perks = "技能"
+SubHeader_Loadout = "出裝"
+SubHeader_Bonded = "羈絆"
+SubHeader_BondedNot = "未結成羈絆"
+SubHeader_NoPCS = "未插入晶片"
+SubHeader_Soldier = "士兵資訊"
+
+NoSuitableBond = "無羈絆人選"
+SubHeader_Compatibility = "最高契合度"
+SubHeader_Cohesion = "最高凝聚力"
+
+InHavenString = "避難所:"
