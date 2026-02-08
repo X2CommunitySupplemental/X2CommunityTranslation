@@ -215,6 +215,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=667104300
 * Spanish
 * German
 * Korean
+* French
 
 # [WOTC] Cosmo Dragoon
 https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
@@ -286,6 +287,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1294744824
 https://steamcommunity.com/workshop/filedetails/?id=1519841231
 
 * Chinese
+* Russian
 
 # [WOTC] YAF1 Autopsy Required Extension
 https://steamcommunity.com/sharedfiles/filedetails/?id=2377251739
@@ -374,6 +376,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1467643380
 https://steamcommunity.com/sharedfiles/filedetails/?id=1942730184
 
 * Russian
+* French
 
 # [WOTC] Open Squad Select at any time
 https://steamcommunity.com/sharedfiles/filedetails/?id=1529472981
@@ -462,5 +465,61 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
 # Xylth's GTS (WotC)
 https://steamcommunity.com/sharedfiles/filedetails/?id=1964389954
+
+* French
+* Russian 
+
+# LWOTC Fuller Override
+https://steamcommunity.com/sharedfiles/filedetails/?id=2824110051
+
+* Russian
+ 
+# WotC Vest Slot
+https://steamcommunity.com/workshop/filedetails/?id=1293714688
+
+* Russian
+ 
+# WotC Ballistic Shields
+https://steamcommunity.com/sharedfiles/filedetails/?id=1416242202
+
+* Russian
+ 
+# Additional Ammo Types
+https://steamcommunity.com/sharedfiles/filedetails/?id=1757248681
+
+* Russian
+ 
+# A Harder War: The Ethereal Restoration
+https://steamcommunity.com/sharedfiles/filedetails/?id=2726953893
+
+* Russian
+
+# [WoTC] Muton Hunter
+https://steamcommunity.com/sharedfiles/filedetails/?id=2182049731
+
+* Russian
+
+# [WOTC] Stukov's War Gene Mods
+https://steamcommunity.com/sharedfiles/filedetails/?id=2728408174
+
+* Russian
+
+# [WOTC] LW2 Classes and Perks
+https://steamcommunity.com/sharedfiles/filedetails/?id=1335226018
+
+* Russian
+
+# [WOTC] LWOTC Shadow Ops and LWOTC Classes Ported Back
+https://steamcommunity.com/sharedfiles/filedetails/?id=3234301247
+
+* Russian
+
+# Pet Rock Perk Pack - LWOTC
+https://steamcommunity.com/sharedfiles/filedetails/?id=2837946702
+
+* Russian
+
+# WOTC Nice Mission Debriefing
+https://steamcommunity.com/sharedfiles/filedetails/?id=1154827808
 
 * French

@@ -1,0 +1,8 @@
+[Fuller_Override_ResistanceDrone_M1 X2CharacterTemplate]
+strCharacterName= "Дрон-разведчик сопротивления"
+
+[Fuller_Override_ResistanceDrone_M1 X2CharacterTemplate]
+strCharacterName= "Дрон-охотник сопротивления"
+
+[Fuller_Override_ResistanceSectopod X2CharacterTemplate]
+strCharacterName= "Сектопод сопротивления"
