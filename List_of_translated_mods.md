@@ -461,6 +461,11 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
 * Russian 
 
+# WotC Vest Slot
+https://steamcommunity.com/workshop/filedetails/?id=1293714688
+
+* Russian
+ 
 # WotC Ballistic Shields
 https://steamcommunity.com/sharedfiles/filedetails/?id=1416242202
 
