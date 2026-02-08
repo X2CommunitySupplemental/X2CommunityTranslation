@@ -286,6 +286,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1294744824
 https://steamcommunity.com/workshop/filedetails/?id=1519841231
 
 * Chinese
+* Russian
 
 # [WOTC] YAF1 Autopsy Required Extension
 https://steamcommunity.com/sharedfiles/filedetails/?id=2377251739
@@ -460,6 +461,11 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
 * Russian 
 
+# WotC Ballistic Shields
+https://steamcommunity.com/sharedfiles/filedetails/?id=1416242202
+
+* Russian
+ 
 # Additional Ammo Types
 https://steamcommunity.com/sharedfiles/filedetails/?id=1757248681
 
