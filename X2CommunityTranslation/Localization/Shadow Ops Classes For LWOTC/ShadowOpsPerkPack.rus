@@ -1,0 +1,35 @@
+; === Upgrade info ===
+
+[X2DownloadableContentInfo_ShadowOpsPerkPack]
+ModUpgradeLabel="Shadow Ops Class Pack beta v0.7"
+ModUpgradeSummary="Shadow Ops Class Pack has been updated to beta version 0.7. Important changes: <br/><br/><Bullet/> The Combat Engineer and Infantry ability trees have been revamped, and the Hunter ability tree has had smaller changes. <br/><Bullet/> All soldiers converted from previous mod versions get a free respec. Go to the Armory to use it.<br/><Bullet/> The Infantry-Support has two new abilities focused on using Medikits.<br/><Bullet/> Moving Target, Entrench, Fracture, Packmaster, First Strike, and Flush have had large changes made.<br/><Bullet/> Four more new AWC-only abilities are available in the AWC. You may need to start a new game for them to appear. <br/><br/>For more complete change notes, see readme.txt."
+ModUpgradeAcceptLabel="Сделано"
+
+[UIScreenListener_UIArmory_Promotion]
+LocFreeRespec="Свободное назначение"
+RespecWarning="Ваши солдаты получили возможность бесплатного перераспределения способностей в связи с изменениями деревьев способностей классов Shadow Ops. Если вы повысите ранг перед использованием этой возможности - вы потеряете ее навсегда."
+RespecWarningTitle="Свободное назначение уже использовано"
+
+; === Engineer abilities ===
+
+[UIScreenListener_UIArmory]
+m_strKills="УБИТО"
+m_strKillsTitle="От руки #1 погибло"
+m_strUnknown="Неизвестно"
+
+[X2Ability_EngineerAbilitySet]
+CombatDrugsName="Боевые наркотики"
+CombatDrugsDescription="Быстродействующий стимулятор, который увеличивает меткость и волю солдат."
+
+; === Hunter abilities ===
+
+[X2Ability_HunterAbilitySet]
+FadePenaltyText="Маскировка этого солдата будет потерянна, если он начнет двигаться."
+SnapShotPenaltyText="Этот солдат получает штраф к меткости если использует "наблюдение" с одним действием."
+BullseyePenaltyName="Грохот"
+BullseyePenaltyText="Этот юнит получает штраф -20 к точности, защите и воле."
+DisabledFriendlyName="Покалечен"
+DisabledFriendlyDesc="Не может использовать большинство способностей."
+DisabledEffectAcquiredString="<XGParam:StrValue0/!UnitName/> покалечен."
+DisabledEffectTickedString="<XGParam:StrValue0/!UnitName/> все еще покалечен."
+DisabledEffectLostString="<XGParam:StrValue0/!UnitName/> больше не покалечен."

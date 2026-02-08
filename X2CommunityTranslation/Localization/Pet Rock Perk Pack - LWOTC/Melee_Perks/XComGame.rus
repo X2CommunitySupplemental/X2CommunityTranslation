@@ -1,0 +1,170 @@
+[KnightsCharge X2AbilityTemplate]
+LocFriendlyName="Рывок рыцаря"
+LocHelpText="Улучшенный удар щитом, который стоит 1 действие и не завершает ход. Можно использовать с рывками. Дезориентирует."
+LocLongDescription="Улучшенный удар щитом, который стоит 1 действие и не завершает ход. Можно использовать с рывками. Дезориентирует."
+LocPromotionPopupText="<Bullet/> Улучшенный удар щитом, который стоит 1 действие и не завершает ход. Можно использовать с рывками. Дезориентирует."
+LocFlyOverText="Рывок рыцаря"
+
+[KnightsForce X2AbilityTemplate]
+LocFriendlyName="Мощь рыцаря"
+LocHelpText="Атака с рывком и щитом, завершающая ход и оглушающая на 2 действия."
+LocLongDescription="Атака с рывком и щитом, завершающая ход и оглушающая на 2 действия."
+LocPromotionPopupText="<Bullet/> Атака с рывком и щитом, завершающая ход и оглушающая на 2 действия. Перезарядка 3 хода."
+LocFlyOverText="Мощь рыцаря"
+
+[CrusaderStrike X2AbilityTemplate]
+LocFriendlyName="Удар крестоносца"
+LocHelpText="Удар мечом по ближайшим противникам."
+LocLongDescription="Удар мечом по ближайшим противникам."
+LocPromotionPopupText="<Bullet/> Удар мечом по ближайшим противникам."
+LocFlyOverText="Удар крестоносца"
+
+[DualStrike X2AbilityTemplate]
+LocFriendlyName="Двойной удар"
+LocHelpText="Атакуйте цель и нанесите удар двумя мечами."
+LocLongDescription="Атакуйте цель и нанесите удар двумя мечами."
+LocPromotionPopupText="<Bullet/> Атакуйте цель и нанесите удар двумя мечами."
+
+[DualSlash X2AbilityTemplate]
+LocFriendlyName="Двойное рассечение"
+LocHelpText="Рассечение соседней цели двумя мечами."
+LocLongDescription="Рассечение соседней цели двумя мечами."
+LocPromotionPopupText="<Bullet/> Рассечение соседней цели двумя мечами. Не завершает ход."
+
+[BattleRush X2AbilityTemplate]
+LocFriendlyName="Боевой рывок"
+LocHelpText="Двойной удар и Двойное рассечение дают действие только на движение."
+LocLongDescription="Двойной удар и Двойное рассечение дают действие только на движение."
+LocPromotionPopupText="<Bullet/> Двойной удар и Двойное рассечение дают действие только на движение."
+
+[AcidSlash X2AbilityTemplate]
+LocFriendlyName="Кислотное рассечение"
+LocHelpText="Ближняя атака с рывком, уничтожающая 2 единицы брони и вызывающая кислотное горение."
+LocLongDescription="Ближняя атака с рывком, уничтожающая 2 единицы брони и вызывающая кислотное горение."
+LocPromotionPopupText="<Bullet/> Ближняя атака с рывком, уничтожающая 2 единицы брони и вызывающая кислотное горение."
+
+[AcidFang X2AbilityTemplate]
+LocFriendlyName="Кислотная хватка"
+LocHelpText="Ближняя атака, не завершающая ход, против врагов, снимающая 2 единицы брони и наносящая кислотное горение."
+LocLongDescription="Ближняя атака, не завершающая ход, против врагов, снимающая 2 единицы брони и наносящая кислотное горение."
+LocPromotionPopupText="<Bullet/> "Ближняя атака, не завершающая ход, против врагов, снимающая 2 единицы брони и наносящая кислотное горение."
+
+[NoQuarter X2AbilityTemplate]
+LocFriendlyName="Без пощады"
+LocHelpText="Бросок на врага и удар прикладом оружия, затем следом идет выстрел из пистолета."
+LocLongDescription="CБросок на врага и удар прикладом оружия, затем следом идет выстрел из пистолета."
+LocPromotionPopupText="<Bullet/> Бросок на врага и удар прикладом оружия, затем следом идет выстрел из пистолета. \n<Bullet/> Атака с броском и выстрел из пистолета зависят от урона пистолета, урона ближнего боя и количества патронов. \n<Bullet/> Следующий выстрел из пистолета считается атакой ближнего боя. \n<Bullet/> Атака с броском и выстрел из пистолета - это отдельные атаки, каждая из которых имеет свой шанс на попадание или критический удар."
+
+[NoQuarter2 X2AbilityTemplate]
+LocFriendlyName="Без пощады"
+LocHelpText="Без пощады"
+LocLongDescription="Без пощады"
+LocPromotionPopupText="<Bullet/>Без пощады"
+
+[PRPA_FrostStrike X2AbilityTemplate]
+LocFriendlyName="Морозный удар"
+LocHelpText="Рывок к цели и удар топором, накладывающий эффект холода."
+LocLongDescription="Рывок к цели и удар топором, накладывающий эффект холода."
+LocPromotionPopupText="<Bullet/> Рывок к цели и удар топором, накладывающий эффект холода."
+
+[PRPA_GlacialThrow X2AbilityTemplate]
+LocFriendlyName="Бросок ледника"
+LocHelpText="Бросок ледяного топора во врага (анимация в данный момент не работает)"
+LocLongDescription="Бросок ледяного топора во врага (анимация в данный момент не работает)"
+LocPromotionPopupText="<Bullet/> Бросок ледяного топора во врага (анимация в данный момент не работает)"
+
+[PRPA_FrostBlitz X2AbilityTemplate]
+LocFriendlyName="Морозный блиц"
+LocHelpText="Бросок морозного топора во врага как свободное действие."
+LocLongDescription="Бросок морозного топора во врага как свободное действие."
+LocPromotionPopupText="<Bullet/> Бросок морозного топора во врага как свободное действие."
+
+[PRPA_BurialAxe X2AbilityTemplate]
+LocFriendlyName="Погребальный топор"
+LocHelpText="Бросок топора во врага, если он смертелен действия возвращаются (анимация в данный момент не работает)"
+LocLongDescription="Бросок топора во врага, если он смертелен действия возвращаются (анимация в данный момент не работает)"
+LocPromotionPopupText="<Bullet/> Бросок топора во врага, если он смертелен действия возвращаются (анимация в данный момент не работает)"
+
+[PRPA_RemorselessWinter X2AbilityTemplate]
+LocFriendlyName="Безжалостная зима"
+LocHelpText="Бросок топора в целевую область, наносящий гарантированный урон ближайшим врагам."
+LocLongDescription="Бросок топора в целевую область, наносящий гарантированный урон ближайшим врагам."
+LocPromotionPopupText="<Bullet/> Бросок топора в целевую область, наносящий гарантированный урон ближайшим врагам."
+
+[PRPA_MountainKing X2AbilityTemplate]
+LocFriendlyName="Горный король"
+LocHelpText="Бросок топора во врагов, которые двигаются или атакуют в радиусе 6 клеток."
+LocLongDescription="Бросок топора во врагов, которые двигаются или атакуют в радиусе 6 клеток."
+LocPromotionPopupText="<Bullet/> Бросок топора во врагов, которые двигаются или атакуют в радиусе 6 клеток."
+
+[PRPA_RipAndTear X2AbilityTemplate]
+LocFriendlyName="Рвать и метать"
+LocHelpText="Сделайте три удара в ближнем бою по ближайшему противнику."
+LocLongDescription="Сделайте три удара в ближнем бою по ближайшему противнику."
+LocPromotionPopupText="<Bullet/> Сделайте три удара в ближнем бою по ближайшему противнику."
+
+[PRPA_RipAndTearSecondStrike X2AbilityTemplate]
+LocFriendlyName="Рвать и метать "
+LocHelpText="Рвать и метать"
+LocLongDescription="Рвать и метать"
+LocPromotionPopupText="<Bullet/>Рвать и метать"
+
+[PRPA_RipAndTearThirdStrike X2AbilityTemplate]
+LocFriendlyName="Рвать и метать"
+LocHelpText="Рвать и метать"
+LocLongDescription="Рвать и метать"
+LocPromotionPopupText="<Bullet/>Рвать и метать"
+
+[PRPA_Stunlance X2AbilityTemplate]
+LocFriendlyName="Оглушающее копье"
+LocHelpText="Рывок на врага и удар оглушающим копьем. Дезориентирует цель и имеет 25% шанс на оглушение на 2 действия."
+LocLongDescription="Рывок на врага и удар оглушающим копьем. Дезориентирует цель и имеет 25% шанс на оглушение на 2 действия."
+LocPromotionPopupText="<Bullet/> Рывок на врага и удар оглушающим копьем. Дезориентирует цель и имеет 25% шанс на оглушение на 2 действия."
+
+[PRPA_StunAndSlice X2AbilityTemplate]
+LocFriendlyName="Оглушение и разрез"
+LocHelpText="Рывок на врага и удар оглушающим копьем. Дезориентирует и имеет 25% шанс оглушить на 2 действия. Не завершает ваш ход. Перезарядка 4 хода."
+LocLongDescription="Рывок на врага и удар оглушающим копьем. Дезориентирует и имеет 25% шанс оглушить на 2 действия. Не завершает ваш ход. Перезарядка 4 хода."
+LocPromotionPopupText="<Bullet/> Рывок на врага и удар оглушающим копьем. Дезориентирует и имеет 25% шанс оглушить на 2 действия. Не завершает ваш ход. Перезарядка 4 хода."
+
+[PRPA_AssaultStun X2AbilityTemplate]
+LocFriendlyName="Оглушающий штурм"
+LocHelpText="Рывок на врага и удар оглушающим копьем. Дезориентирует и оглушает на 2 действия. Перезарядка 3 хода."
+LocLongDescription="Рывок на врага и удар оглушающим копьем. Дезориентирует и оглушает на 2 действия. Перезарядка 3 хода."
+LocPromotionPopupText="<Bullet/> Рывок на врага и удар оглушающим копьем. Дезориентирует и оглушает на 2 действия. Перезарядка 3 хода."
+
+[PRPA_ToxinSlash X2AbilityTemplate]
+LocFriendlyName="Токсичный разрез"
+LocHelpText="Рывок на врага и нанесение удара биосаблей. Дезориентирует и оглушает цель на 1 действие."
+LocLongDescription="Рывок на врага и нанесение удара биосаблей. Дезориентирует и оглушает цель на 1 действие."
+LocPromotionPopupText="<Bullet/> Рывок на врага и нанесение удара биосаблей. Дезориентирует и оглушает цель на 1 действие."
+
+[PRPA_VoidSlash X2AbilityTemplate]
+LocFriendlyName="Разрез пустоты"
+LocHelpText="Разрезать пустоту, нанося удар по цели на расстоянии своим наручем. Гарантированное попадание и критический удар. Требует 1 фокус."
+LocLongDescription="Разрезать пустоту, нанося удар по цели на расстоянии своим наручем. Гарантированное попадание и критический удар. Требует 1 фокус."
+LocPromotionPopupText="<Bullet/> Разрезать пустоту, нанося удар по цели на расстоянии своим наручем. Гарантированное попадание и критический удар. Требует 1 фокус."
+
+[PRPA_BatteringRam X2AbilityTemplate]
+LocFriendlyName="Таранный удар"
+LocHelpText="Улучшенный удар щитом с увеличенным отбрасыванием и без перезарядки."
+LocLongDescription="Улучшенный удар щитом с увеличенным отбрасыванием и без перезарядки."
+LocPromotionPopupText="<Bullet/> Улучшенный удар щитом с увеличенным отбрасыванием и без перезарядки."
+
+[PRPA_IceAndDice X2AbilityTemplate]
+LocFriendlyName="Лед и рубка"
+LocHelpText="Заменяет Разрез. Ударить соседнего врага дважды морозным топором."
+LocLongDescription="Заменяет Разрез. Ударить соседнего врага дважды морозным топором."
+LocPromotionPopupText="<Bullet/> Заменяет Разрез. Ударить соседнего врага дважды морозным топором."
+
+[PRPA_IceAndDiceSecondStrike X2AbilityTemplate]
+LocFriendlyName="Лед и Рубка: Второй Удар"
+LocHelpText="Заменяет Разрез. Дважды ударьте соседнего врага морозным топором."
+LocLongDescription="Заменяет Разрез. Дважды ударьте соседнего врага морозным топором."
+LocPromotionPopupText="<Bullet/> Заменяет Разрез. Дважды ударьте соседнего врага морозным топором."
+
+[PRPA_FlowingStrike X2AbilityTemplate]
+LocFriendlyName="Плавный удар"
+LocHelpText="Рывок к охлажденной цели и выполнение атаки ближнего боя, которая не завершает ваш ход. В данный момент не работает"
+LocLongDescription="Рывок к охлажденной цели и выполнение атаки ближнего боя, которая не завершает ваш ход. В данный момент не работает"
+LocPromotionPopupText="<Bullet/> Рывок к охлажденной цели и выполнение атаки ближнего боя, которая не завершает ваш ход. В данный момент не работает"
