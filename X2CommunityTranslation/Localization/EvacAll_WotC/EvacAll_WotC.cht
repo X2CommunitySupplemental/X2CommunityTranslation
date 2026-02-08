@@ -1,0 +1,7 @@
+[UIScreenListener_EvacAll_MCM]
+PageTitle="全體撤離"
+GeneralSettingsTitle="常規設定"
+DisableEvacAnimationTitle="禁用撤離動畫"
+DisableEvacAnimationTooltip="沒有機降放繩動畫，單位立即撤離。"
+DisableNoEvacTilesTitle="停用無法撤離地塊視效"
+DisableNoEvacTilesTooltip="禁止在撤離區中的受阻地塊上，覆蓋顯示[無法撤離]視效。需要重新載入才能生效。"
