@@ -215,6 +215,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=667104300
 * Spanish
 * German
 * Korean
+* French
 
 # [WOTC] Cosmo Dragoon
 https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
@@ -375,6 +376,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1467643380
 https://steamcommunity.com/sharedfiles/filedetails/?id=1942730184
 
 * Russian
+* French
 
 # [WOTC] Open Squad Select at any time
 https://steamcommunity.com/sharedfiles/filedetails/?id=1529472981
@@ -459,6 +461,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
 # Shadow Ops Classes For LWOTC
 https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
+* Russian
+
+# Xylth's GTS (WotC)
+https://steamcommunity.com/sharedfiles/filedetails/?id=1964389954
+
+* French
 * Russian 
 
 # LWOTC Fuller Override
@@ -511,3 +519,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2837946702
 
 * Russian
 
+# WOTC Nice Mission Debriefing
+https://steamcommunity.com/sharedfiles/filedetails/?id=1154827808
+
+* French
