@@ -1,0 +1,33 @@
+[XComSpecialBondEventListener]
+m_strRememberThisFlyover="他们会记住这件事。"
+
+[UISpecialBondConfirmScreen]
+m_strTitle="确立关系 - 类型"
+m_strConfirm="确认关系"
+m_strBenefits="此关系的本质："
+m_strMakePosterTitle="关系纪念照"
+m_strMakePosterBody="要为这段关系制作一张自定义海报吗？"
+
+m_strRelationshipTitle_Lovers="前线之恋"
+m_strRelationshipTitle_Family="血脉至亲"
+m_strRelationshipTitle_Friends="不可撼动的友谊"
+m_strRelationshipTitle_Rivals="战场宿敌"
+
+[UISoldierBondAlert_SpecialBondExtension]
+SpecialBondAlertTitle=萌芽中的关系: <XGParam:StrValue0/!BondType/>
+SpecialBondAlertDescription="有时候，羁绊会在最意想不到的地方萌发。这两名士兵之间似乎建立了某种更深层次的联系。"
+SpecialBondAlertDetails="与标准羁绊不同，这种关系是自发形成的。这是属于他们的私人情感，并且可能会改变这两人的战斗方式。"
+SpecialBondAlertContinueToGTS="认可"
+SpecialBondAlertDisapprove="劝阻"
+SpecialBondAlertDetailsHigherLevel="这种特殊关系进一步加深了。根据关系的本质，这可能会带来独特的优势。"
+
+BondAlertLabelBetweenSoldiers_And=与
+BondAlertTitle=达到羁绊等级 <XGParam:StrValue0/!BondLevel/>
+BondAlertDescription="指挥官，这些士兵已达到新的战术兼容等级，可以正式建立羁绊。"
+BondAlertDetails=1级羁绊可以立即确立，但所有后续的羁绊等级都需要通过在训练中心指派这一对羁绊士兵来获得。
+BondAlertDetailsHigherLevel=提升此羁绊需要将两名士兵同时指派到训练中心。
+BondAlertContinueToGTS=确立士兵羁绊
+BondAlertContinueToRecoveryCenter=在训练中心提升羁绊
+BondAlertLackingGTS=需要建造游击战术学校
+BondAlertLackingRecoveryCenter=需要建造训练中心
+BondAlertDisabledGeneric=当前无法建立羁绊
