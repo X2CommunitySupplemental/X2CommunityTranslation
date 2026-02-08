@@ -1,0 +1,13 @@
+[MCM_OptionsMenuListener]
+m_strModMenuButton="MOD設定"
+
+[MCM_OptionsScreen]
+m_strSaveAndExit="儲存並退出"
+m_strCancel="取消"
+m_strTitle="Mod設定：如未顯示懸浮文本，請切換不同模組設定標籤頁"
+m_strSubtitle=""
+
+[MCM_SettingsPanel]
+m_strResetButton="重置"
+m_strRevertButton="放棄"
+m_strApplyButton="保存"
