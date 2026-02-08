@@ -461,6 +461,11 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
 * Russian 
 
+# LWOTC Fuller Override
+https://steamcommunity.com/sharedfiles/filedetails/?id=2824110051
+
+* Russian
+ 
 # WotC Vest Slot
 https://steamcommunity.com/workshop/filedetails/?id=1293714688
 
