@@ -460,6 +460,11 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
 * Russian 
 
+# Additional Ammo Types
+https://steamcommunity.com/sharedfiles/filedetails/?id=1757248681
+
+* Russian
+ 
 # A Harder War: The Ethereal Restoration
 https://steamcommunity.com/sharedfiles/filedetails/?id=2726953893
 
