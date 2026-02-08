@@ -484,3 +484,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1335226018
 https://steamcommunity.com/sharedfiles/filedetails/?id=3234301247
 
 * Russian
+
+# Pet Rock Perk Pack - LWOTC
+https://steamcommunity.com/sharedfiles/filedetails/?id=2837946702
+
+* Russian
+
