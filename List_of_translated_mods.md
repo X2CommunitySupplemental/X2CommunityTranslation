@@ -463,4 +463,35 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 # Additional Ammo Types
 https://steamcommunity.com/sharedfiles/filedetails/?id=1757248681
 
-* Russian 
+* Russian
+ 
+# A Harder War: The Ethereal Restoration
+https://steamcommunity.com/sharedfiles/filedetails/?id=2726953893
+
+* Russian
+
+# [WoTC] Muton Hunter
+https://steamcommunity.com/sharedfiles/filedetails/?id=2182049731
+
+* Russian
+
+# [WOTC] Stukov's War Gene Mods
+https://steamcommunity.com/sharedfiles/filedetails/?id=2728408174
+
+* Russian
+
+# [WOTC] LW2 Classes and Perks
+https://steamcommunity.com/sharedfiles/filedetails/?id=1335226018
+
+* Russian
+
+# [WOTC] LWOTC Shadow Ops and LWOTC Classes Ported Back
+https://steamcommunity.com/sharedfiles/filedetails/?id=3234301247
+
+* Russian
+
+# Pet Rock Perk Pack - LWOTC
+https://steamcommunity.com/sharedfiles/filedetails/?id=2837946702
+
+* Russian
+

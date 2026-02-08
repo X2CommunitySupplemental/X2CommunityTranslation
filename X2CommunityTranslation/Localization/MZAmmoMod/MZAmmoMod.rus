@@ -1,0 +1,25 @@
+[X2DownloadableContentInfo_MZAmmoMod]
+TooSmallClipSize = "Слишком маленькая обойма"
+
+[MZ_Effect_EnervativeRounds]
+DisabledWeapon="Ослабление!"
+
+[MZ_Effect_PutPsiOnCooldown]
+EffectAppliedName="Псионический Перебой"
+
+[MZ_Item_Ammo]
+ScrambleRoundsEffectName="Искажение"
+ScrambleRoundsEffectDesc="Меткость и шанс критического урона снижены из-за попадания искажающих патронов."
+EnervativeRoundsEffectName="Ослабление"
+EnervativeRoundsEffectDesc="Урон снижен из-за попадания ослабляющих патронов."
+
+MaxShredLabel="Максимальное пробитие брони"
+AimDebuffLabel="Снижение меткости"
+CCDebuffLabel="Снижение шанса критического попадания"
+LifestealLabel="Кража здоровья"
+DamageReductionLabel="Снижение урона"
+MalfunctionChanceLabel="Шанс разоружения"
+ClipSizeDownLabel="Уменьшение обоймы"
+SplashDamageLabel="Splash урон"
+EnviroDamageLabel="Урон окружающей среде"
+AntiVioletDivisorLabel="Psi Divisor"
