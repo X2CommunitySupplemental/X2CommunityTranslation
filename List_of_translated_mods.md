@@ -523,3 +523,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2837946702
 https://steamcommunity.com/sharedfiles/filedetails/?id=1154827808
 
 * French
+
+# [WoTC] Cohesion Matchmaker - Dynamic Relationships
+https://steamcommunity.com/sharedfiles/filedetails/?id=3523258775
+
+* Simplified Chinese
