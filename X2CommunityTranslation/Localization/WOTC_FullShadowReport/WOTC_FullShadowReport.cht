@@ -1,0 +1,111 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Localized Strings for new UI Items
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[UI_FullShadowReport]
+m_strEnemiesDetectedO=敵人:
+m_strEnemiesDetectedA=變種人:
+m_strEnemiesDetectedL=失魂者:
+m_strEnemiesDetected1=派系一:
+m_strEnemiesDetected2=派系二:
+m_strEnemiesDetectedC=反抗軍:
+
+m_strPlotTypePrefix=地圖類型:
+m_strBiomeTypePrefix=環境類型:
+m_strTimePrefix=預計抵達:
+
+;biomes
+m_strBiome_Arid=荒原
+m_strBiome_Temperate=溫帶
+m_strBiome_Tundra=苔原
+m_strBiome_Xenoform=異種
+
+;known locations
+m_strLocat_CityCenter=市中心
+m_strLocat_Facility=變種人設施
+m_strLocat_Rooftops=屋頂
+m_strLocat_Shanty=棚屋
+m_strLocat_Slums=貧民窟
+m_strLocat_SmallTown=小鎮
+m_strLocat_Wilderness=荒地
+m_strLocat_Abandoned=廢棄城市
+m_strLocat_Stronghold=要塞
+m_strLocat_Tunnels_Sewer=下水道
+m_strLocat_Tunnels_Subway=地鐵
+m_strLocat_LostTower=廢棄設施
+m_strLocat_DerelictFacility=瓦倫實驗室
+m_strLocat_MapTest=測試地圖
+
+;unknown locations
+m_strLocat_Abandoned_Indoors=廢棄城市室內
+m_strLocat_Abandoned_Occluded=廢棄城市暗處
+m_strLocat_Tunnels_Reverb=地鐵
+m_strLocat_SarcophagusRoom=艙室
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Localized Strings for Mod Config Menu Items
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[MCM_FullShadowReport_Options]
+
+sSettingsPage_Label=完整暗影艙情報
+sPageTitle_Label=完整暗影艙情報/Full Shadow Report
+
+;GROUP 1
+sGroupGeneralSettings_Label=常規設置
+ShowBackground_Label=顯示背景介面
+ShowWithoutShadowChamber_Label=顯示情報而無需暗影艙
+
+;GROUP 2
+sGroupPanelSettings_Label=介面設置
+BackgroundType_Label=背景介面類型
+AlphaBackground_Label=介面透明度
+AutoSpaceAllY_Label=自動調整所有介面Y軸
+AutoSpaceAllY_Tip="選取後，將嘗試根據地形介面X軸，對所有介面自動定位"
+
+;GROUP 3
+sGroupTerrainSettings_Label=地形設置
+ShowTerrain_Label=顯示地形資訊
+ShowTerrainGeo_Label=在大地圖上顯示地形訊息
+ShowPlotText_Label=顯示任務訊息
+ShowBiomeText_Label=顯示環境訊息
+ShowTimeText_Label=顯示抵達時間
+ShowTerrainIcons_Label=顯示地形圖標
+IconSizeTerrain_Label=地形圖示大小
+TerrainTitleColor_Label=地形名稱顏色
+TerrainColor_Label=地形詳情顏色
+TimeColor_Label=時間詳情顏色
+
+;GROUP 4
+sGroupEnemiesListSettings_Label=敵人預覽設置
+ShowEnemyCounts_Label=顯示敵人總數
+ShowFullCount_Label=顯示敵人種類
+ShowFullCount_Tip="選中後，你選定的被發現敵人，將分為初始發現的小隊和單位類型"
+ShowUnitQuantity_Label=顯示敵人數量
+ShowChosen_Label=顯示隱藏單位/天選者
+ShowChosen_Tip="選取後，將顯示通常隱藏的單位，將在清單和圖示中顯示天選者和裁決者"
+ShowEnemiesList_Label=顯示文字列表
+ShowEnemiesList_Tip="這將在背景文字清單或浮現文字清單之間切換，不選取[X]是顯示總數的浮現文字。"
+ShowEnemyIcons_Label=顯示敵人圖標
+ShowEnemyIconsCentral_Label=圖示置中
+IconSizeEnemy_Label=敵人圖示大小
+
+;GROUP 5
+Debug_Label=偵錯設定
+TerrainAnchor_Label=地形螢幕錨點
+EnemiesListAnchor_Label=敵人清單畫面錨點
+TerrainPosX_Label=地形位置X偏移
+TerrainPosY_Label=地形位置Y偏移
+TerrainGeoPosX_Label=大型地圖上的地形位置X偏移
+TerrainGeoPosY_Label=大地圖上的地形位置Y偏移
+TerrainPanelSizeX_Label=地形介面大小X
+TerrainPanelSizeY_Label=地形介面大小Y
+EnemiesListPosX_Label=敵人位置X偏移
+EnemiesListPosY_Label=敵人位置Y偏移
+EnemiesListPanelSizeX_Label=敵人清單介面大小X
+EnemiesListPanelSizeY_Label=敵人清單介面大小Y
+EnemiesCountPanelSizeX_Label=敵人數量介面大小X
+EnemiesCountPanelSizeY_Label=敵人數量介面大小Y
+
+TerrainPosX_Tip="如果你是LWotC玩家，可將位置X設為-1530，這將使介面移動到左側螢幕"
+EnemiesListPosX_Tip="如果你是LWotC玩家，可將位置X設為-1530，這將使介面移動到左側螢幕"
